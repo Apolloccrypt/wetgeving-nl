@@ -4,7 +4,7 @@ identifier: "BWBV0003264"
 country: "nl"
 rank: "verdrag"
 publication_date: "2026-01-01"
-last_updated: "2010-07-01"
+last_updated: "2011-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003264"
 soort: "verdrag"
@@ -112,9 +112,9 @@ Wanneer overeenkomstig de bepalingen van dit Verdrag tussen alle of sommige van 
 
 - (vi). Indien evenwel binnen de aangegeven periode hetzij meer dan een derde van de Verdragsluitende Regeringen, hetzij Verdragsluitende Regeringen waarvan de gezamenlijke koopvaardijvloten niet minder dan vijftig percent van de bruto tonnage van de wereldkoopvaardijvloot vormen, de Secretaris-Generaal van de Organisatie ervan in kennis stellen, dat zij bezwaar hebben tegen de wijziging, wordt deze wijziging geacht niet te zijn aanvaard.
 
-- (1). Een wijziging van een artikel van het Verdrag of van [Hoofdstuk I van de Bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2010-07-01&g=2010-07-01) wordt geacht te zijn aanvaard op de datum waarop zij is aanvaard door twee derde van de Verdragsluitende Regeringen.
+- (1). Een wijziging van een artikel van het Verdrag of van [Hoofdstuk I van de Bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2011-01-01&g=2011-01-01) wordt geacht te zijn aanvaard op de datum waarop zij is aanvaard door twee derde van de Verdragsluitende Regeringen.
 
-- (2). Een wijziging van de Bijlage, behalve van [Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2010-07-01&g=2010-07-01), wordt geacht te zijn aanvaard:
+- (2). Een wijziging van de Bijlage, behalve van [Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2011-01-01&g=2011-01-01), wordt geacht te zijn aanvaard:
 
 - (aa). na afloop van twee jaar van de datum waarop zij ter kennis van de Verdragsluitende Regeringen is gebracht ten einde aanvaarding te verkrijgen; of
 
@@ -122,9 +122,9 @@ Wanneer overeenkomstig de bepalingen van dit Verdrag tussen alle of sommige van 
 
 - (vii).
 
-- (1). Een wijziging van een artikel van het Verdrag of van [Hoofdstuk I van de Bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2010-07-01&g=2010-07-01) treedt in werking ten aanzien van die Verdragsluitende Regeringen die haar hebben aanvaard, zes maanden na de datum waarop zij geacht wordt te zijn aanvaard en ten aanzien van elke Verdragsluitende Regering die haar na die datum aanvaardt, zes maanden na de datum van aanvaarding door die Verdragsluitende Regering.
+- (1). Een wijziging van een artikel van het Verdrag of van [Hoofdstuk I van de Bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2011-01-01&g=2011-01-01) treedt in werking ten aanzien van die Verdragsluitende Regeringen die haar hebben aanvaard, zes maanden na de datum waarop zij geacht wordt te zijn aanvaard en ten aanzien van elke Verdragsluitende Regering die haar na die datum aanvaardt, zes maanden na de datum van aanvaarding door die Verdragsluitende Regering.
 
-- (2). Een wijziging van de Bijlage, behalve van [Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2010-07-01&g=2010-07-01), treedt in werking ten aanzien van alle Verdragsluitende Regeringen, behalve die welke bezwaar tegen de wijziging hebben gemaakt krachtens het bepaalde onder (vi) (2) van dit lid en die deze bezwaren niet hebben ingetrokken, zes maanden na de datum waarop zij wordt geacht te zijn aanvaard. Vóór de datum die is vastgesteld voor de inwerkingtreding, kan elke Verdragsluitende Regering de Secretaris-Generaal van de Organisatie ervan in kennis stellen dat zij zich onthoudt van het geven van uitvoering aan deze wijziging voor een periode van niet langer dan een jaar te rekenen van de datum van de inwerkingtreding ervan, of voor een langere periode, vast te stellen met een twee derde meerderheid van de Verdragsluitende Regeringen die aanwezig zijn en hun stem uitbrengen in de uitgebreide Maritieme Veiligheidscommissie op het tijdstip van aanneming van de wijziging.
+- (2). Een wijziging van de Bijlage, behalve van [Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2011-01-01&g=2011-01-01), treedt in werking ten aanzien van alle Verdragsluitende Regeringen, behalve die welke bezwaar tegen de wijziging hebben gemaakt krachtens het bepaalde onder (vi) (2) van dit lid en die deze bezwaren niet hebben ingetrokken, zes maanden na de datum waarop zij wordt geacht te zijn aanvaard. Vóór de datum die is vastgesteld voor de inwerkingtreding, kan elke Verdragsluitende Regering de Secretaris-Generaal van de Organisatie ervan in kennis stellen dat zij zich onthoudt van het geven van uitvoering aan deze wijziging voor een periode van niet langer dan een jaar te rekenen van de datum van de inwerkingtreding ervan, of voor een langere periode, vast te stellen met een twee derde meerderheid van de Verdragsluitende Regeringen die aanwezig zijn en hun stem uitbrengen in de uitgebreide Maritieme Veiligheidscommissie op het tijdstip van aanneming van de wijziging.
 
 (c). Wijziging door een Conferentie:
 
@@ -160,11 +160,11 @@ Wanneer overeenkomstig de bepalingen van dit Verdrag tussen alle of sommige van 
 
 ##### Artikel X. Inwerkingtreding
 
-(a). Dit Verdrag treedt in werking twaalf maanden na de datum waarop niet minder dan vijfentwintig Staten, waarvan de gezamenlijke koopvaardijvloten niet minder dan vijftig percent van de bruto tonnage van de wereldkoopvaardijvloot vormen, partij daarbij zijn geworden overeenkomstig [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=IX&z=2010-07-01&g=2010-07-01).
+(a). Dit Verdrag treedt in werking twaalf maanden na de datum waarop niet minder dan vijfentwintig Staten, waarvan de gezamenlijke koopvaardijvloten niet minder dan vijftig percent van de bruto tonnage van de wereldkoopvaardijvloot vormen, partij daarbij zijn geworden overeenkomstig [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=IX&z=2011-01-01&g=2011-01-01).
 
 (b). Iedere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding nedergelegd na de datum waarop dit Verdrag in werking treedt, wordt van kracht drie maanden na de datum van nederlegging.
 
-(c). Na de datum waarop een wijziging van dit Verdrag wordt geacht te zijn aanvaard krachtens [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VIII&z=2010-07-01&g=2010-07-01), heeft iedere nedergelegde akte van bekrachtiging, aanvaarding, goedkeuring of toetreding betrekking op het gewijzigde Verdrag.
+(c). Na de datum waarop een wijziging van dit Verdrag wordt geacht te zijn aanvaard krachtens [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VIII&z=2011-01-01&g=2011-01-01), heeft iedere nedergelegde akte van bekrachtiging, aanvaarding, goedkeuring of toetreding betrekking op het gewijzigde Verdrag.
 
 ##### Artikel XI. Opzegging
 
@@ -248,13 +248,13 @@ Bij toepassing van deze voorschriften gelden, tenzij uitdrukkelijk anders is bep
 
 - (vi). Vissersvaartuigen.
 
-- (b). Behoudens het uitdrukkelijk bepaalde in [Hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&z=2010-07-01&g=2010-07-01), zijn de bepalingen van deze Voorschriften niet van toepassing op schepen die uitsluitend de Grote Meren van Noord-Amerika en de St. Laurens Rivier bevaren, niet verder oostelijk dan tot de rechte lijn, getrokken van Kaap des Rosiers tot West Point van het eiland Anticosti en, aan de noordzijde van het eiland Anticosti, de 63e meridiaan.
+- (b). Behoudens het uitdrukkelijk bepaalde in [Hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&z=2011-01-01&g=2011-01-01), zijn de bepalingen van deze Voorschriften niet van toepassing op schepen die uitsluitend de Grote Meren van Noord-Amerika en de St. Laurens Rivier bevaren, niet verder oostelijk dan tot de rechte lijn, getrokken van Kaap des Rosiers tot West Point van het eiland Anticosti en, aan de noordzijde van het eiland Anticosti, de 63e meridiaan.
 
 ##### Voorschrift 4. Vrijstellingen
 
 - (a). Een schip dat gewoonlijk niet wordt gebruikt voor internationale reizen, maar in bijzondere omstandigheden een enkele internationale reis onderneemt, kan door de Administratie worden vrijgesteld van elke eis in deze Voorschriften, mits dit schip voldoet aan veiligheidsvoorschriften die, naar het oordeel van de Administratie, voldoende zijn voor de reis die het gaat ondernemen.
 
-- (b). Een schip met nieuwe kenmerken kan door de Administratie worden vrijgesteld van die bepalingen van de [Hoofdstukken II-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&z=2010-07-01&g=2010-07-01), [II-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&z=2010-07-01&g=2010-07-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&z=2010-07-01&g=2010-07-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&z=2010-07-01&g=2010-07-01) van deze Voorschriften, waarvan de toepassing het onderzoek tot ontwikkeling van zulke kenmerken en de verwerking daarvan in schepen die worden gebruikt voor internationale reizen op ernstige wijze zou kunnen belemmeren. Een dusdanig schip dient evenwel te voldoen aan de veiligheidsvoorschriften die, naar het oordeel van deze Administratie, voldoende zijn voor de dienst waarvoor het schip bestemd is en die zodanig zijn dat zij de algemene veiligheid waarborgen van het schip en aanvaardbaar zijn voor de Regeringen van de staten die door het schip zullen worden bezocht. De Administratie die een zodanige vrijstelling toestaat dient aan de Organisatie de bijzonderheden daarvan en de redenen daarvoor mede te delen; de Organisatie zendt deze te hunner kennisneming aan de Verdragsluitende Regeringen.
+- (b). Een schip met nieuwe kenmerken kan door de Administratie worden vrijgesteld van die bepalingen van de [Hoofdstukken II-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&z=2011-01-01&g=2011-01-01), [II-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&z=2011-01-01&g=2011-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&z=2011-01-01&g=2011-01-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&z=2011-01-01&g=2011-01-01) van deze Voorschriften, waarvan de toepassing het onderzoek tot ontwikkeling van zulke kenmerken en de verwerking daarvan in schepen die worden gebruikt voor internationale reizen op ernstige wijze zou kunnen belemmeren. Een dusdanig schip dient evenwel te voldoen aan de veiligheidsvoorschriften die, naar het oordeel van deze Administratie, voldoende zijn voor de dienst waarvoor het schip bestemd is en die zodanig zijn dat zij de algemene veiligheid waarborgen van het schip en aanvaardbaar zijn voor de Regeringen van de staten die door het schip zullen worden bezocht. De Administratie die een zodanige vrijstelling toestaat dient aan de Organisatie de bijzonderheden daarvan en de redenen daarvoor mede te delen; de Organisatie zendt deze te hunner kennisneming aan de Verdragsluitende Regeringen.
 
 ##### Voorschrift 5. Gelijkwaardige voorzieningen
 
@@ -284,7 +284,7 @@ Bij toepassing van deze voorschriften gelden, tenzij uitdrukkelijk anders is bep
 
 - i. een eerste onderzoek voordat het schip in dienst wordt gesteld;
 
-- ii. een hernieuwd onderzoek eenmaal per 12 maanden, behalve wanneer [Voorschrift 14(b), (e), (f) en (g)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=14&z=2010-07-01&g=2010-07-01) van toepassing is;
+- ii. een hernieuwd onderzoek eenmaal per 12 maanden, behalve wanneer [Voorschrift 14(b), (e), (f) en (g)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=14&z=2011-01-01&g=2011-01-01) van toepassing is;
 
 - iii. aanvullende onderzoeken, indien daartoe aanleiding bestaat,
 
@@ -294,7 +294,7 @@ Bij toepassing van deze voorschriften gelden, tenzij uitdrukkelijk anders is bep
 
 - ii. het hernieuwd onderzoek moet een inspectie omvatten van de constructie, ketels en andere drukvaten, machine-installaties en uitrusting, met inbegrip van het vlak van het schip aan de buitenzijde. Het onderzoek moet zodanig zijn dat het zeker is dat het schip, wat betreft de constructie, ketels en andere drukvaten met toebehoren, hoofd- en hulpwerktuigen, elektrische installaties, radio-installaties, met inbegrip van die gebruikt in reddingsmiddelen, middelen voor bescherming tegen brand, systemen en apparaten voor beveiliging tegen brand, reddingsmiddelen en -voorzieningen, navigatiemiddelen aan boord van schepen, zeevaartkundige publikaties, inschepingsmiddelen voor loodsen en andere uitrusting, in een bevredigende toestand verkeert en geschikt is voor de dienst waarvoor het is bestemd en dat het voldoet aan de eisen van deze Voorschriften en van de wetten, besluiten, beschikkingen en reglementen die op grond daarvan door de Administratie zijn uitgevaardigd. De lichten, dagmerken, middelen voor het geven van geluidseinen en noodseinen die aan boord zijn, moeten eveneens aan bovengenoemd onderzoek worden onderworpen ten einde te verzekeren dat zij voldoen aan de eisen van deze Voorschriften en van de geldende [Internationale Bepalingen ter voorkoming van aanvaringen op zee](https://wetten.overheid.nl/jci1.3:c:BWBV0001014);
 
-- iii. een algeheel of gedeeltelijk aanvullend onderzoek moet, al naar gelang de omstandigheden, worden uitgevoerd na herstellingen voortvloeiend uit de onderzoeken voorgeschreven in [Voorschrift 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=11&z=2010-07-01&g=2010-07-01) of telkens wanneer belangrijke herstellingen of vernieuwingen zijn verricht. Het onderzoek moet zodanig zijn, dat het zeker is dat de noodzakelijke herstellingen of vernieuwingen deugdelijk zijn uitgevoerd, dat het materiaal en de uitvoering van zulke herstellingen of vernieuwingen in alle opzichten bevredigend zijn en dat het schip in alle opzichten voldoet aan de bepalingen van deze Voorschriften en van de geldende [Internationale Bepalingen ter voorkoming van aanvaringen op zee](https://wetten.overheid.nl/jci1.3:c:BWBV0001014) en van de wetten, besluiten, beschikkingen en reglementen die op grond daarvan door de Administratie zijn uitgevaardigd.
+- iii. een algeheel of gedeeltelijk aanvullend onderzoek moet, al naar gelang de omstandigheden, worden uitgevoerd na herstellingen voortvloeiend uit de onderzoeken voorgeschreven in [Voorschrift 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=11&z=2011-01-01&g=2011-01-01) of telkens wanneer belangrijke herstellingen of vernieuwingen zijn verricht. Het onderzoek moet zodanig zijn, dat het zeker is dat de noodzakelijke herstellingen of vernieuwingen deugdelijk zijn uitgevoerd, dat het materiaal en de uitvoering van zulke herstellingen of vernieuwingen in alle opzichten bevredigend zijn en dat het schip in alle opzichten voldoet aan de bepalingen van deze Voorschriften en van de geldende [Internationale Bepalingen ter voorkoming van aanvaringen op zee](https://wetten.overheid.nl/jci1.3:c:BWBV0001014) en van de wetten, besluiten, beschikkingen en reglementen die op grond daarvan door de Administratie zijn uitgevaardigd.
 
 - c.
 
@@ -308,35 +308,35 @@ Bij toepassing van deze voorschriften gelden, tenzij uitdrukkelijk anders is bep
 
 - i. een eerste onderzoek voordat het schip in dienst wordt gesteld;
 
-- ii. een hernieuwd onderzoek met door de Administratie te bepalen tussenpozen die niet langer mogen zijn dan 5 jaar, behalve wanneer [Voorschrift 14(b), (e), (f) en (g)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=14&z=2010-07-01&g=2010-07-01) van toepassing is;
+- ii. een hernieuwd onderzoek met door de Administratie te bepalen tussenpozen die niet langer mogen zijn dan 5 jaar, behalve wanneer [Voorschrift 14(b), (e), (f) en (g)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=14&z=2011-01-01&g=2011-01-01) van toepassing is;
 
 - iii. een periodiek onderzoek binnen drie maanden voor of na de tweede verjaardatum of binnen drie maanden voor of na de derde verjaardatum van het Uitrustingscertificaat voor Vrachtschepen, dat in de plaats komt van één van de onderzoeken aangegeven onder (a)(iv) ;
 
 - iv. een jaarlijks onderzoek binnen 3 maanden voor of na elke verjaardatum van het Uitrustingscertificaat voor Vrachtschepen;
 
-- v. een aanvullend onderzoek zoals voorgeschreven voor passagiersschepen in [Voorschrift 7(b)(iii)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=7&z=2010-07-01&g=2010-07-01).
+- v. een aanvullend onderzoek zoals voorgeschreven voor passagiersschepen in [Voorschrift 7(b)(iii)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=7&z=2011-01-01&g=2011-01-01).
 
 - b. De onderzoeken bedoeld onder (a) worden uitgevoerd als volgt:
 
-- i. het eerste onderzoek omvat een volledige inspectie van de systemen en apparaten voor beveiliging tegen brand, de reddingmiddelen en -voorzieningen behalve radio- installaties, navigatiemiddelen aan boord van schepen, inschepingsmiddelen voor loodsen en andere uitrusting waarop de [hoofdstukken II-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&z=2010-07-01&g=2010-07-01), [II-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&z=2010-07-01&g=2010-07-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&z=2010-07-01&g=2010-07-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&z=2010-07-01&g=2010-07-01) van toepassing zijn ten einde te verzekeren dat zij voldoen aan de eisen van deze Voorschriften, in een bevredigende toestand verkeren en geschikt zijn voor de bedrijfsvoering waarvoor het schip is bestemd. De brandbestrijdingsplannen, zeevaartkundige publikaties, lichten, dagmerken, middelen voor het geven van geluidseinen en noodseinen moeten ook worden onderworpen aan bovengenoemd onderzoek ten einde te verzekeren dat zij voldoen aan de voorwaarden van deze Voorschriften en, wanneer van toepassing, van de geldende [Internationale Bepalingen ter voorkoming van aanvaringen op zee](https://wetten.overheid.nl/jci1.3:c:BWBV0001014);
+- i. het eerste onderzoek omvat een volledige inspectie van de systemen en apparaten voor beveiliging tegen brand, de reddingmiddelen en -voorzieningen behalve radio- installaties, navigatiemiddelen aan boord van schepen, inschepingsmiddelen voor loodsen en andere uitrusting waarop de [hoofdstukken II-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&z=2011-01-01&g=2011-01-01), [II-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&z=2011-01-01&g=2011-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&z=2011-01-01&g=2011-01-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&z=2011-01-01&g=2011-01-01) van toepassing zijn ten einde te verzekeren dat zij voldoen aan de eisen van deze Voorschriften, in een bevredigende toestand verkeren en geschikt zijn voor de bedrijfsvoering waarvoor het schip is bestemd. De brandbestrijdingsplannen, zeevaartkundige publikaties, lichten, dagmerken, middelen voor het geven van geluidseinen en noodseinen moeten ook worden onderworpen aan bovengenoemd onderzoek ten einde te verzekeren dat zij voldoen aan de voorwaarden van deze Voorschriften en, wanneer van toepassing, van de geldende [Internationale Bepalingen ter voorkoming van aanvaringen op zee](https://wetten.overheid.nl/jci1.3:c:BWBV0001014);
 
 - ii. de hernieuwde onderzoeken en periodieke onderzoeken omvatten een inspectie van de onder (b)(i) bedoelde uitrusting ten einde te verzekeren dat deze voldoet aan de desbetreffende eisen van deze Voorschriften en van de geldende [Internationale Bepalingen ter voorkoming van aanvaringen op zee](https://wetten.overheid.nl/jci1.3:c:BWBV0001014), in bevredigende toestand verkeert en geschikt is voor de bedrijfsvoering waarvoor het schip is bestemd;
 
-- iii. het jaarlijkse onderzoek omvat een algemene inspectie van de onder (b)(i) bedoelde uitrusting ten einde te verzekeren dat deze is onderhouden overeenkomstig [Voorschrift 11(a)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=11&z=2010-07-01&g=2010-07-01) en zij in bevredigende staat blijft voor de bedrijfsvoering waarvoor het schip is bestemd.
+- iii. het jaarlijkse onderzoek omvat een algemene inspectie van de onder (b)(i) bedoelde uitrusting ten einde te verzekeren dat deze is onderhouden overeenkomstig [Voorschrift 11(a)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=11&z=2011-01-01&g=2011-01-01) en zij in bevredigende staat blijft voor de bedrijfsvoering waarvoor het schip is bestemd.
 
 - c. De onder (a)(iii) en (a)(iv) bedoelde periodieke onderzoeken en jaarlijkse onderzoeken worden aangetekend op het Uitrustingscertificaat voor Vrachtschepen.
 
 ##### Voorschrift 9. Onderzoeken van radio-installaties op vrachtschepen
 
-- a. De radio-installaties, met inbegrip van die gebruikt in reddingmiddelen, van vrachtschepen waarop de [hoofdstukken III](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&z=2010-07-01&g=2010-07-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&z=2010-07-01&g=2010-07-01) van toepassing zijn, worden onderworpen aan de onderstaand aangegeven onderzoeken:
+- a. De radio-installaties, met inbegrip van die gebruikt in reddingmiddelen, van vrachtschepen waarop de [hoofdstukken III](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&z=2011-01-01&g=2011-01-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&z=2011-01-01&g=2011-01-01) van toepassing zijn, worden onderworpen aan de onderstaand aangegeven onderzoeken:
 
 - i. een eerste onderzoek voordat het schip in dienst wordt gesteld;
 
-- ii. een hernieuwd onderzoek met door de Administratie te bepalen tussenpozen die niet langer mogen zijn dan vijf jaar, behalve wanneer [Voorschrift 14(b), (e), (f) en (g)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=14&z=2010-07-01&g=2010-07-01) van toepassing is;
+- ii. een hernieuwd onderzoek met door de Administratie te bepalen tussenpozen die niet langer mogen zijn dan vijf jaar, behalve wanneer [Voorschrift 14(b), (e), (f) en (g)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=14&z=2011-01-01&g=2011-01-01) van toepassing is;
 
 - iii. een periodiek onderzoek binnen drie maanden voor of na elke verjaardatum van het Radioveiligheidscertificaat voor Vrachtschepen;
 
-- iv. een aanvullend onderzoek zoals voorgeschreven voor passagiersschepen in [Voorschrift 7(b)(iii)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=7&z=2010-07-01&g=2010-07-01).
+- iv. een aanvullend onderzoek zoals voorgeschreven voor passagiersschepen in [Voorschrift 7(b)(iii)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=7&z=2011-01-01&g=2011-01-01).
 
 - b. De onder (a) bedoelde onderzoeken worden als volgt uitgevoerd:
 
@@ -352,15 +352,15 @@ a. De constructie, machine-installaties en uitrusting (behalve die met betrekkin
 
 - i. een eerste onderzoek, met inbegrip van het vlak van het schip aan de buitenzijde, voordat het schip in dienst wordt gesteld;
 
-- ii. een hernieuwd onderzoek met door de Administratie te bepalen tussenpozen die niet langer mogen zijn dan 5 jaar, behalve wanneer [Voorschrift 14(b), (e), (f) en (g)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=14&z=2010-07-01&g=2010-07-01) van toepassing is;
+- ii. een hernieuwd onderzoek met door de Administratie te bepalen tussenpozen die niet langer mogen zijn dan 5 jaar, behalve wanneer [Voorschrift 14(b), (e), (f) en (g)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=14&z=2011-01-01&g=2011-01-01) van toepassing is;
 
 - iii. een tussentijds onderzoek binnen drie maanden voor of na de tweede verjaardatum of binnen drie maanden voor of na de derde verjaardatum van het Veiligheidsconstructiecertificaat voor Vrachtschepen, dat in de plaats treedt van een van de jaarlijkse onderzoeken aangegeven onder (a)(iv);
 
 - iv. een jaarlijks onderzoek binnen 3 maanden voor of na elke verjaardatum van het Veiligheidsconstructiecertificaat voor Vrachtschepen;
 
-- v. een minimum van twee inspecties van het vlak van het schip aan de buitenzijde gedurende een tijdvak van vijf jaar, behalve wanneer [Voorschrift 14(e) of (f)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=14&z=2010-07-01&g=2010-07-01) van toepassing is. Wanneer Voorschrift 14(e) of (f) van toepassing is, kan dit tijdvak van vijf jaar worden verlengd, zodat het samenvalt met de verlengde geldigheidsduur van het certificaat. In alle gevallen mag de tussenpoos tussen twee onderzoeken niet langer zijn dan 36 maanden;
+- v. een minimum van twee inspecties van het vlak van het schip aan de buitenzijde gedurende een tijdvak van vijf jaar, behalve wanneer [Voorschrift 14(e) of (f)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=14&z=2011-01-01&g=2011-01-01) van toepassing is. Wanneer Voorschrift 14(e) of (f) van toepassing is, kan dit tijdvak van vijf jaar worden verlengd, zodat het samenvalt met de verlengde geldigheidsduur van het certificaat. In alle gevallen mag de tussenpoos tussen twee onderzoeken niet langer zijn dan 36 maanden;
 
-- vi. een aanvullend onderzoek zoals voorgeschreven voor passagiersschepen in [Voorschrift 7(b)(iii)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=7&z=2010-07-01&g=2010-07-01).
+- vi. een aanvullend onderzoek zoals voorgeschreven voor passagiersschepen in [Voorschrift 7(b)(iii)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=7&z=2011-01-01&g=2011-01-01).
 
 b. De onderzoeken en inspecties bedoeld onder (a) worden uitgevoerd als volgt:
 
@@ -370,7 +370,7 @@ b. De onderzoeken en inspecties bedoeld onder (a) worden uitgevoerd als volgt:
 
 - iii. het tussentijdse onderzoek moet een inspectie omvatten van de constructie, ketels en andere drukvaten, machine-installaties en uitrusting, de stuurinrichting en de daarbij behorende bedieningsystemen en elektrische installaties ten einde te verzekeren dat zij in een bevredigende toestand blijven voor de bedrijfsvoering waarvoor het schip is bestemd. In het geval van tankschepen moet zulk een onderzoek ook een inspectie omvatten van de pompkamers, laad-, bunker- en ventilatiesystemen en bijbehorende veiligheidsinrichtingen en de beproeving van de isolatieweerstand van elektrische installaties in gevaarlijke zones;
 
-- iv. het jaarlijkse onderzoek moet een algemene inspectie omvatten van de constructie, machine-installaties en uitrusting bedoeld onder (b)(i) ten einde te verzekeren dat deze in de toestand zijn gehandhaafd overeenkomstig [Voorschrift 11(a)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=11&z=2010-07-01&g=2010-07-01) en dat zij in bevredigende toestand blijven voor de bedrijfsvoering waarvoor het schip is bestemd;
+- iv. het jaarlijkse onderzoek moet een algemene inspectie omvatten van de constructie, machine-installaties en uitrusting bedoeld onder (b)(i) ten einde te verzekeren dat deze in de toestand zijn gehandhaafd overeenkomstig [Voorschrift 11(a)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=11&z=2011-01-01&g=2011-01-01) en dat zij in bevredigende toestand blijven voor de bedrijfsvoering waarvoor het schip is bestemd;
 
 - v. de inspectie van het vlak van het schip aan de buitenzijde en het onderzoek van tegelijkertijd geïnspecteerde daarmede samenhangende zaken moeten zodanig zijn dat het zeker is dat deze in bevredigende toestand blijven voor de bedrijfsvoering waarvoor het schip is bestemd.
 
@@ -380,25 +380,25 @@ c. De tussentijdse en jaarlijkse onderzoeken en de inspecties van het vlak van h
 
 - a. De toestand van het schip en zijn uitrusting worden gehandhaafd zodat deze voldoet aan de bepalingen van deze Voorschriften ten einde te verzekeren dat het schip in alle opzichten geschikt zal blijven om zonder gevaar voor het schip of personen aan boord zee te kiezen.
 
-- b. Nadat een onderzoek van het schip krachtens de [Voorschriften 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=7&z=2010-07-01&g=2010-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=8&z=2010-07-01&g=2010-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=9&z=2010-07-01&g=2010-07-01) of [10](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=10&z=2010-07-01&g=2010-07-01) is voltooid, mag zonder toestemming van de Administratie geen verandering worden aangebracht in de constructie, de machineinstallaties, de uitrusting en andere zaken die door dit onderzoek zijn gedekt.
+- b. Nadat een onderzoek van het schip krachtens de [Voorschriften 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=7&z=2011-01-01&g=2011-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=8&z=2011-01-01&g=2011-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=9&z=2011-01-01&g=2011-01-01) of [10](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=10&z=2011-01-01&g=2011-01-01) is voltooid, mag zonder toestemming van de Administratie geen verandering worden aangebracht in de constructie, de machineinstallaties, de uitrusting en andere zaken die door dit onderzoek zijn gedekt.
 
-- c. Wanneer het schip een ongeval overkomt of er een gebrek wordt geconstateerd dat de veiligheid van het schip of de doelmatigheid of volledigheid van zijn reddingmiddelen of andere uitrusting aantast, moet de kapitein of de eigenaar van het schip zulks zo spoedig mogelijk rapporteren aan de Administratie, de benoemde expert of erkende organisatie die verantwoordelijk is voor de afgifte van het desbetreffende certificaat, die een onderzoek moet laten instellen om na te gaan of een onderzoek zoals vereist door de [Voorschriften 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=7&z=2010-07-01&g=2010-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=8&z=2010-07-01&g=2010-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=9&z=2010-07-01&g=2010-07-01) of [10](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=10&z=2010-07-01&g=2010-07-01) noodzakelijk is. Indien het schip zich in een haven van een andere Verdragsluitende Regering bevindt, moet de kapitein of de eigenaar ook onmiddellijk rapporteren aan de bevoegde autoriteiten van de havenstaat en vergewissen de benoemde expert of de erkende organisatie zich ervan dat een zodanig rapport is uitgebracht.
+- c. Wanneer het schip een ongeval overkomt of er een gebrek wordt geconstateerd dat de veiligheid van het schip of de doelmatigheid of volledigheid van zijn reddingmiddelen of andere uitrusting aantast, moet de kapitein of de eigenaar van het schip zulks zo spoedig mogelijk rapporteren aan de Administratie, de benoemde expert of erkende organisatie die verantwoordelijk is voor de afgifte van het desbetreffende certificaat, die een onderzoek moet laten instellen om na te gaan of een onderzoek zoals vereist door de [Voorschriften 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=7&z=2011-01-01&g=2011-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=8&z=2011-01-01&g=2011-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=9&z=2011-01-01&g=2011-01-01) of [10](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=10&z=2011-01-01&g=2011-01-01) noodzakelijk is. Indien het schip zich in een haven van een andere Verdragsluitende Regering bevindt, moet de kapitein of de eigenaar ook onmiddellijk rapporteren aan de bevoegde autoriteiten van de havenstaat en vergewissen de benoemde expert of de erkende organisatie zich ervan dat een zodanig rapport is uitgebracht.
 
 ##### Voorschrift 12. Afgifte van of aantekening op de Certificaten
 
 - a.
 
-- i. Een certificaat, Veiligheidscertificaat voor Passagiersschepen genaamd, wordt, nadat een eerste onderzoek of een hernieuwd onderzoek heeft plaatsgevonden, afgegeven ten behoeve van een passagiersschip dat voldoet aan de desbetreffende eisen van de [Hoofdstukken II-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&z=2010-07-01&g=2010-07-01), [II-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&z=2010-07-01&g=2010-07-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&z=2010-07-01&g=2010-07-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&z=2010-07-01&g=2010-07-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&z=2010-07-01&g=2010-07-01) en aan alle andere terzake dienende eisen van deze Voorschriften;
+- i. Een certificaat, Veiligheidscertificaat voor Passagiersschepen genaamd, wordt, nadat een eerste onderzoek of een hernieuwd onderzoek heeft plaatsgevonden, afgegeven ten behoeve van een passagiersschip dat voldoet aan de desbetreffende eisen van de [Hoofdstukken II-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&z=2011-01-01&g=2011-01-01), [II-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&z=2011-01-01&g=2011-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&z=2011-01-01&g=2011-01-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&z=2011-01-01&g=2011-01-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&z=2011-01-01&g=2011-01-01) en aan alle andere terzake dienende eisen van deze Voorschriften;
 
-- ii. een certificaat, Veiligheidsconstructiecertificaat voor Vrachtschepen genaamd, wordt, nadat een eerste onderzoek of een hernieuwd onderzoek heeft plaatsgevonden, afgegeven ten behoeve van een vrachtschip dat voldoet aan de desbetreffende eisen van de [Hoofdstukken II-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&z=2010-07-01&g=2010-07-01) en [II-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&z=2010-07-01&g=2010-07-01) (behalve die betreffende systemen en apparatuur voor brandbeveiliging en brandbestrijdingsplannen) en andere ter zake dienende eisen van deze Voorschriften;
+- ii. een certificaat, Veiligheidsconstructiecertificaat voor Vrachtschepen genaamd, wordt, nadat een eerste onderzoek of een hernieuwd onderzoek heeft plaatsgevonden, afgegeven ten behoeve van een vrachtschip dat voldoet aan de desbetreffende eisen van de [Hoofdstukken II-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&z=2011-01-01&g=2011-01-01) en [II-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&z=2011-01-01&g=2011-01-01) (behalve die betreffende systemen en apparatuur voor brandbeveiliging en brandbestrijdingsplannen) en andere ter zake dienende eisen van deze Voorschriften;
 
-- iii. een Certificaat, Uitrustingscertificaat voor Vrachtschepen genaamd, wordt na een eerste onderzoek of een hernieuwd onderzoek afgegeven ten behoeve van een vrachtschip dat voldoet aan de desbetreffende eisen van de [Hoofdstukken II-l](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&z=2010-07-01&g=2010-07-01), [II-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&z=2010-07-01&g=2010-07-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&z=2010-07-01&g=2010-07-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&z=2010-07-01&g=2010-07-01) en aan alle andere terzake dienende eisen van deze Voorschriften;
+- iii. een Certificaat, Uitrustingscertificaat voor Vrachtschepen genaamd, wordt na een eerste onderzoek of een hernieuwd onderzoek afgegeven ten behoeve van een vrachtschip dat voldoet aan de desbetreffende eisen van de [Hoofdstukken II-l](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&z=2011-01-01&g=2011-01-01), [II-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&z=2011-01-01&g=2011-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&z=2011-01-01&g=2011-01-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&z=2011-01-01&g=2011-01-01) en aan alle andere terzake dienende eisen van deze Voorschriften;
 
-- iv. een certificaat, Radioveiligheidscertifïcaat genaamd, wordt na een eerste onderzoek of een hernieuwd onderzoek afgegeven ten behoeve van een vrachtschip dat voldoet aan de desbetreffende eisen van [Hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&z=2010-07-01&g=2010-07-01) en aan alle andere ter zake dienende eisen van deze Voorschriften;
+- iv. een certificaat, Radioveiligheidscertifïcaat genaamd, wordt na een eerste onderzoek of een hernieuwd onderzoek afgegeven ten behoeve van een vrachtschip dat voldoet aan de desbetreffende eisen van [Hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&z=2011-01-01&g=2011-01-01) en aan alle andere ter zake dienende eisen van deze Voorschriften;
 
 - v.
 
-- 1. een certificaat, Veiligheidscertificaat voor Vrachtschepen genaamd, kan worden afgegeven na een eerste onderzoek of een hernieuwd onderzoek ten behoeve van een vrachtschip dat voldoet aan de desbetreffende eisen van de [Hoofdstukken II-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&z=2010-07-01&g=2010-07-01), [II-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&z=2010-07-01&g=2010-07-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&z=2010-07-01&g=2010-07-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&z=2010-07-01&g=2010-07-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&z=2010-07-01&g=2010-07-01) en alle andere terzake dienende eisen van deze Voorschriften, als alternatief voor de certificaten bedoeld onder (a)(ii), (a)(iii) en (a)(iv),
+- 1. een certificaat, Veiligheidscertificaat voor Vrachtschepen genaamd, kan worden afgegeven na een eerste onderzoek of een hernieuwd onderzoek ten behoeve van een vrachtschip dat voldoet aan de desbetreffende eisen van de [Hoofdstukken II-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&z=2011-01-01&g=2011-01-01), [II-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&z=2011-01-01&g=2011-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&z=2011-01-01&g=2011-01-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&z=2011-01-01&g=2011-01-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&z=2011-01-01&g=2011-01-01) en alle andere terzake dienende eisen van deze Voorschriften, als alternatief voor de certificaten bedoeld onder (a)(ii), (a)(iii) en (a)(iv),
 
 - 2. telkens wanneer in dit hoofdstuk wordt verwezen naar een Veiligheidsconstructiecertificaat voor Vrachtschepen, een Uitrustingscertificaat voor Vrachtschepen of een Radioveiligheidscertificaat voor Vrachtschepen, wordt onder een zodanige verwijzing een Veiligheidscertificaat voor Vrachtschepen verstaan, indien dat wordt gebruikt als alternatief voor deze certificaten;
 
@@ -412,7 +412,7 @@ c. De tussentijdse en jaarlijkse onderzoeken en de inspecties van het vlak van h
 
 ##### Voorschrift 13. Afgifte van of het maken van aantekeningen op een certificaat door een andere Regering
 
-Een Verdragsluitende Regering kan, op verzoek van de Administratie, een schip aan een onderzoek onderwerpen en dient, wanneer zij overtuigd is dat wordt voldaan aan de eisen van deze Voorschriften, certificaten ten behoeve van het schip af te geven of daartoe te machtigen en, wanneer passend, een aantekening op de rugzijde te plaatsen op certificaten ten behoeve van het schip of daartoe te machtigen in overeenstemming met deze Voorschriften. Elk aldus afgegeven certificaat moet een verklaring bevatten, inhoudende dat het is afgegeven op verzoek van de Regering van de Staat wiens vlag het schip gerechtigd is te voeren, en het heeft dezelfde waarde en wordt op dezelfde wijze erkend als een op grond van [Voorschrift 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=12&z=2010-07-01&g=2010-07-01) afgegeven certificaat.
+Een Verdragsluitende Regering kan, op verzoek van de Administratie, een schip aan een onderzoek onderwerpen en dient, wanneer zij overtuigd is dat wordt voldaan aan de eisen van deze Voorschriften, certificaten ten behoeve van het schip af te geven of daartoe te machtigen en, wanneer passend, een aantekening op de rugzijde te plaatsen op certificaten ten behoeve van het schip of daartoe te machtigen in overeenstemming met deze Voorschriften. Elk aldus afgegeven certificaat moet een verklaring bevatten, inhoudende dat het is afgegeven op verzoek van de Regering van de Staat wiens vlag het schip gerechtigd is te voeren, en het heeft dezelfde waarde en wordt op dezelfde wijze erkend als een op grond van [Voorschrift 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=12&z=2011-01-01&g=2011-01-01) afgegeven certificaat.
 
 ##### Voorschrift 14. Geldigheidsduur en geldigheid van certificaten
 
@@ -438,7 +438,7 @@ Een Verdragsluitende Regering kan, op verzoek van de Administratie, een schip aa
 
 - 2. voor een vrachtschip een datum niet later dan vijfjaar vanaf de datum van voltooiing van het hernieuwd onderzoek.
 
-- c. Indien een ander certificaat dan een Veiligheidscertificaat voor Passagiersschepen wordt afgegeven voor een tijdvak korter dan vijf jaar, kan de Administratie de geldigheidsduur van het certificaat verlengen tot na de datum van verstrijken tot het maximumtijdvak aangegeven onder (a), mits de in de [Voorschriften 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=8&z=2010-07-01&g=2010-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=9&z=2010-07-01&g=2010-07-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=10&z=2010-07-01&g=2010-07-01) bedoelde onderzoeken, die van toepassing zijn wanneer een certificaat voor een tijdvak van vijf jaar wordt afgegeven, naar behoren worden uitgevoerd.
+- c. Indien een ander certificaat dan een Veiligheidscertificaat voor Passagiersschepen wordt afgegeven voor een tijdvak korter dan vijf jaar, kan de Administratie de geldigheidsduur van het certificaat verlengen tot na de datum van verstrijken tot het maximumtijdvak aangegeven onder (a), mits de in de [Voorschriften 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=8&z=2011-01-01&g=2011-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=9&z=2011-01-01&g=2011-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=10&z=2011-01-01&g=2011-01-01) bedoelde onderzoeken, die van toepassing zijn wanneer een certificaat voor een tijdvak van vijf jaar wordt afgegeven, naar behoren worden uitgevoerd.
 
 - d. Indien een hernieuwd onderzoek is voltooid en er geen nieuw certificaat kan worden afgegeven of aan het schip worden verstrekt voor de vervaldatum van het bestaande certificaat, kan de door de Administratie gemachtigde persoon of organisatie een aantekening op het bestaande certificaat plaatsen en wordt een dergelijk certificaat als geldig aanvaard voor een tijdvak van niet langer dan 5 maanden vanaf de datum van verstrijken.
 
@@ -468,13 +468,13 @@ Een Verdragsluitende Regering kan, op verzoek van de Administratie, een schip aa
 
 - iii. kan de vervaldatum onveranderd blijven mits er een of meer jaarlijkse, tussentijdse of periodieke onderzoeken, al naar het geval, zijn verricht zodat de maximumtussenpozen tussen de in de desbetreffende voorschriften voorgeschreven onderzoeken niet worden overschreden.
 
-- i. Een ingevolge [Voorschrift 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=12&z=2010-07-01&g=2010-07-01) of [13](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=13&z=2010-07-01&g=2010-07-01) afgegeven certificaat verliest zijn geldigheid in de volgende gevallen:
+- i. Een ingevolge [Voorschrift 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=12&z=2011-01-01&g=2011-01-01) of [13](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=13&z=2011-01-01&g=2011-01-01) afgegeven certificaat verliest zijn geldigheid in de volgende gevallen:
 
-- i. indien de desbetreffende onderzoeken en inspecties niet zijn voltooid binnen de ingevolge de [Voorschriften 7(a)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=7&z=2010-07-01&g=2010-07-01), [8(a)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=8&z=2010-07-01&g=2010-07-01), [9(a)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=9&z=2010-07-01&g=2010-07-01) en [10(a)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=10&z=2010-07-01&g=2010-07-01) aangegeven tijdvakken;
+- i. indien de desbetreffende onderzoeken en inspecties niet zijn voltooid binnen de ingevolge de [Voorschriften 7(a)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=7&z=2011-01-01&g=2011-01-01), [8(a)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=8&z=2011-01-01&g=2011-01-01), [9(a)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=9&z=2011-01-01&g=2011-01-01) en [10(a)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=10&z=2011-01-01&g=2011-01-01) aangegeven tijdvakken;
 
 - ii. indien geen aantekening op de rugzijde van het certificaat is geplaatst overeenkomstig deze voorschriften;
 
-- iii. bij overdracht van het schip onder de vlag van een andere Staat. Er mag uitsluitend een nieuw certificaat worden afgegeven, wanneer de Regering die het nieuwe certificaat afgeeft er ten volle van overtuigd is dat het schip voldoet aan de eisen van [Voorschrift 1 l(a) en (b)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=A&artikel=1&z=2010-07-01&g=2010-07-01). In het geval van een overdracht tussen Verdragsluitende Regeringen zendt de Regering van de Staat wiens vlag het schip voordien gerechtigd was te voeren, indien zij daarom wordt verzocht binnen drie maanden nadat de overdracht heeft plaats gevonden, zo spoedig mogelijk aan de Administratie afschriften van de certificaten die het schip aan boord had voor de overdracht en, indien beschikbaar, afschrif ten van de desbetreffende onderzoeksrapporten.
+- iii. bij overdracht van het schip onder de vlag van een andere Staat. Er mag uitsluitend een nieuw certificaat worden afgegeven, wanneer de Regering die het nieuwe certificaat afgeeft er ten volle van overtuigd is dat het schip voldoet aan de eisen van [Voorschrift 1 l(a) en (b)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=A&artikel=1&z=2011-01-01&g=2011-01-01). In het geval van een overdracht tussen Verdragsluitende Regeringen zendt de Regering van de Staat wiens vlag het schip voordien gerechtigd was te voeren, indien zij daarom wordt verzocht binnen drie maanden nadat de overdracht heeft plaats gevonden, zo spoedig mogelijk aan de Administratie afschriften van de certificaten die het schip aan boord had voor de overdracht en, indien beschikbaar, afschrif ten van de desbetreffende onderzoeksrapporten.
 
 ##### Voorschrift 15. Modellen van certificaten en van de uitrustingsrapporten
 
@@ -482,7 +482,7 @@ De certificaten en de uitrustingrapporten moeten worden opgesteld in de vorm ove
 
 ##### Voorschrift 16. Beschikbaarheid van certificaten
 
-De ingevolge de [Voorschriften 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=12&z=2010-07-01&g=2010-07-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=13&z=2010-07-01&g=2010-07-01) afgegeven certificaten moeten aan boord beschikbaar zijn zodat zij te allen tijde kunnen worden onderzocht.
+De ingevolge de [Voorschriften 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=12&z=2011-01-01&g=2011-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=13&z=2011-01-01&g=2011-01-01) afgegeven certificaten moeten aan boord beschikbaar zijn zodat zij te allen tijde kunnen worden onderzocht.
 
 ##### Voorschrift 17. Erkenning van certificaten
 
@@ -490,15 +490,15 @@ Certificaten die onder gezag van een Verdragsluitende Regering zijn afgegeven, m
 
 ##### Voorschrift 18. Aanhangsel bij certificaten
 
-- (a). Indien tijdens een bepaalde reis een schip minder personen aan boord heeft dan het totale aantal dat in het Veiligheidscertificaat voor Passagiersschepen wordt vermeld, zodat het in overeenstemming met de bepalingen van deze Voorschriften gerechtigd is om een kleiner aantal reddingboten en andere reddingmiddelen aan boord te hebben dan in het certificaat is vermeld, mag door de Regering, persoon of organisatie bedoeld in [Voorschrift 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=12&z=2010-07-01&g=2010-07-01) of [13](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=13&z=2010-07-01&g=2010-07-01) van dit Hoofdstuk, een aanhangsel worden afgegeven.
+- (a). Indien tijdens een bepaalde reis een schip minder personen aan boord heeft dan het totale aantal dat in het Veiligheidscertificaat voor Passagiersschepen wordt vermeld, zodat het in overeenstemming met de bepalingen van deze Voorschriften gerechtigd is om een kleiner aantal reddingboten en andere reddingmiddelen aan boord te hebben dan in het certificaat is vermeld, mag door de Regering, persoon of organisatie bedoeld in [Voorschrift 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=12&z=2011-01-01&g=2011-01-01) of [13](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=13&z=2011-01-01&g=2011-01-01) van dit Hoofdstuk, een aanhangsel worden afgegeven.
 
 - (b). Dit aanhangsel moet vermelden, dat onder de gegeven omstandigheden de bepalingen van deze Voorschriften niet worden overtreden. Het moet aan het certificaat worden gehecht en vervangt het daarin vermelde voor wat de reddingmiddelen betreft. Het aanhangsel is slechts geldig voor de bepaalde reis waarvoor het is afgegeven.
 
 ##### Voorschrift 19. Controle
 
-- a. Elk schip is, wanneer het zich in een haven van een andere Verdragsluitende Regering bevindt, onderworpen aan controle door bevoegde ambtenaren van die Regering, voor zover deze controle erop is gericht zekerheid te hebben dat de ingevolge [Voorschrift 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=12&z=2010-07-01&g=2010-07-01) of [Voorschrift 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=13&z=2010-07-01&g=2010-07-01) afgegeven certificaten geldig zijn.
+- a. Elk schip is, wanneer het zich in een haven van een andere Verdragsluitende Regering bevindt, onderworpen aan controle door bevoegde ambtenaren van die Regering, voor zover deze controle erop is gericht zekerheid te hebben dat de ingevolge [Voorschrift 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=12&z=2011-01-01&g=2011-01-01) of [Voorschrift 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=13&z=2011-01-01&g=2011-01-01) afgegeven certificaten geldig zijn.
 
-- b. Indien zij geldig zijn, worden deze certificaten aanvaard, tenzij er gegronde redenen zijn om aan te nemen dat de toestand van het schip of van zijn uitrusting in belangrijke mate afwijkt van de gegevens van de certificaten of dat het schip en zijn uitrusting niet voldoen aan de bepalingen van [Voorschrift 11(a) en (b)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=11&z=2010-07-01&g=2010-07-01).
+- b. Indien zij geldig zijn, worden deze certificaten aanvaard, tenzij er gegronde redenen zijn om aan te nemen dat de toestand van het schip of van zijn uitrusting in belangrijke mate afwijkt van de gegevens van de certificaten of dat het schip en zijn uitrusting niet voldoen aan de bepalingen van [Voorschrift 11(a) en (b)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=11&z=2011-01-01&g=2011-01-01).
 
 - c. In de onder (b) genoemde omstandigheden of wanneer een certificaat is vervallen of opgehouden geldig te zijn, moet de controlerend ambtenaar stappen ondernemen ten einde te verzekeren dat het schip niet vertrekt totdat het zee kan kiezen of de haven kan verlaten ten einde zich te begeven naar de passende reparatiewerf, zonder gevaar voor het schip of de personen aan boord.
 
@@ -544,7 +544,7 @@ Op de voorrechten van dit Verdrag mag slechts aanspraak worden gemaakt ten behoe
 
 - .4. wordt onder **veranderingen en wijzigingen van ingrijpende aard**, in het kader van de waterdichte indeling en stabiliteit van een vrachtschip verstaan, elke wijziging van de constructie die van invloed is op het indelingsniveau van dat schip. Wanneer een vrachtschip een dergelijke wijziging ondergaat, moet worden aangetoond dat de voor dat schip berekende **A/R** ratio na deze wijzigingen niet geringer is dan de voor dat schip berekende **A/R** ratio vóór de wijziging. In die gevallen waarin de **A/R** ratio van het schip vóór wijziging evenwel gelijk is aan of groter is dan één, behoeft het schip na de wijziging slechts een **A**-waarde te hebben die niet geringer is dan **R**, berekend voor het gewijzigde schip.
 
-2. Tenzij uitdrukkelijk anders bepaald, draagt de Administratie er zorg voor dat schepen gebouwd voor 1 januari 2009 voldoen aan de voorschriften die van toepassing zijn krachtens [Hoofdstuk II-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&z=2010-07-01&g=2010-07-01) van het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974, zoals gewijzigd bij resoluties MSC.1(XLV), MSC.6(48), MSC.11(55), MSC.12(56), MSC.13(57), MSC.19(58), MSC.26(60), MSC.27(61), resolutie 1 van de SOLAS-Conferentie van 1995, MSC.47(66), MSC.57(67), MSC.65(68), MSC.69(69), MSC.99(73), MSC.134(76), MSC.151(78) en MSC.170(79).
+2. Tenzij uitdrukkelijk anders bepaald, draagt de Administratie er zorg voor dat schepen gebouwd voor 1 januari 2009 voldoen aan de voorschriften die van toepassing zijn krachtens [Hoofdstuk II-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&z=2011-01-01&g=2011-01-01) van het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974, zoals gewijzigd bij resoluties MSC.1(XLV), MSC.6(48), MSC.11(55), MSC.12(56), MSC.13(57), MSC.19(58), MSC.26(60), MSC.27(61), resolutie 1 van de SOLAS-Conferentie van 1995, MSC.47(66), MSC.57(67), MSC.65(68), MSC.69(69), MSC.99(73), MSC.134(76), MSC.151(78) en MSC.170(79).
 
 3. Alle schepen die reparaties, wijzigingen, veranderingen, alsmede de daarmee verband houdende aanpassing van de uitrusting ondergaan, moeten ten minste blijven voldoen aan de voorschriften die voordien op die schepen van toepassing waren. Schepen gebouwd vóór de datum waarop de desbetreffende wijzigingen in werking treden, moeten over het algemeen voldoen aan de voorschriften voor schepen gebouwd op of na die datum in ten minste dezelfde mate als voordat zij zodanige reparaties, wijzigingen, veranderingen, alsmede aanpassing van de uitrusting ondergingen. Reparaties, veranderingen en wijzigingen van ingrijpende aard, alsmede de daarmede verband houdende aanpassing van de uitrusting, moeten voldoen aan de voorschriften voor schepen gebouwd op of na de datum waarop de relevante wijzigingen in werking treden, voor zover de Administratie zulks redelijk en uitvoerbaar acht.
 
@@ -622,9 +622,9 @@ Tenzij uitdrukkelijk anders bepaald, wordt voor de toepassing van dit Hoofdstuk 
 
 - .2. wijzigingen van deel B van de Code worden aangenomen door de Maritieme Veiligheidscommissie in overeenstemming met haar reglement van orde.
 
-##### Voorschrift 3. Begripsomschrijvingen met betrekking tot de [delen C](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=C&z=2010-07-01&g=2010-07-01), [D](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&z=2010-07-01&g=2010-07-01) en [E](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=E&z=2010-07-01&g=2010-07-01)
+##### Voorschrift 3. Begripsomschrijvingen met betrekking tot de [delen C](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=C&z=2011-01-01&g=2011-01-01), [D](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&z=2011-01-01&g=2011-01-01) en [E](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=E&z=2011-01-01&g=2011-01-01)
 
-Voor de toepassing van de [delen C](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=C&z=2010-07-01&g=2010-07-01), [D](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&z=2010-07-01&g=2010-07-01) en [E](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=E&z=2010-07-01&g=2010-07-01), tenzij uitdrukkelijk anders bepaald, wordt verstaan onder:
+Voor de toepassing van de [delen C](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=C&z=2011-01-01&g=2011-01-01), [D](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&z=2011-01-01&g=2011-01-01) en [E](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=E&z=2011-01-01&g=2011-01-01), tenzij uitdrukkelijk anders bepaald, wordt verstaan onder:
 
 - 1. **Bedieningssysteem van de stuurinrichting**, de apparatuur waarmee orders van de brug naar de krachtwerktuigen van de stuurinrichting worden gezonden. Bedieningssystemen van de stuurinrichting omvatten zenders, ontvangers, hydraulische bedieningspompen en de bijbehorende motoren, motorbedieningsorganen, pijpleidingen en kabels.
 
@@ -690,7 +690,7 @@ Voor de toepassing van de [delen C](https://wetten.overheid.nl/jci1.3:c:BWBV0003
 
 ##### Voorschrift 3-1. Structurele, mechanische en elektrische vereisten voor schepen
 
-In aanvulling op de elders in de huidige voorschriften vervatte vereisten moeten schepen worden ontworpen, gebouwd en onderhouden overeenkomstig de structurele, mechanische en elektrische vereisten van een door de Administratie overeenkomstig de bepalingen van [voorschrift XI-1/1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-1&artikel=1&z=2010-07-01&g=2010-07-01) erkend classificatiebureau of overeenkomstig de toepasselijke nationale normen van de Administratie die resulteren in een vergelijkbaar veiligheidsniveau.
+In aanvulling op de elders in de huidige voorschriften vervatte vereisten moeten schepen worden ontworpen, gebouwd en onderhouden overeenkomstig de structurele, mechanische en elektrische vereisten van een door de Administratie overeenkomstig de bepalingen van [voorschrift XI-1/1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-1&artikel=1&z=2011-01-01&g=2011-01-01) erkend classificatiebureau of overeenkomstig de toepasselijke nationale normen van de Administratie die resulteren in een vergelijkbaar veiligheidsniveau.
 
 ##### Voorschrift 3-2. Beschermende coatings van specifieke zeewaterballasttanks op alle typen schepen en ruimten met dubbele zijhuid op bulkcarriers
 
@@ -702,15 +702,15 @@ In aanvulling op de elders in de huidige voorschriften vervatte vereisten moeten
 
 - .3. waarvan de oplevering plaatsvindt op of na 1 juli 2012.
 
-- 2. Alle specifieke zeewaterballasttanks op schepen en ruimten met dubbele zijhuid op bulkcarriers met een lengte van 150 m of meer, moeten tijdens de bouw worden gecoat, in overeenstemming met de prestatienorm voor beschermende coatings voor specifieke zeewaterballasttanks op alle typen schepen en ruimten met dubbele zijhuid van bulkcarriers, aangenomen door de Maritieme Veiligheidscommissie bij resolutie MSC.215(82), als door de Organisatie kan worden gewijzigd, op voorwaarde dat deze wijzigingen worden aangenomen, in werking worden gesteld en van kracht worden overeenkomstig het bepaalde in [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VIII&z=2010-07-01&g=2010-07-01) van dit Verdrag betreffende de wijzigingsprocedures die van toepassing zijn op de Bijlage, met uitzondering van [Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2010-07-01&g=2010-07-01).
+- 2. Alle specifieke zeewaterballasttanks op schepen en ruimten met dubbele zijhuid op bulkcarriers met een lengte van 150 m of meer, moeten tijdens de bouw worden gecoat, in overeenstemming met de prestatienorm voor beschermende coatings voor specifieke zeewaterballasttanks op alle typen schepen en ruimten met dubbele zijhuid van bulkcarriers, aangenomen door de Maritieme Veiligheidscommissie bij resolutie MSC.215(82), als door de Organisatie kan worden gewijzigd, op voorwaarde dat deze wijzigingen worden aangenomen, in werking worden gesteld en van kracht worden overeenkomstig het bepaalde in [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VIII&z=2011-01-01&g=2011-01-01) van dit Verdrag betreffende de wijzigingsprocedures die van toepassing zijn op de Bijlage, met uitzondering van [Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2011-01-01&g=2011-01-01).
 
-- 3. Alle specifieke zeewaterballasttanks, aangebracht op olietankschepen en bulkcarriers die zijn gebouwd op of na 1 juli 1998, waarvoor het tweede lid niet van toepassing is, moeten voldoen aan de eisen van [voorschrift II-1/3-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2010-07-01&g=2010-07-01), aangenomen bij resolutie MSC.47(66).
+- 3. Alle specifieke zeewaterballasttanks, aangebracht op olietankschepen en bulkcarriers die zijn gebouwd op of na 1 juli 1998, waarvoor het tweede lid niet van toepassing is, moeten voldoen aan de eisen van [voorschrift II-1/3-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2011-01-01&g=2011-01-01), aangenomen bij resolutie MSC.47(66).
 
 - 4. Het onderhoud van het beschermende coatingsysteem moet worden opgenomen in het algemene onderhoudsschema van het schip. De doeltreffendheid van het beschermende coatingsysteem wordt gedurende de levensduur van een schip door de Administratie of door een door de Administratie erkende organisatie gecontroleerd, op basis van de doorde Organisatie ontwikkelde richtsnoeren.
 
 ##### Voorschrift 3-3. Veilige toegang tot de boeg van tankschepen
 
-1. Voor de toepassing van dit voorschrift en [voorschrift 3-4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A-1&artikel=3-4&z=2010-07-01&g=2010-07-01) worden onder tankschepen verstaan olietankschepen als omschreven in [voorschrift 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=2&z=2010-07-01&g=2010-07-01), chemicaliëntankschepen als omschreven in [voorschrift VII/8.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=VII&deel=B&artikel=8&z=2010-07-01&g=2010-07-01) en gastankschepen als omschreven in [voorschrift VII/11.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=VII&deel=C&artikel=11&z=2010-07-01&g=2010-07-01).
+1. Voor de toepassing van dit voorschrift en [voorschrift 3-4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A-1&artikel=3-4&z=2011-01-01&g=2011-01-01) worden onder tankschepen verstaan olietankschepen als omschreven in [voorschrift 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=2&z=2011-01-01&g=2011-01-01), chemicaliëntankschepen als omschreven in [voorschrift VII/8.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=VII&deel=B&artikel=8&z=2011-01-01&g=2011-01-01) en gastankschepen als omschreven in [voorschrift VII/11.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=VII&deel=C&artikel=11&z=2011-01-01&g=2011-01-01).
 
 2. Ieder tankschip moet zijn uitgerust met middelen waarmee de bemanning ook onder zware weersomstandigheden veilig toegang kan verkrijgen tot de boeg. Deze toegangsmiddelen moeten door de Administratie overeenkomstig de door de Organisatie opgestelde richtsnoeren worden goedgekeurd.
 
@@ -754,29 +754,23 @@ In aanvulling op de elders in de huidige voorschriften vervatte vereisten moeten
 
 1. Dit voorschrift is van toepassing op materialen die worden gebruikt voor de constructie, machine-installaties, elektrische installaties en uitrusting waarop dit Verdrag van toepassing is.
 
-2. Voor alle schepen is de nieuwe installatie van materialen die asbest bevatten verboden, met uitzondering van:
-
-- .1. schoepen in roterende schoepcompressors en vacuümpompen met draaischoepen;
-
-- .2. waterdichte koppelingen en bekledingen gebruikt voor het laten circuleren van vloeistoffen wanneer, bij hoge temperatuur (boven 350 ºC) of druk (hoger dan 7 x 106 Pa), gevaar van brand, corrosie of toxiciteit bestaat; en
-
-- .3. soepele en flexibele thermische isolatievoorzieningen die worden gebruikt voor temperaturen boven 1000 ºC.
+2. Met ingang van 1 januari 2011 is voor alle schepen de nieuwe installatie van materialen die asbest bevatten verboden.
 
 ##### Voorschrift 3-6. Toegang tot en binnen ruimten in en voorwaarts van het ladinggedeelte van olietankschepen en bulkcarriers
 
 1. Toepasselijkheid
 
-- 1.1. Behoudens het in paragraaf 1.2 bepaalde is dit voorschrift van toepassing op olietankschepen met een brutotonnage van 500 ton en meer en bulkcarriers, als omschreven in [voorschrift IX/1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=1&z=2010-07-01&g=2010-07-01), met een brutotonnage van 20.000 ton en meer, gebouwd op of na 1 januari 2006.
+- 1.1. Behoudens het in paragraaf 1.2 bepaalde is dit voorschrift van toepassing op olietankschepen met een brutotonnage van 500 ton en meer en bulkcarriers, als omschreven in [voorschrift IX/1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=1&z=2011-01-01&g=2011-01-01), met een brutotonnage van 20.000 ton en meer, gebouwd op of na 1 januari 2006.
 
-- 1.2. Olietankschepen met een brutotonnage van 500 ton en meer, gebouwd op of na 1 oktober 1994, maar vóór 1 januari 2005, moeten voldoen aan de bepalingen van [voorschrift II-1/12-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-2&artikel=12&z=2010-07-01&g=2010-07-01), aangenomen bij resolutie MSC.27(61).
+- 1.2. Olietankschepen met een brutotonnage van 500 ton en meer, gebouwd op of na 1 oktober 1994, maar vóór 1 januari 2005, moeten voldoen aan de bepalingen van [voorschrift II-1/12-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-2&artikel=12&z=2011-01-01&g=2011-01-01), aangenomen bij resolutie MSC.27(61).
 
 2. Toegangsmiddelen voor laadruimen en andere ruimten
 
-- 2.1. Elke ruimte moet worden voorzien van een toegangsmiddel zodat de Administratie, de maatschappij, als omschreven in [voorschrift IX/1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=1&z=2010-07-01&g=2010-07-01), en de scheepsbemanning en indien nodig andere personen in staat zijn gedurende de levensduur van een schip globale en nadere inspecties en diktemetingen van de scheepsconstructie te verrichten. Deze toegangsmiddelen moeten voldoen aan de vereisten van paragraaf 5 en aan de technische bepalingen voor toegangsmiddelen voor inspecties, aangenomen door de Maritieme Veiligheidscommissie bij resolutie MSC.133(76), als kan worden gewijzigd door de Organisatie, op voorwaarde dat deze wijzigingen worden aangenomen, in werking worden gesteld en van kracht worden overeenkomstig de bepalingen van [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VIII&z=2010-07-01&g=2010-07-01) van dit Verdrag betreffende de wijzigingsprocedures die van toepassing zijn op de Bijlage, met uitzondering van [Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2010-07-01&g=2010-07-01).
+- 2.1. Elke ruimte moet worden voorzien van een toegangsmiddel zodat de Administratie, de maatschappij, als omschreven in [voorschrift IX/1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=1&z=2011-01-01&g=2011-01-01), en de scheepsbemanning en indien nodig andere personen in staat zijn gedurende de levensduur van een schip globale en nadere inspecties en diktemetingen van de scheepsconstructie te verrichten. Deze toegangsmiddelen moeten voldoen aan de vereisten van paragraaf 5 en aan de technische bepalingen voor toegangsmiddelen voor inspecties, aangenomen door de Maritieme Veiligheidscommissie bij resolutie MSC.133(76), als kan worden gewijzigd door de Organisatie, op voorwaarde dat deze wijzigingen worden aangenomen, in werking worden gesteld en van kracht worden overeenkomstig de bepalingen van [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VIII&z=2011-01-01&g=2011-01-01) van dit Verdrag betreffende de wijzigingsprocedures die van toepassing zijn op de Bijlage, met uitzondering van [Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2011-01-01&g=2011-01-01).
 
 - 2.2. Wanneer een permanent toegangsmiddel aan beschadiging kan blootstaan gedurende de normale laad- en losactiviteiten of wanneer het niet praktisch is een permanent toegangsmiddel te installeren, kan de Administratie, in plaats daarvan, toestaan dat een verplaatsbaar of draagbaar toegangsmiddel wordt gebruikt, als nader aangeduid in de technische bepalingen, mits het bevestigings-, montage-, ophangings- of ondersteuningsmiddel van het draagbare toegangsmiddel een vast onderdeel van de scheepsconstructie vormt. Alle draagbare uitrustingen moeten eenvoudig door de scheepsbemanning kunnen worden neergezet of ingezet.
 
-- 2.3. De constructie en materialen van alle toegangsmiddelen en de bevestiging ervan aan de scheepsconstructie moeten naar de tevredenheid van de Administratie zijn. De toegangsmiddelen worden voorafgaand aan, of in combinatie met, het gebruik ervan geïnspecteerd bij de inspecties die in overeenstemming met [voorschrift I/10](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=10&z=2010-07-01&g=2010-07-01) worden uitgevoerd.
+- 2.3. De constructie en materialen van alle toegangsmiddelen en de bevestiging ervan aan de scheepsconstructie moeten naar de tevredenheid van de Administratie zijn. De toegangsmiddelen worden voorafgaand aan, of in combinatie met, het gebruik ervan geïnspecteerd bij de inspecties die in overeenstemming met [voorschrift I/10](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=10&z=2011-01-01&g=2011-01-01) worden uitgevoerd.
 
 3. Veilige toegang tot laadruimen, ladingtanks, ballasttanks en andere ruimten
 
@@ -1613,7 +1607,7 @@ Op alle ro-ro passagiersschepen moet de kapitein of de aangewezen officier ervoo
 
 ##### Voorschrift 22. Voorkoming en beheersing van het binnendringen van water, enz.
 
-1. Alle waterdichte deuren moeten gesloten blijven tijdens de vaart, tenzij zij gedurende de vaart mogen worden geopend zoals bepaald in de paragrafen 3 en 4. Waterdichte deuren met een breedte van meer dan 1,2 m, in machineruimten toegelaten krachtens [voorschrift 13.10](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-2&artikel=13&z=2010-07-01&g=2010-07-01), mogen slechts onder de in dat voorschrift omschreven omstandigheden worden geopend. Elke deur die in overeenstemming met deze paragraaf wordt geopend, moet onmiddellijk kunnen worden gesloten.
+1. Alle waterdichte deuren moeten gesloten blijven tijdens de vaart, tenzij zij gedurende de vaart mogen worden geopend zoals bepaald in de paragrafen 3 en 4. Waterdichte deuren met een breedte van meer dan 1,2 m, in machineruimten toegelaten krachtens [voorschrift 13.10](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-2&artikel=13&z=2011-01-01&g=2011-01-01), mogen slechts onder de in dat voorschrift omschreven omstandigheden worden geopend. Elke deur die in overeenstemming met deze paragraaf wordt geopend, moet onmiddellijk kunnen worden gesloten.
 
 2. Onder het schottendek aangebrachte waterdichte deuren met een maximum openingsbreedte van meer dan 1,2 m, moeten gesloten blijven wanneer het schip op zee is, behalve indien strikt noodzakelijk, gedurende beperkte perioden vastgesteld door de Administratie.
 
@@ -1621,9 +1615,9 @@ Op alle ro-ro passagiersschepen moet de kapitein of de aangewezen officier ervoo
 
 4. Bepaalde waterdichte deuren mogen tijdens de vaart geopend blijven, doch slechts indien zulks strikt noodzakelijk wordt geacht; dat wil zeggen: indien is vastgesteld dat zulks van wezenlijk belang is voor de veilige en doeltreffende bediening van de machines van het schip of om de passagiers normaliter onbeperkt toegang te verlenen tot de voor passagiers toegankelijke ruimten. De vaststelling geschiedt door de Administratie na zorgvuldige afweging van de gevolgen voor de bedrijfsvoering en de veiligheid van het schip. Een waterdichte deur die aldus open mag blijven, moet duidelijk worden aangegeven in de stabiliteitsgegevens van het schip en altijd onmiddellijk kunnen worden gesloten.
 
-5. Wegneembare platen in schotten moeten altijd zijn aangebracht voordat het schip de haven verlaat en mogen tijdens de vaart niet worden verwijderd, behalve wanneer dit, naar het oordeel van de kapitein, dringend noodzakelijk is. Bij het opnieuw aanbrengen van platen moeten de nodige voorzorgen worden genomen die de waterdichte sluiting verzekeren. Werktuiglijk bediende waterdichte schuifdeuren die in overeenstemming met [voorschrift 13.10](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-2&artikel=13&z=2010-07-01&g=2010-07-01) in machineruimten zijn toegestaan, moeten worden gesloten voordat het schip de haven verlaat en tijdens de vaart gesloten blijven, behalve wanneer opening, naar het oordeel van de kapitein, dringend noodzakelijk is.
+5. Wegneembare platen in schotten moeten altijd zijn aangebracht voordat het schip de haven verlaat en mogen tijdens de vaart niet worden verwijderd, behalve wanneer dit, naar het oordeel van de kapitein, dringend noodzakelijk is. Bij het opnieuw aanbrengen van platen moeten de nodige voorzorgen worden genomen die de waterdichte sluiting verzekeren. Werktuiglijk bediende waterdichte schuifdeuren die in overeenstemming met [voorschrift 13.10](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-2&artikel=13&z=2011-01-01&g=2011-01-01) in machineruimten zijn toegestaan, moeten worden gesloten voordat het schip de haven verlaat en tijdens de vaart gesloten blijven, behalve wanneer opening, naar het oordeel van de kapitein, dringend noodzakelijk is.
 
-6. Waterdichte deuren aangebracht in waterdichte schotten die tussendekslaadruimten van elkaar scheiden in overeenstemming met [voorschrift 13.9.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-2&artikel=13&z=2010-07-01&g=2010-07-01), moeten worden gesloten voordat de reis begint en tijdens de vaart gesloten blijven; de tijdstippen waarop deze deuren in de haven worden geopend en voordat het schip de haven verlaat worden gesloten, moeten in het logboek worden vermeld.
+6. Waterdichte deuren aangebracht in waterdichte schotten die tussendekslaadruimten van elkaar scheiden in overeenstemming met [voorschrift 13.9.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-2&artikel=13&z=2011-01-01&g=2011-01-01), moeten worden gesloten voordat de reis begint en tijdens de vaart gesloten blijven; de tijdstippen waarop deze deuren in de haven worden geopend en voordat het schip de haven verlaat worden gesloten, moeten in het logboek worden vermeld.
 
 7. Onder het schottendek aangebrachte toegangs-, laad- en brandstofpoorten moeten voordat het schip de haven verlaat afdoende gesloten en waterdicht vergrendeld worden en tijdens de vaart gesloten blijven.
 
@@ -1647,7 +1641,7 @@ Op alle ro-ro passagiersschepen moet de kapitein of de aangewezen officier ervoo
 
 13. Draaideuren, afneembare platen, patrijspoorten, toegangs-, laad- en bunkerpoorten en andere openingen die op grond van deze voorschriften gedurende de vaart gesloten moeten blijven, moeten, voordat het schip de haven verlaat, worden gesloten. De tijdstippen van sluiten en openen (indien openen volgens deze voorschriften geoorloofd is) moeten in een door de Administratie aangewezen logboek worden aangetekend.
 
-14. Indien op een tussendek de onderkant van de dagopening van een patrijspoort, bedoeld in [voorschrift 15.3.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-2&artikel=15&z=2010-07-01&g=2010-07-01), lager is gelegen dan een lijn die evenwijdig loopt aan het schottendek op het scheepsboord en die haar laagste punt heeft op een hoogte van 1,4 meter, vermeerderd met 2,5% van de breedte van het schip boven het water wanneer het schip uit een haven vertrekt, moeten alle patrijspoorten op dat tussendek, vóór het schip de haven verlaat, waterdicht zijn gesloten en vastgezet en mogen zij niet worden geopend voordat het schip in de volgende haven is aangekomen. Bij toepassing van deze paragraaf mag, zo nodig, met de grotere diepgang in zoet water rekening worden gehouden.
+14. Indien op een tussendek de onderkant van de dagopening van een patrijspoort, bedoeld in [voorschrift 15.3.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-2&artikel=15&z=2011-01-01&g=2011-01-01), lager is gelegen dan een lijn die evenwijdig loopt aan het schottendek op het scheepsboord en die haar laagste punt heeft op een hoogte van 1,4 meter, vermeerderd met 2,5% van de breedte van het schip boven het water wanneer het schip uit een haven vertrekt, moeten alle patrijspoorten op dat tussendek, vóór het schip de haven verlaat, waterdicht zijn gesloten en vastgezet en mogen zij niet worden geopend voordat het schip in de volgende haven is aangekomen. Bij toepassing van deze paragraaf mag, zo nodig, met de grotere diepgang in zoet water rekening worden gehouden.
 
 - .1. Het tijdstip waarop dergelijke patrijspoorten in de haven geopend, alsmede het tijdstip waarop zij, vóór het schip een haven verlaat, vergrendeld worden, moeten in een door de Administratie voorgeschreven logboek worden aangetekend.
 
@@ -1655,9 +1649,9 @@ Op alle ro-ro passagiersschepen moet de kapitein of de aangewezen officier ervoo
 
 15. Patrijspoorten en hun blinden die gedurende de vaart niet bereikbaar zijn, moeten, vóór het schip de haven verlaat, gesloten en geborgd zijn.
 
-16. Indien lading in de in [voorschrift 15.5.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-2&artikel=15&z=2010-07-01&g=2010-07-01) bedoelde ruimten wordt vervoerd, moeten de patrijspoorten en hun blinden waterdicht worden gesloten en vergrendeld vóór de lading is ingenomen en het sluiten en vastzetten moet in het door de Administratie aangewezen logboek worden aangetekend.
+16. Indien lading in de in [voorschrift 15.5.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-2&artikel=15&z=2011-01-01&g=2011-01-01) bedoelde ruimten wordt vervoerd, moeten de patrijspoorten en hun blinden waterdicht worden gesloten en vergrendeld vóór de lading is ingenomen en het sluiten en vastzetten moet in het door de Administratie aangewezen logboek worden aangetekend.
 
-17. Wanneer afvalstortkokers etc., niet in gebruik zijn, moeten de krachtens [voorschrift 15.10.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-2&artikel=15&z=2010-07-01&g=2010-07-01) vereiste deksels en kleppen gesloten en geborgd blijven.
+17. Wanneer afvalstortkokers etc., niet in gebruik zijn, moeten de krachtens [voorschrift 15.10.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-2&artikel=15&z=2011-01-01&g=2011-01-01) vereiste deksels en kleppen gesloten en geborgd blijven.
 
 ##### Voorschrift 23. Bijzondere vereisten voor ro-ro passagiersschepen
 
@@ -1669,7 +1663,7 @@ Op alle ro-ro passagiersschepen moet de kapitein of de aangewezen officier ervoo
 
 4. De kapitein dient erop toe te zien dat er een doeltreffend toezicht- en meldingssysteem voor het sluiten en openen van de in paragraaf 3 genoemde toegangen wordt gebruikt.
 
-5. De kapitein moet, voordat het schip de aanlegplaats op een reis verlaat, erop toezien dat, overeenkomstig [voorschrift 22.13](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-4&artikel=22&z=2010-07-01&g=2010-07-01), het tijdstip waarop de in paragraaf 3 bedoelde toegangen voor het laatst zijn gesloten in het logboek wordt geregistreerd.
+5. De kapitein moet, voordat het schip de aanlegplaats op een reis verlaat, erop toezien dat, overeenkomstig [voorschrift 22.13](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-4&artikel=22&z=2011-01-01&g=2011-01-01), het tijdstip waarop de in paragraaf 3 bedoelde toegangen voor het laatst zijn gesloten in het logboek wordt geregistreerd.
 
 6. Onverminderd de vereisten van paragraaf 3, kan de Administratie toestaan dat sommige toegangen gedurende de reis geopend worden, maar slechts zolang voor doorgang nodig is of, indien vereist, essentieel voor de bedrijfsvoering van het schip.
 
@@ -1723,7 +1717,7 @@ Op alle ro-ro passagiersschepen moet de kapitein of de aangewezen officier ervoo
 
 - .2. worden aangebracht aan het achterste einde van het ruim, of boven het laagste deel ervan wanneer de binnenbodem niet parallel aan de ontwerplastlijn loopt. Wanneer boven de binnenbodem spanten of gedeeltelijk waterdichte schotten zijn aangebracht, kan de Administratie verlangen dat aanvullende detectoren worden aangebracht.
 
-4. De in paragraaf 2 vereiste waterniveaudetectoren behoeven niet te worden aangebracht op schepen die voldoen aan [voorschrift 12 van Hoofdstuk XII](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=12&z=2010-07-01&g=2010-07-01), of op schepen met aan elke zijde van het laadruim over de hele lengte waterdichte zijafdelingen die verticaal ten minste van de binnenbodem tot aan het vrijboorddek zijn opgetrokken.
+4. De in paragraaf 2 vereiste waterniveaudetectoren behoeven niet te worden aangebracht op schepen die voldoen aan [voorschrift 12 van Hoofdstuk XII](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=12&z=2011-01-01&g=2011-01-01), of op schepen met aan elke zijde van het laadruim over de hele lengte waterdichte zijafdelingen die verticaal ten minste van de binnenbodem tot aan het vrijboorddek zijn opgetrokken.
 
 ## DEEL B-1. waterdichte indeling en stabiliteit van vrachtschepen in beschadigde toestand*De Maritieme Veiligheidscommissie heeft, bij de aanneming van de in deel B-1 vervatte voorschriften, de Administraties verzocht er nota van te nemen dat de voorschriften dienen te worden toegepast in samenhang met de toelichtende opmerkingen opgesteld door de Organisatie ten einde de eenvormige toepassing ervan te verzekeren.
 
@@ -1966,7 +1960,7 @@ De Administratie kan echter, met inachtneming van de algehele veiligheid, genoeg
 
 8. Speciale aandacht dient te worden gegeven aan het ontwerp, de constructie en installatie van voortstuwingssystemen opdat trillingen hierin tijdens normaal gebruik geen bovenmatige spanningen veroorzaken.
 
-9. Niet-metalen expansieverbindingsstukken in leidingsystemen, indien door het scheepsboord gevoerd waarbij zowel de doorvoering als het niet-metalen expansieverbindingsstuk zich onder de hoogst gelegen lastlijn bevinden, moeten worden geïnspecteerd in het kader van de in [voorschrift I/10(a)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=10&z=2010-07-01&g=2010-07-01) voorgeschreven onderzoeken en zonodig worden vervangen, of zo vaak worden vervangen als aanbevolen door de fabrikant.
+9. Niet-metalen expansieverbindingsstukken in leidingsystemen, indien door het scheepsboord gevoerd waarbij zowel de doorvoering als het niet-metalen expansieverbindingsstuk zich onder de hoogst gelegen lastlijn bevinden, moeten worden geïnspecteerd in het kader van de in [voorschrift I/10(a)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=10&z=2011-01-01&g=2011-01-01) voorgeschreven onderzoeken en zonodig worden vervangen, of zo vaak worden vervangen als aanbevolen door de fabrikant.
 
 10. Bedienings- en onderhoudsinstructies en technische tekeningen van de werktuigkundige installaties en uitrusting van het schip die essentieel zijn voor de veilige bedrijfsvoering aan boord moeten zijn opgesteld in een taal die begrijpelijk is voor de officieren en bemanningsleden die deze informatie moeten begrijpen voor de uitvoering van hun taken.
 
@@ -2138,11 +2132,11 @@ Een elektrische of elektro-hydraulische hulpstuurinrichting behorende tot een el
 
 3. Deze stroomkringen en motoren dienen van een kortsluitbeveiliging en een overbelastingsalarm te zijn voorzien. Beveiliging tegen te hoge stroomsterkte, met inbegrip van de aanloopstroom, indien van toepassing, dient te beschermen tegen ten minste tweemaal de vollaststroomsterkte van de motor of de stroomkring die hierdoor wordt beveiligd en moet zodanig zijn uitgevoerd dat deze bij de gebruikelijke aanloopstroom niet aanspreekt.
 
-Indien driefasenvoeding wordt toegepast, dient er een alarm aanwezig te zijn dat het uitvallen van één van de voedingsfasen aangeeft. De in deze paragraaf vereiste alarmen dienen zowel hoorbaar als zichtbaar te zijn en zich te bevinden op een duidelijk waarneembare plaats in de hoofdmachinekamer of het controlestation van waaruit de hoofdmachine-installatie normaal wordt bediend, zulks zoals kan worden vereist ingevolge het bepaalde in [Voorschrift 51](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=E&artikel=51&z=2010-07-01&g=2010-07-01).
+Indien driefasenvoeding wordt toegepast, dient er een alarm aanwezig te zijn dat het uitvallen van één van de voedingsfasen aangeeft. De in deze paragraaf vereiste alarmen dienen zowel hoorbaar als zichtbaar te zijn en zich te bevinden op een duidelijk waarneembare plaats in de hoofdmachinekamer of het controlestation van waaruit de hoofdmachine-installatie normaal wordt bediend, zulks zoals kan worden vereist ingevolge het bepaalde in [Voorschrift 51](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=E&artikel=51&z=2011-01-01&g=2011-01-01).
 
-4. Indien op een schip van minder dan 1600 ton de hulpstuurinrichting, die ingevolge [Voorschrift 29.4.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=C&artikel=29&z=2010-07-01&g=2010-07-01) werktuiglijk moet worden aangedreven, niet elektrisch wordt aangedreven of wordt aangedreven door een elektromotor die in de eerste plaats voor andere doeleinden is bestemd, mag de hoofdstuurinrichting worden gevoed door slechts één stroomkring vanaf het hoofdschakelbord.
+4. Indien op een schip van minder dan 1600 ton de hulpstuurinrichting, die ingevolge [Voorschrift 29.4.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=C&artikel=29&z=2011-01-01&g=2011-01-01) werktuiglijk moet worden aangedreven, niet elektrisch wordt aangedreven of wordt aangedreven door een elektromotor die in de eerste plaats voor andere doeleinden is bestemd, mag de hoofdstuurinrichting worden gevoed door slechts één stroomkring vanaf het hoofdschakelbord.
 
-In die gevallen waarin een elektro-motor die in de eerste plaats voor andere doeleinden is bedoeld, wordt toegepast om zulk een hulpstuurinrichting aan te drijven, kan de Administratie vrijstelling verlenen van de eisen gesteld in paragraaf 3, indien zij zich kan verenigen met de beveiligingsvoorzieningen en tot haar genoegen is voldaan aan de vereisten vervat in [Voorschrift 29.5.1 en .2 en 29.7.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=C&artikel=29&z=2010-07-01&g=2010-07-01) ter zake van de hulpstuurinrichting.
+In die gevallen waarin een elektro-motor die in de eerste plaats voor andere doeleinden is bedoeld, wordt toegepast om zulk een hulpstuurinrichting aan te drijven, kan de Administratie vrijstelling verlenen van de eisen gesteld in paragraaf 3, indien zij zich kan verenigen met de beveiligingsvoorzieningen en tot haar genoegen is voldaan aan de vereisten vervat in [Voorschrift 29.5.1 en .2 en 29.7.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=C&artikel=29&z=2011-01-01&g=2011-01-01) ter zake van de hulpstuurinrichting.
 
 ##### Voorschrift 31. Bediening van de werktuiglijke installaties
 
@@ -2258,7 +2252,7 @@ Er moet een alarm voor werktuigkundigen aanwezig zijn dat wordt bediend hetzij v
 
 ##### Voorschrift 39. Plaatsing van noodinstallaties op passagiersschepen
 
-De elektrische noodkrachtbron, brandbluspompen, lenspompen - met uitzondering van lenspompen die alleen de ruimten gelegen vóór het aanvaringsschot bedienen -, elke vast aangebrachte brandblusinstallatie vereist krachtens [Hoofdstuk II-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&z=2010-07-01&g=2010-07-01) en andere noodinstallaties die onmisbaar zijn voor de veiligheid van het schip, met uitzondering van ankerspillen, mogen niet voorlijk van het aanvaringsschot worden opgesteld.
+De elektrische noodkrachtbron, brandbluspompen, lenspompen - met uitzondering van lenspompen die alleen de ruimten gelegen vóór het aanvaringsschot bedienen -, elke vast aangebrachte brandblusinstallatie vereist krachtens [Hoofdstuk II-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&z=2011-01-01&g=2011-01-01) en andere noodinstallaties die onmisbaar zijn voor de veiligheid van het schip, met uitzondering van ankerspillen, mogen niet voorlijk van het aanvaringsschot worden opgesteld.
 
 ## DEEL D. - ELEKTRISCHE INSTALLATIES
 
@@ -2324,9 +2318,9 @@ De elektrische noodkrachtbron, brandbluspompen, lenspompen - met uitzondering va
 
 - 2.1. Gedurende 36 uur aan de noodverlichting:
 
-- 1. bij elke appelplaats en elk inschepingsstation en buitenboord zoals vereist volgens de [Voorschriften III/11.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=11&z=2010-07-01&g=2010-07-01) en [III/15.7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=15&z=2010-07-01&g=2010-07-01)
+- 1. bij elke appelplaats en elk inschepingsstation en buitenboord zoals vereist volgens de [Voorschriften III/11.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=11&z=2011-01-01&g=2011-01-01) en [III/15.7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=15&z=2011-01-01&g=2011-01-01)
 
-- 2. in de gangen, bij de trappen en uitgangen die toegang geven tot de appelplaatsen en inschepingsstations, zoals vereist volgens [Voorschrift III/11.5](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=11&z=2010-07-01&g=2010-07-01)
+- 2. in de gangen, bij de trappen en uitgangen die toegang geven tot de appelplaatsen en inschepingsstations, zoals vereist volgens [Voorschrift III/11.5](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=11&z=2011-01-01&g=2011-01-01)
 
 - 3. in alle gangen, bij alle trappen en uitgangen en in de kooien van personenliften in dienstruimten en in ruimten voor accommodatie;
 
@@ -2344,19 +2338,19 @@ De elektrische noodkrachtbron, brandbluspompen, lenspompen - met uitzondering va
 
 - .1. aan de navigatielichten en aan andere lichten vereist ingevolge de van kracht zijnde [Internationale Bepalingen ter voorkoming van aanvaringen op zee](https://wetten.overheid.nl/jci1.3:c:BWBV0001014); en
 
-- .2. op schepen die op of na 1 februari 1995 zijn gebouwd, aan de VHF-radio-installatie vereist ingevolge [Voorschrift IV/7.1.1 en IV/7.1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2010-07-01&g=2010-07-01); en, indien van toepassing:
+- .2. op schepen die op of na 1 februari 1995 zijn gebouwd, aan de VHF-radio-installatie vereist ingevolge [Voorschrift IV/7.1.1 en IV/7.1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2011-01-01&g=2011-01-01); en, indien van toepassing:
 
-- .2.1. aan de MF-radio-installatie vereist ingevolge de [Voorschriften IV/9.1.1, IV/9.1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=9&z=2010-07-01&g=2010-07-01), [IV/10.1.2 en IV/10.1.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=10&z=2010-07-01&g=2010-07-01);
+- .2.1. aan de MF-radio-installatie vereist ingevolge de [Voorschriften IV/9.1.1, IV/9.1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=9&z=2011-01-01&g=2011-01-01), [IV/10.1.2 en IV/10.1.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=10&z=2011-01-01&g=2011-01-01);
 
-- .2.2. aan het scheepssatellietstation vereist ingevolge [Voorschrift IV/10.1.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=10&z=2010-07-01&g=2010-07-01); en
+- .2.2. aan het scheepssatellietstation vereist ingevolge [Voorschrift IV/10.1.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=10&z=2011-01-01&g=2011-01-01); en
 
-- .2.3. aan de MF/HF-radio-installatie vereist ingevolge de [Voorschriften IV/10.2.1, IV/10.2.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=10&z=2010-07-01&g=2010-07-01) en [IV/11/1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=11&z=2010-07-01&g=2010-07-01).
+- .2.3. aan de MF/HF-radio-installatie vereist ingevolge de [Voorschriften IV/10.2.1, IV/10.2.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=10&z=2011-01-01&g=2011-01-01) en [IV/11/1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=11&z=2011-01-01&g=2011-01-01).
 
 - 2.3. Gedurende 36 uur aan:
 
 - 1. alle interne communicatiemiddelen welke in geval van nood zijn vereist;
 
-- 2. de navigatiemiddelen aan boord van het schip als vereist krachtens [Voorschrift V/12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=12&z=2010-07-01&g=2010-07-01); waar het niet redelijk of onuitvoerbaar is zodanige voorzieningen te treffen, kan de Administratie voor schepen kleiner dan 5000 ton bruto afzien van deze eisen;
+- 2. de navigatiemiddelen aan boord van het schip als vereist krachtens [Voorschrift V/12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=12&z=2011-01-01&g=2011-01-01); waar het niet redelijk of onuitvoerbaar is zodanige voorzieningen te treffen, kan de Administratie voor schepen kleiner dan 5000 ton bruto afzien van deze eisen;
 
 - 3. de brandontdekkings- en brandalarminstallatie en het vasthoud- en sluitsysteem van de brandwerende deuren; en
 
@@ -2364,17 +2358,17 @@ De elektrische noodkrachtbron, brandbluspompen, lenspompen - met uitzondering va
 
 - 2.4. Gedurende 36 uur aan:
 
-- 1. een van de krachtens [Voorschrift II-2/4.3.1 en 4.3.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=B&artikel=4&z=2010-07-01&g=2010-07-01) vereiste brandbluspompen;
+- 1. een van de krachtens [Voorschrift II-2/4.3.1 en 4.3.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=B&artikel=4&z=2011-01-01&g=2011-01-01) vereiste brandbluspompen;
 
 - 2. de automatische sprinklerpomp, indien aanwezig; en
 
 - 3. de noodlenspomp en alle installaties die essentieel zijn voor de werking van elektrisch bekrachtigde, op afstand bedienbare lensafsluiters.
 
-- 2.5. Gedurende de krachtens [Voorschrift 29.14](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=C&artikel=29&z=2010-07-01&g=2010-07-01) vereiste tijd aan de stuurinrichting, indien krachtens dit Voorschrift wordt verlangd dat deze aldus wordt gevoed.
+- 2.5. Gedurende de krachtens [Voorschrift 29.14](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=C&artikel=29&z=2011-01-01&g=2011-01-01) vereiste tijd aan de stuurinrichting, indien krachtens dit Voorschrift wordt verlangd dat deze aldus wordt gevoed.
 
 - 2.6. Gedurende een half uur aan:
 
-- 1. alle waterdichte deuren die krachtens [Voorschrift 15](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-2&artikel=15&z=2010-07-01&g=2010-07-01) werktuiglijk moeten worden bediend, alsmede de standaanwijzers hiervoor en de bijbehorende waarschuwingssignalen;
+- 1. alle waterdichte deuren die krachtens [Voorschrift 15](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-2&artikel=15&z=2011-01-01&g=2011-01-01) werktuiglijk moeten worden bediend, alsmede de standaanwijzers hiervoor en de bijbehorende waarschuwingssignalen;
 
 - 2. de noodvoorzieningen om de liftkooien naar dek-hoogte te brengen zodat mensen hieruit kunnen ontsnappen. De kooien van passagiersliften moeten in geval van nood na elkaar op dekniveau worden gebracht.
 
@@ -2410,7 +2404,7 @@ De elektrische noodkrachtbron, brandbluspompen, lenspompen - met uitzondering va
 
 - 2. alle volgens paragraaf 2.3.1, 2.3.3 en 2.3.4 vereiste diensten, tenzij deze diensten gedurende bedoelde tijdsduur onafhankelijk worden gevoed door een accumulatorenbatterij opgesteld op een voor noodgebruik geschikte plaats.
 
-- 4.2. kracht voor het bewegen van waterdichte deuren, als voorgeschreven door [voorschrift 15, lid 7.3.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-2&artikel=15&z=2010-07-01&g=2010-07-01), hoewel gelijktijdig sluiten van alle deuren niet noodzakelijk is, tenzij is voorzien in een onafhankelijke tijdelijke bron van opgeslagen energie; de stroomkringen voor de bediening van de standaanwijzing en alarmering als vereist in voorschrift 15, lid 7.2, gedurende een halfuur.
+- 4.2. kracht voor het bewegen van waterdichte deuren, als voorgeschreven door [voorschrift 15, lid 7.3.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-2&artikel=15&z=2011-01-01&g=2011-01-01), hoewel gelijktijdig sluiten van alle deuren niet noodzakelijk is, tenzij is voorzien in een onafhankelijke tijdelijke bron van opgeslagen energie; de stroomkringen voor de bediening van de standaanwijzing en alarmering als vereist in voorschrift 15, lid 7.2, gedurende een halfuur.
 
 5.1. Het noodschakelbord dient zo dicht bij de elektrische noodkrachtbron te zijn aangebracht als praktisch mogelijk is.
 
@@ -2428,9 +2422,9 @@ De elektrische noodkrachtbron, brandbluspompen, lenspompen - met uitzondering va
 
 ##### Voorschrift 42-1. Extra noodverlichting voor ro/ro-passagiersschepen
 
-(Dit voorschrift is van toepassing op alle passagiersschepen met ro/ro-laadruimten of ruimten van bijzondere aard zoals omschreven in [voorschrift II-2/3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=A&artikel=3&z=2010-07-01&g=2010-07-01), met dien verstande dat dit voorschrift uiterlijk 22 oktober 1990 van toepassing is op schepen gebouwd vóór 22 oktober 1989).
+(Dit voorschrift is van toepassing op alle passagiersschepen met ro/ro-laadruimten of ruimten van bijzondere aard zoals omschreven in [voorschrift II-2/3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=A&artikel=3&z=2011-01-01&g=2011-01-01), met dien verstande dat dit voorschrift uiterlijk 22 oktober 1990 van toepassing is op schepen gebouwd vóór 22 oktober 1989).
 
-Behalve de noodverlichting vereist krachtens [voorschrift 42.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&artikel=42&z=2010-07-01&g=2010-07-01) op elk passagiersschip met ro/ro-laadruimten of ruimten van bijzondere aard zoals omschreven in [voorschrift II-2/3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=A&artikel=3&z=2010-07-01&g=2010-07-01):
+Behalve de noodverlichting vereist krachtens [voorschrift 42.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&artikel=42&z=2011-01-01&g=2011-01-01) op elk passagiersschip met ro/ro-laadruimten of ruimten van bijzondere aard zoals omschreven in [voorschrift II-2/3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=A&artikel=3&z=2011-01-01&g=2011-01-01):
 
 - .1. dienen alle passagiersruimten voor algemeen gebruik en alle gangen te zijn voorzien van extra noodverlichting die ten minste drie uur kan branden wanneer alle andere elektrische krachtbronnen zijn uitgevallen en ongeacht de mate van slagzij. De verlichting moet zodanig zijn dat de toegang tot de reddingmiddelen goed zichtbaar is. De krachtbron voor de extra verlichting dient te bestaan uit accumulatorbatterijen geplaatst binnen de verlichtingseenheden die, wanneer uitvoerbaar, voortdurend worden geladen vanaf het noodschakelbord. In plaats daarvan kan elke andere wijze van verlichting die ten minste even doeltreffend is door de Administratie worden aanvaard. De extra verlichting moet zodanig zijn dat het uitvallen van de lamp onmiddellijk blijkt. De accumulatorbatterijen moeten met geregelde tussenpozen worden vervangen met inachtneming van de aangegeven gebruiksduur onder de omgevingsvoorwaarden waaraan zij in het gebruik zijn onderworpen; en
 
@@ -2448,7 +2442,7 @@ Behalve de noodverlichting vereist krachtens [voorschrift 42.2](https://wetten.o
 
 2. Het beschikbare elektrische vermogen moet voldoende zijn om stroom te leveren aan al die diensten die in geval van nood essentieel zijn voor de veiligheid, waarbij naar behoren rekening moet worden gehouden met die diensten die te gelijker tijd in bedrijf moeten kunnen zijn. De elektrische noodkrachtbron moet in staat zijn om, rekening houdend met aanloopstromen en de tijdelijke aard van bepaalde belastingen, te gelijker tijd, gedurende de hierna aangegeven tijd, stroom te leveren aan ten minste de volgende diensten, indien deze voor hun werking afhankelijk zijn van een elektrische krachtbron:
 
-- 2.1. Gedurende 3 uur aan de noodverlichting bij elke appelplaats en elk inschepingsstation en buitenboord, zoals vereist volgens de [Voorschriften III/11.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=11&z=2010-07-01&g=2010-07-01) en [III/15.7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=15&z=2010-07-01&g=2010-07-01).
+- 2.1. Gedurende 3 uur aan de noodverlichting bij elke appelplaats en elk inschepingsstation en buitenboord, zoals vereist volgens de [Voorschriften III/11.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=11&z=2011-01-01&g=2011-01-01) en [III/15.7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=15&z=2011-01-01&g=2011-01-01).
 
 - 2.2. Gedurende 18 uur aan de noodverlichting:
 
@@ -2470,27 +2464,27 @@ Behalve de noodverlichting vereist krachtens [voorschrift 42.2](https://wetten.o
 
 - .1. aan de navigatielichten en aan andere lichten vereist ingevolge de van kracht zijnde [Internationale Bepalingen ter voorkoming van aanvaringen op zee](https://wetten.overheid.nl/jci1.3:c:BWBV0001014); en
 
-- .2. op schepen die op of na 1 februari 1995 zijn gebouwd, aan de VHF-radio-installatie vereist ingevolge [Voorschrift IV/7.1.1 en IV/7.1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2010-07-01&g=2010-07-01); en, indien van toepassing:
+- .2. op schepen die op of na 1 februari 1995 zijn gebouwd, aan de VHF-radio-installatie vereist ingevolge [Voorschrift IV/7.1.1 en IV/7.1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2011-01-01&g=2011-01-01); en, indien van toepassing:
 
-- .2.1. aan de MF-radio-installatie vereist ingevolge de [Voorschriften IV/9.1.1, IV/9.1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=9&z=2010-07-01&g=2010-07-01), [IV/10.1.2 en IV/10.1.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=10&z=2010-07-01&g=2010-07-01);
+- .2.1. aan de MF-radio-installatie vereist ingevolge de [Voorschriften IV/9.1.1, IV/9.1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=9&z=2011-01-01&g=2011-01-01), [IV/10.1.2 en IV/10.1.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=10&z=2011-01-01&g=2011-01-01);
 
-- .2.2. aan het scheepssatellietstation vereist ingevolge [Voorschrift IV/10.1.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=10&z=2010-07-01&g=2010-07-01); en
+- .2.2. aan het scheepssatellietstation vereist ingevolge [Voorschrift IV/10.1.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=10&z=2011-01-01&g=2011-01-01); en
 
-- .2.3. aan de MF/HF-radioinstallatie vereist ingevolge de [Voorschriften IV/10.2.1, IV/10.2.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=10&z=2010-07-01&g=2010-07-01) en [IV/11/1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=11&z=2010-07-01&g=2010-07-01).
+- .2.3. aan de MF/HF-radioinstallatie vereist ingevolge de [Voorschriften IV/10.2.1, IV/10.2.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=10&z=2011-01-01&g=2011-01-01) en [IV/11/1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=11&z=2011-01-01&g=2011-01-01).
 
 - 2.4. Gedurende 18 uur aan:
 
 - 1. alle interne communicatiemiddelen welke in geval van nood zijn vereist;
 
-- 2. de navigatiemiddelen aan boord van het schip als vereist krachtens [Voorschrift V/12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=12&z=2010-07-01&g=2010-07-01); waar het niet redelijk of uitvoerbaar is zodanige voorzieningen te treffen, kan de Administratie voor schepen kleiner dan 5000 ton bruto afzien van deze eisen;
+- 2. de navigatiemiddelen aan boord van het schip als vereist krachtens [Voorschrift V/12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=12&z=2011-01-01&g=2011-01-01); waar het niet redelijk of uitvoerbaar is zodanige voorzieningen te treffen, kan de Administratie voor schepen kleiner dan 5000 ton bruto afzien van deze eisen;
 
 - 3. de brandontdekkings- en brandalarminstallatie; en
 
 - 4. het intermitterend gebruik van de dagseinlamp, de scheepsfluit, de met de hand te bedienen meldingspunten en alle interne signaleringen welke in geval van nood zijn vereist; tenzij deze diensten voor een periode van 18 uur onafhankelijk worden gevoed door een accumulatorenbatterij, opgesteld op een voor noodgebruik geschikte plaats.
 
-- 2.5. Gedurende 18 uur aan één van de krachtens [Voorschrift II-2/ 4.3.1 en 4.3.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=A&artikel=3&z=2010-07-01&g=2010-07-01) vereiste brandbluspompen, indien deze voor zijn krachtvoorziening afhankelijk is van de noodgenerator.
+- 2.5. Gedurende 18 uur aan één van de krachtens [Voorschrift II-2/ 4.3.1 en 4.3.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=A&artikel=3&z=2011-01-01&g=2011-01-01) vereiste brandbluspompen, indien deze voor zijn krachtvoorziening afhankelijk is van de noodgenerator.
 
-- 2.6.1. Gedurende de krachtens [Voorschrift 29.14](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=C&artikel=29&z=2010-07-01&g=2010-07-01) vereiste tijd aan de stuurinrichting, indien krachtens dit Voorschrift wordt verlangd dat deze aldus wordt gevoed.
+- 2.6.1. Gedurende de krachtens [Voorschrift 29.14](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=C&artikel=29&z=2011-01-01&g=2011-01-01) vereiste tijd aan de stuurinrichting, indien krachtens dit Voorschrift wordt verlangd dat deze aldus wordt gevoed.
 
 - 2.6.2. Op een schip dat regelmatig voor korte reizen wordt gebruikt kan de Administratie, indien te haren genoegen is aangetoond dat een voldoende mate van veiligheid zou worden bereikt, een tijdsduur van minder dan de in paragraaf 2.2 tot 2.5 aangeduide 18 uur, maar van niet minder dan 12 uur aanvaarden.
 
@@ -2616,7 +2610,7 @@ De bron van geaccumuleerde energie moet worden beschermd om te voorkomen dat dez
 
 5.6. Aansluitingen en aftakkingen van alle leidingen dienen zodanig te zijn vervaardigd dat de oorspronkelijke elektrische, mechanische, vlamvertragende en, waar nodig, brandwerende eigenschappen van de kabel behouden blijven.
 
-6.1. Iedere afzonderlijke stroomkring dient te zijn beveiligd tegen kortsluiting en tegen overbelasting, behalve als toegestaan ingevolge [Voorschrift 29](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=C&artikel=29&z=2010-07-01&g=2010-07-01) en [30](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=C&artikel=30&z=2010-07-01&g=2010-07-01), of wanneer de Administratie bij wijze van uitzondering anderszins toestaat.
+6.1. Iedere afzonderlijke stroomkring dient te zijn beveiligd tegen kortsluiting en tegen overbelasting, behalve als toegestaan ingevolge [Voorschrift 29](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=C&artikel=29&z=2011-01-01&g=2011-01-01) en [30](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=C&artikel=30&z=2011-01-01&g=2011-01-01), of wanneer de Administratie bij wijze van uitzondering anderszins toestaat.
 
 6.2. De nominale waarde of de juiste afstelling van de beveiliging tegen overbelasting dient voor iedere stroomkring permanent te zijn aangegeven ter plaatse van de beveiligingsinrichting.
 
@@ -2642,7 +2636,7 @@ De bron van geaccumuleerde energie moet worden beschermd om te voorkomen dat dez
 
 11. Op tankschepen mogen elektrische apparatuur, kabels en bedrading niet worden aangebracht op gevaarlijke plaatsen, tenzij deze voldoen aan normen die niet minder strikt zijn dan die welke voor de Organisatie aanvaardbaar zijn. Echter, op plaatsen waarvoor die normen niet gelden, mogen elektrische apparatuur, kabels en bedrading die niet voldoen aan de normen op gevaarlijke plaatsen worden aangebracht na een risicobeoordeling ten genoegen van de Administratie, teneinde te garanderen dat een gelijkwaardig niveau van veiligheid wordt gewaarborgd.
 
-12. Op een passagiersschip dienen de stroomverdelingssystemen zodanig te zijn aangebracht dat brand in een van de verticale hoofdsecties, zoals omschreven in [Voorschrift II-2/3.9](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=A&artikel=3&z=2010-07-01&g=2010-07-01), niet de diensten die essentieel zijn voor de veiligheid in een andere zodanige sectie zal ontregelen. Aan deze eis zal zijn voldaan indien de hoofd- en noodvoedingleidingen die door een zodanige sectie lopen zowel verticaal, als horizontaal, zo ver mogelijk uit elkaar lopen.
+12. Op een passagiersschip dienen de stroomverdelingssystemen zodanig te zijn aangebracht dat brand in een van de verticale hoofdsecties, zoals omschreven in [Voorschrift II-2/3.9](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=A&artikel=3&z=2011-01-01&g=2011-01-01), niet de diensten die essentieel zijn voor de veiligheid in een andere zodanige sectie zal ontregelen. Aan deze eis zal zijn voldaan indien de hoofd- en noodvoedingleidingen die door een zodanige sectie lopen zowel verticaal, als horizontaal, zo ver mogelijk uit elkaar lopen.
 
 ## DEEL E. - AANVULLENDE VEREISTEN VOOR RUIMTEN VOOR MACHINES DIE PERIODIEK ZONDER TOEZICHT ZIJN
 
@@ -2712,7 +2706,7 @@ Er dient een betrouwbare spreekverbinding aanwezig te zijn tussen hetzij de cont
 
 - 4. voor zover uitvoerbaar zodanig te zijn ontworpen dat een storing in het systeem door het systeem zelf wordt aangegeven; en
 
-- 5. het in [Voorschrift 38](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=C&artikel=38&z=2010-07-01&g=2010-07-01) vereiste alarm voor werktuigkundigen in werking te stellen, indien er niet binnen een bepaalde tijd ter plaatse aandacht is geschonken aan een alarmfunctie.
+- 5. het in [Voorschrift 38](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=C&artikel=38&z=2011-01-01&g=2011-01-01) vereiste alarm voor werktuigkundigen in werking te stellen, indien er niet binnen een bepaalde tijd ter plaatse aandacht is geschonken aan een alarmfunctie.
 
 2.1. Het alarmsysteem dient voortdurend bekrachtigd te worden en dient te beschikken over een automatische overschakeling op een reservekrachtvoorziening ingeval de normale krachtvoorziening uitvalt.
 
@@ -5694,7 +5688,7 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, wordt
 
 - 9. Toestel in opgeblazen toestand: een toestel dat afhankelijk is van niet verstijfde met gas gevulde drijfkamers en dat altijd in opgeblazen toestand en klaar voor gebruik wordt gehouden.
 
-- 10. International Life-Saving Appliance (LSA) Code (internationale code inzake reddingsmiddelen, in dit hoofdstuk aangeduid als „de Code”) de Internationale LSA Code aangenomen door de Maritieme Veiligheidscommissie van de Organisatie door resolutie MSC.48(66), eventueel als gewijzigd door de Organisatie, op voorwaarde dat deze wijzigingen worden aangenomen, in werking worden gesteld en van kracht worden overeenkomstig het bepaalde van [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VIII&z=2010-07-01&g=2010-07-01) van dit Verdrag betreffende de procedure voor wijziging die van toepassing is op de Bijlage, met uitzondering van [Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2010-07-01&g=2010-07-01).
+- 10. International Life-Saving Appliance (LSA) Code (internationale code inzake reddingsmiddelen, in dit hoofdstuk aangeduid als „de Code”) de Internationale LSA Code aangenomen door de Maritieme Veiligheidscommissie van de Organisatie door resolutie MSC.48(66), eventueel als gewijzigd door de Organisatie, op voorwaarde dat deze wijzigingen worden aangenomen, in werking worden gesteld en van kracht worden overeenkomstig het bepaalde van [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VIII&z=2011-01-01&g=2011-01-01) van dit Verdrag betreffende de procedure voor wijziging die van toepassing is op de Bijlage, met uitzondering van [Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2011-01-01&g=2011-01-01).
 
 - 11. Tewaterlatingsmiddel of -voorziening: een middel of voorziening om een reddingsboot, -vlot of hulpverleningsboot van de opstellingsplaats veilig naar het water te brengen.
 
@@ -5722,7 +5716,7 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, wordt
 
 - 20. Terughalen: het veilig redden uit zee van overlevenden.
 
-- 21. Ro-ro passagiersschip: een passagiersschip met ro-ro laadruimten of ruimten van bijzondere aard zoals omschreven in [voorschrift II-2/3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=A&artikel=3&z=2010-07-01&g=2010-07-01).
+- 21. Ro-ro passagiersschip: een passagiersschip met ro-ro laadruimten of ruimten van bijzondere aard zoals omschreven in [voorschrift II-2/3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=A&artikel=3&z=2011-01-01&g=2011-01-01).
 
 - 22. Korte internationale reis: een internationale reis waarop het schip zich niet meer dan 200 zeemijl verwijdert van een haven of een plaats waar passagiers en bemanning veilig kunnen worden geland. Noch de afstand tussen de laatste aanloophaven in het land waar de reis aanvangt en de uiteindelijke haven van bestemming, noch de terugreis mag 600 zeemijl overschrijden. De uiteindelijke haven van bestemming is de laatste aanloophaven in de vastgestelde reis waar vandaan het schip de terugreis aanvaardt naar het land waar de reis aanving.
 
@@ -5744,7 +5738,7 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, wordt
 
 - .1. middelen voldoen aan veiligheidsnormen die ten minste gelijkwaardig zijn aan de vereisten van dit Hoofdstuk en de Code en beoordeeld en beproefd zijn aan de hand van de door de Organisatie opgestelde richtsnoeren; of
 
-- .2. voorzieningen met succes een constructieanalyse, evaluatie en een keuring hebben ondergaan in overeenstemming met [voorschrift 38](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=C&artikel=38&z=2010-07-01&g=2010-07-01).
+- .2. voorzieningen met succes een constructieanalyse, evaluatie en een keuring hebben ondergaan in overeenstemming met [voorschrift 38](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=C&artikel=38&z=2011-01-01&g=2011-01-01).
 
 - 4. De door de Administratie aangenomen goedkeuringsprocedures moeten tevens de voorwaarden waaronder de goedkeuring geldig blijft of wordt ingetrokken, omvatten.
 
@@ -5772,7 +5766,7 @@ De Administratie moet voorschrijven dat reddingsmiddelen onderworpen worden aan 
 
 - 2.1.2. Tweeweg-VHF-radiotelefonietoestellen die aan boord van schepen zijn aangebracht vóór 1 februari 1992 en niet geheel voldoen aan de door de Organisatie aangenomen uitvoeringsnormen, kunnen door de Administratie worden aanvaard tot 1 februari 1999, mits de Administratie ervan overtuigd is dat zij compatibel zijn met goedgekeurde tweeweg-VHF-radiotelefonietoestellen.
 
-- 2.2. Opsporings- en reddingsmiddelen Aan elke zijde van ieder passagiersschip en van ieder vrachtschip met een bruto-inhoud van 500 ton of meer moet ten minste één uitrusting voor opsporing en redding zijn geplaatst. Op ieder vrachtschip met een bruto-inhoud van 300 ton of meer, maar minder dan 500 ton, moet ten minste één uitrusting voor opsporing en redding zijn geplaatst. Deze uitrustingen voor opsporing en redding moeten voldoen aan de van toepassing zijnde uitvoeringsnormen die niet lager zijn dan die welke door de Organisatie zijn aangenomen. De uitrustingen voor opsporing en redding moeten op een zodanige plaats zijn opgeborgen dat ze snel in een reddingsboot of -vlot, anders dan het reddingsvlot of de reddingsvlotten vereist door [voorschrift 31.1.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=III&artikel=31&z=2010-07-01&g=2010-07-01) kunnen worden gezet. Een andere mogelijkheid is dat één uitrusting voor opsporing en redding wordt geplaatst in elke reddingsboot of -vlot, anders dan die vereist door [voorschrift 31.1.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=III&artikel=31&z=2010-07-01&g=2010-07-01). Op schepen met aan boord ten minste twee uitrustingen voor opsporing en redding en uitgerust met reddingsboten die door middel van vrije val te water worden gelaten, moet een van de uitrustingen voor opsporing en redding worden opgeborgen in een reddingsboot die door middel van vrije val te water wordt gelaten en de andere in de directe nabijheid van de brug, zodanig dat deze aan boord kan worden gebruikt en klaar kan zijn om naar een van de andere reddingsboten en -vlotten te worden overgebracht.
+- 2.2. Opsporings- en reddingsmiddelen Aan elke zijde van ieder passagiersschip en van ieder vrachtschip met een bruto-inhoud van 500 ton of meer moet ten minste één uitrusting voor opsporing en redding zijn geplaatst. Op ieder vrachtschip met een bruto-inhoud van 300 ton of meer, maar minder dan 500 ton, moet ten minste één uitrusting voor opsporing en redding zijn geplaatst. Deze uitrustingen voor opsporing en redding moeten voldoen aan de van toepassing zijnde uitvoeringsnormen die niet lager zijn dan die welke door de Organisatie zijn aangenomen. De uitrustingen voor opsporing en redding moeten op een zodanige plaats zijn opgeborgen dat ze snel in een reddingsboot of -vlot, anders dan het reddingsvlot of de reddingsvlotten vereist door [voorschrift 31.1.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=III&artikel=31&z=2011-01-01&g=2011-01-01) kunnen worden gezet. Een andere mogelijkheid is dat één uitrusting voor opsporing en redding wordt geplaatst in elke reddingsboot of -vlot, anders dan die vereist door [voorschrift 31.1.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=III&artikel=31&z=2011-01-01&g=2011-01-01). Op schepen met aan boord ten minste twee uitrustingen voor opsporing en redding en uitgerust met reddingsboten die door middel van vrije val te water worden gelaten, moet een van de uitrustingen voor opsporing en redding worden opgeborgen in een reddingsboot die door middel van vrije val te water wordt gelaten en de andere in de directe nabijheid van de brug, zodanig dat deze aan boord kan worden gebruikt en klaar kan zijn om naar een van de andere reddingsboten en -vlotten te worden overgebracht.
 
 - 3. Noodsignalen Op of in de nabijheid van de brug moeten ten minste twaalf valschermsignalen, die voldoen aan de vereisten van sectie 3.1 van de Code, zijn geplaatst.
 
@@ -5798,7 +5792,7 @@ De Administratie moet voorschrijven dat reddingsmiddelen onderworpen worden aan 
 
 - .2. moeten het scheepsomroepsysteem en de functioneringsnormen daarvan zijn goedgekeurd door de Administratie, met inachtneming van de door de Organisatie aangenomen aanbevelingen.
 
-- 5.4. Het scheepsomroepsysteem moet zijn aangesloten op de noodenergiebron vereist door [voorschrift II-1/42.2.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&artikel=42&z=2010-07-01&g=2010-07-01).
+- 5.4. Het scheepsomroepsysteem moet zijn aangesloten op de noodenergiebron vereist door [voorschrift II-1/42.2.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&artikel=42&z=2011-01-01&g=2011-01-01).
 
 - 5.5. Op schepen gebouwd vóór 1 juli 1997 die reeds zijn uitgerust met een door de Administratie goedgekeurd scheepsomroepsysteem dat in hoofdlijnen voldoet aan de in de paragrafen 5.2 en 5.4 van deze bijlage en paragraaf 7.2.2.1 van de Code bedoelde systemen, hoeft het systeem niet te worden aangepast.
 
@@ -5846,7 +5840,7 @@ De Administratie moet voorschrijven dat reddingsmiddelen onderworpen worden aan 
 
 - 2. Aan alle opvarenden moeten duidelijke aanwijzingen, die in geval van nood moeten worden gevolgd, worden verstrekt. In geval van passagiersschepen moeten deze instructies zijn opgesteld in de taal of talen die wordt respectievelijk worden vereist door de vlaggestaat van het schip en in de Engelse taal.
 
-- 3. Op in het oog vallende plaatsen in het schip, met inbegrip van de brug, de machinekamer en bemanningsverblijven, moeten exemplaren van de verlaatrol, die voldoen aan het bepaalde van [voorschrift 37](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=V&artikel=37&z=2010-07-01&g=2010-07-01), zijn opgehangen.
+- 3. Op in het oog vallende plaatsen in het schip, met inbegrip van de brug, de machinekamer en bemanningsverblijven, moeten exemplaren van de verlaatrol, die voldoen aan het bepaalde van [voorschrift 37](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=V&artikel=37&z=2011-01-01&g=2011-01-01), zijn opgehangen.
 
 - 4. Afbeeldingen en aanwijzingen in geschikte talen moeten zijn aangebracht in de passagiershutten en duidelijk zichtbaar worden opgehangen op de verzamelplaatsen en in andere passagiersruimten teneinde de passagiers in te lichten omtrent:
 
@@ -5892,13 +5886,13 @@ De Administratie moet voorschrijven dat reddingsmiddelen onderworpen worden aan 
 
 - 3. Verzamel- en inschepingsplaatsen moeten gemakkelijk toegankelijk zijn vanuit de ruimten voor accommodatie en werkruimten.
 
-- 4. Verzamel- en inschepingsplaatsen moeten voldoende verlicht worden; deze verlichting moet worden geleverd door de elektrische noodkrachtbron vereist in [voorschrift II-1/42](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&artikel=42&z=2010-07-01&g=2010-07-01) of [II-1/43](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&artikel=43&z=2010-07-01&g=2010-07-01), naar gelang van toepassing.
+- 4. Verzamel- en inschepingsplaatsen moeten voldoende verlicht worden; deze verlichting moet worden geleverd door de elektrische noodkrachtbron vereist in [voorschrift II-1/42](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&artikel=42&z=2011-01-01&g=2011-01-01) of [II-1/43](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&artikel=43&z=2011-01-01&g=2011-01-01), naar gelang van toepassing.
 
-- 5. Gangen, trappen en uitgangen die toegang geven tot de verzamel- en inschepingsplaatsen moeten zijn verlicht. Deze verlichting moet kunnen worden geleverd door de elektrische noodkrachtbron vereist in [voorschrift II-1/42](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&artikel=42&z=2010-07-01&g=2010-07-01) of [II-1/43](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&artikel=43&z=2010-07-01&g=2010-07-01), naar gelang van toepassing. Ter aanvulling op en als onderdeel van de markeringen vereist in voorschrift II-2/28.1.10, moeten routes naar de verzamelplaatsen worden gemarkeerd met verzamelplaatssymbolen bedoeld voor dat doel, overeenkomstig de aanbevelingen van de Organisatie.
+- 5. Gangen, trappen en uitgangen die toegang geven tot de verzamel- en inschepingsplaatsen moeten zijn verlicht. Deze verlichting moet kunnen worden geleverd door de elektrische noodkrachtbron vereist in [voorschrift II-1/42](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&artikel=42&z=2011-01-01&g=2011-01-01) of [II-1/43](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&artikel=43&z=2011-01-01&g=2011-01-01), naar gelang van toepassing. Ter aanvulling op en als onderdeel van de markeringen vereist in voorschrift II-2/28.1.10, moeten routes naar de verzamelplaatsen worden gemarkeerd met verzamelplaatssymbolen bedoeld voor dat doel, overeenkomstig de aanbevelingen van de Organisatie.
 
 - 6. Verzamel- en inschepingsplaatsen voor strijkbare reddingsboten en -vlotten en voor reddingsboten en -vlotten die door middel van vrije val te water worden gelaten moeten zo zijn ingericht dat het mogelijk is een gewonde op een draagbaar in de reddingsboot of op het reddingsvlot te plaatsen.
 
-- 7. Op iedere inschepingsplaats of op ieder paar naast elkaar gelegen inschepingsplaatsen moet een inschepingsladder zijn die voldoet aan de vereisten van paragraaf 6.1.6 van de Code, bestaande uit één lengte die onder alle omstandigheden van kop- of stuurlast van maximaal 10°° en met een slagzij van maximaal 20°° naar iedere zijde, vanaf het dek bij de geringste diepgang reikt naar reddingsboten en -vlotten die aan de zijde van het schip te water zijn gelaten. De Administratie kan echter toestaan dat dergelijke ladders worden vervangen door goedgekeurde middelen om toegang te verschaffen tot de reddingsboten en -vlotten wanneer deze in het water liggen, op voorwaarde dat er tenminste één inschepingsladder aan iedere kant van het schip is. Voor de reddingsvlotten vereist in [voorschrift 31.1.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=III&artikel=31&z=2010-07-01&g=2010-07-01) kunnen andere middelen voor ordelijke inscheping worden toegestaan.
+- 7. Op iedere inschepingsplaats of op ieder paar naast elkaar gelegen inschepingsplaatsen moet een inschepingsladder zijn die voldoet aan de vereisten van paragraaf 6.1.6 van de Code, bestaande uit één lengte die onder alle omstandigheden van kop- of stuurlast van maximaal 10°° en met een slagzij van maximaal 20°° naar iedere zijde, vanaf het dek bij de geringste diepgang reikt naar reddingsboten en -vlotten die aan de zijde van het schip te water zijn gelaten. De Administratie kan echter toestaan dat dergelijke ladders worden vervangen door goedgekeurde middelen om toegang te verschaffen tot de reddingsboten en -vlotten wanneer deze in het water liggen, op voorwaarde dat er tenminste één inschepingsladder aan iedere kant van het schip is. Voor de reddingsvlotten vereist in [voorschrift 31.1.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=III&artikel=31&z=2011-01-01&g=2011-01-01) kunnen andere middelen voor ordelijke inscheping worden toegestaan.
 
 - 8. Waar nodig moeten middelen aanwezig zijn om de strijkbare reddingsboten en -vlotten tegen scheepsboord te brengen en daar te houden opdat personen veilig kunnen inschepen.
 
@@ -5918,7 +5912,7 @@ Om een veilige tewaterlating te waarborgen, moet de opstelling van de tewaterlat
 
 - .4. zodat het vaartuig volledig uitgerust is als voorgeschreven in dit hoofdstuk en de Code; en
 
-- .5. voor zover uitvoerbaar, in een voor schade door brand en explosie veilige en beschermde plaats. In het bijzonder reddingsboten en -vlotten op tankschepen, anders dan de reddingsvlotten vereist in [voorschrift 31.1.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=III&artikel=31&z=2010-07-01&g=2010-07-01), mogen niet geplaatst zijn op of boven een ladingtank, sloptank of andere tank die ontplofbare of gevaarlijke lading bevat.
+- .5. voor zover uitvoerbaar, in een voor schade door brand en explosie veilige en beschermde plaats. In het bijzonder reddingsboten en -vlotten op tankschepen, anders dan de reddingsvlotten vereist in [voorschrift 31.1.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=III&artikel=31&z=2011-01-01&g=2011-01-01), mogen niet geplaatst zijn op of boven een ladingtank, sloptank of andere tank die ontplofbare of gevaarlijke lading bevat.
 
 - 2. Reddingsboten die langs de scheepszijde moeten worden gevierd, moeten zo ver mogelijk voor de schroef worden geplaatst. Op vrachtschepen van 80 m lengte en meer doch minder dan 120 m lengte moet iedere reddingsboot zo worden geplaatst, dat de achterkant van de reddingsboot ten minste de reddingsbootlengte voor de schroef heeft. Op vrachtschepen van 120 m lengte en meer en op passagiersschepen van 80 m lengte en meer moet iedere reddingsboot zo worden geplaatst, dat de achterkant van de reddingsboot niet minder dan anderhalf maal de reddingsbootlengte voor de schroef heeft. Waar toepasselijk moet het op het schip zo worden ingedeeld dat de reddingsboten op hun opstellingsplaatsen beschermd zijn tegen schade door overkomend water.
 
@@ -5930,11 +5924,11 @@ Om een veilige tewaterlating te waarborgen, moet de opstelling van de tewaterlat
 
 - 4.3. Reddingsvlotten moeten zodanig worden geplaatst dat het mogelijk is met de hand één vlot of verpakking tegelijk van zijn sjorringen te ontdoen.
 
-- 4.4. De paragrafen 4.1 en 4.2 zijn niet van toepassing op de reddingsvlotten vereist in [voorschrift 31.1.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=III&artikel=31&z=2010-07-01&g=2010-07-01).
+- 4.4. De paragrafen 4.1 en 4.2 zijn niet van toepassing op de reddingsvlotten vereist in [voorschrift 31.1.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=III&artikel=31&z=2011-01-01&g=2011-01-01).
 
 - 5. Strijkbare reddingsvlotten moeten binnen bereik van hijshaken worden geplaatst, tenzij er overbrengingsmiddelen zijn aangebracht die niet buiten werking raken binnen de gestelde normen van kop- of stuurlast en slagzij zoals omschreven in paragraaf 1.2 of door de scheepsbeweging of door het uitvallen van de elektriciteit.
 
-- 6. Werpreddingsvlotten moeten klaar voor overbrenging voor het te water laten aan iedere zijde van het schip worden opgesteld, tenzij de reddingsvlotten met de gezamenlijke capaciteit die in [voorschrift 31.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=III&artikel=31&z=2010-07-01&g=2010-07-01) is voorgeschreven, om aan beide zijden te water gelaten te kunnen worden, aan beide zijden van het schip geplaatst zijn.
+- 6. Werpreddingsvlotten moeten klaar voor overbrenging voor het te water laten aan iedere zijde van het schip worden opgesteld, tenzij de reddingsvlotten met de gezamenlijke capaciteit die in [voorschrift 31.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=III&artikel=31&z=2011-01-01&g=2011-01-01) is voorgeschreven, om aan beide zijden te water gelaten te kunnen worden, aan beide zijden van het schip geplaatst zijn.
 
 ##### Voorschrift 14. Plaatsing van hulpverleningsboten
 
@@ -5946,7 +5940,7 @@ Hulpverleningsboten moeten worden geplaatst:
 
 - .3. zodanig dat noch de hulpverleningsboten noch de plaatsingsvoorzieningen de werking van een reddingsboot of -vlot op een andere tewaterlatingsplaats belemmeren;
 
-- .4. overeenkomstig de bepalingen van [voorschrift 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=13&z=2010-07-01&g=2010-07-01), indien ze tevens reddingsboot zijn.
+- .4. overeenkomstig de bepalingen van [voorschrift 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=13&z=2011-01-01&g=2011-01-01), indien ze tevens reddingsboot zijn.
 
 ##### Voorschrift 15. Plaatsing van mariene evacuatiesystemen
 
@@ -5982,7 +5976,7 @@ Hulpverleningsboten moeten worden geplaatst:
 
 - 6. Lopers, waar toegepast, moeten lang genoeg zijn om met de reddingsboten en -vlotten het water te kunnen bereiken vanaf het schip in ballasttoestand onder ongunstige omstandigheden van kop- of stuurlast tot 10° en een slagzij van niet meer dan 20° naar iedere kant.
 
-- 7. Gedurende het klaarmaken en te water laten moeten de reddingsboot of het reddingsvlot, het daarbij behorende tewaterlatingsmiddel en de omgeving van het wateroppervlak waarin deze respectievelijk dit zal worden afgevierd voldoende verlicht worden met licht dat geleverd wordt door de elektrische noodkrachtbron vereist in [Voorschrift II-1/42](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&artikel=42&z=2010-07-01&g=2010-07-01) of [II-1/43](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&artikel=43&z=2010-07-01&g=2010-07-01), naar gelang van toepassing.
+- 7. Gedurende het klaarmaken en te water laten moeten de reddingsboot of het reddingsvlot, het daarbij behorende tewaterlatingsmiddel en de omgeving van het wateroppervlak waarin deze respectievelijk dit zal worden afgevierd voldoende verlicht worden met licht dat geleverd wordt door de elektrische noodkrachtbron vereist in [Voorschrift II-1/42](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&artikel=42&z=2011-01-01&g=2011-01-01) of [II-1/43](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&artikel=43&z=2011-01-01&g=2011-01-01), naar gelang van toepassing.
 
 - 8. Er moeten middelen beschikbaar zijn om te voorkomen dat waterlozing op de reddingsboten en -vlotten plaatsvindt gedurende ‘schip verlaten’.
 
@@ -5994,9 +5988,9 @@ Hulpverleningsboten moeten worden geplaatst:
 
 - 1. De voorzieningen voor inscheping in en tewaterlating van hulpverleningsboten moeten zo zijn uitgevoerd dat in de kortst mogelijke tijd in de hulpverleningsboot kan worden ingescheept en deze te water kan worden gelaten.
 
-- 2. Indien de hulpverleningsboot een van de reddingsboten en -vlotten van het schip is, moeten de inschepingsvoorzieningen en de tewaterlatingsplaats voldoen aan de bepalingen van de [voorschriften 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=11&z=2010-07-01&g=2010-07-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=12&z=2010-07-01&g=2010-07-01).
+- 2. Indien de hulpverleningsboot een van de reddingsboten en -vlotten van het schip is, moeten de inschepingsvoorzieningen en de tewaterlatingsplaats voldoen aan de bepalingen van de [voorschriften 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=11&z=2011-01-01&g=2011-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=12&z=2011-01-01&g=2011-01-01).
 
-- 3. De tewaterlatingsvoorzieningen moeten voldoen aan de bepalingen van [voorschrift 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=16&z=2010-07-01&g=2010-07-01). Alle hulpverleningsboten moeten echter te water gelaten kunnen worden, waar nodig met gebruikmaking van een vanglijn, terwijl het schip met een snelheid tot 5 knopen in kalm water vooruit vaart.
+- 3. De tewaterlatingsvoorzieningen moeten voldoen aan de bepalingen van [voorschrift 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=16&z=2011-01-01&g=2011-01-01). Alle hulpverleningsboten moeten echter te water gelaten kunnen worden, waar nodig met gebruikmaking van een vanglijn, terwijl het schip met een snelheid tot 5 knopen in kalm water vooruit vaart.
 
 - 4. Het terugzetten van de hulpverleningsboot mag niet langer duren dan 5 min bij kalme zee en beladen met de volledige bezetting en de volledige uitrusting. Indien de hulpverleningsboot tevens reddingsboot is, moet deze binnen deze tijd kunnen worden teruggezet met de boot die beladen is met de uitrusting van de reddingsboot en de goedgekeurde bezetting van de hulpverleningsboot van ten minste 6 personen.
 
@@ -6198,13 +6192,13 @@ Een lijnwerptoestel dat voldoet aan de vereisten van deel 7.1 van de Code moet a
 
 - .1. aan elke zijde gedeeltelijk of geheel overdekte reddingsboten die voldoen aan de vereisten van sectie 4.5 of 4.6 van de Code en die per zijde gezamenlijk voldoende ruimte bieden aan ten minste 50% van het totale aantal opvarenden. De Administratie kan toestaan dat reddingsboten worden vervangen door reddingsvlotten met dezelfde totale capaciteit met dien verstande dat aan elke zijde van het schip nimmer minder reddingsboten mogen zijn geplaatst dan voldoende is om 37,5% van het totale aantal opvarenden op te nemen. De opblaasbare of vaste reddingsvlotten moeten voldoen aan de vereisten van sectie 4.2 of 4.3 van de Code en moeten door tewaterlatingsmiddelen, gelijkelijk verdeeld over elke zijde van het schip worden bediend; en
 
-- .2. bovendien opblaasbare of vaste reddingsvlotten die voldoen aan de vereisten van sectie 4.2 of 4.3 van de Code met gezamenlijk voldoende ruimte voor ten minste 25% van het totale aantal opvarenden. Deze reddingsvlotten moeten worden bediend door ten minste één tewaterlatingsmiddel aan elke zijde, waartoe die welke ingevolge paragraaf 1.1.1 aan boord moeten zijn, kunnen worden gerekend of door als gelijkwaardig goedgekeurde middelen die aan beide zijden kunnen worden gebruikt. De plaatsing van deze reddingsvlotten behoeft echter niet te voldoen aan de vereisten van [voorschrift 13.5](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=13&z=2010-07-01&g=2010-07-01).
+- .2. bovendien opblaasbare of vaste reddingsvlotten die voldoen aan de vereisten van sectie 4.2 of 4.3 van de Code met gezamenlijk voldoende ruimte voor ten minste 25% van het totale aantal opvarenden. Deze reddingsvlotten moeten worden bediend door ten minste één tewaterlatingsmiddel aan elke zijde, waartoe die welke ingevolge paragraaf 1.1.1 aan boord moeten zijn, kunnen worden gerekend of door als gelijkwaardig goedgekeurde middelen die aan beide zijden kunnen worden gebruikt. De plaatsing van deze reddingsvlotten behoeft echter niet te voldoen aan de vereisten van [voorschrift 13.5](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=13&z=2011-01-01&g=2011-01-01).
 
 - 1.2. Passagiersschepen die korte internationale reizen maken, moeten aan boord hebben:
 
 - .1. gedeeltelijk of geheel overdekte reddingsboten die voldoen aan vereisten van sectie 4.5 of 4.6 van de Code en die gezamenlijk voldoende ruimte bieden aan ten minste 30% van het totale aantal opvarenden. De reddingsboten moeten, voor zover uitvoerbaar, gelijkelijk zijn verdeeld over beide zijden van het schip. Bovendien moeten er opblaasbare of vaste reddingsvlotten aan boord zijn die voldoen aan vereisten van sectie 4.2 of 4.3 van de Code en gezamenlijk voldoende ruimte bieden opdat te zamen met de capaciteit van de reddingsboten, de reddingsvlotten voldoende ruimte bieden aan het totale aantal opvarenden. De reddingsvlotten moeten worden bediend door tewaterlatingsmiddelen die gelijkelijk zijn verdeeld over beide zijden van het schip; en
 
-- .2. bovendien opblaasbare of vaste reddingsvlotten die voldoen aan vereisten van sectie 4.2 of 4.3 van de Code met gezamenlijk voldoende ruimte voor ten minste 25% van het totale aantal opvarenden. Deze reddingsvlotten moeten worden bediend door ten minste één tewaterlatingsmiddel aan elke zijde, waartoe die welke ingevolge paragraaf 1.2.1 aan boord moeten zijn, kunnen worden gerekend of door als gelijkwaardig goedgekeurde middelen die aan beide zijden kunnen worden gebruikt. De plaatsing van deze reddingsvlotten behoeft echter niet te voldoen aan de vereisten van [voorschrift 13.5](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=13&z=2010-07-01&g=2010-07-01).
+- .2. bovendien opblaasbare of vaste reddingsvlotten die voldoen aan vereisten van sectie 4.2 of 4.3 van de Code met gezamenlijk voldoende ruimte voor ten minste 25% van het totale aantal opvarenden. Deze reddingsvlotten moeten worden bediend door ten minste één tewaterlatingsmiddel aan elke zijde, waartoe die welke ingevolge paragraaf 1.2.1 aan boord moeten zijn, kunnen worden gerekend of door als gelijkwaardig goedgekeurde middelen die aan beide zijden kunnen worden gebruikt. De plaatsing van deze reddingsvlotten behoeft echter niet te voldoen aan de vereisten van [voorschrift 13.5](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=13&z=2011-01-01&g=2011-01-01).
 
 - 1.3. Alle reddingsboten en -vlotten die vereist zijn om het totale aantal opvarenden te ontschepen, moeten met hun totale bezetting aan personen en uitrusting te water kunnen worden gelaten binnen een tijdvak van 30 min gerekend vanaf het tijdstip waarop het sein „schip-verlaten” wordt gegeven.
 
@@ -6238,7 +6232,7 @@ Een lijnwerptoestel dat voldoet aan de vereisten van deel 7.1 van de Code moet a
 
 - 1. Reddingsboeien
 
-- 1.1. Een passagiersschip moet niet minder reddingsboeien die voldoen aan de vereisten van [voorschrift 7.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=7&z=2010-07-01&g=2010-07-01) en sectie 2.1 van de Code aan boord hebben dan is voorgeschreven in de onderstaande tabel:
+- 1.1. Een passagiersschip moet niet minder reddingsboeien die voldoen aan de vereisten van [voorschrift 7.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=7&z=2011-01-01&g=2011-01-01) en sectie 2.1 van de Code aan boord hebben dan is voorgeschreven in de onderstaande tabel:
 
 | Lengte van het schip in meters | Minimum aantal reddingsboeien |
 | --- | --- |
@@ -6248,13 +6242,13 @@ Een lijnwerptoestel dat voldoet aan de vereisten van deel 7.1 van de Code moet a
 | 180 en minder dan 240 | 24 |
 | 240 en meer | 30 |
 
-- 1.2. Niettegenstaande de vereisten van [voorschrift 7.1.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=7&z=2010-07-01&g=2010-07-01), moeten passagiersschepen met een lengte van minder dan 60 m ten minste 6 reddingsboeien voorzien van zelfontbrandend licht aan boord hebben.
+- 1.2. Niettegenstaande de vereisten van [voorschrift 7.1.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=7&z=2011-01-01&g=2011-01-01), moeten passagiersschepen met een lengte van minder dan 60 m ten minste 6 reddingsboeien voorzien van zelfontbrandend licht aan boord hebben.
 
 - 2. Reddingsgordels
 
-- 2.1. Behalve de reddingsgordels voorgeschreven in [voorschrift 7.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=7&z=2010-07-01&g=2010-07-01), moet ieder passagiersschip voor ten minste 5% van het totale aantal opvarenden extra aan reddingsgordels aan boord hebben. Deze reddingsgordels moeten op opvallende plaatsen aan dek of bij de verzamelplaatsen zijn geborgen.
+- 2.1. Behalve de reddingsgordels voorgeschreven in [voorschrift 7.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=7&z=2011-01-01&g=2011-01-01), moet ieder passagiersschip voor ten minste 5% van het totale aantal opvarenden extra aan reddingsgordels aan boord hebben. Deze reddingsgordels moeten op opvallende plaatsen aan dek of bij de verzamelplaatsen zijn geborgen.
 
-- 2.2. Indien reddingsgordels voor passagiers zijn opgeborgen in hutten die ver afgelegen zijn van de directe routes tussen de openbare ruimten en verzamelplaatsen, moeten de extra reddingsgordels voor deze passagiers als vereist in [voorschrift 7.2.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=7&z=2010-07-01&g=2010-07-01) worden opgeborgen in de openbare ruimten, op de verzamelplaatsen of op de directe routes daartussen. De reddingsgordels moeten zodanig zijn opgeborgen dat de verdeling en het aantrekken ervan geen belemmering vormt voor een ordelijke verplaatsing naar de verzamel- en inschepingsplaatsen voor de reddingsboten en -vlotten.
+- 2.2. Indien reddingsgordels voor passagiers zijn opgeborgen in hutten die ver afgelegen zijn van de directe routes tussen de openbare ruimten en verzamelplaatsen, moeten de extra reddingsgordels voor deze passagiers als vereist in [voorschrift 7.2.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=7&z=2011-01-01&g=2011-01-01) worden opgeborgen in de openbare ruimten, op de verzamelplaatsen of op de directe routes daartussen. De reddingsgordels moeten zodanig zijn opgeborgen dat de verdeling en het aantrekken ervan geen belemmering vormt voor een ordelijke verplaatsing naar de verzamel- en inschepingsplaatsen voor de reddingsboten en -vlotten.
 
 - 3. Lichten op reddingsgordels
 
@@ -6278,17 +6272,17 @@ Een lijnwerptoestel dat voldoet aan de vereisten van deel 7.1 van de Code moet a
 
 - .1. alle reddingsboten ingescheept en te water kunnen worden gelaten hetzij rechtstreeks vanaf de opstellingsplaats, hetzij vanaf een inschepingsdek maar niet van beide; en
 
-- .2. strijkbare reddingsvlotten ingescheept en te water kunnen worden gelaten vanaf een plaats direct naast de opstellingsplaats of vanaf een plaats waarheen in overeenstemming met de vereisten van [voorschrift 13.5](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=13&z=2010-07-01&g=2010-07-01) het reddingsvlot wordt overgebracht voorafgaand aan het te water laten.
+- .2. strijkbare reddingsvlotten ingescheept en te water kunnen worden gelaten vanaf een plaats direct naast de opstellingsplaats of vanaf een plaats waarheen in overeenstemming met de vereisten van [voorschrift 13.5](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=13&z=2011-01-01&g=2011-01-01) het reddingsvlot wordt overgebracht voorafgaand aan het te water laten.
 
 - 2. De voorzieningen van de hulpverleningsboot moeten zodanig zijn dat de hulpverleningsboot rechtstreeks vanaf de opstellingsplaats kan worden bemand en te water gelaten met het daartoe aangewezen aantal bemanningsleden aan boord. Niettegenstaande de vereisten in paragraaf 1.1 moeten de voorzieningen van de hulpverleningsboot, indien deze tevens reddingsboot is en de andere reddingsboten vanaf een inschepingsdek worden ingescheept, zodanig zijn dat de hulpverleningsboot ook ingescheept en te water gelaten kan worden vanaf het inschepingsdek.
 
 ##### Voorschrift 24. Plaatsing van reddingsboten en -vlotten
 
-Bij de plaatsingshoogte van een reddingsboot of -vlot op een passagiersschip moet rekening worden gehouden met de vereisten van [voorschrift 13.1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=13&z=2010-07-01&g=2010-07-01), de voorwaarden voor ontsnapping van voorschrift II-2/28, de omvang van het schip en de vermoedelijke weersomstandigheden in het beoogde vaargebied. Voor een strijkbare reddingsboot of strijkbaar reddingsvlot mag de hoogte van de kop van de davit met de reddingsboot respectievelijk het reddingsvlot in de inschepingspositie, voor zover uitvoerbaar, niet hoger zijn dan 15 m boven de waterlijn met het schip in ballasttoestand.
+Bij de plaatsingshoogte van een reddingsboot of -vlot op een passagiersschip moet rekening worden gehouden met de vereisten van [voorschrift 13.1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=13&z=2011-01-01&g=2011-01-01), de voorwaarden voor ontsnapping van voorschrift II-2/28, de omvang van het schip en de vermoedelijke weersomstandigheden in het beoogde vaargebied. Voor een strijkbare reddingsboot of strijkbaar reddingsvlot mag de hoogte van de kop van de davit met de reddingsboot respectievelijk het reddingsvlot in de inschepingspositie, voor zover uitvoerbaar, niet hoger zijn dan 15 m boven de waterlijn met het schip in ballasttoestand.
 
 ##### Voorschrift 25. Verzamelplaatsen
 
-Ieder passagiersschip moet niet alleen voldoen aan de vereisten in [voorschrift 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=11&z=2010-07-01&g=2010-07-01), maar daarnaast verzamelplaatsen hebben die:
+Ieder passagiersschip moet niet alleen voldoen aan de vereisten in [voorschrift 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=11&z=2011-01-01&g=2011-01-01), maar daarnaast verzamelplaatsen hebben die:
 
 - .1. zich bevinden in de nabijheid van en de passagiers direct toegang verlenen tot de inschepingsplaatsen, tenzij deze op dezelfde plaats zijn; en
 
@@ -6310,7 +6304,7 @@ Ieder passagiersschip moet niet alleen voldoen aan de vereisten in [voorschrift 
 
 - 2.1. De reddingsvlotten op ro-ro passagiersschepen moeten worden bediend door middel van mariene evacuatiesystemen die voldoen aan de vereisten van sectie 6.2 van de Code of door tewaterlatingsmiddelen die voldoen aan de vereisten van paragraaf 6.1.5 van de Code, en die gelijkmatig aan elke zijde van het schip zijn verdeeld.
 
-- 2.2. Alle reddingsvlotten op ro-ro passagiersschepen moeten zijn voorzien van voorzieningen voor vrij opdrijven die voldoen aan de vereisten van [voorschrift 13.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=13&z=2010-07-01&g=2010-07-01).
+- 2.2. Alle reddingsvlotten op ro-ro passagiersschepen moeten zijn voorzien van voorzieningen voor vrij opdrijven die voldoen aan de vereisten van [voorschrift 13.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=13&z=2011-01-01&g=2011-01-01).
 
 - 2.3. Alle reddingsvlotten op ro-ro passagiersschepen moeten zijn voorzien van een verstijfde inklimsteun die voldoet aan de vereisten van paragraaf 4.2.4.1 of 4.3.4.1 van de Code, naar gelang van toepassing.
 
@@ -6344,7 +6338,7 @@ Ieder passagiersschip moet niet alleen voldoen aan de vereisten in [voorschrift 
 
 - 5. Reddingsgordels
 
-- 5.1. Onverminderd de vereisten van [voorschriften 7.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=7&z=2010-07-01&g=2010-07-01) en [22.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=II&artikel=22&z=2010-07-01&g=2010-07-01), moet een voldoende aantal reddingsgordels zijn opgeborgen in de nabijheid van de verzamelplaatsen zodat passagiers niet naar hun hut terug hoeven te gaan om hun reddingsgordel op te halen.
+- 5.1. Onverminderd de vereisten van [voorschriften 7.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=7&z=2011-01-01&g=2011-01-01) en [22.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=II&artikel=22&z=2011-01-01&g=2011-01-01), moet een voldoende aantal reddingsgordels zijn opgeborgen in de nabijheid van de verzamelplaatsen zodat passagiers niet naar hun hut terug hoeven te gaan om hun reddingsgordel op te halen.
 
 - 5.2. Op ro-ro passagiersschepen moet iedere reddingsgordel zijn voorzien van een licht, dat voldoet aan de vereisten van paragraaf 2.2.3 van de Code.
 
@@ -6398,7 +6392,7 @@ Ieder passagiersschip moet niet alleen voldoen aan de vereisten in [voorschrift 
 
 - 1. Dit voorschrift is van toepassing op alle passagiersschepen.
 
-- 2. Op passagiersschepen moet één verlaatrol en één brandrol per week plaatsvinden. De voltallige bemanning hoeft niet bij iedere oefening betrokken te zijn op voorwaarde dat ieder bemanningslid elke maand deelneemt aan een verlaat- en brandrol als vereist in [voorschrift 19.3.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=19&z=2010-07-01&g=2010-07-01). Passagiers moeten sterk worden aangemoedigd deze oefeningen bij te wonen.
+- 2. Op passagiersschepen moet één verlaatrol en één brandrol per week plaatsvinden. De voltallige bemanning hoeft niet bij iedere oefening betrokken te zijn op voorwaarde dat ieder bemanningslid elke maand deelneemt aan een verlaat- en brandrol als vereist in [voorschrift 19.3.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=19&z=2011-01-01&g=2011-01-01). Passagiers moeten sterk worden aangemoedigd deze oefeningen bij te wonen.
 
 ### AFDELING III. VRACHTSCHEPEN (AANVULLENDE VEREISTEN)
 
@@ -6430,13 +6424,13 @@ Ieder passagiersschip moet niet alleen voldoen aan de vereisten in [voorschrift 
 
 - 1.4. Op vrachtschepen waarop de horizontale afstand tussen de uiterste punt van de voor- of achtersteven en de punt van de respectievelijk het dichtstbijzijnde reddingsboot of -vlot meer dan 100 m bedraagt, moet behalve de reddingsvlotten vereist in paragrafen 1.1.2 en 1.2.2 een reddingsvlot zover mogelijk naar voren of naar achteren of één zover mogelijk naar voren en een ander zover mogelijk naar achteren geplaatst worden als redelijk en uitvoerbaar is. Dit reddingsvlot of deze reddingsvlotten mogen goed vastgezet zijn, maar zo dat deze met de hand ontkoppeld kunnen worden; deze reddingsvlotten behoeven niet van het type te zijn dat te water kan worden gelaten met een goedgekeurd tewaterlatingsmiddel.
 
-- 1.5. Met uitzondering van de reddingsboten en -vlotten genoemd in [voorschrift 16.1.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=16&z=2010-07-01&g=2010-07-01), moeten alle reddingsboten en -vlotten die vereist zijn om het totale aantal opvarenden te ontschepen met hun totale bezetting aan personen en uitrusting te water gelaten kunnen worden binnen een tijdvak van 10 minuten gerekend vanaf het tijdstip waarop het sein „schip-verlaten” wordt gegeven.
+- 1.5. Met uitzondering van de reddingsboten en -vlotten genoemd in [voorschrift 16.1.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=16&z=2011-01-01&g=2011-01-01), moeten alle reddingsboten en -vlotten die vereist zijn om het totale aantal opvarenden te ontschepen met hun totale bezetting aan personen en uitrusting te water gelaten kunnen worden binnen een tijdvak van 10 minuten gerekend vanaf het tijdstip waarop het sein „schip-verlaten” wordt gegeven.
 
 - 1.6. Chemicaliëntankers en gasschepen die ladingen vervoeren die giftige dampen of gassen afgeven, moeten in plaats van reddingsboten die voldoen aan de vereisten van sectie 4.6 van de Code, reddingsboten hebben met een onafhankelijk luchttoevoersysteem dat voldoet aan de vereisten van sectie 4.8 van de Code.
 
 - 1.7. Olietankschepen, chemicaliëntankers en gasschepen die ladingen vervoeren met een vlampunt van minder dan 60°C (closed cup test), moeten in plaats van de geheel overdekte reddingsboten die voldoen aan de vereisten van sectie 4.6 van de Code, brandbestendige reddingsboten hebben die voldoen aan de vereisten van sectie 4.9 van de Code.
 
-- 1.8. Onverminderd de vereisten van paragraaf 1.1 moeten bulkcarriers als omschreven in [voorschrift IX/1.6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=1&z=2010-07-01&g=2010-07-01) gebouwd op of na 1 juli 2006 voldoen aan de vereisten van paragraaf 1.2.
+- 1.8. Onverminderd de vereisten van paragraaf 1.1 moeten bulkcarriers als omschreven in [voorschrift IX/1.6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=1&z=2011-01-01&g=2011-01-01) gebouwd op of na 1 juli 2006 voldoen aan de vereisten van paragraaf 1.2.
 
 - 2. Hulpverleningsboten Vrachtschepen moeten ten minste één hulpverleningsboot aan boord hebben, die voldoet aan de vereisten van sectie 5.1 van de Code. Een reddingsboot kan worden aanvaard als hulpverleningsboot mits deze, alsmede de voorzieningen voor tewaterlating en terugzetten ervan, ook voldoen aan de vereisten voor een hulpverleningsboot.
 
@@ -6450,7 +6444,7 @@ Ieder passagiersschip moet niet alleen voldoen aan de vereisten in [voorschrift 
 
 - 1. Reddingsboeien
 
-- 1.1. Vrachtschepen mogen niet minder reddingsboeien die voldoen aan de vereisten van [voorschrift 7.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=7&z=2010-07-01&g=2010-07-01) en sectie 2.1 van de Code aan boord hebben dan is voorgeschreven in de onderstaande tabel:
+- 1.1. Vrachtschepen mogen niet minder reddingsboeien die voldoen aan de vereisten van [voorschrift 7.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=7&z=2011-01-01&g=2011-01-01) en sectie 2.1 van de Code aan boord hebben dan is voorgeschreven in de onderstaande tabel:
 
 | Lengte van het schip in meters | Minimum aantal reddingsboeien |
 | --- | --- |
@@ -6459,7 +6453,7 @@ Ieder passagiersschip moet niet alleen voldoen aan de vereisten in [voorschrift 
 | 150 en minder dan 200 | 12 |
 | 200 en meer | 14 |
 
-- 1.2. Op tankschepen moeten de zelfontbrandende lichten, vereist in [voorschrift 7.1.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=7&z=2010-07-01&g=2010-07-01), van het elektrische-batterijtype zijn.
+- 1.2. Op tankschepen moeten de zelfontbrandende lichten, vereist in [voorschrift 7.1.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=7&z=2011-01-01&g=2011-01-01), van het elektrische-batterijtype zijn.
 
 - 2. Lichten op reddingsgordels
 
@@ -6473,17 +6467,17 @@ Ieder passagiersschip moet niet alleen voldoen aan de vereisten in [voorschrift 
 
 - 3.1. Deze paragraaf is van toepassing op alle vrachtschepen. Vrachtschepen gebouwd vóór 1 juli 2006 moeten echter uiterlijk bij de eerste inspectie van de veiligheidsuitrusting op of na 1 juli 2006 aan de paragrafen 3.2 tot en met 3.5 voldoen.
 
-- 3.2. Voor iedere opvarende moet een overlevingspak aanwezig zijn dat voldoet aan de vereisten van sectie 2.3 van de Code. Voor schepen anders dan bulkcarriers, als omschreven in [voorschrift IX/1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=1&z=2010-07-01&g=2010-07-01), zijn deze overlevingspakken niet vereist indien het schip voortdurend reizen maakt in gebieden met een warm klimaat waar overlevingspakken, naar het oordeel van de Administratie, niet nodig zijn.
+- 3.2. Voor iedere opvarende moet een overlevingspak aanwezig zijn dat voldoet aan de vereisten van sectie 2.3 van de Code. Voor schepen anders dan bulkcarriers, als omschreven in [voorschrift IX/1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=1&z=2011-01-01&g=2011-01-01), zijn deze overlevingspakken niet vereist indien het schip voortdurend reizen maakt in gebieden met een warm klimaat waar overlevingspakken, naar het oordeel van de Administratie, niet nodig zijn.
 
-- 3.3. Indien een schip wacht- of werkplekken heeft die ver verwijderd zijn van de plaats of plaatsen waar overlevingspakken doorgaans worden bewaard, met inbegrip van overeenkomstig [voorschrift 31.1.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=III&artikel=31&z=2010-07-01&g=2010-07-01) aan boord aanwezige ver verwijderde reddingsboten en -vlotten moeten op deze plaatsen extra overlevingspakken aanwezig zijn voor het aantal personen dat op die plaats normaal gesproken wachtdienst doet of werkzaam is.
+- 3.3. Indien een schip wacht- of werkplekken heeft die ver verwijderd zijn van de plaats of plaatsen waar overlevingspakken doorgaans worden bewaard, met inbegrip van overeenkomstig [voorschrift 31.1.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=III&artikel=31&z=2011-01-01&g=2011-01-01) aan boord aanwezige ver verwijderde reddingsboten en -vlotten moeten op deze plaatsen extra overlevingspakken aanwezig zijn voor het aantal personen dat op die plaats normaal gesproken wachtdienst doet of werkzaam is.
 
 - 3.4. De overlevingspakken moeten zo zijn geplaatst dat ze gemakkelijk bereikbaar zijn en hun bergplaats moet duidelijk aangegeven zijn.
 
-- 3.5. De overlevingspakken voorgeschreven in dit voorschrift kunnen worden gebruikt om te voldoen aan de vereisten van [voorschrift 7.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=7&z=2010-07-01&g=2010-07-01).
+- 3.5. De overlevingspakken voorgeschreven in dit voorschrift kunnen worden gebruikt om te voldoen aan de vereisten van [voorschrift 7.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=7&z=2011-01-01&g=2011-01-01).
 
 ##### Voorschrift 33. Voorzieningen voor inscheping en tewaterlating van reddingsboten en -vlotten
 
-- 1. De voorzieningen voor het te water laten van de reddingsboten en -vlotten van een vrachtschip moeten zo zijn ontworpen dat reddingsboten rechtstreeks vanaf de opstellingsplaats ingescheept en te water gelaten kunnen worden en dat strijkbare reddingsvlotten ingescheept en te water gelaten kunnen worden vanaf een plaats direct naast de opstellingsplaats of vanaf een plaats waarheen in overeenstemming met de vereisten van [voorschrift 13.5](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=13&z=2010-07-01&g=2010-07-01) het reddingsvlot wordt overgebracht voorafgaand aan het te water laten.
+- 1. De voorzieningen voor het te water laten van de reddingsboten en -vlotten van een vrachtschip moeten zo zijn ontworpen dat reddingsboten rechtstreeks vanaf de opstellingsplaats ingescheept en te water gelaten kunnen worden en dat strijkbare reddingsvlotten ingescheept en te water gelaten kunnen worden vanaf een plaats direct naast de opstellingsplaats of vanaf een plaats waarheen in overeenstemming met de vereisten van [voorschrift 13.5](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=13&z=2011-01-01&g=2011-01-01) het reddingsvlot wordt overgebracht voorafgaand aan het te water laten.
 
 - 2. Op vrachtschepen van 20.000 ton en meer moeten de reddingsboten te water kunnen worden gelaten, terwijl het schip met een snelheid tot 5 knopen in kalm water vooruit vaart, waar nodig met gebruikmaking van een vanglijn.
 
@@ -6545,7 +6539,7 @@ Ieder passagiersschip moet niet alleen voldoen aan de vereisten in [voorschrift 
 
 Instructies voor het onderhoud van reddingsmiddelen aan boord moeten gemakkelijk te begrijpen zijn, waar mogelijk geïllustreerd en waar van toepassing de volgende gegevens voor elk middel omvatten:
 
-- .1. een controlelijst, te gebruiken wanneer de inspecties vereist in [voorschrift 20.7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=20&z=2010-07-01&g=2010-07-01) worden verricht;
+- .1. een controlelijst, te gebruiken wanneer de inspecties vereist in [voorschrift 20.7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=20&z=2011-01-01&g=2011-01-01) worden verricht;
 
 - .2. aanwijzingen ten behoeve van onderhoud en reparaties;
 
@@ -6725,7 +6719,7 @@ Een afschrift van de stabiliteitsgegevens moet aan de Administratie worden verst
 
 3. De stabiliteitsgegevens moeten de invloed weergeven van verschillende kop- of stuurlastsituaties in gevallen waar de operationele kop- of stuurlast +/- 0,5% van **Ls**overschrijdt.
 
-4. Voor schepen die moeten voldoen aan de stabiliteitsvereisten van [deel B-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-1&z=2010-07-01&g=2010-07-01), moeten de in paragraaf 2 bedoelde gegevens worden bepaald aan de hand van de indelingsindex, en wel op de volgende wijze: Minimum vereiste **GM** (of maximum toelaatbare verticale positie van het zwaartepunt **KG**) voor de drie diepgangen **d****s**, **d****p** en **d****l**zijn gelijk aan de **GM**- (of **KG**-waarden) van de overeenkomstige beladingsscenario’s die worden gebruikt voor de berekening van de overlevingsfactor **s****i**. Voor de tussenliggende diepgangen moeten de te hanteren waarden worden verkregen door middel van lineaire interpolatie toegepast op de **GM**-waarde, uitsluitend tussen respectievelijk de diepste indelingsdiepgang en de partiële indelingsdiepgang, en tussen de partiële lastlijn en de diepgang bij lichte vaart. Met de stabiliteitscriteria in onbeschadigde toestand moet eveneens rekening worden gehouden door voor elke diepgang de maximum waarden van de vereiste minimum **GM**-waarden of het minimum van de maximaal toelaatbare **KG**-waarden voor beide criteria aan te houden. Indien de indelingsindex wordt berekend voor uiteenlopende kop- en stuurlastsituaties, moeten op dezelfde wijze verschillende vereiste **GM**-krommen worden gemaakt.
+4. Voor schepen die moeten voldoen aan de stabiliteitsvereisten van [deel B-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-1&z=2011-01-01&g=2011-01-01), moeten de in paragraaf 2 bedoelde gegevens worden bepaald aan de hand van de indelingsindex, en wel op de volgende wijze: Minimum vereiste **GM** (of maximum toelaatbare verticale positie van het zwaartepunt **KG**) voor de drie diepgangen **d****s**, **d****p** en **d****l**zijn gelijk aan de **GM**- (of **KG**-waarden) van de overeenkomstige beladingsscenario’s die worden gebruikt voor de berekening van de overlevingsfactor **s****i**. Voor de tussenliggende diepgangen moeten de te hanteren waarden worden verkregen door middel van lineaire interpolatie toegepast op de **GM**-waarde, uitsluitend tussen respectievelijk de diepste indelingsdiepgang en de partiële indelingsdiepgang, en tussen de partiële lastlijn en de diepgang bij lichte vaart. Met de stabiliteitscriteria in onbeschadigde toestand moet eveneens rekening worden gehouden door voor elke diepgang de maximum waarden van de vereiste minimum **GM**-waarden of het minimum van de maximaal toelaatbare **KG**-waarden voor beide criteria aan te houden. Indien de indelingsindex wordt berekend voor uiteenlopende kop- en stuurlastsituaties, moeten op dezelfde wijze verschillende vereiste **GM**-krommen worden gemaakt.
 
 5. Wanneer krommen of tabellen voor de operationele minimum metracentrische hoogte (**GM**) ten opzichte van de diepgang niet adequaat zijn, moet de kapitein waarborgen dat de bedrijfsomstandigheid niet afwijkt van een bestudeerde beladingstoestand, of door middel van berekeningen verifiëren dat aan de stabiliteitscriteria voor deze beladingstoestand wordt voldaan.
 
@@ -8022,11 +8016,11 @@ waarbij:
 
 - .1. de laagste rand van openingen waardoor geleidelijk vollopen kan plaatsvinden en dit vollopen niet is meegeteld bij de berekening van de factor **si**. Onder deze openingen worden begrepen luchtpijpen, ventilatoren en openingen die worden afgesloten met waterdichte deuren of luiken; en
 
-- .2. de delen van het schottendek op een passagiersschip die ten behoeve van de naleving van [Hoofdstuk II-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&z=2010-07-01&g=2010-07-01) worden aangemerkt als een horizontale evacuatieroute.
+- .2. de delen van het schottendek op een passagiersschip die ten behoeve van de naleving van [Hoofdstuk II-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&z=2011-01-01&g=2011-01-01) worden aangemerkt als een horizontale evacuatieroute.
 
 - 5.3. De factor **si** moet op nihil worden gesteld indien zich, met inachtneming van inzinken, slagzij en trim, in enig tussenstadium of in het eindstadium van vollopen een van de volgende feiten voordoen:
 
-- .1. vollopen van een verticaal ontsnappingsluik in het schottendek bestemd voor de naleving van [Hoofdstuk II-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&z=2010-07-01&g=2010-07-01);
+- .1. vollopen van een verticaal ontsnappingsluik in het schottendek bestemd voor de naleving van [Hoofdstuk II-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&z=2011-01-01&g=2011-01-01);
 
 - .2. het ontoegankelijk of onbruikbaar worden van bedieningsorganen voor waterdichte deuren, overvloei-inrichtingen, kleppen op pijpleidingen of ventilatiekanalen bestemd om de integriteit van de waterdichte schotten van boven het schottendek te handhaven;
 
@@ -8038,7 +8032,7 @@ waarbij:
 
 6. Wanneer boven de waterlijn in kwestie horizontale waterdichte begrenzingen zijn aangebracht, wordt de s-waarde van de lagere afdeling of groep van afdelingen berekend door vermenigvuldiging van de in paragraaf 1.1 bepaalde waarde met de in paragraaf 6.1 bedoelde reductiefactor **vm**, die de kans voorstelt dat de ruimten boven de horizontale afdeling niet zullen vollopen.
 
-- 6.1. De factor **vm**wordt verkregen door de volgende formule: waarbij: **Hj**, **n**, **m** de geringste hoogte boven de basislijn is, in meters, binnen het lengtebereik van **x1**(**j**)...**x2**(**j**+**n**-1) van de me horizontale begrenzing waarvan wordt aangenomen dat deze de verticale mate van vollopen ten aanzien van de beschadigde afdelingen in kwestie beperkt; **Hj** , **n** , **m** -1 de geringste hoogte boven de basislijn is, in meters, binnen het lengtebereik van **x1**(**j**)...**x2**(**j**+**n**-1) van de (m-1)e horizontale begrenzing waarvan wordt aangenomen dat deze de verticale mate van vollopen van de beschadigde afdelingen in kwestie beperkt; **j** het achterste einde van de beschadigde afdelingen in kwestie is; **m** elke horizontale begrenzing is, geteld naar boven toe vanaf de waterlijn in kwestie; **d**de diepgang in kwestie is als omschreven in [voorschrift 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=2&z=2010-07-01&g=2010-07-01); en **x1** en **x2** de einden voorstellen van de afdeling of groep van afdelingen die in [voorschrift 7-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-1&artikel=7-1&z=2010-07-01&g=2010-07-01) worden besproken. In geen enkel geval mag voor vm minder dan 0 of meer dan 1 worden aangehouden.
+- 6.1. De factor **vm**wordt verkregen door de volgende formule: waarbij: **Hj**, **n**, **m** de geringste hoogte boven de basislijn is, in meters, binnen het lengtebereik van **x1**(**j**)...**x2**(**j**+**n**-1) van de me horizontale begrenzing waarvan wordt aangenomen dat deze de verticale mate van vollopen ten aanzien van de beschadigde afdelingen in kwestie beperkt; **Hj** , **n** , **m** -1 de geringste hoogte boven de basislijn is, in meters, binnen het lengtebereik van **x1**(**j**)...**x2**(**j**+**n**-1) van de (m-1)e horizontale begrenzing waarvan wordt aangenomen dat deze de verticale mate van vollopen van de beschadigde afdelingen in kwestie beperkt; **j** het achterste einde van de beschadigde afdelingen in kwestie is; **m** elke horizontale begrenzing is, geteld naar boven toe vanaf de waterlijn in kwestie; **d**de diepgang in kwestie is als omschreven in [voorschrift 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=2&z=2011-01-01&g=2011-01-01); en **x1** en **x2** de einden voorstellen van de afdeling of groep van afdelingen die in [voorschrift 7-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-1&artikel=7-1&z=2011-01-01&g=2011-01-01) worden besproken. In geen enkel geval mag voor vm minder dan 0 of meer dan 1 worden aangehouden.
 
 - 6.1.1. De factoren **v**(**Hj**, **n**, **m**, **d**) en **v**(**Hj**, **n**, **m**-1, **d**) worden verkregen via de volgende formules: waarbij: voor**v**(**Hj**, **n**, **m**, **d**) 1 moet worden aangehouden, indien **Hm** samenvalt met de hoogste waterdichte begrenzing van het schip binnen het bereik (**x**1(**j**)...**x**2(**j**+**n**-1)), en voor **v**(**Hj**, **n**,**0**, **d**) 0 moet worden aangehouden.
 
@@ -8073,7 +8067,7 @@ waarbij:
 
 1. Indien een voorval plaatsvindt waarbij gevaarlijke stoffen in vaste vorm in bulk verloren gaan of waarschijnlijk verloren zullen gaan in de zee, moet de kapitein of andere persoon die het gezag over het schip voert, de bijzonderheden van dat voorval onverwijld en zo volledig melden bij de dichtstbijzijnde kuststaat. De melding wordt opgesteld op basis van de door de Organisatie opgestelde richtlijnen.
 
-2. Indien het schip als bedoeld in paragraaf 1 wordt verlaten, of indien een melding van dat schip onvolledig of niet verkrijgbaar is, moet de maatschappij, als omschreven in [voorschrift IX/1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=1&z=2010-07-01&g=2010-07-01) zo volledig mogelijk de verplichtingen op zich nemen die door dit voorschrift aan de kapitein worden opgelegd.
+2. Indien het schip als bedoeld in paragraaf 1 wordt verlaten, of indien een melding van dat schip onvolledig of niet verkrijgbaar is, moet de maatschappij, als omschreven in [voorschrift IX/1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=1&z=2011-01-01&g=2011-01-01) zo volledig mogelijk de verplichtingen op zich nemen die door dit voorschrift aan de kapitein worden opgelegd.
 
 ## DEEL A-1. VERVOER VAN GEVAARLIJKE STOFFEN IN VASTE VORM IN BULK
 
@@ -8819,7 +8813,7 @@ DONE AT LONDON this first day of November one thousand nine hundred and seventy-
 
 ##### Voorschrift 34-1. Oordeel van de kapitein
 
-De eigenaar, bevrachter of maatschappij die het schip exploiteert als omschreven in [voorschrift IX/1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=1&z=2010-07-01&g=2010-07-01), of iedere andere persoon, mag de kapitein van het schip geen verboden of beperkingen opleggen bij het nemen of uitvoeren van bepaalde besluiten die, naar het professionele oordeel van de kapitein, nodig zijn voor de veiligheid van mensenlevens op zee en de bescherming van het mariene milieu.
+De eigenaar, bevrachter of maatschappij die het schip exploiteert als omschreven in [voorschrift IX/1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=1&z=2011-01-01&g=2011-01-01), of iedere andere persoon, mag de kapitein van het schip geen verboden of beperkingen opleggen bij het nemen of uitvoeren van bepaalde besluiten die, naar het professionele oordeel van de kapitein, nodig zijn voor de veiligheid van mensenlevens op zee en de bescherming van het mariene milieu.
 
 ##### Voorschrift 35. Misbruik van noodseinen
 
@@ -8935,7 +8929,7 @@ Voor de toepassing van dit deel wordt, tenzij uitdrukkelijk anders bepaald, vers
 
 ### HOOFDSTUK VII. VERVOER VAN GEVAARLIJKE STOFFEN
 
-## DEEL C. VERVOER VAN GRAAN
+## DEEL B. BIJZONDERE VEREISTEN VOOR BULKLADING ANDERS DAN GRAAN
 
 ##### Voorschrift 1. Begripsomschrijvingen
 
@@ -8983,7 +8977,7 @@ Lading, laadeenheden en ladingvervoerseenheden moeten gedurende de gehele reis w
 
 - 2. Indien een schip als bedoeld in paragraaf 1 wordt verlaten, of indien een melding van dat schip onvolledig of niet verkrijgbaar is, moet de maatschappij, als omschreven in [voorschrift IX/1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=1&z=2006-07-01&g=2006-07-01) zo volledig mogelijk de verplichtingen op zich nemen die door dit voorschrift aan de kapitein worden opgelegd.
 
-## DEEL A-1. VERVOER VAN GEVAARLIJKE STOFFEN IN VASTE VORM IN BULK
+## DEEL A. VERVOER VAN GEVAARLIJKE STOFFEN IN VERPAKTE VORM
 
 ##### Voorschrift 7. Begripsomschrijvingen
 
@@ -9053,7 +9047,7 @@ Tenzij uitdrukkelijk anders is bepaald, gelden voor de toepassing van dit Deel d
 
 2. Een gastankschip dat in het bezit is van een certificaat afgegeven ingevolge de bepalingen van het eerste lid is onderworpen aan de controle vastgelegd in [Voorschrift I/19](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=19&z=2006-07-01&g=2006-07-01). Hiertoe wordt zulk een certificaat beschouwd als certificaat afgegeven ingevolge [Voorschrift I/12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=12&z=2006-07-01&g=2006-07-01) of [I/13](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=13&z=2006-07-01&g=2006-07-01).
 
-## DEEL C. - BOUW EN UITRUSTING VAN SCHEPEN DIE VLOEIBAAR GEMAAKTE GASSEN IN BULK VERVOEREN
+## DEEL B. - BOUW EN UITRUSTING VAN SCHEPEN DIE GEVAARLIJKE VLOEIBARE CHEMICALIËN IN BULK VERVOEREN
 
 ##### Voorschrift 14. Begripsomschrijvingen
 
@@ -9857,15 +9851,15 @@ DONE AT LONDON this first day of November one thousand nine hundred and seventy-
 
 1. Aan boord van schepen gebouwd op of na 1 januari 2007 moet een set bouwtekeningen met de fabriekswaarden en andere overzichten met latere bouwwijzigingen worden bewaard.
 
-2. Een aanvullende set van deze tekeningen moet door de maatschappij, als omschreven in [voorschrift IX/1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=1&z=2010-07-01&g=2010-07-01), aan wal worden bewaard.
+2. Een aanvullende set van deze tekeningen moet door de maatschappij, als omschreven in [voorschrift IX/1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=1&z=2011-01-01&g=2011-01-01), aan wal worden bewaard.
 
 ##### Voorschrift 3-8. Sleep- en afmeerapparatuur
 
-1. Dit voorschrift is van toepassing op schepen gebouwd op of na 1 januari 2007, maar niet op noodsleepvoorzieningen die in overeenstemming met [voorschrift 3-4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A-1&artikel=3-4&z=2010-07-01&g=2010-07-01) zijn aangebracht.
+1. Dit voorschrift is van toepassing op schepen gebouwd op of na 1 januari 2007, maar niet op noodsleepvoorzieningen die in overeenstemming met [voorschrift 3-4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A-1&artikel=3-4&z=2011-01-01&g=2011-01-01) zijn aangebracht.
 
 2. Schepen moeten zijn uitgerust met voorzieningen, uitrusting en installaties met een voldoende veilige bedrijfsbelasting voor de veilige uitvoering van alle sleep- en afmeeractiviteiten die onder de normale bedrijfsomstandigheden van het schip plaatsvinden.
 
-3. De in overeenstemming met paragraaf 2 aangebrachte voorzieningen, uitrusting en installaties moeten voldoen aan de desbetreffende vereisten van de Administratie of van een door de Administratieingevolge [voorschrift I/6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=6&z=2010-07-01&g=2010-07-01) erkende organisatie.
+3. De in overeenstemming met paragraaf 2 aangebrachte voorzieningen, uitrusting en installaties moeten voldoen aan de desbetreffende vereisten van de Administratie of van een door de Administratieingevolge [voorschrift I/6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=6&z=2011-01-01&g=2011-01-01) erkende organisatie.
 
 4. Op alle installaties of onderdelen van de uitrusting die ingevolge dit voorschrift worden aangebracht, moeten duidelijke markeringen worden aangebracht ten aanzien van de beperkingen voor de veilige bediening ervan, met inachtneming van de stevigheid van de bevestiging ervan aan de scheepsstructuur.
 
@@ -14526,7 +14520,7 @@ Ieder schip moet buitengaats in staat zijn:
 
 ##### Voorschrift 6. Radio-installaties
 
-1. Ieder schip moet zijn uitgerust met radio-installaties die in staat zijn gedurende de gehele voorgenomen reis te voldoen aan de in [Voorschrift 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=A&artikel=4&z=2010-07-01&g=2010-07-01) gestelde functionele vereisten en, tenzij vrijstelling is verleend krachtens [Voorschrift 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=A&artikel=3&z=2010-07-01&g=2010-07-01), voldoen aan de vereisten ingevolge [Voorschrift 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2010-07-01&g=2010-07-01) en, afhankelijk van het zeegebied of de zeegebieden waardoor het tijdens de voorgenomen reis zal varen, de vereisten ingevolge [Voorschrift 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=8&z=2010-07-01&g=2010-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=9&z=2010-07-01&g=2010-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=10&z=2010-07-01&g=2010-07-01) of [11](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=11&z=2010-07-01&g=2010-07-01).
+1. Ieder schip moet zijn uitgerust met radio-installaties die in staat zijn gedurende de gehele voorgenomen reis te voldoen aan de in [Voorschrift 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=A&artikel=4&z=2011-01-01&g=2011-01-01) gestelde functionele vereisten en, tenzij vrijstelling is verleend krachtens [Voorschrift 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=A&artikel=3&z=2011-01-01&g=2011-01-01), voldoen aan de vereisten ingevolge [Voorschrift 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2011-01-01&g=2011-01-01) en, afhankelijk van het zeegebied of de zeegebieden waardoor het tijdens de voorgenomen reis zal varen, de vereisten ingevolge [Voorschrift 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=8&z=2011-01-01&g=2011-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=9&z=2011-01-01&g=2011-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=10&z=2011-01-01&g=2011-01-01) of [11](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=11&z=2011-01-01&g=2011-01-01).
 
 2. Iedere radio-installatie moet:
 
@@ -14564,13 +14558,13 @@ Ieder schip moet buitengaats in staat zijn:
 
 - .3.1. zodanig moet zijn geplaatst dat hij gemakkelijk kan worden gebruikt; en
 
-- .3.2. kan behoren tot de ingevolge [Voorschrift III/6.2.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=6&z=2010-07-01&g=2010-07-01) voor groepsreddingmiddelen vereiste radartransponders;
+- .3.2. kan behoren tot de ingevolge [Voorschrift III/6.2.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=6&z=2011-01-01&g=2011-01-01) voor groepsreddingmiddelen vereiste radartransponders;
 
 - .4. een ontvanger die geschikt is om de uitzendingen van het Internationale NAVTEX-systeem te ontvangen indien het schip zich bevindt op reizen in gebieden waar een Internationaal NAVTEX-systeem beschikbaar is;
 
 - .5. een radiovoorziening voor de ontvangst van maritieme veiligheidsinformatie uitgezonden binnen het EGC-systeem (enhanced group calling system) van INMARSAT, indien het schip reizen onderneemt binnen een zeegebied dat binnen het bereik van INMARSAT valt, maar waar geen Internationaal NAVTEX-systeem beschikbaar is. Schepen die uitsluitend reizen ondernemen in zeegebieden waar een HF-DPT-systeem*DSC-systemen (digital selective calling) voor alle schepen en de vereisten betreffende het aan boord hebben van HF-direct-printing telegraphy (NBDP) voor schepen met een bruto-inhoud van 300 ton of meer, maar minder dan 1600 ton, zijn onderworpen aan toetsing overeenkomstig resolutie A.606(15) - Toetsing en evaluatie van het wereldomvattend maritiem satelliet-communicatiesysteem. Tenzij anders aangegeven, is deze voetnoot van toepassing oρ alle in het Verdrag gestelde DSC- en NBDP-vereisten. voor het uitzenden van maritieme veiligheidsinformatie beschikbaar is en die zijn uitgerust met apparatuur die geschikt is om van dit systeem gebruik te maken, kunnen echter van dit vereiste worden vrijgesteld***Verwezen wordt naar de aanbeveling inzake de verspreiding van maritieme veiligheidsinforraatie, te ontwikkelen door de Organisatie (zie MSC55/25, bijlage 8).;
 
-- .6. met inachtneming van de bepalingen van [Voorschrift 8.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=8&z=2010-07-01&g=2010-07-01), een satelliet-noodradiobaken dat:
+- .6. met inachtneming van de bepalingen van [Voorschrift 8.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=8&z=2011-01-01&g=2011-01-01), een satelliet-noodradiobaken dat:
 
 - .6.1. noodoproepen kan uitzenden door gebruik te maken van de polar orbiting satellite service die werkt in de frequentieband 406 MHz;
 
@@ -14586,11 +14580,11 @@ Ieder schip moet buitengaats in staat zijn:
 
 ##### Voorschrift 8. Radio-apparatuur - Zeegebied A1
 
-1. In aanvulling op de vereisten ingevolge [Voorschrift 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2010-07-01&g=2010-07-01) moet ieder schip dat uitsluitend reizen onderneemt in het zeegebied Al zijn uitgerust met een radio-installatie die geschikt is om vanaf de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd, het uitzenden van noodoproepen naar de wal te starten door middel van hetzij:
+1. In aanvulling op de vereisten ingevolge [Voorschrift 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2011-01-01&g=2011-01-01) moet ieder schip dat uitsluitend reizen onderneemt in het zeegebied Al zijn uitgerust met een radio-installatie die geschikt is om vanaf de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd, het uitzenden van noodoproepen naar de wal te starten door middel van hetzij:
 
 - .1. VHF met gebruik van DSC. Hierin kan worden voorzien door het in paragraaf 3 voorgeschreven noodradiobaken. Dit noodradiobaken moet worden geïnstalleerd nabij de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd, of vanaf die plaats op afstand kunnen worden bediend; hetzij
 
-- .2. POSS op de frequentie van 406 MHz. Hierin kan worden voorzien door het ingevolge [Voorschrift 7.1.6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2010-07-01&g=2010-07-01) vereiste satelliet-noodradiobaken. Dit satelliet-noodradiobaken moet worden geïnstalleerd nabij de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd, of vanaf die plaats op afstand kunnen worden bediend; hetzij
+- .2. POSS op de frequentie van 406 MHz. Hierin kan worden voorzien door het ingevolge [Voorschrift 7.1.6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2011-01-01&g=2011-01-01) vereiste satelliet-noodradiobaken. Dit satelliet-noodradiobaken moet worden geïnstalleerd nabij de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd, of vanaf die plaats op afstand kunnen worden bediend; hetzij
 
 - .3. MF met gebruik van DSC, indien het schip reizen onderneemt binnen het bereik van MF-radiokuststations met DSC; hetzij
 
@@ -14600,11 +14594,11 @@ Ieder schip moet buitengaats in staat zijn:
 
 - .5.1. een INMARSAT-scheepssatellietstation*Aan dit vereiste kan worden voldaan door middel van INMARSAT-scheepssatellietstations die geschikt zijn yoor duρlex-verbindingen, zoals Standard-A of Standard-C scheepssatellietstations. Tenzij anders aangegeven is deze voetnoot van toepassing op alle in dit Hoofdstuk gestelde vereisten voor INMARSAT-scheepssatellietstations.; of
 
-- .5.2. het ingevolge [Voorschrift 7.1.6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2010-07-01&g=2010-07-01) vereiste satelliet-noodradiobaken. Het satelliet-noodradiobaken moet worden geïnstalleerd nabij de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd, of vanaf die plaats op afstand kunnen worden bediend.
+- .5.2. het ingevolge [Voorschrift 7.1.6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2011-01-01&g=2011-01-01) vereiste satelliet-noodradiobaken. Het satelliet-noodradiobaken moet worden geïnstalleerd nabij de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd, of vanaf die plaats op afstand kunnen worden bediend.
 
-2. De ingevolge [Voorschrift 7.1.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2010-07-01&g=2010-07-01) vereiste VHF-radio-installatie moet ook geschikt zijn voor het uitzenden en ontvangen van algemene radioberichten met gebruik van radiotelefonie.
+2. De ingevolge [Voorschrift 7.1.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2011-01-01&g=2011-01-01) vereiste VHF-radio-installatie moet ook geschikt zijn voor het uitzenden en ontvangen van algemene radioberichten met gebruik van radiotelefonie.
 
-3. Schepen die uitsluitend reizen ondernemen in het zeegebied Al kunnen, in plaats van het ingevolge [Voorschrift 7.1.6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2010-07-01&g=2010-07-01) vereiste satellietnoodradiobaken, een noodradiobaken aan boord hebben dat:
+3. Schepen die uitsluitend reizen ondernemen in het zeegebied Al kunnen, in plaats van het ingevolge [Voorschrift 7.1.6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2011-01-01&g=2011-01-01) vereiste satellietnoodradiobaken, een noodradiobaken aan boord hebben dat:
 
 - .1. een noodoproep kan uitzenden op VHF-kanaal 70 met gebruik van DSC, en kan worden opgespoord door middel van een radartransponder werkend in de frequentieband 9 GHz;
 
@@ -14618,7 +14612,7 @@ Ieder schip moet buitengaats in staat zijn:
 
 ##### Voorschrift 9. Radio-apparatuur - Zeegebieden A1 en A2
 
-1. In aanvulling op de vereisten ingevolge [Voorschrift 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2010-07-01&g=2010-07-01) moet ieder schip dat reizen onderneemt buiten het zeegebied Al, maar binnen het zeegebied A2, zijn voorzien van:
+1. In aanvulling op de vereisten ingevolge [Voorschrift 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2011-01-01&g=2011-01-01) moet ieder schip dat reizen onderneemt buiten het zeegebied Al, maar binnen het zeegebied A2, zijn voorzien van:
 
 - .1. een MF-radio-installatie die geschikt is om berichten uit te zenden en te ontvangen voor nood- en veiligheidsdoeleinden op de frequenties van:
 
@@ -14630,7 +14624,7 @@ Ieder schip moet buitengaats in staat zijn:
 
 - .3. een radio-installatie, niet werkend in de MF-band, om het uitzenden van noodoproepen naar de wal te starten door middel van:
 
-- .3.1. POSS op de frequentie van 406 MHz. Hierin kan worden voorzien door het ingevolge [Voorschrift 7.1.6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2010-07-01&g=2010-07-01) vereiste satelliet-noodradiobaken. Het satelliet-noodradiobaken moet worden geïnstalleerd nabij de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd, of vanaf die plaats op afstand kunnen worden bediend; of
+- .3.1. POSS op de frequentie van 406 MHz. Hierin kan worden voorzien door het ingevolge [Voorschrift 7.1.6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2011-01-01&g=2011-01-01) vereiste satelliet-noodradiobaken. Het satelliet-noodradiobaken moet worden geïnstalleerd nabij de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd, of vanaf die plaats op afstand kunnen worden bediend; of
 
 - .3.2. HF met gebruik van DSC; of
 
@@ -14644,11 +14638,11 @@ Ieder schip moet buitengaats in staat zijn:
 
 - .2. een INMARSAT-scheepssatellietstation.
 
-4. De Administratie kan vrijstelling verlenen van de vereisten ingevolge de [Voorschriften 7.1.1.1 en 7.1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2010-07-01&g=2010-07-01) voor schepen gebouwd voor 1 februari 1997 die uitsluitend reizen ondernemen binnen het zeegebied A2, mits deze schepen wanneer uitvoerbaar een ononderbroken luisterwacht houden op VHF-kanaal 16. Deze wacht moet worden gehouden op de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd.
+4. De Administratie kan vrijstelling verlenen van de vereisten ingevolge de [Voorschriften 7.1.1.1 en 7.1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2011-01-01&g=2011-01-01) voor schepen gebouwd voor 1 februari 1997 die uitsluitend reizen ondernemen binnen het zeegebied A2, mits deze schepen wanneer uitvoerbaar een ononderbroken luisterwacht houden op VHF-kanaal 16. Deze wacht moet worden gehouden op de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd.
 
 ##### Voorschrift 10. Radio-apparatuur - Zeegebieden A1, A2, en A3
 
-1. In aanvulling op de vereisten ingevolge [Voorschrift 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2010-07-01&g=2010-07-01) moet ieder schip dat reizen onderneemt buiten de zeegebieden Al en A2, maar binnen het zeegebied A3, indien het niet voldoet aan de vereisten ingevolge paragraaf 2, zijn voorzien van:
+1. In aanvulling op de vereisten ingevolge [Voorschrift 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2011-01-01&g=2011-01-01) moet ieder schip dat reizen onderneemt buiten de zeegebieden Al en A2, maar binnen het zeegebied A3, indien het niet voldoet aan de vereisten ingevolge paragraaf 2, zijn voorzien van:
 
 - .1. een INMARSAT-scheepssatellietstation dat geschikt is om:
 
@@ -14670,13 +14664,13 @@ Ieder schip moet buitengaats in staat zijn:
 
 - .4. een radio-installatie, niet werkend in de MF-band, om het uitzenden van noodoproepen naar de wal te starten door middel van:
 
-- .4.1. POSS op de frequentie van 406 MHz. Hierin kan worden voorzien door het ingevolge [Voorschrift 7.1.6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2010-07-01&g=2010-07-01) vereiste satelliet-noodradiobaken. Het satelliet-noodradiobaken moet worden geïnstalleerd nabij de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd, of vanaf die plaats op afstand kunnen worden bediend; of
+- .4.1. POSS op de frequentie van 406 MHz. Hierin kan worden voorzien door het ingevolge [Voorschrift 7.1.6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2011-01-01&g=2011-01-01) vereiste satelliet-noodradiobaken. Het satelliet-noodradiobaken moet worden geïnstalleerd nabij de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd, of vanaf die plaats op afstand kunnen worden bediend; of
 
 - .4.2. HF met gebruik van DSC; of
 
 - .4.3. het geostationaire INMARSAT-satellietsysteem door een aanvullend scheepssatellietstation.
 
-2. In aanvulling op de vereisten ingevolge [Voorschrift 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2010-07-01&g=2010-07-01) moet ieder schip dat reizen onderneemt buiten de zeegebieden Al en A2, maar binnen het zeegebied A3, indien het niet voldoet aan de vereisten ingevolge paragraaf 1, zijn voorzien van:
+2. In aanvulling op de vereisten ingevolge [Voorschrift 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2011-01-01&g=2011-01-01) moet ieder schip dat reizen onderneemt buiten de zeegebieden Al en A2, maar binnen het zeegebied A3, indien het niet voldoet aan de vereisten ingevolge paragraaf 1, zijn voorzien van:
 
 - .1. een MF/HF-radio-installatie die geschikt is om voor nood- en veiligheidsdoeleinden berichten uit te zenden en te ontvangen op alle nood- en veiligheidsfrequenties in de banden tussen 1605 kHz en 4000 kHz en tussen 4000 kHz en 27.500 kHz:
 
@@ -14690,37 +14684,37 @@ Ieder schip moet buitengaats in staat zijn:
 
 - .3. een radio-installatie, niet werkend in de HF-band, om het uitzenden van noodoproepen naar de wal te starten door middel van:
 
-- .3.1. POSS op de frequentie van 406 MHz. Hierin kan worden voorzien door het ingevolge [Voorschrift 7.1.6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2010-07-01&g=2010-07-01) vereiste satelliet-noodradiobaken. Het satelliet-noodradiobaken moet worden geïnstalleerd nabij de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd, of vanaf die plaats op afstand te kunnen worden bediend; of
+- .3.1. POSS op de frequentie van 406 MHz. Hierin kan worden voorzien door het ingevolge [Voorschrift 7.1.6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2011-01-01&g=2011-01-01) vereiste satelliet-noodradiobaken. Het satelliet-noodradiobaken moet worden geïnstalleerd nabij de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd, of vanaf die plaats op afstand te kunnen worden bediend; of
 
 - .3.2. het geostationaire INMARSAT-satellietsysteem door een scheepssatellietstation; en
 
 - .3.2.1. een INMARSAT-scheepssatellietstation; of
 
-- .3.2.2. het ingevolge [Voorschrift 7.1.6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2010-07-01&g=2010-07-01) vereiste satelliet-noodradiobaken. Het satelliet-noodradiobaken moet worden geïnstalleerd nabij de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd, of vanaf die plaats op afstand kunnen worden bediend.
+- .3.2.2. het ingevolge [Voorschrift 7.1.6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2011-01-01&g=2011-01-01) vereiste satelliet-noodradiobaken. Het satelliet-noodradiobaken moet worden geïnstalleerd nabij de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd, of vanaf die plaats op afstand kunnen worden bediend.
 
 - .4. Daarnaast moeten schepen in staat zijn algemene radioberichten uit te zenden en te ontvangen met gebruik van radiotelefonie of DPT door middel van een MF/HF-radioinstallatie werkend op werkfrequenties in de banden tussen 1605 kHz en 4000 kHz of tussen 4000 kHz en 27.500 kHz. Hierin kan worden voorzien door deze voorziening toe te voegen aan de ingevolge paragraaf. 1 vereiste apparatuur.
 
 3. Het uitzenden van noodoproepen door middel van de radio-installatie bedoeld in de subparagrafen 1.1, 1.2, 1.4, 2.1 en 2.3 moet kunnen worden gestart vanaf de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd.
 
-4. De Administratie kan vrijstelling verlenen van de vereisten ingevolge de [Voorschriften 7.1.1.1 en 7.1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2010-07-01&g=2010-07-01) voor schepen gebouwd vóór 1 februari 1997 die uitsluitend reizen ondernemen binnen de zeegebieden A2 en A3, mits deze schepen wanneer uitvoerbaar een ononderbroken luisterwacht houden op VHF-kanaal 16. Deze wacht moet worden gehouden op de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd.
+4. De Administratie kan vrijstelling verlenen van de vereisten ingevolge de [Voorschriften 7.1.1.1 en 7.1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2011-01-01&g=2011-01-01) voor schepen gebouwd vóór 1 februari 1997 die uitsluitend reizen ondernemen binnen de zeegebieden A2 en A3, mits deze schepen wanneer uitvoerbaar een ononderbroken luisterwacht houden op VHF-kanaal 16. Deze wacht moet worden gehouden op de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd.
 
 ##### Voorschrift 11. Radio-apparatuur - Zeegebieden A1, A2, A3 en A4
 
-1. In aanvulling op de vereisten ingevolge [Voorschrift 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2010-07-01&g=2010-07-01) moeten schepen die reizen in alle zeegebieden ondernemen, zijn uitgerust met de ingevolge Voorschrift 10.2 vereiste radio-installaties en apparatuur, met dien verstande dat de ingevolge [Voorschrift 10.2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=10&z=2010-07-01&g=2010-07-01) vereiste apparatuur niet wordt aanvaard als alternatief voor de ingevolge Voorschrift 10.2.3.1 vereiste apparatuur, die altijd aanwezig moet zijn. Daarnaast moeten schepen die reizen in alle zeegebieden ondernemen, voldoen aan de vereisten ingevolge Voorschrift 10.3.
+1. In aanvulling op de vereisten ingevolge [Voorschrift 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2011-01-01&g=2011-01-01) moeten schepen die reizen in alle zeegebieden ondernemen, zijn uitgerust met de ingevolge Voorschrift 10.2 vereiste radio-installaties en apparatuur, met dien verstande dat de ingevolge [Voorschrift 10.2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=10&z=2011-01-01&g=2011-01-01) vereiste apparatuur niet wordt aanvaard als alternatief voor de ingevolge Voorschrift 10.2.3.1 vereiste apparatuur, die altijd aanwezig moet zijn. Daarnaast moeten schepen die reizen in alle zeegebieden ondernemen, voldoen aan de vereisten ingevolge Voorschrift 10.3.
 
-2. De Administratie kan vrijstelling verlenen van de vereisten ingevolge de [Voorschriften 7.1.1.1 en 7.1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2010-07-01&g=2010-07-01) voor schepen gebouwd vóór 1 februari 1997 die uitsluitend reizen ondernemen binnen de zeegebieden A2, A3, en A4, mits deze schepen wanneer uitvoerbaar een ononderbroken luisterwacht houden op VHF-kanaal 16. Deze wacht moet worden gehouden op de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd.
+2. De Administratie kan vrijstelling verlenen van de vereisten ingevolge de [Voorschriften 7.1.1.1 en 7.1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2011-01-01&g=2011-01-01) voor schepen gebouwd vóór 1 februari 1997 die uitsluitend reizen ondernemen binnen de zeegebieden A2, A3, en A4, mits deze schepen wanneer uitvoerbaar een ononderbroken luisterwacht houden op VHF-kanaal 16. Deze wacht moet worden gehouden op de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd.
 
 ##### Artikel 12. Radiowachten
 
 1. Aan boord van ieder schip moet buitengaats een ononderbroken wacht worden gehouden:
 
-- .1. op VHF-DSC-kanaal 70, indien het schip, overeenkomstig de vereisten ingevolge [Voorschrift 7.1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2010-07-01&g=2010-07-01), is uitgerust met een VHF-radio-installatie;
+- .1. op VHF-DSC-kanaal 70, indien het schip, overeenkomstig de vereisten ingevolge [Voorschrift 7.1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2011-01-01&g=2011-01-01), is uitgerust met een VHF-radio-installatie;
 
-- .2. op de DSC-nood- en veiligheidsfrequentie van 2187.5 kHz, indien het schip, overeenkomstig de vereisten ingevolge [Voorschrift 9.1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=9&z=2010-07-01&g=2010-07-01) of [10.1.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=10&z=2010-07-01&g=2010-07-01), is uitgerust met een MF-radio-installatie;
+- .2. op de DSC-nood- en veiligheidsfrequentie van 2187.5 kHz, indien het schip, overeenkomstig de vereisten ingevolge [Voorschrift 9.1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=9&z=2011-01-01&g=2011-01-01) of [10.1.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=10&z=2011-01-01&g=2011-01-01), is uitgerust met een MF-radio-installatie;
 
-- .3. op de DSC-nood- en veiligheidsfrequenties 2187.5 kHz en 8414.5 kHz, alsmede op ten minste een van de DSC-nood- en veiligheidsfrequenties van 4207.5 kHz, 6312 kHz, 12.577 kHz of 16.804.5 kHz, afhankelijk van het tijdstip en de geografische positie van het schip, indien het schip, overeenkomstig de vereisten ingevolge [Voorschrift 10.2.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=10&z=2010-07-01&g=2010-07-01) of [11.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=11&z=2010-07-01&g=2010-07-01), is uitgerust met een MF/HF-radio-installatie. Deze wacht kan worden gehouden door middel van een scannende ontvanger;
+- .3. op de DSC-nood- en veiligheidsfrequenties 2187.5 kHz en 8414.5 kHz, alsmede op ten minste een van de DSC-nood- en veiligheidsfrequenties van 4207.5 kHz, 6312 kHz, 12.577 kHz of 16.804.5 kHz, afhankelijk van het tijdstip en de geografische positie van het schip, indien het schip, overeenkomstig de vereisten ingevolge [Voorschrift 10.2.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=10&z=2011-01-01&g=2011-01-01) of [11.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=11&z=2011-01-01&g=2011-01-01), is uitgerust met een MF/HF-radio-installatie. Deze wacht kan worden gehouden door middel van een scannende ontvanger;
 
-- .4. ten behoeve van satelliet-noodoproepen van de wal naar het schip, indien het schip, overeenkomstig de vereisten ingevolge [Voorschrift 10.1.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=10&z=2010-07-01&g=2010-07-01), is uitgerust met een INMARSAT-scheepssatellietstation.
+- .4. ten behoeve van satelliet-noodoproepen van de wal naar het schip, indien het schip, overeenkomstig de vereisten ingevolge [Voorschrift 10.1.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=10&z=2011-01-01&g=2011-01-01), is uitgerust met een INMARSAT-scheepssatellietstation.
 
 2. Aan boord van ieder schip moet buitengaats een radiowacht worden gehouden ten behoeve van uitzendingen van maritieme veiligheidsinformatie, op de frequentie of frequenties bestemd voor het uitzenden van deze informatie voor het gebied waarin het schip vaart.
 
@@ -14730,11 +14724,11 @@ Ieder schip moet buitengaats in staat zijn:
 
 1. Buitengaats moet te allen tijde een elektrische krachtbron beschikbaar zijn van voldoende vermogen om de radio-installaties te doen werken en de aanwezige batterijen gebruikt voor de reservekrachtbron of -bronnen ten behoeve van de radio-installaties op te laden.
 
-2. Aan boord van ieder schip moeten een of meer reservekrachtbronnen aanwezig zijn om de radio-installaties te voeden ten behoeve van de nood- en veiligheidsberichtgeving ingeval de hoofd- en noodkrachtbronnen van het schip uitvallen. De reservekrachtbron of -bronnen moeten in staat zijn gelijktijdig voeding te leveren voor de ingevolge [Voorschrift 7.1.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2010-07-01&g=2010-07-01) vereiste VHF-radio-installatie en, naar gelang van het zeegebied of de zeegebieden waarvoor het schip is uitgerust, de ingevolge [Voorschrift 9.1.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=9&z=2010-07-01&g=2010-07-01) vereiste MF-radio-installatie, de ingevolge [Voorschrift 10.2.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=10&z=2010-07-01&g=2010-07-01) of [11.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=11&z=2010-07-01&g=2010-07-01) vereiste MF/HF-radio-installatie, of het ingevolge Voorschrift 10.1.1 vereiste INMARSAT-scheepssatellietstation, en elk van de in de paragrafen 4, 5 en 8 genoemde aanvullende voorzieningen, gedurende ten minste:
+2. Aan boord van ieder schip moeten een of meer reservekrachtbronnen aanwezig zijn om de radio-installaties te voeden ten behoeve van de nood- en veiligheidsberichtgeving ingeval de hoofd- en noodkrachtbronnen van het schip uitvallen. De reservekrachtbron of -bronnen moeten in staat zijn gelijktijdig voeding te leveren voor de ingevolge [Voorschrift 7.1.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=7&z=2011-01-01&g=2011-01-01) vereiste VHF-radio-installatie en, naar gelang van het zeegebied of de zeegebieden waarvoor het schip is uitgerust, de ingevolge [Voorschrift 9.1.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=9&z=2011-01-01&g=2011-01-01) vereiste MF-radio-installatie, de ingevolge [Voorschrift 10.2.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=10&z=2011-01-01&g=2011-01-01) of [11.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=11&z=2011-01-01&g=2011-01-01) vereiste MF/HF-radio-installatie, of het ingevolge Voorschrift 10.1.1 vereiste INMARSAT-scheepssatellietstation, en elk van de in de paragrafen 4, 5 en 8 genoemde aanvullende voorzieningen, gedurende ten minste:
 
-- .1. een uur aan boord van schepen voorzien van een noodkrachtbron, indien deze krachtbron volledig voldoet aan alle desbetreffende bepalingen van [Voorschrift II-1/42](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&artikel=42&z=2010-07-01&g=2010-07-01) of [43](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&artikel=43&z=2010-07-01&g=2010-07-01), met inbegrip van de voeding van de radio-installaties; en
+- .1. een uur aan boord van schepen voorzien van een noodkrachtbron, indien deze krachtbron volledig voldoet aan alle desbetreffende bepalingen van [Voorschrift II-1/42](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&artikel=42&z=2011-01-01&g=2011-01-01) of [43](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&artikel=43&z=2011-01-01&g=2011-01-01), met inbegrip van de voeding van de radio-installaties; en
 
-- .2. zes uur op schepen die niet zijn voorzien van een noodkrachtbron die volledig voldoet aan alle desbetreffende bepalingen van [Voorschrift II-1/42](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&artikel=42&z=2010-07-01&g=2010-07-01) of [43](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&artikel=43&z=2010-07-01&g=2010-07-01), met inbegrip van de voeding van de radio-installaties;
+- .2. zes uur op schepen die niet zijn voorzien van een noodkrachtbron die volledig voldoet aan alle desbetreffende bepalingen van [Voorschrift II-1/42](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&artikel=42&z=2011-01-01&g=2011-01-01) of [43](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&artikel=43&z=2011-01-01&g=2011-01-01), met inbegrip van de voeding van de radio-installaties;
 
 Onafhankelijke HF- en MF-radio-installaties behoeven niet gelijktijdig te kunnen worden gevoed door de reservekrachtbron of -bronnen.
 
@@ -14746,7 +14740,7 @@ Onafhankelijke HF- en MF-radio-installaties behoeven niet gelijktijdig te kunnen
 
 - .2. indien slechts een van de andere radio-installaties gelijktijdig met de VHF-radio-installatie op de reservekrachtbron of -bronnen kan worden aangesloten, degene van de andere radio-installaties met het hoogste energieverbruik,
 
-5. De reservekrachtbron of -bronnen kunnen worden gebruikt om de ingevolge [Voorschrift 6.2.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=6&z=2010-07-01&g=2010-07-01) vereiste elektrische verlichting te voeden.
+5. De reservekrachtbron of -bronnen kunnen worden gebruikt om de ingevolge [Voorschrift 6.2.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=6&z=2011-01-01&g=2011-01-01) vereiste elektrische verlichting te voeden.
 
 6. Indien een reservekrachtbron bestaat uit een oplaadbare accumulatorenbatterij of -batterijen:
 
@@ -14766,7 +14760,7 @@ Onafhankelijke HF- en MF-radio-installaties behoeven niet gelijktijdig te kunnen
 
 - .5. de batterijen, wanneer zij volledig zijn opgeladen, onder alle weersomstandigheden ten minste het vereiste minimumaantal uren werken.
 
-8. Indien een ononderbroken invoer van informatie vanuit de navigatieapparatuur of andere apparatuur in de ingevolge dit Hoofdstuk vereiste radio-installatie met inbegrip van de in [voorschrift 18](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=18&z=2010-07-01&g=2010-07-01) bedoelde navigatie-ontvanger, noodzakelijk is ter verzekering van de goede werking ervan, moeten er voorzieningen zijn om de voortdurende levering van die informatie te verzekeren bij het uitvallen van de hoofd- of noodkrachtbron van het schip.
+8. Indien een ononderbroken invoer van informatie vanuit de navigatieapparatuur of andere apparatuur in de ingevolge dit Hoofdstuk vereiste radio-installatie met inbegrip van de in [voorschrift 18](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=18&z=2011-01-01&g=2011-01-01) bedoelde navigatie-ontvanger, noodzakelijk is ter verzekering van de goede werking ervan, moeten er voorzieningen zijn om de voortdurende levering van die informatie te verzekeren bij het uitvallen van de hoofd- of noodkrachtbron van het schip.
 
 ##### Voorschrift 14. Uitvoeringsnormen
 
@@ -14782,13 +14776,13 @@ Onafhankelijke HF- en MF-radio-installaties behoeven niet gelijktijdig te kunnen
 
 4. Er moeten voldoende doelmatige gereedschappen en reserveonderdelen aanwezig zijn voor het onderhoud van de apparatuur.
 
-5. De Administratie verzekert dat de ingevolge dit Hoofdstuk vereiste radio-apparatuur zodanig wordt onderhouden dat wordt voorzien in de beschikbaarheid van middelen om te voldoen aan de in [Voorschrift 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=A&artikel=4&z=2010-07-01&g=2010-07-01) omschreven functionele vereisten en dat wordt voldaan aan de aanbevolen uitvoeringsnormen ten aanzien van die apparatuur.
+5. De Administratie verzekert dat de ingevolge dit Hoofdstuk vereiste radio-apparatuur zodanig wordt onderhouden dat wordt voorzien in de beschikbaarheid van middelen om te voldoen aan de in [Voorschrift 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=A&artikel=4&z=2011-01-01&g=2011-01-01) omschreven functionele vereisten en dat wordt voldaan aan de aanbevolen uitvoeringsnormen ten aanzien van die apparatuur.
 
 6. De beschikbaarheid van dergelijke middelen aan boord van schepen die reizen ondernemen in de zeegebieden Al en A2 moet worden verzekerd door methoden zoals het aanhouden van dubbele apparatuur, onderhoud aan wal of elektronische deskundigheid aan boord voor onderhoud buitengaats, of een combinatie hiervan, naar de Administratie kan goedkeuren.
 
 7. De beschikbaarheid van dergelijke middelen aan boord van schepen die reizen ondernemen in de zeegebieden A3 en A4 moet worden verzekerd door een combinatie van ten minste twee methoden zoals het aanhouden van dubbele apparatuur, onderhoud aan wal of elektronische deskundigheid aan boord voor onderhoud buitengaats, naar de Administratie kan goedkeuren, rekening houdend met de aanbevelingen van de Organisatie.
 
-8. Hoewel alle redelijk geachte stappen moeten worden genomen om de apparatuur in goede staat te houden en te verzekeren dat aan alle in [Voorschrift 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=A&artikel=4&z=2010-07-01&g=2010-07-01) gestelde functionele vereisten wordt voldaan, mag een schip niet op grond van storingen van de apparatuur bij het voorzien in de ingevolge Voorschrift 4.8 vereiste algemene radioberichtgeving als onzeewaardig worden beschouwd, of worden opgehouden in havens waar niet onmiddellijk reparatievoorzieningen beschikbaar zijn, mits het schip in staat is alle nood- en veiligheidsfuncties te vervullen.
+8. Hoewel alle redelijk geachte stappen moeten worden genomen om de apparatuur in goede staat te houden en te verzekeren dat aan alle in [Voorschrift 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=A&artikel=4&z=2011-01-01&g=2011-01-01) gestelde functionele vereisten wordt voldaan, mag een schip niet op grond van storingen van de apparatuur bij het voorzien in de ingevolge Voorschrift 4.8 vereiste algemene radioberichtgeving als onzeewaardig worden beschouwd, of worden opgehouden in havens waar niet onmiddellijk reparatievoorzieningen beschikbaar zijn, mits het schip in staat is alle nood- en veiligheidsfuncties te vervullen.
 
 9. Satelliet-EPIRB’s moeten:
 
@@ -14828,7 +14822,7 @@ Alle tweeweg-communicatie-apparatuur aan boord van een schip waarop dit hoofdstu
 
 - 3. Een vast aan elkaar verbonden samengestelde eenheid van een duwboot en een vaartuig dat wordt geduwd, indien ontworpen als een daartoe bestemde en één geheel vormende combinatie van sleepboot en vaartuig, moet voor de toepassing van dit hoofdstuk als één enkel schip worden beschouwd.
 
-- 4. De Administratie stelt vast in hoeverre de bepalingen van de [voorschriften 15](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=15&z=2010-07-01&g=2010-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=16&z=2010-07-01&g=2010-07-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=17&z=2010-07-01&g=2010-07-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=18&z=2010-07-01&g=2010-07-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=19&z=2010-07-01&g=2010-07-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=20&z=2010-07-01&g=2010-07-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=21&z=2010-07-01&g=2010-07-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=22&z=2010-07-01&g=2010-07-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=23&z=2010-07-01&g=2010-07-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=24&z=2010-07-01&g=2010-07-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=25&z=2010-07-01&g=2010-07-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=26&z=2010-07-01&g=2010-07-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=27&z=2010-07-01&g=2010-07-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=28&z=2010-07-01&g=2010-07-01) niet van toepassing zijn op de volgende categorieën schepen:
+- 4. De Administratie stelt vast in hoeverre de bepalingen van de [voorschriften 15](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=15&z=2011-01-01&g=2011-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=16&z=2011-01-01&g=2011-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=17&z=2011-01-01&g=2011-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=18&z=2011-01-01&g=2011-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=19&z=2011-01-01&g=2011-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=20&z=2011-01-01&g=2011-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=21&z=2011-01-01&g=2011-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=22&z=2011-01-01&g=2011-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=23&z=2011-01-01&g=2011-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=24&z=2011-01-01&g=2011-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=25&z=2011-01-01&g=2011-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=26&z=2011-01-01&g=2011-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=27&z=2011-01-01&g=2011-01-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=28&z=2011-01-01&g=2011-01-01) niet van toepassing zijn op de volgende categorieën schepen:
 
 - .1 schepen met een brutotonnage van minder dan 150 ton, ongeacht de reis die zij maken;
 
@@ -14856,13 +14850,13 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 - 5. **Opsporings- en reddingsdienst.**De uitvoering van noodbewakings-, communicatie-, coördinatie- en opsporings- en reddingstaken, met inbegrip van het bieden van medisch advies, eerste medische hulp, of medische evacuatie, met gebruikmaking van publieke en private middelen met inbegrip van luchtvaartuigen, schepen en andere vaartuigen en installaties die hun medewerking verlenen.
 
-- 6. **Hogesnelheidsvaartuig**, een vaartuig als omschreven in [voorschrift X/1.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=X&artikel=1&z=2010-07-01&g=2010-07-01).
+- 6. **Hogesnelheidsvaartuig**, een vaartuig als omschreven in [voorschrift X/1.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=X&artikel=1&z=2011-01-01&g=2011-01-01).
 
-- 7. **Mobiele buitengaatse booreenheid**, een mobiele buitengaatse booreenheid, als omschreven in [voorschrift XI-2/1.1.5](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-2&artikel=1&z=2010-07-01&g=2010-07-01).
+- 7. **Mobiele buitengaatse booreenheid**, een mobiele buitengaatse booreenheid, als omschreven in [voorschrift XI-2/1.1.5](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-2&artikel=1&z=2011-01-01&g=2011-01-01).
 
 ##### Voorschrift 3. Vrijstellingen en gelijkwaardige regelingen
 
-- 1 De Administratie kan aan schepen zonder mechanische voortstuwingsmiddelen algemene vrijstellingen verlenen van de vereisten van de [voorschriften 15](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=15&z=2010-07-01&g=2010-07-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=17&z=2010-07-01&g=2010-07-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=18&z=2010-07-01&g=2010-07-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=19&z=2010-07-01&g=2010-07-01) (behoudens 19.2.1.7), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=20&z=2010-07-01&g=2010-07-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=20&z=2010-07-01&g=2010-07-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=24&z=2010-07-01&g=2010-07-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=25&z=2010-07-01&g=2010-07-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=26&z=2010-07-01&g=2010-07-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=27&z=2010-07-01&g=2010-07-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=28&z=2010-07-01&g=2010-07-01).
+- 1 De Administratie kan aan schepen zonder mechanische voortstuwingsmiddelen algemene vrijstellingen verlenen van de vereisten van de [voorschriften 15](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=15&z=2011-01-01&g=2011-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=17&z=2011-01-01&g=2011-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=18&z=2011-01-01&g=2011-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=19&z=2011-01-01&g=2011-01-01) (behoudens 19.2.1.7), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=20&z=2011-01-01&g=2011-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=20&z=2011-01-01&g=2011-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=24&z=2011-01-01&g=2011-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=25&z=2011-01-01&g=2011-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=26&z=2011-01-01&g=2011-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=27&z=2011-01-01&g=2011-01-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=28&z=2011-01-01&g=2011-01-01).
 
 - 2 De Administratie kan aan bepaalde schepen, gedeeltelijke of voorwaardelijke vrijstelling of gelijkwaardige regelingen verlenen, indien een dergelijk schip een reis maakt waarbij de maximum afstand van het schip tot de kust, de lengte en aard van de reis, de afwezigheid van algemene gevaren voor de navigatie, en andere omstandigheden die op de veiligheid van invloed zijn, zodanig zijn dat volledige toepassing van dit hoofdstuk onredelijk of onnodig is; voorwaarde hierbij is dat de Administratie rekening moet houden met de eventuele gevolgen van deze vrijstellingen of gelijkwaardige regelingen voor de veiligheid van alle andere schepen.
 
@@ -14922,7 +14916,7 @@ Elke Verdragsluitende Regering treft de nodige maatregelen opdat, wanneer uit be
 
 - 2 Elke Verdragsluitende Regering verbindt zich ertoe gegevens aan de Organisatie te verstrekken betreffende de in haar land aanwezige opsporings- en reddingsfaciliteiten en de plannen voor eventueel daarin aan te brengen wijzigingen.
 
-- 3 Passagiersschepen waarop [Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2010-07-01&g=2010-07-01) van toepassing is, moeten een plan aan boord hebben voor samenwerking met de desbetreffende opsporings- en reddingsdiensten in geval van nood. Dit plan moet worden ontwikkeld in samenwerking tussen het schip, de maatschappij, als omschreven in [voorschrift IX/1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=1&z=2010-07-01&g=2010-07-01) en de opsporings- en reddingsdiensten. Het plan moet bepalingen bevatten voor periodieke oefeningen om de doeltreffendheid ervan te testen. Het plan moet worden opgesteld op basis van de door de Organisatie opgestelde richtlijnen.
+- 3 Passagiersschepen waarop [Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2011-01-01&g=2011-01-01) van toepassing is, moeten een plan aan boord hebben voor samenwerking met de desbetreffende opsporings- en reddingsdiensten in geval van nood. Dit plan moet worden ontwikkeld in samenwerking tussen het schip, de maatschappij, als omschreven in [voorschrift IX/1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=1&z=2011-01-01&g=2011-01-01) en de opsporings- en reddingsdiensten. Het plan moet bepalingen bevatten voor periodieke oefeningen om de doeltreffendheid ervan te testen. Het plan moet worden opgesteld op basis van de door de Organisatie opgestelde richtlijnen.
 
 ##### Voorschrift 8. Reddingsseinen
 
@@ -15024,7 +15018,7 @@ De Verdragsluitende Regeringen verplichten zich ertoe er zorg voor te dragen dat
 
 ##### Voorschrift 15. Beginselen met betrekking tot het ontwerp van de brug, het ontwerp en de opstelling van navigatiesystemen en -apparatuur en brugprocedures
 
-Bij alle besluiten die worden genomen voor de toepassing van de vereisten van de [voorschriften 19](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=19&z=2010-07-01&g=2010-07-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=22&z=2010-07-01&g=2010-07-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=24&z=2010-07-01&g=2010-07-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=25&z=2010-07-01&g=2010-07-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=27&z=2010-07-01&g=2010-07-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=28&z=2010-07-01&g=2010-07-01) en die van invloed zijn op het ontwerp van de brug, het ontwerp en de opstelling van navigatiesystemen en -apparatuur op de brug en op brugprocedures, moeten de volgende doelen voor ogen worden gehouden:
+Bij alle besluiten die worden genomen voor de toepassing van de vereisten van de [voorschriften 19](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=19&z=2011-01-01&g=2011-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=22&z=2011-01-01&g=2011-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=24&z=2011-01-01&g=2011-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=25&z=2011-01-01&g=2011-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=27&z=2011-01-01&g=2011-01-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=28&z=2011-01-01&g=2011-01-01) en die van invloed zijn op het ontwerp van de brug, het ontwerp en de opstelling van navigatiesystemen en -apparatuur op de brug en op brugprocedures, moeten de volgende doelen voor ogen worden gehouden:
 
 - .1 het vergemakkelijken van de taken van het brugteam en de loods bij het maken van een volledige beoordeling van de situatie en bij het onder alle operationele omstandigheden veilig besturen van het schip;
 
@@ -15044,7 +15038,7 @@ Bij alle besluiten die worden genomen voor de toepassing van de vereisten van de
 
 - 1 Ten genoegen van de Administratie moet worden aangetoond dat voldoende maatregelen zijn getroffen om ervoor te zorgen dat de in dit hoofdstuk vereiste uitrusting in goede staat wordt gehouden.
 
-- 2 Hoewel alle redelijke maatregelen moeten worden genomen om de in dit hoofdstuk vereiste uitrusting in goede staat te houden, moet, behoudens het bepaalde in de [voorschriften I/7(b) (ii)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=7&z=2010-07-01&g=2010-07-01), [I/8](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=8&z=2010-07-01&g=2010-07-01) en [I/9](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=9&z=2010-07-01&g=2010-07-01), storing in deze uitrusting niet worden beschouwd als reden waarom het schip onzeewaardig zou zijn of als reden om het schip op te houden in havens waar binnen redelijke tijd geen mogelijkheden voor reparatie beschikbaar zijn, mits door de kapitein passende maatregelen worden getroffen om met de defecte uitrusting of onbeschikbare informatie rekening te houden bij de voorbereiding en uitvoering van een veilige reis naar een haven waar reparatie kan plaatsvinden.
+- 2 Hoewel alle redelijke maatregelen moeten worden genomen om de in dit hoofdstuk vereiste uitrusting in goede staat te houden, moet, behoudens het bepaalde in de [voorschriften I/7(b) (ii)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=7&z=2011-01-01&g=2011-01-01), [I/8](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=8&z=2011-01-01&g=2011-01-01) en [I/9](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=9&z=2011-01-01&g=2011-01-01), storing in deze uitrusting niet worden beschouwd als reden waarom het schip onzeewaardig zou zijn of als reden om het schip op te houden in havens waar binnen redelijke tijd geen mogelijkheden voor reparatie beschikbaar zijn, mits door de kapitein passende maatregelen worden getroffen om met de defecte uitrusting of onbeschikbare informatie rekening te houden bij de voorbereiding en uitvoering van een veilige reis naar een haven waar reparatie kan plaatsvinden.
 
 ##### Voorschrift 17. Elektromagnetische compatibiliteit
 
@@ -15056,29 +15050,29 @@ Bij alle besluiten die worden genomen voor de toepassing van de vereisten van de
 
 ##### Voorschrift 18. Goedkeuring, onderzoek en uitvoeringsnormen van navigatiesystemen en – apparatuur en van de reisgegevensrecorder (VDR)
 
-- 1 Systemen en apparatuur die moeten voldoen aan de vereisten van de voorschriften 19 en 20 moeten van een door de Administratie goedgekeurd type zijn.
+1. Systemen en apparatuur die moeten voldoen aan de vereisten van de voorschriften 19 en 20 moeten van een door de Administratie goedgekeurd type zijn.
 
-- 2 Systemen en apparatuur en, in voorkomend geval, de bijbehorende back-up voorzieningen, op of na 1 juli 2002 geïnstalleerd om te voldoen aan de functionele vereisten van de voorschriften 19 en 20, moeten aan uitvoeringsnormen voldoen die ten minste gelijk zijn aan die welke door de Organisatie zijn aangenomen.
+2. Systemen en apparatuur en, in voorkomend geval, de bijbehorende back-up voorzieningen, op of na 1 juli 2002 geïnstalleerd om te voldoen aan de functionele vereisten van de voorschriften 19 en 20, moeten aan uitvoeringsnormen voldoen die ten minste gelijk zijn aan die welke door de Organisatie zijn aangenomen.
 
-- 3 Wanneer systemen en apparatuur op schepen gebouwd vóór 1 juli 2002 worden vervangen of toegevoegd, moeten deze systemen en apparatuur, voor zover redelijk en uitvoerbaar, voldoen aan de vereisten van paragraaf 2.
+3. Wanneer systemen en apparatuur op schepen gebouwd vóór 1 juli 2002 worden vervangen of toegevoegd, moeten deze systemen en apparatuur, voor zover redelijk en uitvoerbaar, voldoen aan de vereisten van paragraaf 2.
 
-- 4 Systemen en apparatuur geïnstalleerd voordat de desbetreffende uitvoeringsnormen door de Organisatie zijn aangenomen, kunnen vervolgens, wanneer het de Administratie goeddunkt, worden vrijgesteld van het volledig voldoen aan die normen, waarbij terdege rekening moet worden gehouden met de aanbevolen criteria die door de Organisatie zijn aangenomen. Voordat een elektronische zeekaart presentatie en informatiesysteem (ECDIS) kan worden aanvaard als beantwoordend aan het vereiste van voorschrift 19.2.1.4 inzake het aan boord hebben van kaarten, moet dat systeem voldoen aan uitvoeringsnormen die niet lager zijn dan die welke door de Organisatie zijn aangenomen en op de datum van installatie van kracht zijn, of, voor systemen geïnstalleerd vóór 1 januari 1999, niet lager zijn dan de door de Organisatie op 23 november 1995 aangenomen uitvoeringsnormen.
+4. Systemen en apparatuur geïnstalleerd voordat de desbetreffende uitvoeringsnormen door de Organisatie zijn aangenomen, kunnen vervolgens, wanneer het de Administratie goeddunkt, worden vrijgesteld van het volledig voldoen aan die normen, waarbij terdege rekening moet worden gehouden met de aanbevolen criteria die door de Organisatie zijn aangenomen. Voordat een elektronische zeekaart presentatie en informatiesysteem (ECDIS) kan worden aanvaard als beantwoordend aan het vereiste van voorschrift 19.2.1.4 inzake het aan boord hebben van kaarten, moet dat systeem voldoen aan uitvoeringsnormen die niet lager zijn dan die welke door de Organisatie zijn aangenomen en op de datum van installatie van kracht zijn, of, voor systemen geïnstalleerd vóór 1 januari 1999, niet lager zijn dan de door de Organisatie op 23 november 1995 aangenomen uitvoeringsnormen.
 
-- 5 De Administratie moet verlangen dat de fabrikanten een kwaliteitscontrolesysteem hebben dat door een bevoegde instantie wordt geaudit om de voortdurende naleving van de typegoedkeuringsvereisten te waarborgen. Als alternatief kan de Administratie procedures voor de controle van het eindproduct hanteren, waarbij de conformiteit van het typegoedkeuringscertificaat door een bevoegde instantie wordt gecontroleerd voordat het product aan boord van een schip wordt geïnstalleerd.
+5. De Administratie moet verlangen dat de fabrikanten een kwaliteitscontrolesysteem hebben dat door een bevoegde instantie wordt geaudit om de voortdurende naleving van de typegoedkeuringsvereisten te waarborgen. Als alternatief kan de Administratie procedures voor de controle van het eindproduct hanteren, waarbij de conformiteit van het typegoedkeuringscertificaat door een bevoegde instantie wordt gecontroleerd voordat het product aan boord van een schip wordt geïnstalleerd.
 
-- 6 Voordat goedkeuring wordt verleend aan systemen of apparatuur met nieuwe eigenschappen waarin dit hoofdstuk niet voorziet, moet de Administratie erop toezien dat deze eigenschappen functies ondersteunen die ten minste zo doeltreffend zijn als die welke ingevolge dit hoofdstuk vereist zijn.
+6. Voordat goedkeuring wordt verleend aan systemen of apparatuur met nieuwe eigenschappen waarin dit hoofdstuk niet voorziet, moet de Administratie erop toezien dat deze eigenschappen functies ondersteunen die ten minste zo doeltreffend zijn als die welke ingevolge dit hoofdstuk vereist zijn.
 
-- 7 Wanneer aan boord van schepen naast de in de voorschriften 19 en 20 vereiste uitrusting apparatuur aanwezig is waarvoor door de Organisatie uitvoeringseisen zijn opgesteld, moet deze apparatuur worden goedgekeurd en, voor zover praktisch uitvoerbaar, voldoen aan uitvoeringsnormen die niet lager zijn dan die welke door de Organisatie zijn aangenomen.
+7. Wanneer aan boord van schepen naast de in de voorschriften 19 en 20 vereiste uitrusting apparatuur aanwezig is waarvoor door de Organisatie uitvoeringseisen zijn opgesteld, moet deze apparatuur worden goedgekeurd en, voor zover praktisch uitvoerbaar, voldoen aan uitvoeringsnormen die niet lager zijn dan die welke door de Organisatie zijn aangenomen.
 
-- 8 Het VDR-systeem, met inbegrip van alle sensors, moet aan een jaarlijkse werkingsbeproeving worden onderworpen. De beproeving moet worden uitgevoerd door een goedgekeurd beproevings- of onderhoudsstation teneinde de nauwkeurigheid, de levensduur en de herstelbaarheid van de opgeslagen gegevens te controleren. Daarnaast moeten beproevingen en inspecties worden uitgevoerd om vast te stellen in hoeverre alle beschermende behuizingen en plaatsbepalingsvoorzieningen kunnen worden onderhouden. Aan boord moet een afschrift aanwezig zijn van het door het beproevingsstation afgegeven conformiteitscertificaat, met vermelding van de geldigheidsdatum en de desbetreffende uitvoeringsnormen.
+8. Het VDR-systeem, met inbegrip van alle sensors, moet aan een jaarlijkse werkingsbeproeving worden onderworpen. De beproeving moet worden uitgevoerd door een goedgekeurd beproevings- of onderhoudsstation teneinde de nauwkeurigheid, de levensduur en de herstelbaarheid van de opgeslagen gegevens te controleren. Daarnaast moeten beproevingen en inspecties worden uitgevoerd om vast te stellen in hoeverre alle beschermende behuizingen en plaatsbepalingsvoorzieningen kunnen worden onderhouden. Aan boord moet een afschrift aanwezig zijn van het door het beproevingsstation afgegeven conformiteitscertificaat, met vermelding van de geldigheidsdatum en de desbetreffende uitvoeringsnormen.
 
 ##### Voorschrift 19. Vereisten inzake de aanwezigheid van navigatiesystemen en -apparatuur aan boord van schepen
 
-- 1 Toepassing en vereisten Onverminderd de bepalingen van voorschrift 1.4:
+- 1. Toepassing en vereisten Onverminderd de bepalingen van voorschrift 1.4:
 
-- 1.1 Moeten schepen gebouwd op of na 1 juli 2002 zijn uitgerust met navigatiesystemen en -apparatuur die voldoen aan de in de paragrafen 2.1 tot en met 2.9 vervatte vereisten.
+- 1.1. Moeten schepen gebouwd op of na 1 juli 2002 zijn uitgerust met navigatiesystemen en -apparatuur die voldoen aan de in de paragrafen 2.1 tot en met 2.9 vervatte vereisten.
 
-- 1.2 Schepen gebouwd vóór 1 juli 2002 moeten:
+- 1.2. Schepen gebouwd vóór 1 juli 2002 moeten:
 
 - .1 onverminderd de bepalingen van paragraaf 1.2.2 en 1.2.3, tenzij zij volledig aan dit voorschrift voldoen, zijn uitgerust met apparatuur die voldoet aan de vereisten vervat in de voorschriften V/11, V/12 en V/20 van het Internationaal Verdrag inzake de beveiliging van mensenlevens op zee, 1974, die vóór 1 juli 2002 van kracht waren;
 
@@ -15086,35 +15080,49 @@ Bij alle besluiten die worden genomen voor de toepassing van de vereisten van de
 
 - .3 uiterlijk op de in paragraaf 2.4.2 en 2.4.3 genoemde data zijn uitgerust met het in paragraaf 2.4 vereiste systeem.
 
-- 2 Navigatiesystemen en -apparatuur aan boord
+- 2. Navigatiesystemen en -apparatuur aan boord
 
-- 2.1 Alle schepen, ongeacht hun omvang, moeten zijn uitgerust met:
+- 2.1. Alle schepen, ongeacht hun omvang, moeten zijn uitgerust met:
 
-- .1 een juist gecompenseerd standaard magnetisch kompas, of andere voorziening, onafhankelijk van enige krachtbron, om de koers van het schip te bepalen en de resultaten hiervan op de stuurpositie weer te geven;
+- .1. een juist gecompenseerd standaard magnetisch kompas, of andere voorziening, onafhankelijk van enige krachtbron, om de koers van het schip te bepalen en de resultaten hiervan op de stuurpositie weer te geven;
 
-- .2 een pelorus of peilkompas, of andere voorziening, onafhankelijk van enige krachtbron, om peilingen te kunnen nemen over een boog van de horizon van 360°;
+- .2. een pelorus of peilkompas, of andere voorziening, onafhankelijk van enige krachtbron, om peilingen te kunnen nemen over een boog van de horizon van 360°;
 
-- .3 voorzieningen om koersen en peilingen te allen tijde tot de juiste waarde te corrigeren;
+- .3. voorzieningen om koersen en peilingen te allen tijde tot de juiste waarde te corrigeren;
 
-- .4 nautische kaarten en publicaties om de route van het schip voor de voorgenomen reis te plannen en weer te geven, alsmede posities gedurende de reis te plotten en te monitoren; ten behoeve van de vereisten inzake het aan boord hebben van kaarten mag een elektronische zeekaart presentatie en informatiesysteem (ECDIS) worden geaccepteerd;
+- .4. zeevaartkundige kaarten en zeevaartkundige publicaties om de route van het schip voor de voorgenomen reis te plannen en weer te geven, alsmede posities gedurende de reis te plotten en te monitoren. Een weergave- en informatiesysteem voor elektronische zeekaarten (ECDIS) dat voldoet aan de vereisten van deze subparagraaf inzake het aan boord hebben van kaarten wordt eveneens geaccepteerd. Schepen waarop paragraaf 2.10 van toepassing is moeten voldoen aan de daarin vervatte vervoersvereisten voor ECDIS;
 
-- .5 back-up voorzieningen om aan de functionele vereisten van subparagraaf .4 te voldoen, indien deze functie geheel of gedeeltelijk door elektronische apparatuur wordt vervuld;
+- .5. back-up voorzieningen om aan de functionele vereisten van subparagraaf .4 te voldoen, indien deze functie geheel of gedeeltelijk door elektronische apparatuur wordt vervuld;
 
-- .6 een ontvanger voor een wereldwijd navigatiesatellietsysteem of een radionavigatiesysteem te land, of andere voorziening, geschikt om te allen tijde gedurende de voorgenomen reis te kunnen worden gebruikt voor het automatisch bepalen en bijhouden van de positie van het schip;
+- .6. een ontvanger voor een wereldwijd navigatiesatellietsysteem of een radionavigatiesysteem te land, of andere voorziening, geschikt om te allen tijde gedurende de voorgenomen reis te kunnen worden gebruikt voor het automatisch bepalen en bijhouden van de positie van het schip;
 
-- .7 schepen met een brutotonnage van minder dan 150 ton, indien uitvoerbaar, een radarreflector, of andere voorziening, om detectie mogelijk te maken door schepen die op radar varen, op zowel 9 als 3 GHz;
+- .7. schepen met een brutotonnage van minder dan 150 ton, indien uitvoerbaar, een radarreflector, of andere voorziening, om detectie mogelijk te maken door schepen die op radar varen, op zowel 9 als 3 GHz;
 
-- .8 wanneer de brug volledig omsloten is en tenzij de Administratie anders bepaalt, een geluidsontvangstsysteem, of andere voorziening, zodat de met de navigatie belaste officier geluidssignalen kan horen en kan vaststellen waar deze vandaan komen;
+- .8. wanneer de brug volledig omsloten is en tenzij de Administratie anders bepaalt, een geluidsontvangstsysteem, of andere voorziening, zodat de met de navigatie belaste officier geluidssignalen kan horen en kan vaststellen waar deze vandaan komen;
 
-- .9 een telefoon, of andere voorziening, om koersinformatie naar de noodstuurpositie door te geven, indien aanwezig.
+- .9. een telefoon, of andere voorziening, om koersinformatie naar de noodstuurpositie door te geven, indien aanwezig.
 
-- 2.2 Alle schepen met een brutotonnage van 150 ton of meer en passagiersschepen, ongeacht hun omvang, moeten in aanvulling op de vereisten van paragraaf 2.1 zijn uitgerust met:
+- 2.2. Alle schepen met een brutotonnage van 150 ton of meer en passagiersschepen, ongeacht hun omvang, moeten in aanvulling op de vereisten van paragraaf 2.1 zijn uitgerust met:
 
 - .1 een magnetisch reservekompas dat kan worden uitgewisseld met het in paragraaf 2.1.1 bedoelde magnetisch kompas, of andere voorziening, om de in paragraaf 2.1.1 bedoelde functie te vervullen door middel van vervangende of dubbele apparatuur;
 
 - .2 een dagseinlamp, of andere voorziening om, met licht overdag en ’s nachts met gebruikmaking van een elektrische krachtbron die niet uitsluitend afhankelijk is van de scheepsstroomvoorziening, te communiceren.
 
-- 2.3 Alle schepen met een brutotonnage van 300 ton of meer en passagiersschepen, ongeacht hun omvang, moeten in aanvulling op de vereisten van paragraaf 2.2 zijn uitgerust met:
+- .3. een brugwachtalarmsysteem (BNWAS), als volgt: Het brugwachtalarmsysteem moet te allen tijde in bedrijf zijn als het schip op zee vaart.
+
+- .1. vrachtschepen met een brutotonnage van 150 ton of meer en passagiersschepen, ongeacht hun omvang, gebouwd op of na 1 juli 2011;
+
+- .2. passagiersschepen, ongeacht hun omvang, gebouwd voor 1 juli 2011, uiterlijk op de datum van het eerste onderzoekna 1 juli 2012;
+
+- .3. vrachtschepen met een brutotonnage van 3000 ton of meer, gebouwd voor 1 juli 2011, uiterlijk op de datum van het eerste onderzoek na 1 juli 2012;
+
+- .4. vrachtschepen met een brutotonnage van 500 ton of meer maar minder dan 3000 ton, gebouwd voor 1 juli 2011, uiterlijk op de datum van het eerste onderzoek na 1 juli 2013; en
+
+- .5. vrachtschepen met een brutotonnage van 150 ton of meer maar minder dan 500 ton, gebouwd voor 1 juli 2011, uiterlijk op de datum van het eerste onderzoek na 1 juli 2014.
+
+- .4. een brugwachtalarmsysteem (BNWAS) dat voor 1 juli 2011 is geïnstalleerd kan daarna worden uitgezonderd van volledige overeenstemming met de standaarden die door de Organisatie zijn aangenomen, zulks ter beoordeling door de Administratie.
+
+- 2.3. Alle schepen met een brutotonnage van 300 ton of meer en passagiersschepen, ongeacht hun omvang, moeten in aanvulling op de vereisten van paragraaf 2.2 zijn uitgerust met:
 
 - .1 een echolood, of andere elektronische voorziening, om de aanwezige diepte van het water te meten en weer te geven;
 
@@ -15126,7 +15134,7 @@ Bij alle besluiten die worden genomen voor de toepassing van de vereisten van de
 
 - .5 goed afgestelde koersinformatie-apparatuur (THD), of andere voorziening, om koersinformatie te verzenden naar de in de paragrafen 2.3.2, 2.3.3 en 2.4 bedoelde apparatuur.
 
-- 2.4 Alle schepen met een brutotonnage van 300 ton of meer, op internationale reizen, en vrachtschepen met een brutotonnage van 500 ton of meer, niet op internationale reizen, en passagiersschepen, ongeacht hun omvang, moeten als volgt zijn uitgerust met een automatisch identificatiesysteem (AIS):
+- 2.4. Alle schepen met een brutotonnage van 300 ton of meer, op internationale reizen, en vrachtschepen met een brutotonnage van 500 ton of meer, niet op internationale reizen, en passagiersschepen, ongeacht hun omvang, moeten als volgt zijn uitgerust met een automatisch identificatiesysteem (AIS):
 
 - .1 schepen gebouwd op of na 1 juli 2002;
 
@@ -15158,7 +15166,7 @@ Bij alle besluiten die worden genomen voor de toepassing van de vereisten van de
 
 - .7 AIS-systemen moeten worden gebruikt met inachtneming van de door de Organisatie aangenomen richtlijnen. Op schepen uitgerust met AIS blijft AIS te allen tijde in werking, tenzij internationale overeenkomsten, regels of normen voorzien in de bescherming van navigatiegegevens.
 
-- 2.5 Alle schepen met een brutotonnage van 500 ton of meer moeten in aanvulling op de vereisten van paragraaf 2.3, met uitzondering van de paragrafen 2.3.3 en 2.3.5, en de vereisten van paragraaf 2.4 zijn uitgerust met:
+- 2.5. Alle schepen met een brutotonnage van 500 ton of meer moeten in aanvulling op de vereisten van paragraaf 2.3, met uitzondering van de paragrafen 2.3.3 en 2.3.5, en de vereisten van paragraaf 2.4 zijn uitgerust met:
 
 - .1. een gyrokompas of andere voorziening om de koers te bepalen en af te kunnen lezen door middel van niet-magnetische voorzieningen aan boord van schepen, die door de roerganger op de hoofdstuurpositie duidelijk afleesbaar zijn. Deze middelen moeten tevens koersinformatie verzenden naar de in de paragrafen 2.3.2, 2.4 en 2.5.5 bedoelde apparatuur;
 
@@ -15170,33 +15178,55 @@ Bij alle besluiten die worden genomen voor de toepassing van de vereisten van de
 
 - .5 een automatisch trackinghulpmiddel, of andere voorziening, om automatisch de afstand en koers te plotten van andere objecten om de kans op aanvaring vast te stellen.
 
-- 2.6 Op alle schepen met een brutotonnage van 500 ton of meer mag het uitvallen van één instrument niet tot gevolg hebben dat het schip niet meer zou kunnen voldoen aan de vereisten van de paragrafen 2.1.1, 2.1.2 en 2.1.4.
+- 2.6. Op alle schepen met een brutotonnage van 500 ton of meer mag het uitvallen van één instrument niet tot gevolg hebben dat het schip niet meer zou kunnen voldoen aan de vereisten van de paragrafen 2.1.1, 2.1.2 en 2.1.4.
 
-- 2.7 Alle schepen met een brutotonnage van 3000 ton of meer moeten, in aanvulling op de vereisten van paragraaf 2.5, zijn uitgerust met:
+- 2.7. Alle schepen met een brutotonnage van 3000 ton of meer moeten, in aanvulling op de vereisten van paragraaf 2.5, zijn uitgerust met:
 
 - .1 een 3 GHz radar, of indien de Administratie zulks passend acht, een tweede 9 GHz radar, of andere voorziening, om de afstand en koers van andere schepen, obstakels, boeien, kustlijnen en navigatiemarkeringen te bepalen en weer te geven, als hulp bij de navigatie en ter voorkoming van aanvaringen, die qua functie onafhankelijk is van de in paragraaf 2.3.2 bedoelde instrumenten; en
 
 - .2 een tweede automatisch trackinghulpmiddel, of andere voorziening, om automatisch de afstand en koers te plotten van andere objecten om de kans op aanvaring vast te stellen, die qua functie onafhankelijk is van de in paragraaf 2.5.5 bedoelde instrumenten.
 
-- 2.8 Alle schepen met een brutotonnage van 10.000 ton of meer moeten, in aanvulling op de vereisten van paragraaf 2.7, met uitzondering van paragraaf 2.7.2, zijn uitgerust met:
+- 2.8. Alle schepen met een brutotonnage van 10.000 ton of meer moeten, in aanvulling op de vereisten van paragraaf 2.7, met uitzondering van paragraaf 2.7.2, zijn uitgerust met:
 
 - .1 een automatische radar plotapparaat (ARPA), of andere voorziening, om automatisch de afstand en koers van ten minste 20 andere objecten te plotten, aangesloten op een instrument om de snelheid en afstand door het water te meten, om de kans op aanvaring vast te stellen en een uitwijkmanoeuvre te simuleren; en
 
 - .2 een koers- of tracking-controlesysteem, of andere voorziening, om automatisch een koers en/of rechte lijn aan te houden en te controleren.
 
-- 2.9 Alle schepen met een brutotonnage van 50.000 ton of meer moeten, in aanvulling op de vereisten van paragraaf 2.8, zijn uitgerust met:
+- 2.9. Alle schepen met een brutotonnage van 50.000 ton of meer moeten, in aanvulling op de vereisten van paragraaf 2.8, zijn uitgerust met:
 
 - .1 een bochtaanwijzer, of andere voorziening, om de draaisnelheid vast te stellen en weer te geven; en
 
 - .2 een instrument voor het meten van de snelheid en afstand, of andere voorziening, om de snelheid over de grond in voorwaartse en zijwaartse richting aan te geven.
 
-- 3 Wanneer ingevolge dit voorschrift „andere voorzieningen” zijn toegestaan, moeten deze voorzieningen door de Administratie in overeenstemming met voorschrift 18 worden goedgekeurd.
+- 2.10. Schepen die internationale reizen maken moeten als volgt worden uitgerust met een weergave- en informatiesysteem voor elektronische zeekaarten (ECDIS):
 
-- 4 De in dit voorschrift bedoelde navigatie-apparatuur en -systemen moeten zodanig worden geïnstalleerd, beproefd en onderhouden dat storingen tot een minimum worden beperkt.
+- .1. passagiersschepen met een brutotonnage van 500 ton of meer, gebouwd op of na 1 juli 2012;
 
-- 5 Bij alternatieve navigatie-apparatuur en -systemen moet de actuele gebruiksmodus worden weergegeven.
+- .2. tankschepen met een brutotonnage van 3000 ton of meer, gebouwd op of na 1 juli 2012;
 
-- 6 Geïntegreerde brugsystemen moeten zodanig zijn ingericht dat het uitvallen van een enkel subsysteem onmiddellijk door middel van hoorbare en zichtbare alarmen onder de aandacht van de met de navigatie belaste officier wordt gebracht, en dat hierdoor geen enkel ander subsysteem uitvalt. In geval van uitval van een onderdeel van een geïntegreerd navigatiesysteem moet het mogelijk zijn elk ander individueel instrument of onderdeel van het systeem apart te bedienen.
+- .3. vrachtschepen, anders dan tankschepen, met een brutotonnage van 10.000 ton of meer gebouwd op of na 1 juli 2013;
+
+- .4. vrachtschepen, anders dan tankschepen, met een brutotonnage van 3000 ton of meer maar minder dan 10.000 ton, gebouwd op of na 1 juli 2014;
+
+- .5. passagiersschepen met een brutotonnage van 500 ton of meer, gebouwd voor 1 juli 2012, uiterlijk op de datum van het eerste onderzoek op of na 1 juli 2014;
+
+- .6. tankschepen met een brutotonnage van 3000 ton of meer, gebouwd voor 1 juli 2012, uiterlijk op de datum van het eerste onderzoek op of na 1 juli 2015;
+
+- .7. vrachtschepen, anders dan tankschepen, met een brutotonnage van 50.000 ton of meer, gebouwd voor 1 juli 2013, uiterlijk op de datum van het eerste onderzoek op of na 1 juli 2016;
+
+- .8. vrachtschepen, anders dan tankschepen, met een brutotonnage van 20.000 ton of meer, maar minder dan 50.000 ton, gebouwd voor 1 juli 2013, uiterlijk op de datum van het eerste onderzoek op of na 1 juli 2017; en
+
+- .9. vrachtschepen, anders dan tankschepen, met een brutotonnage van 10.000 ton of meer, maar minder dan 20.000 ton, gebouwd voor 1 juli 2013, uiterlijk op de datum van het eerste onderzoek op of na 1 juli 2018.
+
+- 2.11. Administraties kunnen schepen van de toepassing van de in paragraaf 2.10 vervatte eisen vrijstellen, wanneer deze schepen binnen twee jaar na de in de subparagrafen .5 tot en met .9 van paragraaf 2.10 bedoelde uitvoeringsdatum voorgoed uit de vaart zullen worden genomen.
+
+- 3. Wanneer ingevolge dit voorschrift „andere voorzieningen” zijn toegestaan, moeten deze voorzieningen door de Administratie in overeenstemming met voorschrift 18 worden goedgekeurd.
+
+- 4. De in dit voorschrift bedoelde navigatie-apparatuur en -systemen moeten zodanig worden geïnstalleerd, beproefd en onderhouden dat storingen tot een minimum worden beperkt.
+
+- 5. Bij alternatieve navigatie-apparatuur en -systemen moet de actuele gebruiksmodus worden weergegeven.
+
+- 6. Geïntegreerde brugsystemen moeten zodanig zijn ingericht dat het uitvallen van een enkel subsysteem onmiddellijk door middel van hoorbare en zichtbare alarmen onder de aandacht van de met de navigatie belaste officier wordt gebracht, en dat hierdoor geen enkel ander subsysteem uitvalt. In geval van uitval van een onderdeel van een geïntegreerd navigatiesysteem moet het mogelijk zijn elk ander individueel instrument of onderdeel van het systeem apart te bedienen.
 
 ##### Voorschrift 20. Reisgegevensrecorder
 
@@ -15644,7 +15674,7 @@ Voor de toepassing van dit deel wordt, tenzij uitdrukkelijk anders bepaald, vers
 
 ### HOOFDSTUK VII. VERVOER VAN GEVAARLIJKE STOFFEN
 
-## DEEL A. VERVOER VAN GEVAARLIJKE STOFFEN IN VERPAKTE VORM
+## DEEL C. VERVOER VAN GRAAN
 
 ##### Voorschrift 1. Begripsomschrijvingen
 
@@ -16086,63 +16116,87 @@ Bulkcarriers zoals omschreven in voorschrift IX/1.6 en olietankschepen zoals oms
 
 - 2 De Verdragsluitende Regeringen stellen beveiligingsniveaus vast en zorgen dat de havenfaciliteiten op hun grondgebied en de schepen, voordat zij een haven binnenlopen of terwijl zij zich in een haven op hun grondgebied bevinden, over deze beveiligingsniveaus worden geïnformeerd. In geval van wijzigingen van het beveiligingsniveau wordt de beveiligingsniveau-informatie bijgewerkt naar gelang de omstandigheden dit vereisen.
 
-##### Voorschrift 4. Eisen voor maatschappijen en schepen
+##### Voorschrift 4. Havenstaatcontrole op de vereisten met betrekking tot de bedrijfsvoering aan boord
 
-- 1 De maatschappijen leven de relevante eisen van dit hoofdstuk en van deel A van de ISPS-Code na, waarbij ze rekening houden met de in deel B van de ISPS-Code gegeven richtsnoeren.
+1. Een schip dat zich in een haven van een andere Verdragsluitende Regering bevindt, is onderworpen aan controle door ambtenaren die door bedoelde Regering naar behoren zijn gemachtigd om te verzekeren dat is voldaan aan de vereisten met betrekking tot de bedrijfsvoering aan boord ten aanzien van de veiligheid van schepen, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële werkwijzen met betrekking tot de veiligheid van schepen.
 
-- 2 De schepen leven de relevante eisen van dit hoofdstuk en van deel A van de ISPS-Code na, waarbij ze rekening houden met de in deel B van de ISPS-Code gegeven richtsnoeren. De naleving wordt gecontroleerd en gecertificeerd overeenkomstig de bepalingen van deel A van de ISPS-Code.
+2. In de omstandigheden bedoeld in het eerste lid van dit voorschrift, neemt de Verdragsluitende Regering die de controle uitoefent de noodzakelijke maatregelen om te voorkomen dat het schip uitvaart voordat de situatie in overeenstemming is gebracht met de voorschriften van dit Verdrag.
 
-- 3 Alvorens een haven binnen te lopen, of terwijl het zich in een haven op het grondgebied van een Verdragsluitende Regering bevindt, voldoet een schip aan de eisen met betrekking tot het door die Verdragsluitende Regering vastgestelde beveiligingsniveau, indien dit beveiligingsniveau hoger is dan het door de Administratie voor dat schip vastgestelde beveiligingsniveau.
+3. De werkwijzen betreffende de controle door de havenstaat bedoeld in [voorschrift I/19](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=19&z=2011-01-01&g=2011-01-01) zijn van toepassing op dit voorschrift.
 
-- 4 Schepen reageren zo spoedig mogelijk op iedere overschakeling op een hoger beveiligingsniveau.
+4. Geen enkele bepaling van dit voorschrift mag op zodanige wijze worden uitgelegd dat daarmee de rechten en plichten worden beperkt van een Verdragsluitende Regering die controle uitoefent betreffende de vereisten met betrekking tot de bedrijfsvoering aan boord die nadrukkelijk worden genoemd in de voorschriften.
 
-- 5 Indien een schip zich niet houdt aan de eisen van dit hoofdstuk of van deel A van de ISPS-Code, dan wel niet kan voldoen aan de eisen met betrekking tot het door de Administratie of door een andere Verdragsluitende Regering vastgestelde en op dat schip van toepassing zijnde beveiligingsniveau, dan meldt het schip dit aan de betreffende bevoegde autoriteit alvorens over te gaan tot enige schip/haven raakvlak of alvorens de haven binnen te lopen, afhankelijk van de situatie die zich het eerst voordoet.
+##### Voorschrift 5. Continuous Synopsis Record
 
-##### Voorschrift 5. Specifieke verantwoordelijkheid van de maatschappijen
+- 1. Voor elk schip waarop [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=19&z=2011-01-01&g=2011-01-01) van toepassing is, wordt een Continuous Synopsis Record (CSR) afgegeven.
 
-De maatschappij zorgt ervoor dat de kapitein te allen tijde de informatie aan boord heeft aan de hand waarvan bevoegde ambtenaren van een Verdragsluitende Regering kunnen vaststellen:
+- 2.1 Het CSR heeft tot doel om in een aan boord van het schip aanwezig document de historie van het schip met betrekking tot de daarin opgetekende informatie vast te leggen.
 
-- .1 wie verantwoordelijk is voor de aanwijzing van de bemanningsleden of andere personen die op dat moment in welke hoedanigheid dan ook aan boord van een schip in dienst of te werk gesteld zijn ten behoeve van dat schip;
+- 2.2 Voor schepen gebouwd voor 1 juli 2004 dient het CSR ten minste de historie van het schip vanaf 1 juli 2004 te bevatten.
 
-- .2 wie degene is die beslist over de bezigheid van het schip; en
+- 3. De Administratie geeft het CSR af voor ieder schip dat gerechtigd is haar vlag te voeren en bevat ten minste de volgende gegevens (Wanneer het Continuous Synopsis Record op of na 1 januari 2009 wordt afgegeven of bijgewerkt, moet het de in de paragrafen 3.7 en 3.10 genoemde gegevens bevatten):
 
-- .3 wanneer het schip gebruikt wordt in het kader van een charterpartij (charterpartijen), wie de partijen zijn bij deze charterpartij(en).
+- .1 de naam van de Staat waarvan het schip gerechtigd is de vlag te voeren;
 
-##### Voorschrift 6. Scheepsbeveiligingsalarmsysteem
+- .2 de datum waarop het schip in die Staat geregistreerd werd;
 
-- 1 Alle schepen worden uitgerust met een scheepsbeveiligingsalarmsysteem, en wel als volgt:
+- .3 het identificatienummer van het schip in overeenstemming met [voorschrift 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-1&artikel=3&z=2011-01-01&g=2011-01-01);
 
-- .1 op of na 1 juli 2004 gebouwde schepen;
+- .4 de naam van het schip;
 
-- .2 vóór 1 juli 2004 gebouwde passagiersschepen, met inbegrip van hogesnelheidspassagiersvaartuigen, uiterlijk op de datum van het eerste onderzoek van de radio-installatie na 1 juli 2004;
+- .5 de haven waar het schip geregistreerd is;
 
-- .3 vóór 1 juli 2004 gebouwde olietankschepen, chemicaliëntankers, gastankers, bulkcarriers en hogesnelheidsvrachtvaartuigen, met een brutotonnage van 500 of meer, uiterlijk op de datum van het eerste onderzoek van de radio-installatie na 1 juli 2004; en
+- .6 de naam van de geregistreerde eigena(a)r(en) en het adres waarop hij/zij ingeschreven staat(n);
 
-- .4 andere vrachtschepen met een brutotonnage van 500 of meer en booreenheden die vóór 1 juli 2004 gebouwd zijn, uiterlijk op de datum van het eerste onderzoek van de radio-installatie na 1 juli 2006.
+- .7 het identificatienummer van de geregistreerde eigenaar;
 
-- 2 Wanneer het scheepsbeveiligingsalarmsysteem wordt ingeschakeld:
+- .8 de naam van de geregistreerde rompbevrachter(s) en het adres waarop hij/zij ingeschreven staat(n), indien van toepassing;
 
-- .1 stelt het een schip/wal-beveiligingsalarm in werking en zendt dit naar een door de Administratie aangewezen bevoegde autoriteit, die in deze omstandigheden ook de maatschappij kan zijn, dat de identiteit en positie van het schip vermeldt en aangeeft of de beveiliging van het schip wordt bedreigd of in gevaar is gebracht;
+- .9 de naam van de maatschappij, omschreven in [voorschrift IX/1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=1&z=2011-01-01&g=2011-01-01), het adres waarop zij ingeschreven staat en het adres of de adressen van waaruit de werkzaamheden ten behoeve van het veiligheidsmanagement worden verricht;
 
-- .2 zendt het dit scheepsbeveiligingsalarm niet naar andere schepen;
+- .10 het identificatienummer van de maatschappij;
 
-- .3 stelt het geen alarm aan boord van het schip in werking; en
+- .11 de naam van alle classificatiemaatschappijen waarbij het schip geclassificeerd is;
 
-- .4 houdt het het scheepsbeveiligingsalarm in werking totdat het wordt uitgeschakeld en/of opnieuw wordt ingesteld.
+- .12 de naam van de Administratie of van de Verdragsluitende Regering of van de erkende organisatie die het conformiteitsdocument (of het voorlopig conformiteitsdocument), vermeld in de ISM-code zoals omschreven in [voorschrift IX/1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=1&z=2011-01-01&g=2011-01-01), aan de maatschappij die het schip exploiteert heeft afgegeven en de naam van het lichaam dat de controle heeft verricht op basis waarvan het document is afgegeven, indien deze niet dezelfde is die het document heeft afgegeven;
 
-- 3 Het scheepsbeveiligingsalarmsysteem:
+- .13 de naam van de Administratie of van de Verdragsluitende Regering of van de erkende organisatie die het veiligheidsmanagementcertificaat (of het voorlopig veiligheidsmanagementcertificaat), vermeld in de ISM-code omschreven in [voorschrift IX/1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=1&z=2011-01-01&g=2011-01-01), aan het schip heeft afgegeven en de naam van het lichaam dat de controle heeft verricht op basis waarvan het certificaat is afgegeven, indien deze niet dezelfde is die het certificaat heeft afgegeven;
 
-- .1 kan vanaf de navigatiebrug en op minstens één andere plaats worden ingeschakeld;
+- .14 de naam van de Administratie of van de Verdragsluitende Regering of van de erkende beveiligingsorganisatie die het internationale scheepsbeveiligingscertificaat (of een voorlopig internationaal scheepsbeveiligingscertificaat) heeft afgegeven, omschreven in deel A van de ISPS-code, zoals omschreven in [voorschrift XI-2/1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-2&artikel=1&z=2011-01-01&g=2011-01-01), aan het schip en de naam van het orgaan dat de verificatie heeft verricht op basis waarvan het certificaat is afgegeven, indien dat niet hetzelfde is als het orgaan dat het certificaat heeft afgegeven; en
 
-- .2 voldoet aan prestatienormen die niet lager zijn dan de door de Organisatie aangenomen normen.
+- .15 de datum vanaf wanneer het schip niet langer in die Staat geregistreerd is.
 
-- 4 De inschakelpunten van het scheepsbeveiligingsalarmsysteem zijn zo ontworpen dat het scheepsbeveiligingsalarm niet per ongeluk kan worden ingeschakeld.
+- 4.1 Eventuele wijzigingen met betrekking tot de vermeldingen bedoeld in de paragrafen 3.4 tot en met 3.12 dienen te worden vastgelegd in het CSR teneinde te voorzien in geactualiseerde informatie in combinatie met een overzicht van de wijzigingen.
 
-- 5 Aan de eis van een scheepsbeveiligingsalarmsysteem kan worden voldaan met een radio-installatie die is aangepast aan de eisen van [hoofstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&z=2007-01-01&g=2007-01-01), maar dan ook aan alle eisen van dit voorschrift moet voldoen.
+- 4.2 In het geval van wijzigingen met betrekking tot de vermeldingen bedoeld in paragraaf 4.1, verstrekt de Administratie zo spoedig als praktisch haalbaar is, maar uiterlijk drie maanden na de datum van de wijziging aan de schepen die gerechtigd zijn haar vlag te voeren hetzij een herziene en geactualiseerde versie van het CSR hetzij de desbetreffende wijzigingen ervan.
 
-- 6 Wanneer een Administratie een melding binnenkrijgt van een scheepsbeveiligingsalarm, stelt die Administratie onmiddellijk de staat (staten) in de nabijheid waarvan het schip zich op dat moment bevindt in kennis.
+- 4.3 In het geval van wijzigingen met betrekking tot de vermeldingen bedoeld in paragraaf 4.1, in afwachting van de afgifte van een herziene en geactualiseerde versie van het CSR, geeft de Administratie toestemming voor en verlangt zij van de onderneming omschreven in [voorschrift IX/1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=1&z=2011-01-01&g=2011-01-01) of van de kapitein van het schip om het CSR zodanig aan te passen dat de wijzigingen worden weergegeven. In dergelijke gevallen stelt de maatschappij zodra het CSR gewijzigd is de Administratie onverwijld dienovereenkomstig in kennis.
 
-- 7 Wanneer een Verdragsluitende Regering een melding ontvangt van een scheepsbeveiligingsalarm van een schip dat niet gerechtigd is onder zijn vlag te varen, stelt die Verdragsluitende Regering onmiddellijk de desbetreffende Administratie in kennis en, indien van toepassing, de staat (staten) in de nabijheid waarvan het schip zich op dat moment bevindt.
+- 5.1 Het CSR dient in de Engelse, de Franse of de Spaanse taal te zijn. Tevens kan een vertaling van het CSR in de officiële taal of talen van de Administratie worden verstrekt.
+
+- 5.2 Het CSR dient te worden opgesteld aan de hand van een door de Organisatie opgesteld modelformulier en dient te worden bijgehouden aan de hand van de richtlijnen ontwikkeld door de Organisatie. Eerdere vermeldingen in het CSR mogen niet worden aangepast, geschrapt of op andere wijze worden verwijderd of onleesbaar worden gemaakt.
+
+- 6. Wanneer een schip de vlag van een andere Staat gaat voeren of verkocht wordt (of wordt overgenomen door een andere rompbevrachter) of wanneer een andere maatschappij de verantwoordelijkheid voor de exploitatie van het schip aanvaardt, dient het CSR aan boord te blijven.
+
+- 7. Wanneer een schip de vlag van een andere Staat gaat voeren, dient de maatschappij de Administratie in kennis te stellen van de naam van de Staat waaraan het schip wordt overgedragen, teneinde de Administratie in staat te stellen die Staat een afschrift van het deel van het CSR toe te zenden dat betrekking heeft op het tijdvak waarin het schip onder haar rechtsmacht viel.
+
+- 8. Indien een schip de vlag van een andere Staat gaat voeren, waarvan de Regering een Verdragsluitende Partij is, zendt de Verdragsluitende Regering van de Staat waarvan het schip de vlag tot dusver voerde de Administratie zo spoedig mogelijk na de overdracht een afschrift van het deel van CSR dat betrekking heeft op het tijdvak waarin het schip onder zijn rechtsmacht viel tezamen met de delen van het CSR die eerder door andere Staten aan het schip zijn afgegeven.
+
+- 9. Wanneer een schip de vlag van een andere Staat is gaan voeren, voegt de Administratie bij de eerdere delen van het CSR het deel dat de Administratie zal afgeven aan het schip teneinde te bewerkstelligen dat het CSR de volledige historie van het schip omvat zoals met dit voorschrift beoogd.
+
+- 10. Het CSR dient te allen tijde aan boord van het schip te blijven en beschikbaar te zijn voor inzage.
+
+##### Voorschrift 6. Aanvullende vereisten voor onderzoek naar ongevallen en incidenten op zee
+
+Met inachtneming van [voorschrift I/21](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=C&artikel=21&z=2011-01-01&g=2011-01-01) verricht elke Administratie onderzoek naar ongevallen en incidenten op zee in overeenstemming met de bepalingen van dit Verdrag, als aangevuld door de bepalingen van de Code van internationale normen en aanbevelingen voor veiligheidsonderzoeken naar ongevallen en incidenten op zee (Onderzoekscode voor ongevallen), aangenomen bij resolutie MSC.255(84), en
+
+- .1. de bepalingen van deel I en II van de Onderzoekscode voor ongevallen moeten volledig worden nageleefd;
+
+- .2. de desbetreffende aanwijzingen en toelichtingen vervat in deel III van de Onderzoekscode voor ongevallen moeten zoveel mogelijk in aanmerking worden genomen teneinde een uniformere uitvoering van de Onderzoekscode voor ongevallen te bewerkstelligen;
+
+- .3. wijzigingen van deel I en II van de Onderzoekscode voor ongevallen worden aangenomen, treden in werking en worden van kracht in overeenstemming met de bepalingen van [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VIII&z=2011-01-01&g=2011-01-01) van dit Verdrag inzake de wijzigingsprocedures die van toepassing zijn op de bijlage anders dan [Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2011-01-01&g=2011-01-01); en
+
+- .4. deel III van de Onderzoekscode voor ongevallen wordt gewijzigd door de Maritieme Veiligheidscommissie in overeenstemming met haar reglement van orde.
 
 ##### Voorschrift 7. Bedreigingen voor schepen
 
@@ -16502,13 +16556,13 @@ DONE AT LONDON this first day of November one thousand nine hundred and seventy-
 
 - .2. schepen gebouwd vóór 31 december 2008 en gecertificeerd voor activiteiten:
 
-- .1. in de zeegebieden A1 en A2, als omschreven in de voorschriften [IV/2.1.12 en IV/2.1.13](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=A&artikel=2&z=2010-07-01&g=2010-07-01); of
+- .1. in de zeegebieden A1 en A2, als omschreven in de voorschriften [IV/2.1.12 en IV/2.1.13](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=A&artikel=2&z=2011-01-01&g=2011-01-01); of
 
-- .2. in de zeegebieden A1, A2 en A3, als omschreven in de [voorschriften IV/2.1.12, IV/2.1.13 en IV/2.1.14](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=A&artikel=2&z=2010-07-01&g=2010-07-01); uiterlijk bij de eerste inspectie van de radioinstallatie na 31 december 2008;
+- .2. in de zeegebieden A1, A2 en A3, als omschreven in de [voorschriften IV/2.1.12, IV/2.1.13 en IV/2.1.14](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=A&artikel=2&z=2011-01-01&g=2011-01-01); uiterlijk bij de eerste inspectie van de radioinstallatie na 31 december 2008;
 
-- .3. schepen gebouwd vóór 31 december 2008 die gecertificeerd zijn voor activiteiten in de zeegebieden A1, A2, A3 en A4, als omschreven in de [voorschriften IV/2.1.12, IV/2.1.13, IV/2.1.14 en IV/2.1.15](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=A&artikel=2&z=2010-07-01&g=2010-07-01), uiterlijk bij de eerste inspectie van de radioinstallatie na 1 juli 2009. Wanneer deze schepen actief zijn binnen de zeegebieden A1, A2 en A3 moeten zij echter voldoen aan de bepalingen van subparagraaf .2.
+- .3. schepen gebouwd vóór 31 december 2008 die gecertificeerd zijn voor activiteiten in de zeegebieden A1, A2, A3 en A4, als omschreven in de [voorschriften IV/2.1.12, IV/2.1.13, IV/2.1.14 en IV/2.1.15](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=A&artikel=2&z=2011-01-01&g=2011-01-01), uiterlijk bij de eerste inspectie van de radioinstallatie na 1 juli 2009. Wanneer deze schepen actief zijn binnen de zeegebieden A1, A2 en A3 moeten zij echter voldoen aan de bepalingen van subparagraaf .2.
 
-4.2. Schepen, ongeacht de datum waarop zij zijn gebouwd, uitgerust met een automatisch identificatiesysteem (AIS) als omschreven in [voorschrift 19.2.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=19&z=2010-07-01&g=2010-07-01) die uitsluitend worden ingezet binnen zeegebied A1 als omschreven in [voorschrift IV/2.1.12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=A&artikel=2&z=2010-07-01&g=2010-07-01), zijn niet verplicht aan de bepalingen van dit voorschrift te voldoen.
+4.2. Schepen, ongeacht de datum waarop zij zijn gebouwd, uitgerust met een automatisch identificatiesysteem (AIS) als omschreven in [voorschrift 19.2.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=19&z=2011-01-01&g=2011-01-01) die uitsluitend worden ingezet binnen zeegebied A1 als omschreven in [voorschrift IV/2.1.12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=A&artikel=2&z=2011-01-01&g=2011-01-01), zijn niet verplicht aan de bepalingen van dit voorschrift te voldoen.
 
 5. Onverminderd de bepalingen van paragraaf 4.1 moeten schepen automatisch de volgende gegevens ten behoeve van langeafstandsidentificatie en -tracking verzenden:
 
@@ -16524,13 +16578,13 @@ DONE AT LONDON this first day of November one thousand nine hundred and seventy-
 
 - .1. wanneer internationale overeenkomsten, regels of normen voorzien in de beveiliging van navigatiegegevens; of
 
-- .2. onder uitzonderlijke omstandigheden en gedurende een zo kort mogelijk tijdsbestek wanneer deze handeling naar het oordeel van de kapitein de veiligheid of beveiliging van het schip in gevaar brengt. In een dergelijk geval brengt de kapitein de Administratie zonder onnodige vertraging op de hoogte en maakt hij een aantekening in het journaal van navigatieactiviteiten en incidenten dat in overeenstemming met [voorschrift 28](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=28&z=2010-07-01&g=2010-07-01) wordt bijgehouden, met vermelding van de redenen voor het besluit, alsmede van het tijdvak gedurende welk het systeem of de apparatuur werd uitgeschakeld.
+- .2. onder uitzonderlijke omstandigheden en gedurende een zo kort mogelijk tijdsbestek wanneer deze handeling naar het oordeel van de kapitein de veiligheid of beveiliging van het schip in gevaar brengt. In een dergelijk geval brengt de kapitein de Administratie zonder onnodige vertraging op de hoogte en maakt hij een aantekening in het journaal van navigatieactiviteiten en incidenten dat in overeenstemming met [voorschrift 28](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=28&z=2011-01-01&g=2011-01-01) wordt bijgehouden, met vermelding van de redenen voor het besluit, alsmede van het tijdvak gedurende welk het systeem of de apparatuur werd uitgeschakeld.
 
 8.1. Onverminderd de bepalingen van de paragrafen 8.2 tot en met 11.2 moeten de Verdragsluitende Regeringen voor beveiligingsdoeleinden en andere door de Organisatie overeengekomen doeleinden als volgt langeafstandsidentificatie- en -trackinggegevens over schepen kunnen ontvangen:
 
 - .1. De Administratie is bevoegd dergelijke informatie te ontvangen over schepen die bevoegd zijn haar vlag te voeren, ongeacht waar deze schepen zich bevinden;
 
-- .2. een Verdragsluitende Regering is bevoegd dergelijke gegevens te ontvangen over schepen die hebben aangegeven voornemens te zijn een havenfaciliteit binnen te gaan, als omschreven in [voorschrift XI-2/1.1.9](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-2&artikel=1&z=2010-07-01&g=2010-07-01), of een plaats onder de rechtsmacht van die Verdragsluitende Regering, ongeacht waar deze schepen zich bevinden, mits zij zich niet bevinden binnen de wateren landinwaarts van de in overeenstemming met het internationaal recht vastgestelde basislijnen van een andere Verdragsluitende Regering; en
+- .2. een Verdragsluitende Regering is bevoegd dergelijke gegevens te ontvangen over schepen die hebben aangegeven voornemens te zijn een havenfaciliteit binnen te gaan, als omschreven in [voorschrift XI-2/1.1.9](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-2&artikel=1&z=2011-01-01&g=2011-01-01), of een plaats onder de rechtsmacht van die Verdragsluitende Regering, ongeacht waar deze schepen zich bevinden, mits zij zich niet bevinden binnen de wateren landinwaarts van de in overeenstemming met het internationaal recht vastgestelde basislijnen van een andere Verdragsluitende Regering; en
 
 - .3. een Verdragsluitende Regering is bevoegd dergelijke gegevens te ontvangen over schepen die bevoegd zijn de vlag van een andere Verdragsluitende Regering te voeren, die niet voornemens zijn een havenfaciliteit of een plaats onder de rechtsmacht van die Verdragsluitende Regering binnen te gaan en binnen een afstand van ten hoogste 1000 zeemijlen uit haar kust varen, mits dergelijke schepen zich niet bevinden binnen de wateren landinwaarts van de in overeenstemming met het internationaal recht vastgestelde basislijnen van een andere Verdragsluitende Regering; en
 
@@ -16540,9 +16594,9 @@ DONE AT LONDON this first day of November one thousand nine hundred and seventy-
 
 9.1. Onverminderd de bepalingen van paragraaf 8.1.3 is de Administratie bevoegd, uit oogpunt van veiligheid of om andere redenen, te allen tijde te besluiten dat aan de Verdragsluitende Regeringen geen langeafstandsidentificatie- en -trackinggegevens worden verstrekt ingevolge de bepalingen van paragraaf 8.1.3. over schepen die bevoegd zijn haar vlag te voeren. De betrokken Administratie kan deze besluiten vervolgens op enig later tijdstip wijzigen, opschorten of intrekken.
 
-9.2. De betreffende Administratie deelt dergelijke besluiten, ingevolge [voorschrift 9.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=9&z=2010-07-01&g=2010-07-01), mede aan de Organisatie. Zodra de Organisatie deze mededeling heeft ontvangen, brengt zij alle Verdragsluitende Regeringen hiervan op de hoogte, met de bijzonderheden ervan.
+9.2. De betreffende Administratie deelt dergelijke besluiten, ingevolge [voorschrift 9.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=9&z=2011-01-01&g=2011-01-01), mede aan de Organisatie. Zodra de Organisatie deze mededeling heeft ontvangen, brengt zij alle Verdragsluitende Regeringen hiervan op de hoogte, met de bijzonderheden ervan.
 
-9.3. Aan de rechten, plichten en verplichtingen ingevolge het internationaal recht, van de schepen waarvan de Administratie de bepalingen van [voorschrift 9.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=9&z=2010-07-01&g=2010-07-01) heeft ingeroepen, mag naar aanleiding van deze besluiten geen afbreuk worden gedaan.
+9.3. Aan de rechten, plichten en verplichtingen ingevolge het internationaal recht, van de schepen waarvan de Administratie de bepalingen van [voorschrift 9.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=9&z=2011-01-01&g=2011-01-01) heeft ingeroepen, mag naar aanleiding van deze besluiten geen afbreuk worden gedaan.
 
 10. De Verdragsluitende Regeringen zijn te allen tijde gehouden:
 
@@ -16566,7 +16620,7 @@ DONE AT LONDON this first day of November one thousand nine hundred and seventy-
 
 ##### Voorschrift 20. Reisgegevensrecorder
 
-- 1 Schepen op internationale reizen moeten, onverminderd de bepalingen van [voorschrift 1.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=1&z=2010-07-01&g=2010-07-01), ten behoeve van onderzoek naar ongevallen als volgt met een reisgegevensrecorder (VDR) zijn uitgerust:
+- 1 Schepen op internationale reizen moeten, onverminderd de bepalingen van [voorschrift 1.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=1&z=2011-01-01&g=2011-01-01), ten behoeve van onderzoek naar ongevallen als volgt met een reisgegevensrecorder (VDR) zijn uitgerust:
 
 - .1 passagiersschepen gebouwd op of na 1 juli 2002;
 
@@ -16594,7 +16648,7 @@ DONE AT LONDON this first day of November one thousand nine hundred and seventy-
 
 ##### Voorschrift 22. Zicht vanaf de navigatiebrug
 
-- 1. Schepen met een lengte, zoals omschreven in [voorschrift 2.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=2&z=2010-07-01&g=2010-07-01), van niet minder dan 55 m lengte gebouwd op of na 1 juli 1998, moeten aan de volgende vereisten voldoen:
+- 1. Schepen met een lengte, zoals omschreven in [voorschrift 2.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=2&z=2011-01-01&g=2011-01-01), van niet minder dan 55 m lengte gebouwd op of na 1 juli 1998, moeten aan de volgende vereisten voldoen:
 
 - .1 Vanaf het punt waar het schip wordt bestuurd mag het zicht over het zee-oppervlak voor de boeg binnen een hoek van 10° aan beide zijden, ongeacht de diepgang, trim of deklading, niet worden gehinderd over meer dan twee scheepslengtes, of 500 m, naar gelang welke afstand het kleinst is;
 
@@ -16632,7 +16686,7 @@ DONE AT LONDON this first day of November one thousand nine hundred and seventy-
 
 - .2. de handeling wordt verricht in overeenstemming met het ballastwatermanagementplan van het schip, met inachtneming van de door de Organisatie aangenomen aanbevelingen inzake het wisselen van ballastwater; en
 
-- .3. de aanvang en beëindiging van de handeling worden aangetekend in het journaal van navigatieactiviteiten ingevolge [voorschrift 28](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=28&z=2010-07-01&g=2010-07-01).
+- .3. de aanvang en beëindiging van de handeling worden aangetekend in het journaal van navigatieactiviteiten ingevolge [voorschrift 28](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=28&z=2011-01-01&g=2011-01-01).
 
 ##### Voorschrift 23. Voorzieningen voor het overnemen van de loods
 
@@ -16774,7 +16828,7 @@ Nautische kaarten en publicaties, zoals zeemansgidsen, lichtenlijsten, Berichten
 
 1. Alle schepen die internationale reizen maken moeten aan boord een journaal bijhouden van navigatie-activiteiten en incidenten die van belang zijn voor een veilige navigatie, dat voldoende uitgebreid moet zijn om een volledig verslag van de reis te kunnen reconstrueren, met inachtneming van de door de Organisatie aangenomen aanbevelingen. Wanneer dergelijke informatie niet wordt bijgehouden in het logboek van het schip, moet deze in een andere, door de Administratie goedgekeurde vorm worden bijgehouden.
 
-2. Elk schip met een brutotonnage van 500 ton of meer, dat internationale reizen maakt van meer dan 48 uur, dient, gedurende de gehele reis, een dagelijks verslag in bij de maatschappij als omschreven in [voorschrift IX/1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=1&z=2010-07-01&g=2010-07-01), die dit verslag en alle opvolgende verslagen bewaart. Dagelijkse verslagen mogen via elk middel worden verstuurd, mits ze zo snel mogelijk na de vaststelling van de in het verslag vermelde positie aan de maatschappij worden verstuurd. Het gebruik van geautomatiseerde systemen voor verslaglegging is toegestaan, mits deze een voorziening voor opname van de verzending bevatten en mits deze functies en interfaces met positiebepalingssystemen regelmatig door de kapitein van het schip worden geverifieerd. Het verslag moet het volgende bevatten:
+2. Elk schip met een brutotonnage van 500 ton of meer, dat internationale reizen maakt van meer dan 48 uur, dient, gedurende de gehele reis, een dagelijks verslag in bij de maatschappij als omschreven in [voorschrift IX/1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=1&z=2011-01-01&g=2011-01-01), die dit verslag en alle opvolgende verslagen bewaart. Dagelijkse verslagen mogen via elk middel worden verstuurd, mits ze zo snel mogelijk na de vaststelling van de in het verslag vermelde positie aan de maatschappij worden verstuurd. Het gebruik van geautomatiseerde systemen voor verslaglegging is toegestaan, mits deze een voorziening voor opname van de verzending bevatten en mits deze functies en interfaces met positiebepalingssystemen regelmatig door de kapitein van het schip worden geverifieerd. Het verslag moet het volgende bevatten:
 
 - .1 de positie van het schip;
 
@@ -16788,7 +16842,7 @@ Een geïllustreerde lijst, waarin de reddingsseinen zijn beschreven, moet op elk
 
 ##### Voorschrift 30. Beperking ten aanzien van de exploitatie
 
-- 1 Dit voorschrift is van toepassing op alle passagiersschepen waarop [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2010-07-01&g=2010-07-01) van toepassing is.
+- 1 Dit voorschrift is van toepassing op alle passagiersschepen waarop [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2011-01-01&g=2011-01-01) van toepassing is.
 
 - 2 Voordat een passagiersschip in dienst wordt genomen, moet een lijst met alle beperkingen met betrekking tot de exploitatie van het passagiersschip worden opgesteld, met inbegrip van ontheffingen van deze voorschriften, beperkingen in de vaargebieden, beperkingen vanwege het weer, beperkingen met betrekking tot de toestand van de zee of de toegestane lading, beperkingen ten aanzien van kop- of stuurlast, snelheid en andere beperkingen, hetzij opgelegd door de Administratie, hetzij vastgesteld tijdens de ontwerp- of bouwfase. Deze lijst, tezamen met alle andere nodige uitleg, moet worden vastgelegd in een document opgesteld in een voor de Administratie aanvaardbare vorm, dat aan boord op eenvoudige wijze door de kapitein kan worden geraadpleegd. De lijst moet worden bijgehouden. Indien de gebruikte taal het Engels noch het Frans is, moet de lijst in één van deze twee talen beschikbaar zijn.
 
@@ -16800,7 +16854,7 @@ Een geïllustreerde lijst, waarin de reddingsseinen zijn beschreven, moet op elk
 
 - 3 De overbrenging van berichten aangaande bedoelde gevaren is kosteloos voor de betrokken schepen.
 
-- 4 Alle radioberichten die ingevolge paragraaf 1 worden verzonden, moeten worden voorafgegaan door het veiligheidssein, waarbij de in het Radioreglement, genoemd in [voorschrift IV/2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=A&artikel=2&z=2010-07-01&g=2010-07-01), voorgeschreven procedure moet worden gevolgd.
+- 4 Alle radioberichten die ingevolge paragraaf 1 worden verzonden, moeten worden voorafgegaan door het veiligheidssein, waarbij de in het Radioreglement, genoemd in [voorschrift IV/2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=A&artikel=2&z=2011-01-01&g=2011-01-01), voorgeschreven procedure moet worden gevolgd.
 
 ##### Voorschrift 32. In gevaarberichten op te nemen informatie
 
@@ -16912,17 +16966,17 @@ TTT ONDERVINDT ZWARE IJSVORMING. 1400 UTC, 2 MAART, 69 N, 10 W. TEMPERATUUR LUCH
 
 Het gebruik van een internationaal noodsein, behalve om aan te geven dat een of meerdere personen in nood verkeren, en het gebruik van welk sein ook dat met een internationaal noodsein kan worden verward, is verboden.
 
-### AANHANGSEL BIJ [HOOFDSTUK V](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&z=2010-07-01&g=2010-07-01)
+### AANHANGSEL BIJ [HOOFDSTUK V](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&z=2011-01-01&g=2011-01-01)
 
-### HOOFDSTUK VI. VERVOER VAN LADING
+### HOOFDSTUK VI. VERVOER VAN LADING EN BRANDSTOFOLIE
 
 ## DEEL A. ALGEMENE BEPALINGEN
 
 ##### Voorschrift 1. Toepassing
 
-1. Dit hoofdstuk is van toepassing op het vervoer van ladingen (met uitzondering van vloeistoffen in bulk en aspecten van het vervoer die onder andere hoofdstukken vallen) waarvoor, vanwege hun specifieke gevaar voor schepen of personen aan boord, bijzondere voorzorgsmaatregelen vereist zijn op alle schepen waarop deze voorschriften van toepassing zijn, en op vrachtschepen met een bruto tonnage van minder dan 500 ton. Voor vrachtschepen met een bruto tonnage van minder dan 500 ton kan de Administratie echter, indien zij van oordeel is dat de toepassing van specifieke vereisten van Deel A of B van dit hoofdstuk redelijk noch noodzakelijk is gezien de beschutte aard van de reis en de omstandigheden waaronder deze wordt gemaakt, andere doeltreffende maatregelen nemen om de vereiste veiligheid voor deze schepen te verzekeren.
+1. Tenzij uitdrukkelijk anders is bepaald, is dit hoofdstuk van toepassing op het vervoer van ladingen (met uitzondering van vloeistoffen in bulk en aspecten van het vervoer die onder andere hoofdstukken vallen) waarvoor, vanwege hun specifieke gevaar voor schepen of personen aan boord, bijzondere voorzorgsmaatregelen vereist zijn op alle schepen waarop deze voorschriften van toepassing zijn, en op vrachtschepen met een bruto tonnage van minder dan 500 ton. Voor vrachtschepen met een bruto tonnage van minder dan 500 ton kan de Administratie echter, indien zij van oordeel is dat de toepassing van specifieke vereisten van [Deel A](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=VI&deel=A&z=2011-01-01&g=2011-01-01) of [B](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=VI&deel=B&z=2011-01-01&g=2011-01-01) van dit hoofdstuk redelijk noch noodzakelijk is gezien de beschutte aard van de reis en de omstandigheden waaronder deze wordt gemaakt, andere doeltreffende maatregelen nemen om de vereiste veiligheid voor deze schepen te verzekeren.
 
-2. In aanvulling op de bepalingen van Deel A en B van dit hoofdstuk verzekert iedere Verdragsluitende Regering dat passende informatie wordt verstrekt over de lading en de stuwage en vastzetting ervan, waarin met name de voorzorgsmaatregelen worden uiteengezet die nodig zijn voor het veilige vervoer van die ladingen.
+2. In aanvulling op de bepalingen van [Deel A](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=VI&deel=A&z=2011-01-01&g=2011-01-01) en [B](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=VI&deel=B&z=2011-01-01&g=2011-01-01) van dit hoofdstuk verzekert iedere Verdragsluitende Regering dat passende informatie wordt verstrekt over de lading en de stuwage en vastzetting ervan, waarin met name de voorzorgsmaatregelen worden uiteengezet die nodig zijn voor het veilige vervoer van die ladingen.
 
 ##### Voorschrift 2. Ladinggegevens
 
@@ -17134,7 +17188,7 @@ Tenzij uitdrukkelijk anders is bepaald, gelden voor de toepassing van dit Deel d
 
 2. Een gastankschip dat in het bezit is van een certificaat afgegeven ingevolge de bepalingen van het eerste lid is onderworpen aan de controle vastgelegd in [Voorschrift I/19](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=19&z=2008-07-01&g=2008-07-01). Hiertoe wordt zulk een certificaat beschouwd als certificaat afgegeven ingevolge [Voorschrift I/12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=12&z=2008-07-01&g=2008-07-01) of [I/13](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=13&z=2008-07-01&g=2008-07-01).
 
-## DEEL D. BIJZONDERE VEREISTEN VOOR HET VERVOER VAN VERPAKTE BESTRAALDE SPLIJTSTOFFEN, PLUTONIUM EN HOOG-RADIOACTIEF AFVAL AAN BOORD VAN SCHEPEN
+## DEEL C. - BOUW EN UITRUSTING VAN SCHEPEN DIE VLOEIBAAR GEMAAKTE GASSEN IN BULK VERVOEREN
 
 ##### Voorschrift 14. Begripsomschrijvingen
 
@@ -17290,83 +17344,49 @@ Het veiligheidsmanagementsysteem moet in stand worden gehouden overeenkomstig de
 
 2. dient een schip dat in het bezit moet zijn van een certificaat dat wordt afgegeven krachtens de bepalingen van [voorschrift 4.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=4&z=2008-07-01&g=2008-07-01), te worden onderworpen aan de controle zoals bedoeld in de bepalingen van voorschrift XI/4. Hiertoe dient een dergelijk certificaat te worden beschouwd als een certificaat afgegeven op grond van [voorschrift I/12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=12&z=2008-07-01&g=2008-07-01) of [I/13](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=13&z=2008-07-01&g=2008-07-01).
 
-### HOOFDSTUK XI-2. SPECIALE MAATREGELEN TER VERBETERING VAN DE BEVEILIGING OP ZEE
+### HOOFDSTUK X. VEILIGHEIDSMAATREGELEN VOOR HOGESNELHEIDSVAARTUIGEN
 
-##### Voorschrift 1. Definities
+##### Voorschrift 1. Begripsomschrijvingen
 
-- 1. In dit hoofdstuk wordt, tenzij uitdrukkelijk anders bepaald, verstaan onder:
+Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
-- .1 Bulkcarrier: een bulkcarrier als omschreven in [voorschrift IX/1.6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=1&z=2009-07-01&g=2009-07-01).
+- 1. **High Speed Craft Code, 1994** (HSC Code van 1994) de internationale veiligheidscode voor hogesnelheidsvaartuigen, aangenomen door de Maritieme Veiligheidscommissie van de Organisatie bij resolutie MSC.63(63), eventueel als gewijzigd door de Organisatie, op voorwaarde dat deze wijzigingen worden aangenomen, in werking treden en van kracht worden overeenkomstig het bepaalde van [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VIII&z=2011-01-01&g=2011-01-01) van dit Verdrag inzake de wijzigingsprocedures die van toepassing zijn op de Bijlage, met uitzondering van [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2011-01-01&g=2011-01-01).
 
-- .2 Chemicaliëntankschip: een chemicaliëntankschip als omschreven in [voorschrift VII/8.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=VII&deel=B&artikel=8&z=2009-07-01&g=2009-07-01).
+- 2. **High Speed Craft Code, 2000** (HSC Code van 2000) de internationale veiligheidscode voor hogesnelheidsvaartuigen, aangenomen door de Maritieme Veiligheidscommissie van de Organisatie bij resolutie MSC.97(73), eventueel als gewijzigd door de Organisatie, op voorwaarde dat deze wijzigingen worden aangenomen, in werking treden en van kracht worden overeenkomstig het bepaalde van [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VIII&z=2011-01-01&g=2011-01-01) van dit Verdrag inzake de wijzigingsprocedures die van toepassing zijn op de Bijlage, met uitzondering van [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2011-01-01&g=2011-01-01).
 
-- .3 Gastankschip: een gastankschip zoals omschreven in [voorschrift VII/11.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=VII&deel=C&artikel=11&z=2009-07-01&g=2009-07-01).
+- 3. Hogesnelheidsvaartuig, een vaartuig dat in staat is een maximumsnelheid in meter per seconde (m/s) te behalen van hoger of gelijk aan:
 
-- .4 Hogesnelheidsvaartuig: een vaartuig als omschreven in [voorschrift X/1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=VII&deel=C&artikel=11&z=2009-07-01&g=2009-07-01).
+- 3,7 □ 0,1667 waarbij: □ = waterverplaatsing corresponderend met de ontwerpwaterlijn (m3),
 
-- .5 Booreenheid: een mechanisch voortbewogen booreenheid als omschreven in [voorschrift IX/1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=1&z=2009-07-01&g=2009-07-01), zich niet op locatie bevindend.
+- met uitsluiting van vaartuigen waarvan de romp in stilliggende toestand volledig vrij boven het wateroppervlak wordt gehouden door aërodynamische krachten die door luchtkussens worden veroorzaakt.
 
-- .6 Olietankschip: een olietankschip als omschreven in [voorschrift II-1/2.22](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=2&z=2009-07-01&g=2009-07-01).
+- 4. ,Schepen die worden gebouwd’: schepen waarvan de kiel is gelegd of waarvan de bouw zich in een soortgelijk stadium bevindt.
 
-- .7 Maatschappij: een maatschappij als omschreven in [voorschrift IX/1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=1&z=2009-07-01&g=2009-07-01).
+- 5. ,Soortgelijk bouwstadium’: het stadium waarin:
 
-- .8 Ship/haveninterface: de interacties die optreden bij rechtstreekse en onmiddellijke betrokkenheid van een schip bij acties waarvan sprake is van verplaatsing van personen of goederen, dan wel verlening van havendiensten aan of vanuit het schip.
+- .1. de bouw ten behoeve van een specifiek schip aanvangt; en
 
-- .9 Havenfaciliteit: een door de Verdragsluitende Regering of de aangewezen autoriteit vastgestelde locatie waar het schip/haven raakvlak plaatsvindt. Deze omvat onder meer ankerplaatsen, ligplaatsen en aanvaarroutes, naar gelang van toepassing.
-
-- .10 Schip-tot-schip-activiteit: iedere niet met een havenfaciliteit verband houdende activiteit die de overdracht van goederen of personen van het ene schip naar het andere omvat.
-
-- .11 Aangewezen autoriteit: de organisatie(s) of de bestuurlijke instantie(s) die binnen de Verdragsluitende Regering verantwoordelijk worden gesteld voor de implementatie van de bepalingen van dit hoofdstuk met betrekking tot de beveiliging van havenfaciliteiten en schip/haveninterfaces, vanuit het oogpunt van de havenfaciliteit.
-
-- .12 International Ship and Port Facility Security (ISPS) Code: de internationale code voor de beveiliging van schepen en havenfaciliteiten, bestaande uit deel A (waarvan de bepalingen als dwingend worden behandeld) en deel B (waarvan de bepalingen als aanbevelingen worden behandeld), als aangenomen op 12 december 2002 bij resolutie 2 van de Conferentie van Verdragsluitende Regeringen bij het Internationaal Verdrag ter beveiliging van mensenlevens op zee, 1974, als eventueel gewijzigd door de organisatie, op voorwaarde dat:
-
-- .1 wijzigingen van deel A van de code worden aangenomen, ten uitvoer worden gelegd en in werking treden overeenkomstig [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VIII&z=2009-07-01&g=2009-07-01) van dit Verdrag betreffende de wijzigingsprocedures die voor de Bijlage, met uitzondering van [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2009-07-01&g=2009-07-01), gelden, en
-
-- .2 wijzigingen van deel B van de code worden aangenomen door de Maritieme Veiligheidcommissie overeenkomstig het reglement van orde.
-
-- .13 Beveiligingsincident: iedere verdachte handeling of omstandigheid die bedreigend is voor de beveiliging van een schip, met inbegrip van booreenheden en hogesnelheidsvaartuigen, of de beveiliging van een havenfaciliteit, een schip/haven raakvlak of een schip-tot-schip-activiteit.
-
-- .14 Beveiligingsniveau: gradering van het risico dat een poging tot beveiligingsincident wordt ondernomen of dat een beveiligingsincident plaatsvindt.
-
-- .15 Beveiligingsverklaring: een overeenkomst tussen een schip en een havenfaciliteit dan wel een ander schip waarmee interactie is, waarin de door partijen te nemen beveiligingsmaatregelen vermeld staan.
-
-- .16 Erkende beveiligingsorganisatie: een organisatie die over de vereiste deskundigheid op beveiligingsgebied en kennis van schip en havenoperaties beschikt, en die gemachtigd is de door dit hoofdstuk of door deel A van de ISPS-Code voorgeschreven beoordelingen, verificaties, goedkeuringen of certificatiewerkzaamheden te verrichten.
-
-- 2. In de voorschriften 3 tot en met 13 omvat de term „schip” ook booreenheden en hogesnelheidsvaartuigen.
-
-- 3. Met de in dit hoofdstuk gebruikte term „alle schepen” worden alle schepen bedoeld waarop dit hoofdstuk van toepassing is.
-
-- 4. Wanneer in de [voorschriften 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-2&artikel=3&z=2009-07-01&g=2009-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-2&artikel=4&z=2009-07-01&g=2009-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-2&artikel=7&z=2009-07-01&g=2009-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-2&artikel=10&z=2009-07-01&g=2009-07-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-2&artikel=11&z=2009-07-01&g=2009-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-2&artikel=12&z=2009-07-01&g=2009-07-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-2&artikel=13&z=2009-07-01&g=2009-07-01) de term „Verdragsluitende Regering” wordt gebruikt, wordt hiermee ook de „aangewezen autoriteit” bedoeld.
+- .2. is aangevangen met de montage van dat schip, welke ten minste 50 ton of 3 procent van de geschatte massa van alle bouwmateriaal omvat, naar gelang welk van beide het minst is.
 
 ##### Voorschrift 2. Toepassing
 
-- 1 Dit hoofdstuk is van toepassing op:
+1. Dit hoofdstuk is van toepassing op de volgende hogesnelheidsvaartuigen gebouwd op of na 1 januari 1996:
 
-- .1 de volgende soorten schepen die voor internationale reizen worden gebruikt:
+- .1. volledig geladen passagiersschepen die gedurende hun reis, wanneer zij op kruissnelheid varen, niet meer dan 4 uur verwijderd zijn van een veilige plaats; en
 
-- .1.1 passagiersschepen met inbegrip van hogesnelheidspassagiersvaartuigen;
+- .2. volledig geladen vrachtschepen met een bruto tonnage van 500 of meer die gedurende hun reis, wanneer zij op kruissnelheid varen, niet meer dan 8 uur verwijderd zijn van een veilige plaats.
 
-- .1.2 vrachtschepen, met inbegrip van hogesnelheidsvaartuigen, met een bruto tonnage van 500 of meer; en
+2. Alle schepen die, ongeacht de datum van bouw, reparaties, wijzigingen of veranderingen, alsmede de daarmee verband houdende aanpassing van de uitrusting ondergaan, moeten ten minste blijven voldoen aan de vereisten die voordien op die schepen van toepassing waren. Indien het schepen gebouwd vóór 1 juli 2002 betreft, moeten deze in het algemeen voldoen aan de voorschriften voor schepen gebouwd op of na die datum, in ten minste dezelfde mate als voordat zij die reparaties, wijzigingen, veranderingen alsmede aanpassing van de uitrusting ondergingen. Reparaties, wijzigingen en veranderingen van ingrijpende aard alsmede de daarmee verband houdende aanpassing van de uitrusting, moeten voldoen aan de voorschriften voor schepen gebouwd op of na 1 juli 2002, voor zover de Administratie zulks redelijk en uitvoerbaar acht.
 
-- .1.3 booreenheden; en
+##### Voorschrift 3. Voorschriften voor hogesnelheidsvaartuigen
 
-- .2 havenfaciliteiten die dergelijke voor internationale reizen gebruikte schepen afhandelen.
+1. Onverminderd de bepalingen van de hoofdstukken I tot en met IV en van de [voorschriften V/18](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=18&z=2011-01-01&g=2011-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=19&z=2011-01-01&g=2011-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=20&z=2011-01-01&g=2011-01-01):
 
-- 2 Onverminderd de bepalingen van paragraaf 1.2, beslissen de Verdragsluitende Regeringen in hoeverre dit hoofdstuk en de relevante hoofdstukken van deel A van de ISPS-Code van toepassing zijn op die havenfaciliteiten op hun grondgebied die niet hoofdzakelijk voor internationale reizen makende schepen worden gebruikt, maar incidenteel schepen die in verband met een internationale reis aankomen of afvaren moeten afhandelen.
+- .1 wordt een hogesnelheidsvaartuig gebouwd op of na 1 januari 1996, maar vóór 1 juli 2002, dat volledig aan de vereisten van de High Speed Craft Code, 1994, voldoet en dat is geïnspecteerd en gecertificeerd overeenkomstig de bepalingen van die Code, geacht aan de voorschriften van de hoofdstukken I tot en met V alsmede aan de [voorschriften V/18](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=18&z=2011-01-01&g=2011-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=19&z=2011-01-01&g=2011-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=20&z=2011-01-01&g=2011-01-01) te hebben voldaan. Voor de toepassing van dit voorschrift worden de voorschriften van genoemde Code als verplicht beschouwd.
 
-- 2.1 De Verdragsluitende Regeringen baseren hun besluiten, krachtens paragraaf 2 op beveiligingsbeoordelingen van havenfaciliteiten die worden verricht overeenkomstig het bepaalde in deel A van de ISPS-Code.
+- .2 wordt een hogesnelheidsvaartuig gebouwd op of na 1 juli 2002 dat volledig aan de vereisten van de High Speed Craft Code, 2000, voldoet en dat is geïnspecteerd en gecertificeerd overeenkomstig de bepalingen van die Code, geacht aan de voorschriften van de hoofdstukken I tot en met V alsmede aan de [voorschriften V/18](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=18&z=2011-01-01&g=2011-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=19&z=2011-01-01&g=2011-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=20&z=2011-01-01&g=2011-01-01) te hebben voldaan.
 
-- 2.2 Geen enkel door een Verdragsluitende Regering krachtens paragraaf 2 genomen besluit mag ten koste gaan van het door dit hoofdstuk of door deel A van de ISPS-Code beoogde beveiligingsniveau.
-
-- 3 Dit hoofdstuk is niet van toepassing op oorlogsschepen, marinehulpschepen of andere schepen die het eigendom zijn of geëxploiteerd worden door een Verdragsluitende Regering en uitsluitend voor niet-commerciële overheidsdiensten worden gebruikt.
-
-- 4 Niets in dit hoofdstuk mag afbreuk doen aan de uit het internationaal recht voortvloeiende rechten en verplichtingen van staten.
-
-##### Voorschrift 3. Verplichtingen van de Verdragsluitende Regeringen met betrekking tot de beveiliging
-
-- 1 Administraties stellen beveiligingsniveaus vast en zorgen dat de schepen die het recht hebben om onder hun vlag te varen over deze beveiligingsniveaus worden geïnformeerd. In geval van wijzigingen van het beveiligingsniveau wordt de beveiligingsniveau-informatie bijgewerkt zoals de omstandigheden vereisen.
-
-- 2 De Verdragsluitende Regeringen stellen beveiligingsniveaus vast en zorgen dat de havenfaciliteiten op hun grondgebied en de schepen, voordat zij een haven binnenlopen of terwijl zij zich in een haven op hun grondgebied bevinden, over deze beveiligingsniveaus worden geïnformeerd. In geval van wijzigingen van het beveiligingsniveau wordt de beveiligingsniveau-informatie bijgewerkt naar gelang de omstandigheden dit vereisen.
+2. De certificaten en vergunningen afgegeven krachtens de ,High Speed Craft Code’ hebben dezelfde waarde en worden onder dezelfde voorwaarden erkend als de certificaten afgegeven krachtens de bepalingen van [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2011-01-01&g=2011-01-01).
 
 ##### Voorschrift 4. Eisen voor maatschappijen en schepen
 
@@ -18201,7 +18221,7 @@ Wanneer de beproeving van afzonderlijke deuren vanwege mogelijk beschadiging van
 
 1. Waterdichte dekken, kokers, tunnels, kokerkielen en luchtschachten moeten even sterk zijn als de waterdichte schotten op overeenkomstige hoogte. De middelen om ze waterdicht te maken en voor de sluiting van openingen daarin, moeten ten genoegen van de Administratie zijn. Waterdichte luchtschachten en kokers moeten op passagiersschepen ten minste tot het schottendek zijn opgetrokken en op vrachtschepen tot het vrijboorddek.
 
-2. Indien een ventilatieschacht die door een constructie loopt het schottendek doorkruist, moet de schacht de waterdruk in de schacht kunnen weerstaan, waarbij de maximum toegestane hellingshoek gedurende de verschillende stadia van vollopen, in overeenstemming met [voorschrift 7-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-1&artikel=7-2&z=2010-07-01&g=2010-07-01) in aanmerking wordt genomen.
+2. Indien een ventilatieschacht die door een constructie loopt het schottendek doorkruist, moet de schacht de waterdruk in de schacht kunnen weerstaan, waarbij de maximum toegestane hellingshoek gedurende de verschillende stadia van vollopen, in overeenstemming met [voorschrift 7-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-1&artikel=7-2&z=2011-01-01&g=2011-01-01) in aanmerking wordt genomen.
 
 3. Indien de plaats waar een schacht het schottendek doorkruist zich geheel of ten dele op het belangrijkste ro-ro dek bevindt, moet de schacht de druk kunnen weerstaan die wordt veroorzaakt door interne waterverplaatsing (klotsen) van ingesloten water op het ro-ro dek.
 
@@ -18293,7 +18313,7 @@ In waterdichte ruimten onder het schottendek moet een detectiesysteem tegen voll
 
 - 2.6. Er moeten voorzieningen zijn voor de waterafvoer van omsloten laadruimten gelegen op het schottendek van een passagiersschip en op het vrijboorddek van een vrachtschip, met dien verstande dat de Administratie kan toestaan dat voor het aanbrengen van middelen voor waterafvoer in een bepaalde afdeling van een schip of een type schepen vrijstelling wordt verleend, indien te haren genoegen wordt aangetoond dat de veiligheid van het schip, gezien de grootte of de indeling van die ruimten, daardoor niet wordt aangetast.
 
-- 2.6.1. Wanneer het vrijboord tot aan het schottendek, respectievelijk het vrijboorddek, zodanig is dat de dekrand wordt ondergedompeld wanneer het schip een helling heeft van meer dan 5 graden, moet het water worden afgevoerd door middel van een toereikend aantal spuipijpen van voldoende afmetingen die rechtstreeks overboord spuien; zij moeten zijn aangebracht in overeenstemming met de vereisten van voorschrift 15 in geval van een passagiersschip, en de voorschriften voor spuipijpen, inlaat- en afvoerpijpen van het van kracht zijnde Internationaal Verdrag betreffende de uitwatering van schepen in geval van een vrachtschip.
+- 2.6.1. Wanneer het vrijboord tot aan het schottendek, respectievelijk het vrijboorddek, zodanig is dat de dekrand wordt ondergedompeld wanneer het schip een helling heeft van meer dan 5 graden, moet het water worden afgevoerd door middel van een toereikend aantal spuipijpen van voldoende afmetingen die rechtstreeks overboord spuien; zij moeten zijn aangebracht in overeenstemming met de vereisten van [voorschrift 15](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-2&artikel=15&z=2011-01-01&g=2011-01-01) in geval van een passagiersschip, en de voorschriften voor spuipijpen, inlaat- en afvoerpijpen van het van kracht zijnde [Internationaal Verdrag betreffende de uitwatering van schepen](https://wetten.overheid.nl/jci1.3:c:BWBV0003267) in geval van een vrachtschip.
 
 - 2.6.2. Wanneer het vrijboord zodanig is dat de rand van het schottendek, respectievelijk de rand van het vrijboorddek, wordt ondergedompeld wanneer het schip een helling heeft van 5 graden of minder, moet het water uit de omsloten laadruimten op het schottendek, respectievelijk het vrijboorddek, worden afgevoerd naar een geschikte ruimte of ruimten van voldoende capaciteit, die zijn voorzien van een waarschuwingsinstallatie voor een te hoog waterpeil, en zijn uitgerust met passende voorzieningen voor afvoer naar buitenboord. Daarnaast moet erop worden toegezien dat:
 
@@ -18305,15 +18325,17 @@ In waterdichte ruimten onder het schottendek moet een detectiesysteem tegen voll
 
 - .4. wanneer de omsloten laadruimte is beschermd door middel van een kooldioxidebrandblusinstallatie, de dekspuipijpen zijn uitgerust met middelen die het vrijkomen van verstikkende gassen voorkomen.
 
+- 2.6.3. Voorzieningen voor de waterafvoer in gesloten voertuig- en ro-ro-ruimten en ruimten van bijzondere aard moeten tevens voldoen aan de [voorschriften II-2/20.6.1.4 en II-2/20.6.1.5](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=G&artikel=20&z=2011-01-01&g=2011-01-01).
+
 3. Passagiersschepen
 
-- 3.1. De krachtens paragraaf 2.1 vereiste lenspompinrichting moet kunnen functioneren onder alle omstandigheden die in de praktijk na een calamiteit kunnen voorkomen, ongeacht of het schip recht ligt dan wel slagzij maakt. Voor dit doel zullen in het algemeen zuigpijpen naar de zijden van de afdelingen moeten worden aangebracht, met uitzondering van smalle afdelingen aan het scheepseinde waar één zuigpijp voldoende kan zijn. In afdelingen van bijzondere vorm kunnen extra zuigpijpen vereist worden. Maatregelen moeten worden getroffen, waardoor water in de afdeling de weg naar de zuigpijpen kan vinden. Waar de Administratie ervan overtuigd is dat in bepaalde afdelingen een lensinrichting ongewenst zou zijn, kan zij toestaan dat deze achterwege blijft, indien door berekeningen gemaakt in overeenstemming met de voorwaarden in de voorschriften 7 en 8 wordt aangetoond dat de overlevingskans van het schip daardoor niet wordt aangetast.
+- 3.1. De krachtens paragraaf 2.1 vereiste lenspompinrichting moet kunnen functioneren onder alle omstandigheden die in de praktijk na een calamiteit kunnen voorkomen, ongeacht of het schip recht ligt dan wel slagzij maakt. Voor dit doel zullen in het algemeen zuigpijpen naar de zijden van de afdelingen moeten worden aangebracht, met uitzondering van smalle afdelingen aan het scheepseinde waar één zuigpijp voldoende kan zijn. In afdelingen van bijzondere vorm kunnen extra zuigpijpen vereist worden. Maatregelen moeten worden getroffen, waardoor water in de afdeling de weg naar de zuigpijpen kan vinden. Waar de Administratie ervan overtuigd is dat in bepaalde afdelingen een lensinrichting ongewenst zou zijn, kan zij toestaan dat deze achterwege blijft, indien door berekeningen gemaakt in overeenstemming met de voorwaarden in de [voorschriften 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-1&artikel=7&z=2011-01-01&g=2011-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-1&artikel=8&z=2011-01-01&g=2011-01-01) wordt aangetoond dat de overlevingskans van het schip daardoor niet wordt aangetast.
 
 - 3.2. Er moeten ten minste drie op de hoofdlensleiding aangesloten werktuiglijke lenspompen aanwezig zijn, van welke één door de voortstuwingswerktuigen mag worden gedreven. Wanneer het lenspompgetal 30 of groter is, moet een extra onafhankelijke werktuiglijke pomp aanwezig zijn. Het lenspompgetal moet als volgt worden berekend: waarbij:
 
-| **L** | = | de lengte van het schip (meters), als omschreven in voorschrift 2; |
+| **L** | = | de lengte van het schip (meters), als omschreven in [voorschrift 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=2&z=2011-01-01&g=2011-01-01); |
 | --- | --- | --- |
-| **M** | = | de inhoud van de machineruimte (kubieke meters), als omschreven in voorschrift 2, die zich onder het schottendek bevindt; vermeerderd met de inhoud van alle vaste brandstofoliebunkers die zich boven de binnenbodem en vóór of achter de machineruimte bevinden; |
+| **M** | = | de inhoud van de machineruimte (kubieke meters), als omschreven in [voorschrift 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=2&z=2011-01-01&g=2011-01-01), die zich onder het schottendek bevindt; vermeerderd met de inhoud van alle vaste brandstofoliebunkers die zich boven de binnenbodem en vóór of achter de machineruimte bevinden; |
 | **P** | = | de volledige inhoud van de onder het schottendek gelegen ruimten voor passagiers en bemanning (kubieke meters), die zijn aangebracht ten behoeve van de accommodatie en het gebruik door passagiers en bemanning, met uitzondering van bagageruimten, bergplaatsen, provisieruimten en postkamers; |
 | **V** | = | de gehele inhoud van het schip onder het schottendek (kubieke meters); |
 | **P**1 | = | **KN**, |
@@ -18342,9 +18364,9 @@ In waterdichte ruimten onder het schottendek moet een detectiesysteem tegen voll
 
 - 3.8. Alle lenszuigaansluitingen tot aan de aansluiting tot de pompen moeten gescheiden zijn van andere leidingen.
 
-- 3.9. De diameter **d** van de hoofdlensleiding moet zijn berekend volgens de hierna volgende formules. De werkelijke inwendige diameter van de hoofdlensleiding mag echter worden afgerond tot de dichtstbijzijnde standaardpijpdiameter die voor de Administratie aanvaardbaar is: waarbij: **d** de inwendige diameter van de hoofdlensleiding is (in mm); **L** en **B** de lengte en de breedte van het schip zijn (in meters) als omschreven in voorschrift 2; en **D** de holte van het schip naar de mal tot het schottendek is (in meters), mits, op een schip dat een omsloten, zich over de gehele lengte van het schip uitstrekkende laadruimte op het schottendek heeft, waaruit het water binnenboord wordt afgevoerd in overeenstemming met de vereisten van paragraaf 2.6.2, **D** wordt gemeten tot aan het volgende dek boven het schottendek. Wanneer de omsloten laadruimten een kleinere lengte bestrijken, is **D** de holte van het schip naar de mal tot het schottendek plus **lh/L**, waarbij **1** en **h** de totale lengte en hoogte van de omsloten laadruimten (in meters) zijn. De diameter van de lenspijpaftakkingen moet voldoen aan de door de Administratie gestelde eisen.
+- 3.9. De diameter **d** van de hoofdlensleiding moet zijn berekend volgens de hierna volgende formules. De werkelijke inwendige diameter van de hoofdlensleiding mag echter worden afgerond tot de dichtstbijzijnde standaardpijpdiameter die voor de Administratie aanvaardbaar is: waarbij: **d** de inwendige diameter van de hoofdlensleiding is (in mm); **L** en **B** de lengte en de breedte van het schip zijn (in meters) als omschreven in [voorschrift 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=2&z=2011-01-01&g=2011-01-01); en **D** de holte van het schip naar de mal tot het schottendek is (in meters), mits, op een schip dat een omsloten, zich over de gehele lengte van het schip uitstrekkende laadruimte op het schottendek heeft, waaruit het water binnenboord wordt afgevoerd in overeenstemming met de vereisten van paragraaf 2.6.2, **D** wordt gemeten tot aan het volgende dek boven het schottendek. Wanneer de omsloten laadruimten een kleinere lengte bestrijken, is **D** de holte van het schip naar de mal tot het schottendek plus **lh/L**, waarbij **1** en **h** de totale lengte en hoogte van de omsloten laadruimten (in meters) zijn. De diameter van de lenspijpaftakkingen moet voldoen aan de door de Administratie gestelde eisen.
 
-- 3.10. Maatregelen moeten worden getroffen om te voorkomen dat een afdeling waarop een lenszuigpijp is aangesloten, volloopt ten gevolge van breken of beschadigen van deze pijp in een andere afdeling bij een aanvaring of bij aan de grond lopen. Hiertoe moet, wanneer een dergelijke pijp op enige plaats dichter dan een vijfde van de breedte van het schip (als omschreven in voorschrift 2 en gemeten loodrecht op hart schip ter hoogte van de diepste indelingslastlijn) van het scheepsboord of in een kokerkiel is gelegen, in de pijp binnen de afdeling welke het open eind van de pijp bevat, een terugslagklep zijn aangebracht.
+- 3.10. Maatregelen moeten worden getroffen om te voorkomen dat een afdeling waarop een lenszuigpijp is aangesloten, volloopt ten gevolge van breken of beschadigen van deze pijp in een andere afdeling bij een aanvaring of bij aan de grond lopen. Hiertoe moet, wanneer een dergelijke pijp op enige plaats dichter dan een vijfde van de breedte van het schip (als omschreven in [voorschrift 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=A&artikel=2&z=2011-01-01&g=2011-01-01) en gemeten loodrecht op hart schip ter hoogte van de diepste indelingslastlijn) van het scheepsboord of in een kokerkiel is gelegen, in de pijp binnen de afdeling welke het open eind van de pijp bevat, een terugslagklep zijn aangebracht.
 
 - 3.11. De verdeelkasten, kranen en afsluiters die in verbinding staan met de lensinrichting, moeten zodanig zijn opgesteld dat in geval van vollopen één van de lenspompen in elke afdeling kan pompen; bovendien mag schade aan een pomp of aan de aansluiting van een pomp aan de hoofdlensleiding, ontstaan buiten de lijn getrokken op een afstand van een vijfde van de breedte van het schip, de lensinrichting niet buiten werking stellen. Indien er slechts één pijpleidingstelsel door alle pompen wordt bediend, moeten de nodige kleppen die de lenszuigpijpen beheersen, boven het schottendek bediend kunnen worden. Wanneer behalve de hoofdlensinrichting ook een noodlensinrichting aanwezig is, moet deze onafhankelijk zijn van de hoofdinrichting en zo zijn ingericht dat een pomp op elke afdeling kan pompen wanneer een afdeling volloopt, als aangegeven in paragraaf 3.1; in dat geval behoeven alleen de kleppen noodzakelijk voor de bediening van de noodinrichting boven het schottendek te kunnen worden bediend.
 
@@ -23495,11 +23517,13 @@ Het vervoer van gevaarlijke stoffen in verpakte vorm moet plaatsvinden in overee
 
 Lading, laadeenheden en ladingvervoerseenheden moeten gedurende de gehele reis worden geladen, gestuwd en vastgezet in overeenstemming met het door de Administratie goedgekeurde Cargo Securing Manual. De instructies in het Cargo Securing Manual moeten ten minste gelijkwaardig zijn aan de door de Organisatie geformuleerde richtlijnen.’’
 
-##### Voorschrift 6. Melding van voorvallen waarbij gevaarlijke stoffen een rol spelen
+##### Voorschrift 6. Aanvaardbaarheid voor verscheping
 
-- 1. Indien een voorval plaatsvindt waarbij gevaarlijke stoffen in verpakte vorm verloren gaan of waarschijnlijk verloren zullen gaan in de zee, moet de kapitein of andere persoon die het gezag over het schip voert, de bijzonderheden van dat voorval onverwijld en zo volledig mogelijk melden bij de dichtstbijzijnde kuststaat. De melding moet gebaseerd zijn op de door de Organisatie opgestelde algemene beginselen en richtlijnen.
+1. Vóór het laden van vaste bulklading moet de kapitein in het bezit zijn van uitgebreide gegevens over de stabiliteit van het schip en de verdeling van de lading voor de standaard-beladingstoestanden. De wijze waarop deze gegevens worden verstrekt moet ten genoegen van de Administratie zijn.
 
-- 2. Indien een schip als bedoeld in paragraaf 1 wordt verlaten, of indien een melding van dat schip onvolledig of niet verkrijgbaar is, moet de maatschappij, als omschreven in [voorschrift IX/1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=1&z=2009-01-01&g=2009-01-01) zo volledig mogelijk de verplichtingen op zich nemen die door dit voorschrift aan de kapitein worden opgelegd.
+2. Vervallen.
+
+3. Vervallen.
 
 ## DEEL A-1. VERVOER VAN GEVAARLIJKE STOFFEN IN VASTE VORM IN BULK
 
@@ -23683,63 +23707,31 @@ Behalve aan de controle, in [Voorschrift 19 van Hoofdstuk I](https://wetten.over
 
 Van elk ongeval, dat gevaar voor de omgeving zou kunnen opleveren, moet de kapitein van een reactorschip onmiddellijk de Administratie in kennis stellen. De kapitein moet tevens onmiddellijk de bevoegde regeringsinstantie van het land in welks wateren het schip zich bevindt, of welks wateren het in beschadigde toestand nadert, waarschuwen.
 
-### HOOFDSTUK IX. MANAGEMENT VOOR EEN VEILIGE BEDRIJFSVOERING AAN BOORD VAN SCHEPEN
+### HOOFDSTUK VIII. REACTORSCHEPEN
 
-##### Voorschrift 1. Begripsomschrijvingen
+##### Voorschrift 1. Toepasselijkheid
 
-Voor de toepassing van dit hoofdstuk wordt, tenzij uitdrukkelijk anders wordt bepaald, verstaan onder:
+Dit Hoofdstuk is van toepassing op alle reactorschepen, met uitzondering van oorlogsschepen.
 
-- 1. de ,International Safety Management (ISM) Code’: de internationale Code inzake het management voor een veilige bedrijfsvoering aan boord van schepen en ter voorkoming van verontreiniging, aangenomen door de Organisatie bij resolutie A.741 (18), zoals deze kan worden gewijzigd door de Organisatie, mits de wijzigingen worden aangenomen, in werking treden en van kracht worden in overeenstemming met de bepalingen van [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VIII&z=2009-01-01&g=2009-01-01) van dit Verdrag inzake de wijzigingsprocedures die van toepassing zijn op de Bijlage, met uitzondering van [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2009-01-01&g=2009-01-01).
+##### Voorschrift 2. Toepasselijkheid van de andere Hoofdstukken
 
-- 2. ,Maatschappij’: de eigenaar van het schip of enige andere organisatie of persoon, bijvoorbeeld de manager of de rompbevrachter, die de verantwoordelijkheid betreffende de bedrijfsvoering aan boord van het schip heeft overgenomen van de eigenaar van het schip en die door de aanvaarding van die verantwoordelijkheid ermee heeft ingestemd alle plichten en verantwoordelijkheden die door de International Safety Management (ISM) Code worden opgelegd over te nemen.
+Voorzover niet door dit Hoofdstuk gewijzigd, zijn de voorschriften vervat in de andere Hoofdstukken van dit Verdrag van toepassing op reactorschepen.
 
-- 3. ,Olietankschip’: een olietankschip zoals omschreven in [voorschrift II-1/2.22](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=2&z=2009-01-01&g=2009-01-01).
+##### Voorschrift 3. Vrijstellingen
 
-- 4. ,Chemicaliëntankschip’: een chemicaliëntankschip zoals omschreven in [voorschrift VII/8.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=VII&deel=B&artikel=8&z=2009-01-01&g=2009-01-01).
+Een reactorschip kan in geen enkel geval vrijgesteld worden van het voldoen aan enig Voorschrift van dit Verdrag.
 
-- 5. ,Gastankschip’: een gastankschip zoals omschreven in [voorschrift VII/11.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=VII&deel=C&artikel=11&z=2009-01-01&g=2009-01-01).
+##### Voorschrift 4. Goedkeuring van de reactorinstallatie
 
-- 6. ,Bulkcarrier’: een schip dat in het algemeen slechts één dek heeft, met top-zijtanks en hopper-zijtanks in de vrachtruimen, en hoofdzakelijk is bedoeld voor het vervoer van droge stortlading; onder deze omschrijving vallen onder andere ertsschepen en combinatietankschepen.
+Het ontwerp, de constructie en de normen voor de inspectie en de montage van de reactorinstallatie moeten ten genoegen zijn van en goedgekeurd zijn door de Administratie. Daarbij moet rekening worden gehouden met de beperkingen, die de aanwezigheid van straling de onderzoeken oplegt.
 
-- 7. ,Booreenheid’ (MODU): een vaartuig dat in staat is op zee boorwerkzaamheden uit te voeren voor de exploratie of exploitatie van grondstoffen uit de zeebodem, zoals vloeibare of gasvormige koolwaterstoffen, zwavel of zout.
+##### Voorschrift 5. Geschiktheid van de reactorinstallatie voor gebruik aan boord van een schip
 
-- 8. ,Hogesnelheidsvaartuig’: een schip zoals omschreven in [voorschrift X/1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=X&artikel=1&z=2009-01-01&g=2009-01-01).
+De reactorinstallatie moet zijn ontworpen onder inachtneming van de bijzondere bedrijfsomstandigheden aan boord van een schip, zowel onder normale als onder buitengewone omstandigheden van de vaart.
 
-##### Voorschrift 2. Toepassing
+##### Voorschrift 6. Beveiliging tegen straling
 
-1. Dit hoofdstuk is, ongeacht de datum van bouw van de schepen, van toepassing
-
-- .1. op passagiersschepen, met inbegrip van hogesnelheidspassagiersschepen, uiterlijk op 1 juli 1998;
-
-- .2. op olietankschepen, chemicaliëntankschepen, gastankschepen, bulkcarriers en hogesnelheidsvrachtschepen met een bruto tonnage van 500 of meer, uiterlijk op 1 juli 1998; en
-
-- .3. op overige vrachtschepen en booreenheden met een bruto tonnage van 500 of meer, uiterlijk op 1 juli 2002.
-
-2. Dit hoofdstuk is niet van toepassing op schepen van de overheid die voor niet-commerciële doeleinden worden gebruikt.
-
-##### Voorschrift 3. Voorschriften betreffende het veiligheidsmanagement
-
-1. De maatschappij en het schip dienen te voldoen aan de voorschriften van de ,International Safety Management Code’. Voor de toepassing van dit voorschrift worden de vereisten van de Code als verplicht beschouwd.
-
-2. Het schip dient te worden geëxploiteerd door een maatschappij die in het bezit is van een conformiteitsdocument zoals bedoeld in [voorschrift 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=4&z=2009-01-01&g=2009-01-01).
-
-##### Voorschrift 4. Certificering
-
-1. Een conformiteitsdocument wordt afgegeven aan alle maatschappijen die voldoen aan de voorschriften van de ,International Safety Management Code’. Dit document wordt afgegeven door de Administratie, door een door de Administratie erkende organisatie, of op verzoek van de Administratie door een andere Verdragsluitende Regering.
-
-2. Een afschrift van het conformiteitsdocument dient aan boord van het schip te worden bewaard, zodat de kapitein dit, indien hij daarom wordt verzocht, ter verificatie kan overleggen.
-
-3. Een certificaat, genaamd ,Veiligheidsmanagementcertificaat’, wordt aan alle schepen afgegeven door de Administratie of door een door de Administratie erkende organisatie. De Administratie of de door haar erkende organisatie dient, alvorens het ,Veiligheidsmanagementcertificaat’ af te geven, te verifiëren of het management van de maatschappij en haar management aan boord van het schip functioneren overeenkomstig het goedgekeurde veiligheidsmanagementsysteem.
-
-##### Voorschrift 5. Instandhouding
-
-Het veiligheidsmanagementsysteem moet in stand worden gehouden overeenkomstig de bepalingen van de International Safety Management Code.
-
-##### Voorschrift 6. Verificatie en controle
-
-1. De Administratie, of op verzoek van de Administratie een andere Overeenkomstsluitende Regering of een door de Administratie erkende organisatie, dient periodieke controles te verrichten naar de goede functionering van het veiligheidsmanagementsysteem van het schip.
-
-2. dient een schip dat in het bezit moet zijn van een certificaat dat wordt afgegeven krachtens de bepalingen van [voorschrift 4.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=4&z=2009-01-01&g=2009-01-01), te worden onderworpen aan de controle zoals bedoeld in de bepalingen van voorschrift XI/4. Hiertoe dient een dergelijk certificaat te worden beschouwd als een certificaat afgegeven op grond van [voorschrift I/12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=12&z=2009-01-01&g=2009-01-01) of [I/13](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=13&z=2009-01-01&g=2009-01-01).
+De Administratie moet maatregelen nemen, welke waarborgen dat geen buitensporige straling of enig ander risico van nucleaire oorsprong, zowel op zee als in een haven, aanwezig is voor de bemanning, de passagiers, het publiek en voor de waterwegen, voedsel en watervoorzieningen.
 
 ### HOOFDSTUK X. VEILIGHEIDSMAATREGELEN VOOR HOGESNELHEIDSVAARTUIGEN
 
@@ -24151,183 +24143,289 @@ De maatschappij zorgt ervoor dat de kapitein te allen tijde de informatie aan bo
 
 - 7 De Organisatie stelt de krachtens de paragrafen 3 tot 6 medegedeelde informatie ter beschikking van andere Verdragsluitende Regeringen die daarom vragen.
 
-### HOOFDSTUK XII. AANVULLENDE VEILIGHEIDSMAATREGELEN VOOR BULKCARRIERS
+### HOOFDSTUK XI-2. SPECIALE MAATREGELEN TER VERBETERING VAN DE BEVEILIGING OP ZEE
 
-##### Voorschrift 1. Begripsomschrijvingen
+##### Voorschrift 1. Definities
 
-Voor de toepassing van dit Hoofdstuk wordt verstaan onder:
+- 1. In dit hoofdstuk wordt, tenzij uitdrukkelijk anders bepaald, verstaan onder:
 
-- 1. **Bulkcarrier**, een schip dat hoofdzakelijk bedoeld is voor het vervoer van droge lading in bulk, met inbegrip vantypen schepen als ertsschepen en combination carriers
+- .1 Bulkcarrier: een bulkcarrier als omschreven in [voorschrift IX/1.6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=1&z=2011-01-01&g=2011-01-01).
 
-- 2. **Bulkcarrier met een enkelzijdige huidconstructie**, een bulkcarrier als omschreven in paragraaf 1: Onder deze schepen vallen mede combination carriers waarin enig deel van het ladinggedeelte door de scheepshuid wordt begrensd.
+- .2 Chemicaliëntankschip: een chemicaliëntankschip als omschreven in [voorschrift VII/8.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=VII&deel=B&artikel=8&z=2011-01-01&g=2011-01-01).
 
-- .1. waarbij enig deel van de lading door de scheepshuid wordt begrensd; of
+- .3 Gastankschip: een gastankschip zoals omschreven in [voorschrift VII/11.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=VII&deel=C&artikel=11&z=2011-01-01&g=2011-01-01).
 
-- .2. waarbij een of meer ladinggedeelten door een dubbelzijdige huid zijn begrensd, met een breedte van minder dan 760 mm op bulkcarriers gebouwd vóór 1 januari 2000 en minder dan 1000 mm op bulkcarriers gebouwd op of na 1 januari 2000, doch vóór 1 juli 2006; de afstand wordt evenwijdig met de scheepshuid gemeten.
+- .4 Hogesnelheidsvaartuig: een vaartuig als omschreven in [voorschrift X/1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=VII&deel=C&artikel=11&z=2011-01-01&g=2011-01-01).
 
-- 3. **Bulkcarrier met een dubbelzijdige huidconstructie**, een bulkcarrier als omschreven in paragraaf 1, waarin alle ladinggedeelten door een dubbele huid worden begrensd, anders dan omschreven in paragraaf 2.2
+- .5 Booreenheid: een mechanisch voortbewogen booreenheid als omschreven in [voorschrift IX/1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=1&z=2011-01-01&g=2011-01-01), zich niet op locatie bevindend.
 
-- 4. **Dubbelzijdige huid**, een indeling waarbij elke scheepszijde bestaat uit de scheepshuid en een lengteschot dat de dubbele bodem en het dek met elkaar verbindt. Wanneer hopper- en top-zijtanks zijn aangebracht, mogen deze een integrerend onderdeel van de dubbele-huidindeling vormen.
+- .6 Olietankschip: een olietankschip als omschreven in [voorschrift II-1/2.22](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=2&z=2011-01-01&g=2011-01-01).
 
-- 5. **Lengte** van een bulkcarrier, de lengte als omschreven in het van kracht zijnde [Internationaal Verdrag betreffende de uitwatering van schepen](https://wetten.overheid.nl/jci1.3:c:BWBV0003267).
+- .7 Maatschappij: een maatschappij als omschreven in [voorschrift IX/1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=1&z=2011-01-01&g=2011-01-01).
 
-- 6. **Vaste bulklading**, een stof, anders dan een vloeistof of gas, bestaande uit een combinatie van deeltjes, korrels of grotere stukken materiaal, in het algemeen uniform van samenstelling, die rechtstreeks in de laadruimten van een schip wordt geladen zonder andere vorm van verpakking.
+- .8 Ship/haveninterface: de interacties die optreden bij rechtstreekse en onmiddellijke betrokkenheid van een schip bij acties waarvan sprake is van verplaatsing van personen of goederen, dan wel verlening van havendiensten aan of vanuit het schip.
 
-- 7. **Normen voor schotten en dubbele bodemsterkte bij bulkcarriers**, „Normen voor de beoordeling van de verbanddelen van het waterdichte verticaal gegolfde dwarsschot tussen de twee voorste laadruimen en voor de beoordeling van de toelaatbare ruimlading in het voorste laadruim”, op 27 november 1997 aangenomen bij resolutie 4 van de Conferentie van Verdragsluitende Regeringen bij het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974, als door de Organisatie kan worden gewijzigd, mits deze wijzigingen worden aangenomen, van kracht worden en in werking treden in overeenstemming met de bepalingen van [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VIII&z=2009-01-01&g=2009-01-01) van dit Verdrag, betreffende de wijzigingsprocedures die van toepassing zijn op de Bijlage, met uitzondering van [Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2009-01-01&g=2009-01-01) daarvan.
+- .9 Havenfaciliteit: een door de Verdragsluitende Regering of de aangewezen autoriteit vastgestelde locatie waar het schip/haven raakvlak plaatsvindt. Deze omvat onder meer ankerplaatsen, ligplaatsen en aanvaarroutes, naar gelang van toepassing.
 
-- 8. **Bulkcarriers die worden gebouwd,** bulkcarriers waarvan de kiel is gelegd of waarvan de bouw zich in een soortgelijk stadium bevindt.
+- .10 Schip-tot-schip-activiteit: iedere niet met een havenfaciliteit verband houdende activiteit die de overdracht van goederen of personen van het ene schip naar het andere omvat.
 
-- 9. **Een soortgelijk bouwstadium**, het stadium waarin:
+- .11 Aangewezen autoriteit: de organisatie(s) of de bestuurlijke instantie(s) die binnen de Verdragsluitende Regering verantwoordelijk worden gesteld voor de implementatie van de bepalingen van dit hoofdstuk met betrekking tot de beveiliging van havenfaciliteiten en schip/haveninterfaces, vanuit het oogpunt van de havenfaciliteit.
 
-- .1. de bouw ten behoeve van een specifiek schip aanvangt; en
+- .12 International Ship and Port Facility Security (ISPS) Code: de internationale code voor de beveiliging van schepen en havenfaciliteiten, bestaande uit deel A (waarvan de bepalingen als dwingend worden behandeld) en deel B (waarvan de bepalingen als aanbevelingen worden behandeld), als aangenomen op 12 december 2002 bij resolutie 2 van de Conferentie van Verdragsluitende Regeringen bij het Internationaal Verdrag ter beveiliging van mensenlevens op zee, 1974, als eventueel gewijzigd door de organisatie, op voorwaarde dat:
 
-- .2. is aangevangen met de montage van dat schip, die ten minste 50 ton of 1 procent van de geschatte massa van alle bouwmateriaal omvat, naargelang welke van beide het minst is.
+- .1 wijzigingen van deel A van de code worden aangenomen, ten uitvoer worden gelegd en in werking treden overeenkomstig [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VIII&z=2011-01-01&g=2011-01-01) van dit Verdrag betreffende de wijzigingsprocedures die voor de Bijlage, met uitzondering van [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2011-01-01&g=2011-01-01), gelden, en
 
-- 10. **Breedte**(B)van een bulkcarrier, de breedte als omschreven in het van kracht zijnde [Internationaal Verdrag betreffende de uitwatering van schepen](https://wetten.overheid.nl/jci1.3:c:BWBV0003267).
+- .2 wijzigingen van deel B van de code worden aangenomen door de Maritieme Veiligheidcommissie overeenkomstig het reglement van orde.
 
-##### Voorschrift 2. Toepasselijkheid
+- .13 Beveiligingsincident: iedere verdachte handeling of omstandigheid die bedreigend is voor de beveiliging van een schip, met inbegrip van booreenheden en hogesnelheidsvaartuigen, of de beveiliging van een havenfaciliteit, een schip/haven raakvlak of een schip-tot-schip-activiteit.
 
-Bulkcarriers moeten voldoen aan de vereisten van dit Hoofdstuk, in aanvulling op de toepasselijke vereisten van andere Hoofdstukken.
+- .14 Beveiligingsniveau: gradering van het risico dat een poging tot beveiligingsincident wordt ondernomen of dat een beveiligingsincident plaatsvindt.
 
-##### Voorschrift 3. Implementatieschema
+- .15 Beveiligingsverklaring: een overeenkomst tussen een schip en een havenfaciliteit dan wel een ander schip waarmee interactie is, waarin de door partijen te nemen beveiligingsmaatregelen vermeld staan.
 
-Bulkcarriers gebouwd vóór 1 juli 1999 waarop [voorschrift 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=4&z=2009-01-01&g=2009-01-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=6&z=2009-01-01&g=2009-01-01) van toepassing is, moeten aan de bepalingen van deze voorschriften voldoen in overeenstemming met het volgende schema, onder verwijzing naar het uitgebreide inspectieprogramma vereist in [voorschrift XI-1/2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-1&artikel=2&z=2009-01-01&g=2009-01-01):
+- .16 Erkende beveiligingsorganisatie: een organisatie die over de vereiste deskundigheid op beveiligingsgebied en kennis van schip en havenoperaties beschikt, en die gemachtigd is de door dit hoofdstuk of door deel A van de ISPS-Code voorgeschreven beoordelingen, verificaties, goedkeuringen of certificatiewerkzaamheden te verrichten.
 
-- .1. bulkcarriers die op 1 juli 1999 20 jaar of ouder waren, op de datum van de eerste tussentijdse inspectie of de eerste periodieke inspectie na 1 juli 1999, naargelang van welke datum eerder valt;
+- 2. In de voorschriften 3 tot en met 13 omvat de term „schip” ook booreenheden en hogesnelheidsvaartuigen.
 
-- .2. bulkcarriers die op 1 juli 1999 15 jaar of ouder waren, maar minder dan 20 jaar oud, op de datum van de eerste periodieke inspectie na 1 juli 1999, doch uiterlijk 1 juli 2002; en
+- 3. Met de in dit hoofdstuk gebruikte term „alle schepen” worden alle schepen bedoeld waarop dit hoofdstuk van toepassing is.
 
-- .3. bulkcarriers die op 1 juli 1999 minder dan 15 jaar oud waren, op de datum van de eerste periodieke inspectie na de datum waarop het schip 15 jaar wordt, doch uiterlijk op de datum waarop het schip 17 jaar wordt.
+- 4. Wanneer in de [voorschriften 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-2&artikel=3&z=2011-01-01&g=2011-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-2&artikel=4&z=2011-01-01&g=2011-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-2&artikel=7&z=2011-01-01&g=2011-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-2&artikel=10&z=2011-01-01&g=2011-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-2&artikel=11&z=2011-01-01&g=2011-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-2&artikel=12&z=2011-01-01&g=2011-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-2&artikel=13&z=2011-01-01&g=2011-01-01) de term „Verdragsluitende Regering” wordt gebruikt, wordt hiermee ook de „aangewezen autoriteit” bedoeld.
 
-##### Voorschrift 4. Op bulkcarriers toepasselijke vereisten inzake stabiliteit bij averij
+##### Voorschrift 2. Toepassing
 
-1. Bulkcarriers met een lengte van 150 m en meer met een enkelzijdige huidconstructie, ontworpen voor het vervoer van vaste bulkladingen met een dichtheid van 1000 kg/m3 en meer, gebouwd op of na 1 juli 1999 moeten, wanneer deze zijn geladen tot de zomerlastlijn, vollopen van willekeurig welk laadruim onder alle laadomstandigheden kunnen weerstaan en in een goede evenwichtstoestand blijven drijven, als vermeld in paragraaf 4.
+- 1 Dit hoofdstuk is van toepassing op:
 
-2. Bulkcarriers met een lengte van 150 m en meer met een dubbelzijdige huidconstructie, waarbij enig deel van het langsschot is gelegen binnen B/5 of 11,5 m, naargelang welke afstand geringer is, gemeten van de huid naar binnen toe loodrecht op hart schip op de toegewezen zomerlastlijn, ontworpen voor het vervoer van vaste bulkladingen met een dichtheid van 1000 kg/m3 en meer, gebouwd op of na 1 juli 2006 moeten, wanneer deze zijn geladen tot de zomerlastlijn, vollopen van willekeurig welk laadruim onder alle laadomstandigheden kunnen weerstaan en in een goede evenwichtstoestand blijven drijven, als vermeld in paragraaf 4.
+- .1 de volgende soorten schepen die voor internationale reizen worden gebruikt:
 
-3. Bulkcarriers met een lengte van 150 m en meer met een enkelzijdige huidconstructie, die vaste bulkladingen vervoeren met een dichtheid van 1780 kg/m3 en meer, gebouwd vóór 1 juli 1999 moeten, wanneer deze zijn geladen tot de zomerlastlijn, vollopen van het voorste laadruim onder alle laadomstandigheden kunnen weerstaan en in een goede evenwichtstoestand blijven drijven, als vermeld in paragraaf 4. Aan dit vereiste moet worden voldaan in overeenstemming met het in [voorschrift 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=3&z=2009-01-01&g=2009-01-01) vermelde implementatieschema.
+- .1.1 passagiersschepen met inbegrip van hogesnelheidspassagiersvaartuigen;
 
-4. Onder voorbehoud van de bepalingen van paragraaf 7 moet de evenwichtstoestand na vollopen overeenkomen met de evenwichtstoestand vervat in de bijlage bij resolutie A.320(IX) – Voorschrift equivalent aan [voorschrift 27 van het Internationaal Verdrag betreffende de uitwatering van schepen, 1966](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=27), als gewijzigd bij resolutie A.514(13). Bij het veronderstelde vollopen behoeft alleen rekening te worden gehouden met het vollopen van het laadruim tot het waterniveau aan de buitenzijde van het schip in die volgelopen toestand. De permeabiliteit van een geladen ruim wordt verondersteld 0,9 te zijn en die van een leeg ruim 0,95, tenzij een voor een specifieke lading relevante permeabiliteit wordt verondersteld voor het volume van een volgelopen ruim met lading en een permeabiliteit van 0,95 wordt verondersteld voor het resterende lege deel van het ruim.
+- .1.2 vrachtschepen, met inbegrip van hogesnelheidsvaartuigen, met een bruto tonnage van 500 of meer; en
 
-5. Bulkcarriers gebouwd vóór 1 juli 1999, waaraan overeenkomstig [voorschrift 27(7) van het Internationaal Verdrag betreffende de uitwatering van schepen, 1966](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=27), als aangenomen op 5 april 1966 een beperkt vrijboord is toegewezen, mogen worden aangemerkt als in overeenstemming met paragraaf 3 van dit voorschrift.
+- .1.3 booreenheden; en
 
-6. Bulkcarriers waaraan overeenkomstig de bepalingen van paragraaf (8) van het voorschrift equivalent aan [voorschrift 27 van het Internationaal Verdrag betreffende de uitwatering van schepen, 1966](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=27), aangenomen bij resolutie A.320(IX), als gewijzigd bij resolutie A.514(13) een beperkt vrijboord is toegewezen, mogen worden aangemerkt als in overeenstemming met paragraaf 1 of 2, naargelang van welke van toepassing is.
+- .2 havenfaciliteiten die dergelijke voor internationale reizen gebruikte schepen afhandelen.
 
-7. Ten aanzien van bulkcarriers waaraan in overeenstemming met de bepalingen van [voorschrift 27(8) van Bijlage B van het Protocol van 1988](onbekend) met betrekking tot het [Internationaal Verdrag betreffende de uitwatering van schepen, 1966](https://wetten.overheid.nl/jci1.3:c:BWBV0003267), een beperkt vrijboord is toegewezen, moet de evenwichtstoestand na vollopen voldoen aan de desbetreffende bepalingen van dat Protocol.
+- 2 Onverminderd de bepalingen van paragraaf 1.2, beslissen de Verdragsluitende Regeringen in hoeverre dit hoofdstuk en de relevante hoofdstukken van deel A van de ISPS-Code van toepassing zijn op die havenfaciliteiten op hun grondgebied die niet hoofdzakelijk voor internationale reizen makende schepen worden gebruikt, maar incidenteel schepen die in verband met een internationale reis aankomen of afvaren moeten afhandelen.
 
-##### Voorschrift 5. Constructiesterkte van bulkcarriers
+- 2.1 De Verdragsluitende Regeringen baseren hun besluiten, krachtens paragraaf 2 op beveiligingsbeoordelingen van havenfaciliteiten die worden verricht overeenkomstig het bepaalde in deel A van de ISPS-Code.
 
-1. Bulkcarriers met een lengte van 150 m en meer, met een enkelzijdige huidconstructie, ontworpen voor het vervoer van vaste bulkladingen met een dichtheid van 1000 kg/m3 en meer, gebouwd op of na 1 juli 1999, moeten voldoende sterk zijn om vollopen van willekeurig welk laadruim tot het waterniveau buitenboord het schip in die volgelopen toestand in elke laad- en ballasttoestand te weerstaan, mede met inachtneming van dynamische effecten door de aanwezigheid van water in het ruim, en met inachtneming van de door de Organisatie aangenomenaanbevelingen.
+- 2.2 Geen enkel door een Verdragsluitende Regering krachtens paragraaf 2 genomen besluit mag ten koste gaan van het door dit hoofdstuk of door deel A van de ISPS-Code beoogde beveiligingsniveau.
 
-2. Bulkcarriers met een lengte van 150 m en meer met een dubbelzijdige huidconstructie, waarbij enig deel van het langsschot is gelegen binnen B/5 of 11,5 m, naargelang welke afstand geringer is, gemeten van de huid naar binnen toe loodrecht op hart schip op de toegewezen zomerlastlijn, ontworpen voor het vervoer van bulkladingen met een dichtheid van 1000 kg/m3 en meer, gebouwd op of na 1 juli 2006, moeten voldoen aan de in paragraaf 1 vervatte bepalingen inzake constructiesterkte.
+- 3 Dit hoofdstuk is niet van toepassing op oorlogsschepen, marinehulpschepen of andere schepen die het eigendom zijn of geëxploiteerd worden door een Verdragsluitende Regering en uitsluitend voor niet-commerciële overheidsdiensten worden gebruikt.
 
-##### Voorschrift 6. Constructie- en andere vereisten voor bulkcarriers
+- 4 Niets in dit hoofdstuk mag afbreuk doen aan de uit het internationaal recht voortvloeiende rechten en verplichtingen van staten.
 
-1. Bulkcarriers met een lengte van 150 m en meer met een enkelzijdige huidconstructie, die vaste bulkladingen vervoeren met een dichtheid van 1780 kg/m3 en meer, gebouwd vóór 1 juli 1999, moeten in overeenstemming met het in [voorschrift 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=3&z=2009-01-01&g=2009-01-01) vermelde implementatieschema aan de volgende vereisten voldoen:
+##### Voorschrift 3. Verplichtingen van de Verdragsluitende Regeringen met betrekking tot de beveiliging
 
-- .1. Het waterdichte dwarsschot tussen de twee voorste laadruimen en de dubbele bodem van het voorste laadruim moet voldoende sterk zijn om vollopen van het voorste laadruim te weerstaan, tevens rekening houdend met de dynamische effecten als gevolg van de aanwezigheid van water in het ruim, conform de normen voor de sterkte van schotten en dubbele bodems van bulkcarriers. Voor de toepassing van dit voorschrift worden de normen voor de sterkte van schotten en dubbele bodems van bulkcarriers als dwingende normen aangemerkt.
+- 1 Administraties stellen beveiligingsniveaus vast en zorgen dat de schepen die het recht hebben om onder hun vlag te varen over deze beveiligingsniveaus worden geïnformeerd. In geval van wijzigingen van het beveiligingsniveau wordt de beveiligingsniveau-informatie bijgewerkt zoals de omstandigheden vereisen.
 
-- .2. Bij de beoordeling van de behoefte aan, en de mate van, versterking van het waterdichte dwarsschot of de dubbele bodem teneinde aan de vereisten van 1.1 te voldoen, kan met de volgende beperkingen rekening worden gehouden:
+- 2 De Verdragsluitende Regeringen stellen beveiligingsniveaus vast en zorgen dat de havenfaciliteiten op hun grondgebied en de schepen, voordat zij een haven binnenlopen of terwijl zij zich in een haven op hun grondgebied bevinden, over deze beveiligingsniveaus worden geïnformeerd. In geval van wijzigingen van het beveiligingsniveau wordt de beveiligingsniveau-informatie bijgewerkt naar gelang de omstandigheden dit vereisen.
 
-- .1. beperkingen ten aanzien van de verdeling van het totale gewicht van de lading over de laadruimen; en
+##### Voorschrift 4. Eisen voor maatschappijen en schepen
 
-- .2. beperkingen ten aanzien van het maximum draagvermogen.
+- 1 De maatschappijen leven de relevante eisen van dit hoofdstuk en van deel A van de ISPS-Code na, waarbij ze rekening houden met de in deel B van de ISPS-Code gegeven richtsnoeren.
 
-- .3. Ten aanzien van bulkcarriers waarop een van de in 1.2.1 en 1.2.2 genoemde beperkingen, of beide, worden toegepast om aan de vereisten van paragraaf 1.1 te voldoen, moet aan deze beperkingen worden voldaan wanneer vaste bulkladingen met een dichtheid van 1780 kg/m3 en meer worden vervoerd.
+- 2 De schepen leven de relevante eisen van dit hoofdstuk en van deel A van de ISPS-Code na, waarbij ze rekening houden met de in deel B van de ISPS-Code gegeven richtsnoeren. De naleving wordt gecontroleerd en gecertificeerd overeenkomstig de bepalingen van deel A van de ISPS-Code.
 
-2. Bulkcarriers met een lengte van 150 m en meer, gebouwd op of na 1 juli 2006, moeten in alle zones met een dubbelzijdige huidconstructie aan de volgende vereisten voldoen:
+- 3 Alvorens een haven binnen te lopen, of terwijl het zich in een haven op het grondgebied van een Verdragsluitende Regering bevindt, voldoet een schip aan de eisen met betrekking tot het door die Verdragsluitende Regering vastgestelde beveiligingsniveau, indien dit beveiligingsniveau hoger is dan het door de Administratie voor dat schip vastgestelde beveiligingsniveau.
 
-- .1. Primaire verstijvingsstructuren van de dubbelzijdige huid mogen niet binnen het laadruim worden aangebracht.
+- 4 Schepen reageren zo spoedig mogelijk op iedere overschakeling op een hoger beveiligingsniveau.
 
-- .2. Onverminderd de onderstaande bepalingen mag de afstand tussen de buiten- en de binnenhuid in geen enkele dwarssectie minder bedragen dan 1000 mm, gemeten evenwijdig met de zijhuid. De dubbelzijdige huidconstructie moet zodanig zijn dat toegang voor inspectiedoeleinden mogelijk is, als bepaald in [voorschrift II-1/3-6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=3&z=2009-01-01&g=2009-01-01) en in de daarnaar verwijzende Technische Bepalingen.
+- 5 Indien een schip zich niet houdt aan de eisen van dit hoofdstuk of van deel A van de ISPS-Code, dan wel niet kan voldoen aan de eisen met betrekking tot het door de Administratie of door een andere Verdragsluitende Regering vastgestelde en op dat schip van toepassing zijnde beveiligingsniveau, dan meldt het schip dit aan de betreffende bevoegde autoriteit alvorens over te gaan tot enige schip/haven raakvlak of alvorens de haven binnen te lopen, afhankelijk van de situatie die zich het eerst voordoet.
 
-- .1. De vrije ruimten beneden behoeven niet te worden ondersteund door kruisverbanden, bovenste en onderste steunen van dwarsspanten of eindsteunen van langsspanten.
+##### Voorschrift 5. Specifieke verantwoordelijkheid van de maatschappijen
 
-- .2. De minimumbreedte van de vrije doorgang door de dubbelzijdige huidruimte ter hoogte van obstakels zoals pijpleidingen of verticale ladders moet ten minste 600 mm bedragen.
+De maatschappij zorgt ervoor dat de kapitein te allen tijde de informatie aan boord heeft aan de hand waarvan bevoegde ambtenaren van een Verdragsluitende Regering kunnen vaststellen:
 
-- .3. Wanneer de binnen- en/of buitenhuid van dwarsspanten zijn voorzien, moet de vrije ruimte tussen de binnenste oppervlakken van de spanten ten minste 600 mm bedragen.
+- .1 wie verantwoordelijk is voor de aanwijzing van de bemanningsleden of andere personen die op dat moment in welke hoedanigheid dan ook aan boord van een schip in dienst of te werk gesteld zijn ten behoeve van dat schip;
 
-- .4. Wanneer de binnen- en buitenhuid van lengtespanten zijn voorzien, moet de vrije ruimte tussen de binnenste oppervlakken van de spanten ten minste 800 mm bedragen. Buiten het parallelle deel van de lengte van het laadruim mag deze vrije ruimte worden beperkt wanneer de bouwconstructie zulks nodig maakt; de vrije ruimte mag echter nimmer minder dan 600 mm bedragen.
+- .2 wie degene is die beslist over de bezigheid van het schip; en
 
-- .5. De hierboven bedoelde vrije ruimte is de kortste afstand gemeten tussen denkbeeldige lijnen die een verbinding vormen tussen de binnenste oppervlakken van de spanten en de binnen- en buitenhuid.
+- .3 wanneer het schip gebruikt wordt in het kader van een charterpartij (charterpartijen), wie de partijen zijn bij deze charterpartij(en).
 
-- 3. De ruimten van de dubbelzijdige zijhuid, met uitzondering van bovenzijtanks, indien aanwezig, mogen niet worden gebruikt voor het vervoer van lading.
+##### Voorschrift 6. Scheepsbeveiligingsalarmsysteem
 
-- 4. Op bulkcarriers met een lengte van 150 m en meer, waarmee vaste bulkladingen worden vervoerd met een dichtheid van 1000 kg/m3 en meer, gebouwd op of na 1 juli 2006:
+- 1 Alle schepen worden uitgerust met een scheepsbeveiligingsalarmsysteem, en wel als volgt:
 
-- .1. moet de constructie van de laadruimen zodanig zijn dat alle mogelijke ladingen kunnen worden geladen en gelost met standaard laad- en losapparatuur en -procedures, zonder beschadiging waardoor de veiligheid van de constructie in het geding zou kunnen komen;
+- .1 op of na 1 juli 2004 gebouwde schepen;
 
-- .2. moet de effectieve continuïteit tussen de huidconstructie en de rest van de rompconstructie worden gewaarborgd; en
+- .2 vóór 1 juli 2004 gebouwde passagiersschepen, met inbegrip van hogesnelheidspassagiersvaartuigen, uiterlijk op de datum van het eerste onderzoek van de radio-installatie na 1 juli 2004;
 
-- .3. moet de constructie van ladinggedeelten zodanig zijn dat het falen van een onderdeel van de verstijvingsconstructie niet leidt tot het onmiddellijk falen van andere constructiedelen, waardoor mogelijk alle verstijvingspanelen het zullen begeven.
+- .3 vóór 1 juli 2004 gebouwde olietankschepen, chemicaliëntankers, gastankers, bulkcarriers en hogesnelheidsvrachtvaartuigen, met een brutotonnage van 500 of meer, uiterlijk op de datum van het eerste onderzoek van de radio-installatie na 1 juli 2004; en
 
-##### Voorschrift 7. Inspectie en onderhoud van bulkcarriers
+- .4 andere vrachtschepen met een brutotonnage van 500 of meer en booreenheden die vóór 1 juli 2004 gebouwd zijn, uiterlijk op de datum van het eerste onderzoek van de radio-installatie na 1 juli 2006.
 
-1. Bulkcarriers met een lengte van 150 m en meer met een enkelzijdige huidconstructie, gebouwd vóór 1 juli 1999, van 10 jaar en ouder, mogen geen vaste bulkladingen met een dichtheid van 1780 kg/m3 en meer vervoeren, tenzij het schip met succes:
+- 2 Wanneer het scheepsbeveiligingsalarmsysteem wordt ingeschakeld:
 
-- .1. een periodieke inspectie heeft ondergaan in overeenstemming met het uitgebreide inspectieprogramma tijdens onderzoeken als vereist in [voorschrift XI-1/2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-1&artikel=2&z=2009-01-01&g=2009-01-01); of
+- .1 stelt het een schip/wal-beveiligingsalarm in werking en zendt dit naar een door de Administratie aangewezen bevoegde autoriteit, die in deze omstandigheden ook de maatschappij kan zijn, dat de identiteit en positie van het schip vermeldt en aangeeft of de beveiliging van het schip wordt bedreigd of in gevaar is gebracht;
 
-- .2. een inspectie heeft ondergaan van alle laadruimen, in dezelfde mate als die welke vereist is voor periodieke inspecties krachtens het uitgebreide inspectieprogramma tijdens onderzoeken als vereist in [voorschrift XI-1/2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-1&artikel=2&z=2009-01-01&g=2009-01-01).
+- .2 zendt het dit scheepsbeveiligingsalarm niet naar andere schepen;
 
-2. Bulkcarriers moeten voldoen aan de onderhoudsvereisten vermeld in [voorschrift II-1/3-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=3&z=2009-01-01&g=2009-01-01) en de Normen voor inspectie en onderhoud van luikopeningen op bulkcarriers door eigenaren, aangenomen door de Organisatie bij resolutie MSC.169(79), als door de Organisatie kan worden gewijzigd, mits deze wijzigingen worden aangenomen, in werking worden gesteld en van kracht worden overeenkomstig het bepaalde in [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VIII&z=2009-01-01&g=2009-01-01) van dit Verdrag betreffende de procedures voor wijziging die van toepassing zijn op de Bijlage, met uitzondering van [Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2009-01-01&g=2009-01-01).
+- .3 stelt het geen alarm aan boord van het schip in werking; en
 
-##### Voorschrift 8. Informatie inzake naleving van de vereisten voor bulkcarriers
+- .4 houdt het het scheepsbeveiligingsalarm in werking totdat het wordt uitgeschakeld en/of opnieuw wordt ingesteld.
 
-1. Het in [voorschrift VI/7.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=VI&deel=B&artikel=7&z=2009-01-01&g=2009-01-01) vereiste boekje moet door of namens de Administratie worden afgetekend teneinde aan te geven dat aan de [voorschriften 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=4&z=2009-01-01&g=2009-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=5&z=2009-01-01&g=2009-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=6&z=2009-01-01&g=2009-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=7&z=2009-01-01&g=2009-01-01), naargelang welk van toepassing is, is voldaan.
+- 3 Het scheepsbeveiligingsalarmsysteem:
 
-2. Eventuele beperkingen gesteld aan het vervoer van vaste bulkladingen met een dichtheid van 1780 kg/m3 en meer in overeenstemming met de vereisten van de [voorschriften 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=6&z=2009-01-01&g=2009-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=14&z=2009-01-01&g=2009-01-01), moeten in het in paragraaf 1 bedoelde boekje worden vermeld en geregistreerd.
+- .1 kan vanaf de navigatiebrug en op minstens één andere plaats worden ingeschakeld;
 
-3. Een bulkcarrier waarop paragraaf 2 van toepassing is, moet worden voorzien van een permanente markering op de zijhuid midscheeps, aan bakboord en stuurboord, door middel van een volle gelijkzijdige driehoek met zijden van 500 mm en de top 300 mm onder de deklijn, en geschilderd in een kleur die met de kleur van de romp contrasteert.
+- .2 voldoet aan prestatienormen die niet lager zijn dan de door de Organisatie aangenomen normen.
 
-##### Voorschrift 9. Vereisten voor bulkcarriers die als gevolg van het ontwerp van hun laadruimen niet kunnen voldoen aan [voorschrift 4.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=4&z=2009-01-01&g=2009-01-01)
+- 4 De inschakelpunten van het scheepsbeveiligingsalarmsysteem zijn zo ontworpen dat het scheepsbeveiligingsalarm niet per ongeluk kan worden ingeschakeld.
 
-Voor bulkcarriers gebouwd vóór 1 juli 1999 die binnen de toepassingsgrenzen van [voorschrift 4.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=4&z=2009-01-01&g=2009-01-01) vallen, die zijn gebouwd met een onvoldoende aantal waterdichte dwarsschotten om aan dat voorschrift te voldoen, kan de Administratie ontheffing van de toepassing van de [voorschriften 4.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=4&z=2009-01-01&g=2009-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=6&z=2009-01-01&g=2009-01-01) verlenen, mits deze aan de volgende vereisten voldoen:
+- 5 Aan de eis van een scheepsbeveiligingsalarmsysteem kan worden voldaan met een radio-installatie die is aangepast aan de eisen van [hoofstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&z=2011-01-01&g=2011-01-01), maar dan ook aan alle eisen van dit voorschrift moet voldoen.
 
-- .1. ten aanzien van het voorste laadruim moeten de in het door [voorschrift XI-1/2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-1&artikel=2&z=2009-01-01&g=2009-01-01) vereiste uitgebreide inspectieprogramma voorgeschreven inspecties tijdens onderzoeken voor de jaarlijkse inspectie worden vervangen door de inspecties die daarin zijn voorgeschreven voor de tussentijdse inspectie van laadruimen;
+- 6 Wanneer een Administratie een melding binnenkrijgt van een scheepsbeveiligingsalarm, stelt die Administratie onmiddellijk de staat (staten) in de nabijheid waarvan het schip zich op dat moment bevindt in kennis.
 
-- .2. zij moeten in alle laadruimen, of in ladingtransporttunnels, naargelang hetgeen van toepassing is, zijn voorzien van alarmvoorzieningen voor hoge waterniveaus in lensputten die een hoorbaar en zichtbaar alarm op de navigatiebrug geven, als goedgekeurd door de Administratie of door een door haar in overeenstemming met de bepalingen van [voorschrift XI-1/1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-1&artikel=1&z=2009-01-01&g=2009-01-01) erkende organisatie; en
+- 7 Wanneer een Verdragsluitende Regering een melding ontvangt van een scheepsbeveiligingsalarm van een schip dat niet gerechtigd is onder zijn vlag te varen, stelt die Verdragsluitende Regering onmiddellijk de desbetreffende Administratie in kennis en, indien van toepassing, de staat (staten) in de nabijheid waarvan het schip zich op dat moment bevindt.
 
-- .3. zij moeten aan boord over gedetailleerde informatie beschikken op het gebied van specifieke scenario’s bij volgelopen laadruimen. Deze informatie moet gedetailleerde instructies bevatten inzake evacuatievoorbereiding krachtens de bepalingen van afdeling 8 van de International Safety Management Code (ISM-Code) en moet kunnen worden gebruikt als uitgangspunt voor opleidingen en oefeningen voor de bemanning.
+##### Voorschrift 7. Bedreigingen voor schepen
 
-##### Voorschrift 10. Verklaring omtrent de dichtheid van vaste bulklading
+- 1 De Verdragsluitende Regeringen stellen beveiligingsniveaus vast, en zorgen ervoor dat in hun territoriale wateren varende schepen, of schepen die hebben medegedeeld dat zij van plan zijn zich in hun territoriale wateren te begeven, over deze beveiligingsniveaus worden geïnformeerd.
 
-1. Voordat bulklading in bulkcarriers met een lengte van 150 m en meer wordt geladen, moet de expediteur, naast het verstrekken van de krachtens [voorschrift VI/2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=VI&deel=A&artikel=2&z=2009-01-01&g=2009-01-01) vereiste ladinggegevens opgave doen van de dichtheid van de lading.
+- 2 De Verdragsluitende Regeringen zorgen voor een aanspreekpunt waar deze schepen om raad of bijstand kunnen vragen, en waar zij eventuele met de beveiliging verband houdende zorgen over andere schepen, scheepsbewegingen of berichten kunnen melden.
 
-2. Ten aanzien van bulkcarriers waarop [voorschrift 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=VI&deel=B&artikel=6&z=2009-01-01&g=2009-01-01) van toepassing is, moet van alle lading waarvan wordt aangegeven dat deze een dichtheid tussen 1250 kg/m3 en 1780 kg/m3 heeft, de dichtheid door een geaccrediteerde beproevingsinstantie worden geverifieerd, tenzij deze bulkcarriers voldoen aan alle relevante vereisten van dit Hoofdstuk die van toepassing zijn op het vervoer van vaste bulkladingen met een dichtheid van 1780 kg/m3 en meer.
+- 3 Indien is vastgesteld dat er gevaar bestaat voor een aanval, licht de betrokken Verdragsluitende Regering de betrokken schepen en hun Administraties in over:
 
-##### Voorschrift 11. Laadinstrument
+- .1 het huidige beveiligingsniveau;
 
-(Tenzij anderszins bepaald, is dit voorschrift van toepassing op bulkcarriers, ongeacht de datum van bouw)
+- .2 de beveiligingsmaatregelen die de betrokken schepen moeten nemen om zichzelf tegen een aanval te beschermen, overeenkomstig de bepalingen van deel A van de ISPS-code; en
 
-1. Bulkcarriers met een lengte van 150 m en meer moeten worden uitgerust met een laadinstrument dat gegevens kan verstrekken inzake de dwarskrachten en buigmomenten op de rompbalken, met inachtneming vande door de Organisatie aangenomen aanbeveling.
+- .3 de beveiligingsmaatregelen die de kuststaat besloten heeft te nemen, naar gelang van toepassing.
 
-2. Bulkcarriers met een lengte van 150 m en meer, gebouwd vóór 1 juli 1999 moeten uiterlijk op de datum van de eerste tussentijdse of periodieke inspectie van het schip na 1 juli 1999 voldoen aan de vereisten van paragraaf 1.
+##### Voorschrift 8. Beslissingsvrijheid van de kapitein met betrekking tot de veiligheid en beveiliging van het schip
 
-3. Bulkcarriers met een lengte van minder dan 150 m, gebouwd op of na 1 juli 2006 moeten zijn uitgerust met een laadinstrument dat gegevens kan verstrekken inzake de stabiliteit van het schip in onbeschadigde toestand. De computersoftware moet door de Administratie zijn goedgekeurd voor de berekening van stabiliteitsgegevens en moet zijn voorzien van standaardvoorwaarden voor testdoeleinden ten aanzien vande goedgekeurde stabiliteitsgegevens.
+- 1 De kapitein wordt niet door de maatschappij, de verlader of enige andere persoon weerhouden van het nemen of het uitvoeren van een beslissing die naar het professionele oordeel van de kapitein moet worden genomen voor de veiligheid en ter beveiliging van het schip. Dit houdt ook in dat hij personen (behalve personen waarvan vaststaat dat zij naar behoren door een Verdragsluitende Regering zijn gemachtigd) of hun eigendommen de toegang kan ontzeggen en kan weigeren vracht, inclusief containers en andere afgesloten vrachttransporteenheden, aan boord te nemen.
 
-##### Voorschrift 12. Waterniveaualarmen voor ruimen, ballastruimen en droge ruimten
+- 2 Indien er tijdens de bedrijfsactiviteiten van het schip een situatie ontstaat, waarbij volgens het professioneel oordeel van de kapitein, voor het schip geldende eisen inzake veiligheid en beveiliging met elkaar in strijd zijn, geeft de kapitein uitvoering aan de eisen die noodzakelijk zijn voor de veiligheid van het schip. De kapitein kan in dergelijke gevallen tijdelijke beveiligingsmaatregelen treffen, en hij informeert onverwijld de Administratie en, indien van toepassing, de Verdragsluitende Regering van het land in wier haven het schip zich bevindt of voornemens is binnen te lopen. Al dergelijke tijdelijke beveiligingsmaatregelen in het kader van dit voorschrift dienen in de hoogst mogelijke mate afgestemd te zijn op het geldende beveiligingsniveau. Wanneer dergelijke gevallen worden vastgesteld, zorgt de Administratie ervoor dat deze strijdigheden worden opgelost en dat de kans op herhaling tot een minimum wordt beperkt.
 
-(Dit voorschrift is van toepassing op bulkcarriers, ongeacht de datum van bouw)
+##### Voorschrift 9. Controle- en handhavingsmaatregelen
 
-1. Bulkcarriers moeten zijn uitgerust met waterniveaudetectoren:
+- 1.1 Volgens dit hoofdstuk kan ieder schip waarop dit hoofdstuk van toepassing is in de haven van een andere Verdragsluitende Regering gecontroleerd worden door bevoegde ambtenaren van die regering, die eveneens de functies van [voorschrift I/19](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=19&z=2011-01-01&g=2011-01-01) kunnen vervullen. Bij deze controle wordt alleen geverifieerd of het schip beschikt over een geldig internationaal scheepsbeveiligingscertificaat of een geldig voorlopig internationaal scheepsbeveiligingscertificaat dat is afgegeven krachtens het bepaalde in deel A van de ISPS-Code („certificaat”), hetgeen aanvaard wordt indien het geldig is, tenzij er gegronde redenen zijn om aan te nemen dat het schip niet voldoet aan de eisen van dit hoofdstuk of van deel A van de ISPS-Code.
 
-- .1. in elk laadruim, voorzien van een hoorbaar en zichtbaar alarm, een wanneer het waterniveau boven de binnenbodem in een ruim een hoogte van 0,5 m bereikt en een ander op een hoogte van ten minste 15% van de diepte van het laadruim, maar ten hoogste op 2 m. In bulkcarriers waarop [voorschrift 9.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=9&z=2009-01-01&g=2009-01-01) van toepassing is, hoeven uitsluitend detectoren met laatstgenoemd alarm te worden geïnstalleerd. De waterniveaudetectoren moeten worden geplaatst aan de achterzijde van de laadruimen. Bij laadruimen die worden gebruikt voor waterballast mag een voorziening worden gemonteerd waarmee het alarm kan worden uitgeschakeld. De visuele alarmen moeten een duidelijk onderscheid maken tussen de twee verschillende waterniveaus die in elk ruim worden gemeten;
+- 1.2 Wanneer die gegronde redenen aanwezig zijn, of wanneer er desgevraagd geen geldig certificaat wordt overgelegd, leggen de bevoegde ambtenaren van de Verdragsluitende Regering één of meer controlemaatregelen op met betrekking tot het schip, overeenkomstig het bepaalde in paragraaf 1.3. Al deze opgelegde maatregelen moeten evenredig zijn en er moet rekening worden gehouden met de in deel B van de ISPS-Code gegeven richtsnoeren.
 
-- .2. in elk laadruim gelegen voor het aanvaringsschot als vereist door [voorschrift II-1/12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-2&artikel=12&z=2009-01-01&g=2009-01-01), voorzien van een hoorbaar en zichtbaar alarm wanneer de vloeistof in de tank een niveau bereikt van ten hoogste 10% van de tankcapaciteit. Het is toegestaan een voorziening te installeren waarmee het alarm kan worden uitgeschakeld wanneer de tank in gebruik is; en
+- 1.3. De volgende controlemaatregelen kunnen worden opgelegd: inspectie van het schip, ophouding van het schip, aanhouding van het schip, beperking van de bedrijfsvoering, met inbegrip van bewegingen binnen de haven, of uitwijzing van het schip uit de haven. Ter aanvulling van deze controlemaatregelen, of in plaats daarvan, kunnen ook andere, minder verregaande administratieve of corrigerende maatregelen worden genomen.
 
-- .3. in alle droge of lege ruimten anders dan een kabelkettingbak, elk gedeelte gelegen voor het voorste laadruim, voorzien van een hoorbaar en zichtbaar alarm bij een waterniveau van 0,1 m boven het dek. Dergelijke alarmvoorzieningen behoeven niet te worden geplaatst in gesloten ruimten waarvan het volume 0,1% of minder van de maximale waterverplaatsing van het schip bedraagt.
+- 2.1 In de zin van dit hoofdstuk kan een Verdragsluitende Regering eisen dat schepen die voornemens zijn zijn havens aan te doen onderstaande informatie verschaffen aan bevoegde ambtenaren van die regering, teneinde de naleving van dit hoofdstuk te verzekeren voordat het schip de haven binnenloopt, en zo te vermijden dat er controlemaatregelen moeten worden opgelegd of stappen ondernomen: Indien de Verdragsluitende Regering dit vraagt, geven het schip of de maatschappij een voor die Verdragsluitende Regering aanvaardbare bevestiging van de hierboven verlangde informatie.
 
-2. De in paragraaf 1 bedoelde hoorbare en zichtbare alarmvoorzieningen moeten op de navigatiebrug zijn geplaatst.
+- .1 of het schip beschikt over een geldig certificaat, en de naam van de autoriteit die het heeft uitgereikt;
 
-3. Bulkcarriers gebouwd vóór 1 juli 2004 moeten uiterlijk op de datum van de jaarlijkse of tussentijdse inspectie of de herkeuring van het schip na 1 juli 2004, naargelang welke datum eerder valt, voldoen aan de vereisten van dit voorschrift.
+- .2 het beveiligingsniveau waarop het schip momenteel opereert;
 
-##### Voorschrift 13. Beschikbaarheid van pompsystemen
+- .3 het beveiligingsniveau waarop het schip in een vorige haven heeft geopereerd, toen het een schip/haven raakvlak heeft uitgevoerd binnen het in paragraaf 2.3 aangegeven tijdsbestek;
 
-(Dit voorschrift is van toepassing op bulkcarriers, ongeacht de datum van bouw)
+- .4 eventuele speciale of aanvullende beveiligingsmaatregelen die door het schip zijn genomen in een vorige haven waar het een schip/haven raakvlak heeft uitgevoerd binnen het in paragraaf 2.3 aangegeven tijdsbestek;
 
-1. Op bulkcarriers moeten de voorzieningen voor het leeg- en volpompen van ballasttanks gelegen voor het aanvaringsschot en de droge ruimten waarvan delen zich uitstrekken tot vóór het voorste laadruim, vanaf een gemakkelijk toegankelijke gesloten ruimte kunnen worden bediend; deze ruimte moet vanaf de navigatiebrug of vanaf de plaats van waar de besturing van de voortstuwingsmachines plaatsvindt, kunnen worden bereikt zonder blootgestelde vrijboord- of opbouwdekken te betreden. Wanneer leidingen naar dergelijke tanks of ruimten door het aanvaringsschot zijn gevoerd, kan klepbediening, in afwijking van de in [voorschrift II-1/12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-2&artikel=12&z=2009-01-01&g=2009-01-01) bedoelde klepbediening, door activering op afstand worden toegestaan, mits de plaatsing van deze klepbediening met dit voorschrift in overeenstemming is.
+- .5 of de passende scheepsbeveiligingsprocedures zijn gevolgd gedurende een schip-tot-schip-activiteit binnen het in paragraaf 2.3 vermelde tijdsbestek; of
 
-2. Bulkcarriers gebouwd vóór 1 juli 2004 moeten uiterlijk op de datum van de eerste tussentijdse inspectie of herkeuring van het schip na 1 juli 2004, doch uiterlijk op 1 juli 2007, voldoen aan de vereisten van dit voorschrift.
+- .6 andere praktische met beveiliging verband houdende informatie (maar geen details over het scheepsbeveiligingsplan) rekening houdend met de in deel B van de ISPS-Code gegeven richtsnoeren.
+
+- 2.2 Ieder schip waarop dit hoofdstuk van toepassing is en dat van plan is de haven van een andere Verdragsluitende Regering aan te doen, verschaft de in paragraaf 2.1 beschreven informatie, indien de bevoegde ambtenaren van die regering dit vragen. De kapitein kan weigeren die informatie te verschaffen, maar dient wel te beseffen dat hem dan de toegang tot de haven kan worden ontzegd.
+
+- 2.3 Het schip houdt voor de laatste tien havenfaciliteiten die het heeft aangedaan de in paragraaf 2.1 bedoelde gegevens bij.
+
+- 2.4 Indien de bevoegde ambtenaren van de Verdragsluitende Regering van de haven die het schip voornemens is aan te doen na ontvangst van de in paragraaf 2.1 beschreven informatie gegronde redenen hebben om aan te nemen dat het schip niet aan de eisen van dit hoofdstuk of deel A van de ISPS-Code voldoet, proberen genoemde ambtenaren communicatie tot stand te brengen met het schip en tussen het schip en de Administratie om de niet-naleving recht te zetten. Indien deze communicatie niet leidt tot rechtzetting, of indien de ambtenaren ook anderszins gegronde redenen hebben om aan te nemen dat het schip niet voldoet aan de eisen van dit hoofdstuk of deel A van de ISPS-Code, kunnen deze ambtenaren met betrekking tot dat schip de in paragraaf 2.5 voorziene stappen zetten. Al dergelijke stappen moeten evenredig zijn en worden gezet aan de hand van de in deel B van de ISPS-Code gegeven richtsnoeren.
+
+- 2.5 Genoemde stappen zijn:
+
+- .1 een eis tot rechtzetting van de niet-naleving;
+
+- .2 een eis dat het schip zich begeeft naar een aangewezen plaats in de territoriale wateren of de binnenlandse wateren van die Verdragsluitende Regering;
+
+- .3 inspectie van het schip, indien het schip zich in de territoriale wateren bevindt van de Verdragsluitende Regering wier haven het schip voornemens aan te doen; of
+
+- .4 ontzegging van de toegang tot de haven. Alvorens tot dergelijke stappen over te gaan, stelt de Verdragsluitende Regering het schip op de hoogte van haar voornemens. De kapitein kan daarop afzien van zijn voornemen om die haven aan te doen. Dit voorschrift is dan niet van toepassing.
+
+- 3.1 Indien:
+
+- .1 een andere controlemaatregel wordt opgelegd dan een in paragraaf 1.3 bedoelde minder verregaande administratieve of corrigerende maatregel; of
+
+- .2 één van de in paragraaf 2.5 bedoelde stappen wordt ondernomen, stelt een bevoegde ambtenaar van de Verdragsluitende Regering de Administratie onverwijld schriftelijk op de hoogte van de opgelegde controlemaatregelen of ondernomen stappen, alsmede van de redenen daarvoor. De Verdragsluitende Regering die de controlemaatregelen oplegt of de stappen onderneemt meldt ook aan het erkend beveiligingsbedrijf dat het certificaat voor het betreffende schip heeft afgegeven, en aan de Organisatie wanneer deze controlemaatregelen zijn opgelegd of deze stappen zijn ondernomen.
+
+- 3.2 Wanneer een schip de toegang tot de haven wordt ontzegd of wordt uitgewezen, dienen de havenstaatautoriteiten de bewuste feiten mede te delen aan de havenstaatautoriteiten van de volgende in aanmerking komende aanloophavens, indien deze bekend zijn, en eventuele andere in aanmerking komende kuststaten, rekening houdende met door de Organisatie te ontwikkelen richtsnoeren. De geheimhouding en beveiliging van deze meldingen worden gegarandeerd.
+
+- 3.3 Het ontzeggen van de toegang tot de haven overeenkomstig de paragrafen 2.4 en 2.5 of uitwijzing overeenkomstig de paragrafen 1.1 tot en met 1.3 zijn maatregelen die alleen worden opgelegd wanneer de bevoegde ambtenaren van de Verdragsluitende Regering gegronde redenen hebben om aan te nemen dat het schip een onmiddellijke bedreiging vormt voor beveiliging of veiligheid van personen, of van schepen of andere goederen, en er geen andere passende middelen zijn om die dreiging weg te nemen.
+
+- 3.4 De oplegging van de in paragraaf 1.3 bedoelde controlemaatregelen en het nemen van de in paragraaf 2.5 bedoelde stappen vinden overeenkomstig dit voorschrift niet langer plaats wanneer de niet-naleving die aanleiding gaf tot controlemaatregelen of stappen naar tevredenheid van de Verdragsluitende Regering is rechtgezet, rekening houdende met eventuele door het schip of de Administratie voorgestelde acties.
+
+- 3.5 Wanneer Verdragsluitende Regeringen controle uitoefenen krachtens paragraaf 1 of stappen ondernemen krachtens paragraaf 2:
+
+- .1 wordt al het mogelijke gedaan om te vermijden dat een schip ten onrechte wordt aangehouden of opgehouden. Indien een schip daardoor ten onrechte wordt aangehouden of opgehouden, heeft het recht op schadevergoeding voor eventuele geleden verliezen of schade; en
+
+- .2 wanneer toegang tot het schip in noodgevallen en om humanitaire of beveiligingsredenen noodzakelijk is, mag deze niet worden belet.
+
+##### Voorschrift 10. Eisen met betrekking tot havenfaciliteiten
+
+- 1. Havenfaciliteiten voldoen aan de desbetreffende eisen van dit hoofdstuk en deel A van de ISPS-Code, rekening houdende met de in deel B van de ISPS-Code gegeven richtsnoeren.
+
+- 2. Verdragsluitende Regeringen met op hun grondgebied een havenfaciliteit of havenfaciliteiten waarop dit voorschrift van toepassing is, zorgen ervoor dat:
+
+- .1 de beveiligingsbeoordelingen van de havenfaciliteiten overeenkomstig de bepalingen van deel A van de ISPS-Code worden uitgevoerd, herzien en goedgekeurd; en
+
+- .2 de beveiligingsplannen van de havenfaciliteiten overeenkomstig de bepalingen van deel A van de ISPS-Code worden ontwikkeld, herzien, goedgekeurd en ten uitvoer gelegd.
+
+- 3. De Verdragsluitende Regeringen moeten duidelijk aangeven en mededelen welke maatregelen in een beveiligingsplan van een havenfaciliteit voor de verschillende beveiligingsniveaus moeten worden opgenomen, waaronder wanneer een beveiligingsverklaring moet worden overgelegd.
+
+##### Voorschrift 11. Alternatieve beveiligingsovereenkomsten
+
+- 1 De Verdragsluitende Regeringen mogen, bij de implementatie van dit hoofdstuk en deel A van de ISPS-Code schriftelijk bilaterale of multilaterale overeenkomsten met andere Verdragsluitende Regeringen sluiten voor alternatieve beveiligingsregelingen met betrekking tot korte internationale reizen op vaste routes tussen op hun grondgebieden gelegen havenfaciliteiten.
+
+- 2 Deze overeenkomsten gaan niet ten koste van het beveiligingsniveau van andere niet onder de overeenkomst vallende schepen of havenfaciliteiten.
+
+- 3 Onder dergelijke overeenkomsten vallende schepen verrichten geen schip-tot-schip-activiteiten met niet onder de overeenkomst vallende schepen.
+
+- 4 Deze overeenkomsten worden periodiek herzien, rekening houdend met de opgedane ervaring en eventuele wijzigingen van de specifieke omstandigheden of de beoordeelde bedreigingen voor de beveiliging van de onder de overeenkomst vallende schepen, havenfaciliteiten of routes.
+
+##### Voorschrift 12. Gelijkwaardige beveiligingsregelingen
+
+- 1 Een Administratie kan toestaan dat een bepaald schip, of een groep schepen, dat/die gerechtigd is onder haar vlag te varen andere met de in dit hoofdstuk of in deel A van de ISPS-Code voorgeschreven maatregelen gelijkstaande maatregelen uitvoert, mits deze beveiligingsmaatregelen minstens even doeltreffend zijn als de in dit hoofdstuk of deel A van de ISPS-Code voorgeschreven maatregelen. Een Administratie die dergelijke beveiligingsmaatregelen toestaat, deelt de bijzonderheden daaromtrent mede aan de Organisatie.
+
+- 2 Bij de implementatie van dit hoofdstuk en deel A van de ISPS-Code kan een Verdragsluitende Regering een bepaalde op haar grondgebied gelegen havenfaciliteit, of groep havenfaciliteiten, die niet valt onder een krachtens [voorschrift 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-2&artikel=11&z=2011-01-01&g=2011-01-01) gesloten overeenkomst toestaan beveiligingsmaatregelen te implementeren, mits deze beveiligingsmaatregelen minstens even doeltreffend zijn als de in dit hoofdstuk of deel A van de ISPS-Code voorgeschreven maatregelen. Een Verdragsluitende Regering die dergelijke beveiligingsmaatregelen toestaat deelt de bijzonderheden daaromtrent aan de Organisatie mede.
+
+##### Voorschrift 13. Verschaffing van informatie
+
+- 1 De Verdragsluitende Regeringen delen uiterlijk 1 juli 2004 de volgende gegevens mede aan de Organisatie, en stellen deze ter informatie ter beschikking van maatschappijen en schepen:
+
+- .1 de namen en contactgegevens van hun nationale autoriteit of autoriteiten die verantwoordelijk zijn voor de beveiliging van schepen en havenfaciliteiten;
+
+- .2 de locaties op hun grondgebied die onder de goedgekeurde beveiligingsplannen voor havenfaciliteiten vallen;
+
+- .3 de namen en contactgegevens van degenen die zijn aangewezen om te allen tijde beschikbaar te zijn voor het ontvangen van en reageren op de schip/wal-beveiligingsalarmen, als bedoeld in [voorschrift 6.2.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-2&artikel=6&z=2011-01-01&g=2011-01-01);
+
+- .4 de namen en contactgegevens van degenen die zijn aangewezen om te allen tijde beschikbaar te zijn voor het ontvangen van en reageren op eventuele mededelingen van Verdragsluitende Regeringen die de controle- en nalevingsmaatregelen uitvoeren, als bedoeld in [voorschrift 9.3.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-2&artikel=9&z=2011-01-01&g=2011-01-01); en
+
+- .5 de namen en contactgegevens van degenen die zijn aangewezen om te allen tijde beschikbaar te zijn voor het adviseren of assisteren van schepen, en aan wie schepen eventuele met de beveiliging verband houdende zorgen als bedoeld in [voorschrift 7.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-2&artikel=7&z=2011-01-01&g=2011-01-01) kunnen melden;
+
+- en actualiseren deze informatie, zodra zich daarin wijzigingen voordoen. De Organisatie verspreidt deze gegevens onder andere Verdragsluitende Regeringen ter informatie van hun beambten.
+
+- 2 De Verdragsluitende Regeringen delen uiterlijk 1 juli 2004 aan de Organisatie de namen en contactgegevens mede van alle erkende beveiligingsorganisaties die bevoegd zijn namens hen op te treden, met de bijzonderheden van de specifieke verantwoordelijkheid van deze organisaties en de voorwaarden waaronder bevoegdheden aan hen zijn gedelegeerd. Deze gegevens worden geactualiseerd zodra zich daarin wijzigingen voordoen. De Organisatie verspreidt deze gegevens onder andere Verdragsluitende Regeringen ter informatie van hun ambtenaren.
+
+- 3 De Verdragsluitende Regeringen verstrekken aan de Organisatie uiterlijk op 1 juli 2004 een lijst waarop de goedgekeurde havenbeveiligingsplannen voor de zich op hun grondgebied bevindende havenfaciliteiten vermeld staan, alsmede de door elk goedgekeurd havenbeveiligingsplan bestreken locatie of locaties, met bijbehorende goedkeuringsdatum, en doen nadien verdere mededelingen in geval van onderstaande wijzigingen:
+
+- .1 wijzigingen met betrekking tot de door een goedgekeurd havenbeveiligingsplan bestreken locatie of locaties zullen worden ingevoerd of zijn ingevoerd. In deze gevallen worden de wijzigingen met betrekking tot de door het plan bestreken locatie of locaties medegedeeld, alsmede de datum waarop deze wijzigingen moeten worden ingevoerd of zijn geïmplementeerd;
+
+- .2 een goedgekeurd havenbeveiligingsplan dat aanvankelijk op de bij de Organisatie ingediende lijst stond, zal worden ingetrokken of is ingetrokken. In deze gevallen moet worden medegedeeld op welke datum de intrekking zal ingaan of is ingegaan, en wordt de Organisatie zo spoedig als praktisch mogelijk is ingelicht.
+
+- .3 de lijst van goedgekeurde havenbeveiligingsplannen zal worden uitgebreid. In deze gevallen moeten de door het plan bestreken locatie of locaties en de datum van goedkeuring worden medegedeeld.
+
+- 4 De Verdragsluitende Regeringen verstrekken na 1 juli 2004 om de vijf jaar aan de Organisatie een herziene en bijgewerkte lijst, waarop alle goedgekeurde havenbeveiligingsplannen voor de zich op hun grondgebied bevindende havenfaciliteiten staan aangegeven met de door ieder goedgekeurd havenbeveiligingsplan bestreken locatie of locaties en de desbetreffende data van goedkeuring (en de datum van goedkeuring van eventuele wijzigingen), die volgt op en in de plaats komt van alle informatie die overeenkomstig paragraaf 3 gedurende de voorgaande vijf jaar is medegedeeld.
+
+- 5 De Verdragsluitende Regeringen delen de Organisatie de overeenkomsten mede die krachtens [voorschrift 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-2&artikel=11&z=2011-01-01&g=2011-01-01) zijn gesloten. De medegedeelde informatie omvat: en naderhand delen zij zo spoedig als praktisch mogelijk is de Organisatie mede, wanneer de overeenkomst is gewijzigd of is afgelopen.
+
+- .1 de namen van de Verdragsluitende Regeringen die de overeenkomst hebben gesloten;
+
+- .2 de onder de overeenkomst vallende havenfaciliteiten en vaste routes;
+
+- .3 de periodiciteit van de herziening van de overeenkomst;
+
+- .4 de datum van inwerkingtreding van de overeenkomst; en
+
+- .5 informatie over eventueel overleg dat heeft plaatsgevonden met andere Verdragsluitende Regeringen;
+
+- 6 Iedere Verdragsluitende Regering die krachtens het bepaalde in [voorschrift 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-2&artikel=12&z=2011-01-01&g=2011-01-01) gelijkwaardige beveiligingsregelingen toestaat met betrekking tot een schip dat gerechtigd is onder haar vlag te varen of met betrekking tot een op haar grondgebied gelegen havenfaciliteit deelt de bijzonderheden daaromtrent mede aan de Organisatie
+
+- 7 De Organisatie stelt de krachtens de paragrafen 3 tot 6 medegedeelde informatie ter beschikking van andere Verdragsluitende Regeringen die daarom vragen.
 
 ##### Voorschrift 14. Beperkingen ten aanzien van het varen met lege ruimen
 
@@ -25593,7 +25691,7 @@ Tenzij uitdrukkelijk anders is bepaald, gelden voor de toepassing van dit Deel d
 
 2. Een chemicaliëntankschip dat in het bezit is van een certificaat afgegeven ingevolge de bepalingen van het eerste lid, is onderworpen aan de controle vastgelegd in [Voorschrift I/19](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=19&z=2009-07-01&g=2009-07-01). Hiertoe wordt zulk een certificaat beschouwd als een certificaat afgegeven ingevolge [Voorschrift I/12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=12&z=2009-07-01&g=2009-07-01) of [I/13](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=13&z=2009-07-01&g=2009-07-01).
 
-## DEEL C. - BOUW EN UITRUSTING VAN SCHEPEN DIE VLOEIBAAR GEMAAKTE GASSEN IN BULK VERVOEREN
+## DEEL A-1. VERVOER VAN GEVAARLIJKE STOFFEN IN VASTE VORM IN BULK
 
 ##### Voorschrift 11. Begripsomschrijvingen
 
@@ -25777,37 +25875,45 @@ Het veiligheidsmanagementsysteem moet in stand worden gehouden overeenkomstig de
 
 2. dient een schip dat in het bezit moet zijn van een certificaat dat wordt afgegeven krachtens de bepalingen van [voorschrift 4.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=4&z=2009-07-01&g=2009-07-01), te worden onderworpen aan de controle zoals bedoeld in de bepalingen van voorschrift XI/4. Hiertoe dient een dergelijk certificaat te worden beschouwd als een certificaat afgegeven op grond van [voorschrift I/12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=12&z=2009-07-01&g=2009-07-01) of [I/13](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=13&z=2009-07-01&g=2009-07-01).
 
-### HOOFDSTUK XI-1. SPECIALE MAATREGELEN TER VERBETERING VAN DE VEILIGHEID OP ZEE
+### HOOFDSTUK IX. MANAGEMENT VOOR EEN VEILIGE BEDRIJFSVOERING AAN BOORD VAN SCHEPEN
 
-##### Voorschrift 1. Bevoegdverklaring van de erkende organisaties
+##### Voorschrift 1. Begripsomschrijvingen
 
-De in voorschrift I/6 bedoelde organisaties moeten de richtlijnen naleven die de Organisatie heeft aangenomen door resolutie A.739(18) eventueel als gewijzigd door de Organisatie, en de door de Organisatie door resolutie A.789(19) aangenomen specificaties, eventueel als gewijzigd door de Organisatie, op voorwaarde dat deze wijzigingen worden aangenomen, in werking worden gesteld en van kracht worden overeenkomstig het bepaalde in artikel VIII van dit Verdrag betreffende de procedure voor wijziging die van toepassing is op de Bijlage, met uitzondering van Hoofdstuk I.
+Voor de toepassing van dit hoofdstuk wordt, tenzij uitdrukkelijk anders wordt bepaald, verstaan onder:
 
-##### Voorschrift 2. Verzwaring onderzoeken
+- 1. de ,International Safety Management (ISM) Code’: de internationale Code inzake het management voor een veilige bedrijfsvoering aan boord van schepen en ter voorkoming van verontreiniging, aangenomen door de Organisatie bij resolutie A.741 (18), zoals deze kan worden gewijzigd door de Organisatie, mits de wijzigingen worden aangenomen, in werking treden en van kracht worden in overeenstemming met de bepalingen van [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VIII&z=2011-01-01&g=2011-01-01) van dit Verdrag inzake de wijzigingsprocedures die van toepassing zijn op de Bijlage, met uitzondering van [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2011-01-01&g=2011-01-01).
 
-Bulkcarriers zoals omschreven in voorschrift IX/1.6 en olietankschepen zoals omschreven in voorschrift II-1/2.22 worden onderworpen aan een verzwaard inspectieprogramma, in overeenstemming met de bij resolutie A.744(18) door de Vergadering van de Organisatie aangenomen richtlijnen, zoals deze kunnen worden gewijzigd door de Organisatie, mits de wijzigingen worden aangenomen, in werking treden en van kracht worden in overeenstemming met de bepalingen van artikel VIII van dit Verdrag inzake de wijzigingsprocedures die van toepassing zijn op de Bijlage, met uitzondering van hoofdstuk I.
+- 2. ,Maatschappij’: de eigenaar van het schip of enige andere organisatie of persoon, bijvoorbeeld de manager of de rompbevrachter, die de verantwoordelijkheid betreffende de bedrijfsvoering aan boord van het schip heeft overgenomen van de eigenaar van het schip en die door de aanvaarding van die verantwoordelijkheid ermee heeft ingestemd alle plichten en verantwoordelijkheden die door de International Safety Management (ISM) Code worden opgelegd over te nemen.
 
-##### Voorschrift 3. Scheepsidentificatienummer
+- 3. ,Olietankschip’: een olietankschip zoals omschreven in [voorschrift II-1/2.22](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=2&z=2011-01-01&g=2011-01-01).
 
-1. Dit voorschrift is van toepassing op alle passagiersschepen met een bruto tonnage van 100 of meer en op alle vrachtschepen met een bruto tonnage van 300 of meer.
+- 4. ,Chemicaliëntankschip’: een chemicaliëntankschip zoals omschreven in [voorschrift VII/8.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=VII&deel=B&artikel=8&z=2011-01-01&g=2011-01-01).
 
-2. Elk schip wordt voorzien van een identificatienummer dat in overeenstemming is met het IMO-scheepsidentificatiesysteem dat door de Organisatie is aangenomen.
+- 5. ,Gastankschip’: een gastankschip zoals omschreven in [voorschrift VII/11.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=VII&deel=C&artikel=11&z=2011-01-01&g=2011-01-01).
 
-3. Het identificatienummer van een schip wordt vermeld op de certificaten en op de gewaarmerkte afschriften daarvan die worden afgegeven krachtens [voorschrift I/12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=12&z=2009-07-01&g=2009-07-01) of [I/13](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=13&z=2009-07-01&g=2009-07-01).
+- 6. ,Bulkcarrier’: een schip dat in het algemeen slechts één dek heeft, met top-zijtanks en hopper-zijtanks in de vrachtruimen, en hoofdzakelijk is bedoeld voor het vervoer van droge stortlading; onder deze omschrijving vallen onder andere ertsschepen en combinatietankschepen.
 
-4. Het scheepsidentificatienummer dient duurzaam te zijn aangebracht:
+- 7. ,Booreenheid’ (MODU): een vaartuig dat in staat is op zee boorwerkzaamheden uit te voeren voor de exploratie of exploitatie van grondstoffen uit de zeebodem, zoals vloeibare of gasvormige koolwaterstoffen, zwavel of zout.
 
-.1 op een zichtbare plaats, hetzij op de achtersteven van het schip of aan beide zijden van de romp, midscheeps aan stuur- en bakboord, boven de diepste vastgestelde lastlijn of aan beide zijden van de bovenbouw, aan stuurboord en bakboord of aan de voorzijde van de bovenbouw of, in het geval van passagiersschepen, op een horizontaal oppervlak dat zichtbaar is vanuit de lucht; en
+- 8. ,Hogesnelheidsvaartuig’: een schip zoals omschreven in [voorschrift X/1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=X&artikel=1&z=2011-01-01&g=2011-01-01).
 
-.2 op een gemakkelijk toegankelijke plaats, hetzij op een van de einddwarsschotten van de machineruimtes, als omschreven in [voorschrift II-2/3.30](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=A&artikel=3&z=2009-07-01&g=2009-07-01), of op een van de luiken, of in het geval van tankschepen, in de pompkamer of, in het geval van schepen met ro-ro ruimten, als omschreven in voorschrift II-2/3.41, op een van de einddwarsschotten van de ro-ro ruimten.
+##### Voorschrift 2. Toepassing
 
-5.1 Het duurzaam aangebrachte nummer dient goed zichtbaar te zijn, zich op afstand te bevinden van andere markeringen op de romp en aangebracht te zijn in een contrasterende kleur.
+1. Dit hoofdstuk is, ongeacht de datum van bouw van de schepen, van toepassing
 
-5.2 De cijfers van het in paragraaf 4.1 bedoelde nummer dienen ten minste 200 mm hoog te zijn. De cijfers van het in paragraaf 4.2 bedoelde nummer dienen ten minste 100 mm hoog te zijn. De breedte van de cijfers dient in verhouding te staan tot de hoogte.
+- .1. op passagiersschepen, met inbegrip van hogesnelheidspassagiersschepen, uiterlijk op 1 juli 1998;
 
-5.3 Het duurzaam aangebrachte nummer kan worden aangebracht in de vorm van opliggende cijfers, of met behulp van graveren of centerponsen of met behulp van een andere vergelijkbare methode voor het aanbrengen van het scheepsidentificatienummer die waarborgt dat het nummer niet snel onleesbaar wordt.
+- .2. op olietankschepen, chemicaliëntankschepen, gastankschepen, bulkcarriers en hogesnelheidsvrachtschepen met een bruto tonnage van 500 of meer, uiterlijk op 1 juli 1998; en
 
-5.4 Op schepen vervaardigd van ander materiaal dan staal of metaal, dient de Administratie de methode voor het aanbrengen van het scheepsidentificatienummer goed te keuren.
+- .3. op overige vrachtschepen en booreenheden met een bruto tonnage van 500 of meer, uiterlijk op 1 juli 2002.
+
+2. Dit hoofdstuk is niet van toepassing op schepen van de overheid die voor niet-commerciële doeleinden worden gebruikt.
+
+##### Voorschrift 3. Voorschriften betreffende het veiligheidsmanagement
+
+1. De maatschappij en het schip dienen te voldoen aan de voorschriften van de ,International Safety Management Code’. Voor de toepassing van dit voorschrift worden de vereisten van de Code als verplicht beschouwd.
+
+2. Het schip dient te worden geëxploiteerd door een maatschappij die in het bezit is van een conformiteitsdocument zoals bedoeld in [voorschrift 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=4&z=2011-01-01&g=2011-01-01).
 
 ##### Voorschrift 3-1. Identificatienummer maatschappij en geregistreerde eigenaar
 
@@ -26263,7 +26369,7 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 
 2. De volgens paragraaf 1 vereiste middelen voor inscheping en ontscheping worden gebouwd en geïnstalleerd conform de door de Organisatie opgestelde richtsnoeren .
 
-3. Van alle schepen worden de middelen voor inscheping en ontscheping geïnspecteerd en in de juiste toestand gehouden voor hun beoogde doel, rekening houdend met eventuele beperkingen die verband houden met veilig laden. Alle kabels ter ondersteuning van de middelen voor inscheping en ontscheping worden onderhouden als omschreven in [voorschrift III/20.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=20&z=2010-07-01&g=2010-07-01).
+3. Van alle schepen worden de middelen voor inscheping en ontscheping geïnspecteerd en in de juiste toestand gehouden voor hun beoogde doel, rekening houdend met eventuele beperkingen die verband houden met veilig laden. Alle kabels ter ondersteuning van de middelen voor inscheping en ontscheping worden onderhouden als omschreven in [voorschrift III/20.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=20&z=2011-01-01&g=2011-01-01).
 
 ## DEEL B. WATERDICHTE INDELING EN STABILITEIT
 
@@ -26283,7 +26389,7 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 
 1. Elk passagiersschip ongeacht de omvang ervan en elk vrachtschip met een lengte (**L**) van 24 m of meer, moet na voltooiing een hellingproef ondergaan en de stabiliteitskenmerken ervan moeten worden bepaald. In aanvulling op eventuele andere van toepassing zijnde vereisten van de bestaande voorschriften dienen schepen met een lengte van 24 m en meer en gebouwd op of na 1 juli 2010 ten minste te voldoen aan de vereisten van deel A van de IS-Code 2008.
 
-2. De Administratie kan ontheffing van de hellingproef toestaan voor een individueel vrachtschip, mits fundamentele stabiliteitsgegevens beschikbaar zijn van de hellingproef van een zusterschip en ten genoegen van de Administratie wordt aangetoond dat aan deze fundamentele gegevens betrouwbare informatie omtrent de stabiliteit van het vrijgestelde schip kan worden ontleend, als vereist door [voorschrift 5-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-1&artikel=5-1&z=2010-07-01&g=2010-07-01). Bij de voltooiing wordt een onderzoek naar het gewicht uitgevoerd wanneer, in vergelijking met de van het zusterschip afgeleide gegevens, een afwijking van de waterverplaatsing bij leeg schip wordt aangetroffen van meer dan 1% voor schepen met een lengte van 160 m of meer en 2% voor schepen met een lengte van 50 m of minder en als vastgesteld via lineaire interpolatie voor de tussenliggende lengtes of een afwijking van het zwaartepunt over de lengte bij leegschip van meer dan 0,5% van **Ls**.
+2. De Administratie kan ontheffing van de hellingproef toestaan voor een individueel vrachtschip, mits fundamentele stabiliteitsgegevens beschikbaar zijn van de hellingproef van een zusterschip en ten genoegen van de Administratie wordt aangetoond dat aan deze fundamentele gegevens betrouwbare informatie omtrent de stabiliteit van het vrijgestelde schip kan worden ontleend, als vereist door [voorschrift 5-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-1&artikel=5-1&z=2011-01-01&g=2011-01-01). Bij de voltooiing wordt een onderzoek naar het gewicht uitgevoerd wanneer, in vergelijking met de van het zusterschip afgeleide gegevens, een afwijking van de waterverplaatsing bij leeg schip wordt aangetroffen van meer dan 1% voor schepen met een lengte van 160 m of meer en 2% voor schepen met een lengte van 50 m of minder en als vastgesteld via lineaire interpolatie voor de tussenliggende lengtes of een afwijking van het zwaartepunt over de lengte bij leegschip van meer dan 0,5% van **Ls**.
 
 3. De Administratie kan ook ontheffing van de hellingproef toestaan voor een individueel schip of klasse schepen die speciaal zijn ontworpen voor het vervoer van vloeistoffen of erts in bulk wanneer uit verwijzing naar bestaande gegevens voor soortgelijke schepen duidelijk blijkt dat als gevolg van de omvang en voorzieningen van het schip onder alle waarschijnlijke ladingcondities meer dan voldoende metracentrische hoogte beschikbaar zal zijn.
 
@@ -26295,7 +26401,7 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 
 ##### Voorschrift 6. Vereiste indelingsindex R
 
-1. De indeling van een schip wordt als voldoende beschouwd indien de bereikte indelingsindex **A**, vastgesteld in overeenstemming met [voorschrift 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-1&artikel=7&z=2010-07-01&g=2010-07-01), niet geringer is dan de vereiste indelingsindex **R,** berekend in overeenstemming met dit voorschrift en indien bovendien de partiële indexen **As**, **Ap** en **A1** voor passagiersschepen niet kleiner zijn dan 0,9**R** en voor vrachtschepen niet geringer dan 0,5**R**.
+1. De indeling van een schip wordt als voldoende beschouwd indien de bereikte indelingsindex **A**, vastgesteld in overeenstemming met [voorschrift 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-1&artikel=7&z=2011-01-01&g=2011-01-01), niet geringer is dan de vereiste indelingsindex **R,** berekend in overeenstemming met dit voorschrift en indien bovendien de partiële indexen **As**, **Ap** en **A1** voor passagiersschepen niet kleiner zijn dan 0,9**R** en voor vrachtschepen niet geringer dan 0,5**R**.
 
 2. Voor alle schepen waarop de lekstabiliteitsvereisten van dit Hoofdstuk van toepassing zijn, moet de te realiseren indelingsgraad door middel van de vereiste indelingsindex **R** als volgt worden bepaald:
 
@@ -26309,7 +26415,7 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 
 ##### Voorschrift 7. Bereikte indelingsindex A
 
-1. De bereikte indelingsindex **A** wordt verkregen door optelling van de partiële indexen **A**s, **A**p en **A**l, (gewogen als getoond) berekend voor de in [voorschrift 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=2&z=2010-07-01&g=2010-07-01) omschreven diepgangen **d**s, **d**p en **d**l volgens de volgende formule:
+1. De bereikte indelingsindex **A** wordt verkregen door optelling van de partiële indexen **A**s, **A**p en **A**l, (gewogen als getoond) berekend voor de in [voorschrift 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=2&z=2011-01-01&g=2011-01-01) omschreven diepgangen **d**s, **d**p en **d**l volgens de volgende formule:
 
 Elke partiële index is een optelling van de bijdragen van alle bestudeerde schadescenario’s, met gebruikmaking van de volgende formule:
 
@@ -26317,8 +26423,8 @@ waarbij:
 
 | **i** | staat voor elke afdeling of groep van afdelingen in kwestie, |
 | --- | --- |
-| **pi** | staat voor de mogelijkheid dat uitsluitend de afdeling of groep van afdelingen in kwestie kan vollopen, ongeacht de horizontale indeling, als omschreven in [voorschrift 7-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-1&artikel=7-1&z=2010-07-01&g=2010-07-01), |
-| **si** | staat voor de overlevingskans na vollopen van de afdeling of groep van afdelingen in kwestie, en omvat het effect van de horizontale indeling, als omschreven in [voorschrift 7-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-1&artikel=7-2&z=2010-07-01&g=2010-07-01). |
+| **pi** | staat voor de mogelijkheid dat uitsluitend de afdeling of groep van afdelingen in kwestie kan vollopen, ongeacht de horizontale indeling, als omschreven in [voorschrift 7-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-1&artikel=7-1&z=2011-01-01&g=2011-01-01), |
+| **si** | staat voor de overlevingskans na vollopen van de afdeling of groep van afdelingen in kwestie, en omvat het effect van de horizontale indeling, als omschreven in [voorschrift 7-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-1&artikel=7-2&z=2011-01-01&g=2011-01-01). |
 
 2. Bij de berekening van **A** moet de niveautrim worden gebruikt voor de diepste indelingsdiepgang en de partiële indelingsdiepgang. De feitelijke bedrijfstrim moet worden gebruikt voor de diepgang bij lichte vaart. Indien de trimvariatie onder enige bedrijfsomstandigheid, vergeleken met de berekende trim, groter is dan 0,5% van **Ls**, moeten een of meerdere aanvullende berekeningen van **A** voor dezelfde diepgangen maar met verschillende trimwaarden worden ingediend zodat, voor alle bedrijfsomstandigheden, het verschil in trim vergeleken met de voor één berekening gehanteerde referentietrim minder bedraagt dan 0,5% van **Ls**.
 
@@ -26336,11 +26442,11 @@ waarbij:
 
 1. Een passagiersschip bedoeld voor het vervoer van 400 personen of meer moet een zodanige waterdichte indeling achter het aanvaringsschot hebben dat **si**= 1 voor de drie beladingstoestanden waarop de berekening van de indelingsindex is gebaseerd en voor een beschadiging die alle afdelingen treft binnen 0,08**L**, gemeten vanaf de voorste loodlijn.
 
-2. Een passagiersschip bedoeld voor het vervoer van 36 personen of meer moet in staat zijn een beschadiging, van de in paragraaf 3 vermelde omvang, langs de zijhuid te weerstaan. Naleving van dit voorschrift wordt behaald door aan te tonen dat **si**, als omschreven in [voorschrift 7-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-1&artikel=7-2&z=2010-07-01&g=2010-07-01), ten minste 0,9 bedraagt bij de drie beladingstoestanden waarop de berekening van de indelingsindex is gebaseerd.
+2. Een passagiersschip bedoeld voor het vervoer van 36 personen of meer moet in staat zijn een beschadiging, van de in paragraaf 3 vermelde omvang, langs de zijhuid te weerstaan. Naleving van dit voorschrift wordt behaald door aan te tonen dat **si**, als omschreven in [voorschrift 7-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-1&artikel=7-2&z=2011-01-01&g=2011-01-01), ten minste 0,9 bedraagt bij de drie beladingstoestanden waarop de berekening van de indelingsindex is gebaseerd.
 
-3. De omvang van de beschadiging die moet worden aangenomen bij het aantonen van de naleving van paragraaf 2, moet zodanig afhankelijk zijn van **N** als omschreven in [voorschrift 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-1&artikel=6&z=2010-07-01&g=2010-07-01), en van **Ls**als omschreven in [voorschrift 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=2&z=2010-07-01&g=2010-07-01), dat:
+3. De omvang van de beschadiging die moet worden aangenomen bij het aantonen van de naleving van paragraaf 2, moet zodanig afhankelijk zijn van **N** als omschreven in [voorschrift 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-1&artikel=6&z=2011-01-01&g=2011-01-01), en van **Ls**als omschreven in [voorschrift 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=2&z=2011-01-01&g=2011-01-01), dat:
 
-- .1. de verticale omvang van de beschadiging zich uitstrekt van de basislijn van het schip volgens de mal naar een positie tot 12,5 m boven de positie van de diepste indelingsdiepgang als omschreven in [voorschrift 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=2&z=2010-07-01&g=2010-07-01), tenzij een geringere verticale omvang van de beschadiging een lagere waarde van **si** oplevert, in welk geval deze geringere omvang moet worden gehanteerd;
+- .1. de verticale omvang van de beschadiging zich uitstrekt van de basislijn van het schip volgens de mal naar een positie tot 12,5 m boven de positie van de diepste indelingsdiepgang als omschreven in [voorschrift 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=2&z=2011-01-01&g=2011-01-01), tenzij een geringere verticale omvang van de beschadiging een lagere waarde van **si** oplevert, in welk geval deze geringere omvang moet worden gehanteerd;
 
 - .2. wanneer 400 personen of meer moeten worden vervoerd, een lengte van de beschadiging van 0,03**Ls**, doch niet minder dan 3 m moet worden aangenomen op enige positie langs de zijhuid, in combinatie met een penetratie naar binnen toe van 0,1**B**, doch niet geringer dan 0,75 m, gemeten vanaf zijkant schip naar binnen toe, onder een rechte hoek tot aan hart schip op het niveau van de diepste indelingsdiepgang;
 
@@ -26368,13 +26474,13 @@ Andere putten (bijvoorbeeld voor het opvangen van smeerolie onder de hoofdvoorts
 
 4. Ter plaatse van waterdichte tanks, met inbegrip van droge tanks van gemiddelde inhoud, behoeft geen dubbele bodem te worden aangebracht, mits de veiligheid van het schip niet in gevaar komt bij bodem- of zijschade.
 
-5. Voor passagiersschepen waarop de bepalingen van [voorschrift 1.5](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=1&z=2010-07-01&g=2010-07-01) van toepassing zijn en die een geregelde lijndienst onderhouden binnen de begrenzing van een korte internationale reis, zoals omschreven in [voorschrift III/3.22](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=A&artikel=3&z=2010-07-01&g=2010-07-01), kan de Administratie ontheffing verlenen van het vereiste van een dubbele bodem, indien zij van oordeel is dat het aanbrengen van een dubbele bodem in dat deel niet verenigbaar zou zijn met de inrichting en het goed functioneren van het schip.
+5. Voor passagiersschepen waarop de bepalingen van [voorschrift 1.5](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=1&z=2011-01-01&g=2011-01-01) van toepassing zijn en die een geregelde lijndienst onderhouden binnen de begrenzing van een korte internationale reis, zoals omschreven in [voorschrift III/3.22](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=A&artikel=3&z=2011-01-01&g=2011-01-01), kan de Administratie ontheffing verlenen van het vereiste van een dubbele bodem, indien zij van oordeel is dat het aanbrengen van een dubbele bodem in dat deel niet verenigbaar zou zijn met de inrichting en het goed functioneren van het schip.
 
 6. Elk deel van een passagiersschip of een vrachtschip dat niet met een dubbele bodem is uitgerust in overeenstemming met de paragrafen 1, 4 of 5, moet in dat deel van het schip bodemschade kunnen weerstaan, als vermeld in paragraaf 8.
 
 7. In het geval van ongebruikelijke bodemvoorzieningen op een passagiersschip of een vrachtschip moet worden aangetoond dat het schip bodemschade kan weerstaan als vermeld in paragraaf 8.
 
-8. Naleving van paragraaf 6 of 7 moet worden bereikt door aan te tonen dat **si**, wanneer berekend in overeenstemming met [voorschrift 7-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-1&artikel=7-2&z=2010-07-01&g=2010-07-01), onder alle bedrijfsomstandigheden niet minder dan 1 bedraagt bij een aangenomen bodemschade op enige positie aan de onderzijde van het schip en met een omvang als vermeld in onderstaande subparagraaf .2 ten aanzien van het beschadigde deel van het schip:
+8. Naleving van paragraaf 6 of 7 moet worden bereikt door aan te tonen dat **si**, wanneer berekend in overeenstemming met [voorschrift 7-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-1&artikel=7-2&z=2011-01-01&g=2011-01-01), onder alle bedrijfsomstandigheden niet minder dan 1 bedraagt bij een aangenomen bodemschade op enige positie aan de onderzijde van het schip en met een omvang als vermeld in onderstaande subparagraaf .2 ten aanzien van het beschadigde deel van het schip:
 
 - .1. Vollopen van dergelijke ruimten mag de noodstroom- en lichtvoorzieningen, interne communicatie, signalen of andere noodvoorzieningen in andere delen van het schip niet doen uitvallen.
 
@@ -26392,7 +26498,7 @@ Andere putten (bijvoorbeeld voor het opvangen van smeerolie onder de hoofdvoorts
 
 ##### Voorschrift 10. Constructie van waterdichte schotten
 
-1. Elk schot van de waterdichte indeling, hetzij dwars- dan wel langsscheeps, moet geconstrueerd zijn met verbanddelen als omschreven in [voorschrift 2.17](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=2&z=2010-07-01&g=2010-07-01). In alle gevallen moeten schotten van de waterdichte indeling ten minste de druk kunnen weerstaan die ontstaat wanneer tot aan het schottendek water staat.
+1. Elk schot van de waterdichte indeling, hetzij dwars- dan wel langsscheeps, moet geconstrueerd zijn met verbanddelen als omschreven in [voorschrift 2.17](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=2&z=2011-01-01&g=2011-01-01). In alle gevallen moeten schotten van de waterdichte indeling ten minste de druk kunnen weerstaan die ontstaat wanneer tot aan het schottendek water staat.
 
 2. Trapsgewijze sprongen en nissen in waterdichte schotten moeten zo sterk zijn als het schot ter plaatse hiervan zou moeten zijn.
 
@@ -26450,15 +26556,15 @@ Op passagiersschepen moet de pakkingbus geplaatst zijn binnen een waterdichte as
 
 2.3. Lood of andere hittegevoelige materialen mogen niet worden toegepast in systemen die door waterdichte schotten gaan, indien beschadiging daarvan in geval van brand de waterdichtheid van de schotten zou kunnen aantasten.
 
-3. In waterdichte dwarsschotten die een laadruimte afscheiden van een belendende laadruimte mogen geen deuren, mangaten of toegangsopeningen zijn aangebracht, tenzij voorzien in paragraaf 9.1 en [voorschrift 14](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-2&artikel=14&z=2010-07-01&g=2010-07-01).
+3. In waterdichte dwarsschotten die een laadruimte afscheiden van een belendende laadruimte mogen geen deuren, mangaten of toegangsopeningen zijn aangebracht, tenzij voorzien in paragraaf 9.1 en [voorschrift 14](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-2&artikel=14&z=2011-01-01&g=2011-01-01).
 
 4. Onverminderd het bepaalde in paragraaf 10, mogen in ruimten waarin de hoofd- en hulpmachines voor de voortstuwing zijn opgesteld, met inbegrip van de ketels ten behoeve van de voortstuwing, in elk waterdicht schot niet meer dan één deur voorkomen, behoudens de astunneldeuren. Indien twee of meer schroefassen aanwezig zijn, moeten de tunnels door een dwarsverbinding verbonden zijn. Er mag in de machineruimte slechts één deur zijn naar de tunnels wanneer twee schroefassen zijn aangebracht, en slechts twee deuren wanneer meer dan twee schroefassen aanwezig zijn. Al deze deuren moeten schuifdeuren zijn en zodanig zijn aangebracht, dat de bovenkant van de drempels zo hooggelegen is als praktisch mogelijk is. Deze deuren moeten van boven het schottendek buiten de ruimten waarin de machines zijn opgesteld handmatig bediend kunnen worden.
 
-5.1. Waterdichte deuren, behalve als voorzien in paragraaf 9.1 of in [voorschrift 14](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-2&artikel=14&z=2010-07-01&g=2010-07-01), moeten elektrisch bediende schuifdeuren zijn die voldoen aan de eisen van paragraaf 7 en in ten hoogste 60 seconden bij rechtliggend schip vanaf het centrale bedieningspaneel op de brug gelijktijdig gesloten kunnen worden.
+5.1. Waterdichte deuren, behalve als voorzien in paragraaf 9.1 of in [voorschrift 14](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-2&artikel=14&z=2011-01-01&g=2011-01-01), moeten elektrisch bediende schuifdeuren zijn die voldoen aan de eisen van paragraaf 7 en in ten hoogste 60 seconden bij rechtliggend schip vanaf het centrale bedieningspaneel op de brug gelijktijdig gesloten kunnen worden.
 
 5.2. De bediening van waterdichte schuifdeuren, ongeacht of zij werktuiglijk of met handkracht worden bediend, moet zodanig zijn, dat de deur nog kan worden gesloten wanneer het schip tegen een hellingshoek van 15 graden, ongeacht naar welke zijde slagzij heeft gemaakt. Tevens dient rekening te worden gehouden met de krachten die op een van beide zijden van de deur kunnen werken, zoals wanneer water door de opening stroomt, waarbij een statische drukhoogte ontstaat die gelijk is aan een waterhoogte van ten minste 1 m boven de drempel ter plaatse van de hartlijn van de deur.
 
-5.3. Bedieningsinrichtingen van waterdichte deuren, met inbegrip van hydraulische leidingen en elektrische kabels, moeten zo dicht als praktisch mogelijk is bij het schot waarin de deuren zich bevinden, zijn aangebracht, teneinde de kans dat zij betrokken raken bij enige vorm van schade die het schip kan ondervinden, te minimaliseren. Waterdichte deuren en de bedieningsinrichtingen daarvan moeten zodanig zijn aangebracht, dat indien het schip schade ondervindt binnen een vijfde van de breedte van het schip als omschreven in [voorschrift 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=2&z=2010-07-01&g=2010-07-01), waarbij de afstand loodrecht op de hartlijn ter hoogte van de diepste indelingsdiepgang wordt gemeten, de bediening van de waterdichte deuren buiten het beschadigde gedeelte van het schip niet nadelig wordt beïnvloed.
+5.3. Bedieningsinrichtingen van waterdichte deuren, met inbegrip van hydraulische leidingen en elektrische kabels, moeten zo dicht als praktisch mogelijk is bij het schot waarin de deuren zich bevinden, zijn aangebracht, teneinde de kans dat zij betrokken raken bij enige vorm van schade die het schip kan ondervinden, te minimaliseren. Waterdichte deuren en de bedieningsinrichtingen daarvan moeten zodanig zijn aangebracht, dat indien het schip schade ondervindt binnen een vijfde van de breedte van het schip als omschreven in [voorschrift 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=2&z=2011-01-01&g=2011-01-01), waarbij de afstand loodrecht op de hartlijn ter hoogte van de diepste indelingsdiepgang wordt gemeten, de bediening van de waterdichte deuren buiten het beschadigde gedeelte van het schip niet nadelig wordt beïnvloed.
 
 6. Alle werktuiglijk bediende waterdichte schuifdeuren moeten zijn voorzien van standaanwijzers die op plaatsen waar een deur op afstand kan worden bediend, aangeven of de deuren geopend dan wel gesloten zijn. Plaatsen waar de deuren op afstand kunnen worden bediend, mogen slechts zijn gelegen op de brug, zoals voorgeschreven in paragraaf 7.1.5, en op de plaats waar bediening met de hand boven het schottendek is voorgeschreven krachtens paragraaf 7.1.4.
 
@@ -26482,7 +26588,7 @@ Op passagiersschepen moet de pakkingbus geplaatst zijn binnen een waterdichte as
 
 - .7. moet, indien werktuiglijk bewogen, een min of meer uniforme sluitingstijd hebben. De tijd die het sluiten vergt, vanaf het tijdstip waarop de deur begint te bewegen totdat deze volledig gesloten is, mag bij rechtliggend schip nimmer minder dan 20 seconden of meer dan 40 seconden bedragen.
 
-7.2. Het voor het bedienen van de werktuiglijke waterdichte schuifdeuren benodigde vermogen moet worden geleverd via het noodschakelbord, hetzij rechtstreeks, hetzij via een uitsluitend voor dit doel ingericht verdeelbord boven het schottendek. De bijbehorende circuits van de bediening, standaanwijzing en signalering moeten worden gevoed via het noodschakelbord, hetzij rechtstreeks, hetzij via een uitsluitend voor dit doel ingericht verdeelbord boven het schottendek en zij moeten automatisch kunnen worden gevoed door de tijdelijke elektrische noodkrachtbron, voorgeschreven in [paragraaf 3.1.3 van voorschrift 42](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&artikel=42&z=2010-07-01&g=2010-07-01), bij een storing van de elektrische hoofdkrachtbron of de noodkrachtbron.
+7.2. Het voor het bedienen van de werktuiglijke waterdichte schuifdeuren benodigde vermogen moet worden geleverd via het noodschakelbord, hetzij rechtstreeks, hetzij via een uitsluitend voor dit doel ingericht verdeelbord boven het schottendek. De bijbehorende circuits van de bediening, standaanwijzing en signalering moeten worden gevoed via het noodschakelbord, hetzij rechtstreeks, hetzij via een uitsluitend voor dit doel ingericht verdeelbord boven het schottendek en zij moeten automatisch kunnen worden gevoed door de tijdelijke elektrische noodkrachtbron, voorgeschreven in [paragraaf 3.1.3 van voorschrift 42](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&artikel=42&z=2011-01-01&g=2011-01-01), bij een storing van de elektrische hoofdkrachtbron of de noodkrachtbron.
 
 7.3. Werktuiglijk bediende waterdichte schuifdeuren moeten zijn voorzien van:
 
@@ -26490,7 +26596,7 @@ Op passagiersschepen moet de pakkingbus geplaatst zijn binnen een waterdichte as
 
 - .2. een onafhankelijk hydraulisch systeem voor elke deur, waarvan de krachtbron bestaat uit een motor en een pomp die de deur kunnen openen en sluiten. Bovendien moet een hydraulisch buffervat aanwezig zijn met voldoende capaciteit om de deur ten minste driemaal te bewegen: sluiten – openen – sluiten tegen een helling van 15°. Deze bedieningscyclus moet kunnen worden uitgevoerd wanneer het buffervat op de inschakeldruk van de pomp is. Bij de keuze van de te gebruiken vloeistof moet rekening worden gehouden met de temperaturen waaraan het systeem in de praktijk zou kunnen worden blootgesteld. Het centrale bedieningspaneel op de brug moet zijn uitgerust met een groepswaarschuwingssysteem voor te lage gasdruk of andere doeltreffende middelen die verlies van opgeslagen energie in hydraulische buffervaten signaleren. Verlies van opgeslagen energie moet ook bij de bediening ter plaatse worden aangegeven; of
 
-- .3. een onafhankelijk elektrisch systeem en een motor voor elke deur, waarvan de krachtbron bestaat uit een motor die de deur kan openen en sluiten. De krachtbron moet automatisch kunnen worden gevoed door de tijdelijke elektrische noodkrachtbron, voorgeschreven in [paragraaf 4.2 van voorschrift 42](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&artikel=42&z=2010-07-01&g=2010-07-01), in geval van storing van de elektrische hoofdkrachtbron of de elektrische noodkrachtbron, met voldoende capaciteit om de deur driemaal te bewegen: sluiten – openen, sluiten tegen een helling van 15°. Voor de in de paragrafen 7.3.1, 7.3.2. en 7.3.3 omschreven systemen moeten de volgende voorzieningen worden getroffen: krachtinstallaties voor werktuiglijk bediende waterdichte schuifdeuren moeten gescheiden zijn van iedere andere krachtinstallatie. Een storing in de elektrisch of hydraulisch aangedreven werktuiglijke bedieningssystemen, met uitzondering van het hydraulische activeringssysteem, mag de handbediening nooit verhinderen.
+- .3. een onafhankelijk elektrisch systeem en een motor voor elke deur, waarvan de krachtbron bestaat uit een motor die de deur kan openen en sluiten. De krachtbron moet automatisch kunnen worden gevoed door de tijdelijke elektrische noodkrachtbron, voorgeschreven in [paragraaf 4.2 van voorschrift 42](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&artikel=42&z=2011-01-01&g=2011-01-01), in geval van storing van de elektrische hoofdkrachtbron of de elektrische noodkrachtbron, met voldoende capaciteit om de deur driemaal te bewegen: sluiten – openen, sluiten tegen een helling van 15°. Voor de in de paragrafen 7.3.1, 7.3.2. en 7.3.3 omschreven systemen moeten de volgende voorzieningen worden getroffen: krachtinstallaties voor werktuiglijk bediende waterdichte schuifdeuren moeten gescheiden zijn van iedere andere krachtinstallatie. Een storing in de elektrisch of hydraulisch aangedreven werktuiglijke bedieningssystemen, met uitzondering van het hydraulische activeringssysteem, mag de handbediening nooit verhinderen.
 
 7.4. Aan beide zijden van het schot moeten op ten minste 1,6 m boven het vloeroppervlak bedieningshandgrepen zodanig zijn aangebracht, dat personen die door de deuropening gaan deze beide handgrepen in de openingsstand kunnen houden, zonder dat het werktuiglijk aangedreven sluitingsmechanisme daarbij in werking kan worden gesteld. De bewegingsrichting van de handgrepen voor het openen en sluiten van de deur moet overeenkomen met de bewegingsrichting van de deur en duidelijk zijn aangegeven.
 
@@ -26512,7 +26618,7 @@ Bij het uitvallen van een dergelijke krachtvoorziening moet op het centrale bedi
 
 8.3. Het mag niet mogelijk zijn een deur op afstand te openen vanaf het centrale bedieningspaneel.
 
-9.1. Indien de Administratie overtuigd is dat het aanbrengen van zulke deuren noodzakelijk is, mogen waterdichte deuren van goede constructie worden aangebracht in waterdichte schotten die tussendeks laadruimen van elkaar scheiden. Dergelijke deuren mogen draaideuren, roldeuren of schuifdeuren zijn, doch zij mogen niet op afstand bediend kunnen worden. Zij moeten zijn aangebracht op het hoogste niveau en zo ver van de huidbeplating zijn verwijderd als praktisch mogelijk is; in geen geval mag een van de verticale zijden zijn gelegen op een afstand van de huidbeplating die minder is dan één vijfde van de breedte van het schip als omschreven in [voorschrift 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=2&z=2010-07-01&g=2010-07-01), waarbij de afstand loodrecht op het vlak van kiel en stevens ter hoogte van de diepste indelingsdiepgang wordt gemeten.
+9.1. Indien de Administratie overtuigd is dat het aanbrengen van zulke deuren noodzakelijk is, mogen waterdichte deuren van goede constructie worden aangebracht in waterdichte schotten die tussendeks laadruimen van elkaar scheiden. Dergelijke deuren mogen draaideuren, roldeuren of schuifdeuren zijn, doch zij mogen niet op afstand bediend kunnen worden. Zij moeten zijn aangebracht op het hoogste niveau en zo ver van de huidbeplating zijn verwijderd als praktisch mogelijk is; in geen geval mag een van de verticale zijden zijn gelegen op een afstand van de huidbeplating die minder is dan één vijfde van de breedte van het schip als omschreven in [voorschrift 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=2&z=2011-01-01&g=2011-01-01), waarbij de afstand loodrecht op het vlak van kiel en stevens ter hoogte van de diepste indelingsdiepgang wordt gemeten.
 
 9.2. Indien een of meer van deze deuren gedurende de reis toegankelijk zijn, moeten zij zijn voorzien van een middel dat onbevoegd openen voorkomt. Wanneer men dergelijke deuren wenst aan te brengen, moet de Administratie het aantal en de plaatsing daarvan aan een speciaal onderzoek onderwerpen.
 
@@ -26520,7 +26626,7 @@ Bij het uitvallen van een dergelijke krachtvoorziening moet op het centrale bedi
 
 De Administratie kan ten hoogste één werktuiglijk bediende waterdichte schuifdeur in elk waterdicht schot in plaats van deze wegneembare platen toestaan die breder is dan de in paragraaf 7.1.2. bedoelde deuren, mits deze deuren tijdens de vaart gesloten blijven, behalve wanneer opening, naar het oordeel van de kapitein, dringend noodzakelijk is. Deze deuren behoeven niet te voldoen aan het bepaalde in paragraaf 7.1.4. betreffende volledig handmatig sluiten binnen 90 seconden.
 
-11.1. Indien verkeersgangen of tunnels voor de verbinding tussen de verblijven voor de bemanning en de stookplaats, voor pijpleidingen of voor enig ander doel door waterdichte schotten leiden, moeten zij waterdicht zijn en voldoen aan de vereisten van [voorschrift 16-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-2&artikel=16-1&z=2010-07-01&g=2010-07-01). Indien de toegang tot tenminste één uiteinde van een dergelijke tunnel of verkeersgang gedurende de zeereis als doorgang wordt benut, moet deze waterdicht aansluiten aan een schacht, die waterdicht is opgetrokken tot een zodanige hoogte dat deze boven het schottendek toegankelijk is. De toegang tot het andere einde van de verkeersgang of tunnel mag door een waterdichte deur lopen van het op grond van de locatie in het schip vereiste type. Dergelijke verkeersgangen of tunnels mogen niet voeren door het eerste achter het aanvaringsschot gelegen schot dat deel uitmaakt van de waterdichte indeling.
+11.1. Indien verkeersgangen of tunnels voor de verbinding tussen de verblijven voor de bemanning en de stookplaats, voor pijpleidingen of voor enig ander doel door waterdichte schotten leiden, moeten zij waterdicht zijn en voldoen aan de vereisten van [voorschrift 16-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-2&artikel=16-1&z=2011-01-01&g=2011-01-01). Indien de toegang tot tenminste één uiteinde van een dergelijke tunnel of verkeersgang gedurende de zeereis als doorgang wordt benut, moet deze waterdicht aansluiten aan een schacht, die waterdicht is opgetrokken tot een zodanige hoogte dat deze boven het schottendek toegankelijk is. De toegang tot het andere einde van de verkeersgang of tunnel mag door een waterdichte deur lopen van het op grond van de locatie in het schip vereiste type. Dergelijke verkeersgangen of tunnels mogen niet voeren door het eerste achter het aanvaringsschot gelegen schot dat deel uitmaakt van de waterdichte indeling.
 
 11.2. Wanneer wordt voorgesteld tunnels door waterdichte schotten te leiden, dient de Administratie daaraan speciale aandacht te besteden.
 
@@ -26530,7 +26636,7 @@ De Administratie kan ten hoogste één werktuiglijk bediende waterdichte schuifd
 
 1. Dit voorschrift is van toepassing op passagiersschepen ontworpen of aangepast voor het vervoer van goederenvoertuigen en bijbehorend personeel.
 
-2. Indien op een zodanig schip het totale aantal passagiers met inbegrip van het personeel behorend bij voertuigen niet meer bedraagt dan 12 + **Ad**/25, waarbij **Ad**= het totale dekoppervlak (vierkante meters) van ruimten die beschikbaar zijn voor het stuwen van goederenvoertuigen en waar de vrije hoogte op de plaats waar gestuwd wordt en bij de ingang van zodanige ruimten niet minder bedraagt dan 4 m, zijn de bepalingen van de [voorschriften 13.9.1 en 13.9.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-2&artikel=13&z=2010-07-01&g=2010-07-01) met betrekking tot waterdichte deuren van toepassing, met dien verstande dat de deuren mogen worden aangebracht op elk niveau in de waterdichte schotten die de laadruimten verdelen.
+2. Indien op een zodanig schip het totale aantal passagiers met inbegrip van het personeel behorend bij voertuigen niet meer bedraagt dan 12 + **Ad**/25, waarbij **Ad**= het totale dekoppervlak (vierkante meters) van ruimten die beschikbaar zijn voor het stuwen van goederenvoertuigen en waar de vrije hoogte op de plaats waar gestuwd wordt en bij de ingang van zodanige ruimten niet minder bedraagt dan 4 m, zijn de bepalingen van de [voorschriften 13.9.1 en 13.9.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-2&artikel=13&z=2011-01-01&g=2011-01-01) met betrekking tot waterdichte deuren van toepassing, met dien verstande dat de deuren mogen worden aangebracht op elk niveau in de waterdichte schotten die de laadruimten verdelen.
 
 Bovendien moeten er op de brug standaanwijzers zijn aangebracht die automatisch aangeven wanneer iedere deur is gesloten en alle afsluitmiddelen zijn geborgd.
 
@@ -26604,7 +26710,7 @@ Wanneer de beproeving van afzonderlijke deuren vanwege mogelijk beschadiging van
 
 ##### Voorschrift 18. Het vaststellen, merken en registreren van indelingslastlijnen bij passagiersschepen
 
-1. Teneinde zeker te zijn dat de vereiste graad van waterdichte indeling blijft behouden, moet een lastlijn, overeenkomend met de goedgekeurde indelingsdiepgang worden vastgesteld en gemerkt op de zijden van het schip. Op een schip bestemd voor verschillende wijzen van bedrijfsvoering mogen, indien de eigenaar zulks wenst, één of meer extra lastlijnen worden vastgesteld en gemerkt, overeenkomend met de indelingsdiepgangen die de Administratie voor de verschillende bedrijfsconfiguraties kan goedkeuren. Elke aldus goedgekeurde gebruiksconfiguratie moet conform [deel B-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-1&z=2010-07-01&g=2010-07-01) van dit Hoofdstuk zijn, ongeacht de bij de andere wijzen van bedrijfsvoering verkregen resultaten.
+1. Teneinde zeker te zijn dat de vereiste graad van waterdichte indeling blijft behouden, moet een lastlijn, overeenkomend met de goedgekeurde indelingsdiepgang worden vastgesteld en gemerkt op de zijden van het schip. Op een schip bestemd voor verschillende wijzen van bedrijfsvoering mogen, indien de eigenaar zulks wenst, één of meer extra lastlijnen worden vastgesteld en gemerkt, overeenkomend met de indelingsdiepgangen die de Administratie voor de verschillende bedrijfsconfiguraties kan goedkeuren. Elke aldus goedgekeurde gebruiksconfiguratie moet conform [deel B-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-1&z=2011-01-01&g=2011-01-01) van dit Hoofdstuk zijn, ongeacht de bij de andere wijzen van bedrijfsvoering verkregen resultaten.
 
 2. De vastgestelde en gemerkte indelingslastlijnen moeten op het Veiligheidscertificaat voor Passagiersschepen worden geregistreerd, voorzien van aanwijzing P1 voor de situatie waarin het grootste aantal passagiers wordt vervoerd, en P2, P3, enz., voor de andere gebruiksconfiguraties. De situatie waarin het grootste aantal passagiers wordt vervoerd, moet worden aangehouden als de exploitatiewijze waarvoor de vereiste indelingsindex **R** de hoogste waarde moet hebben.
 
@@ -26630,7 +26736,7 @@ Wanneer de beproeving van afzonderlijke deuren vanwege mogelijk beschadiging van
 
 4. Als bijzondere voorzorgsmaatregel dient er een overzicht aanwezig te zijn van factoren (zoals het sluiten, veiligheid van de lading, klinken van waarschuwingssignalen, enz.) die door de Administratie van wezenlijk belang worden geacht voor het behoud van het schip, de passagiers en de bemanning.
 
-5. Bij schepen waarop de lekstabiliteitsvereisten van [deel B-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-1&z=2010-07-01&g=2010-07-01) van toepassing zijn, moet de kapitein met de lekstabiliteitsgegevens de overlevingskansen van het schip eenvoudig en gemakkelijk kunnen beoordelen bij alle schadescenario’s waarbij een afdeling of groep van afdelingen betrokken is.
+5. Bij schepen waarop de lekstabiliteitsvereisten van [deel B-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-1&z=2011-01-01&g=2011-01-01) van toepassing zijn, moet de kapitein met de lekstabiliteitsgegevens de overlevingskansen van het schip eenvoudig en gemakkelijk kunnen beoordelen bij alle schadescenario’s waarbij een afdeling of groep van afdelingen betrokken is.
 
 ##### Voorschrift 20. Belading van passagiersschepen
 
@@ -32171,9 +32277,9 @@ Het doel van dit voorschrift is een methode te bieden voor vervangend ontwerp en
 
 2. Algemeen
 
-- 2.1. Ontwerp en voorzieningen van machine- en elektrische installaties mogen van de in de [delen C](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=C&z=2010-07-01&g=2010-07-01), [D](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&z=2010-07-01&g=2010-07-01) en [E](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=E&z=2010-07-01&g=2010-07-01) vervatte vereisten afwijken, mits de vervangende ontwerpen en voorzieningen beantwoorden aan het doel van de desbetreffende vereisten en een gelijkwaardig niveau van veiligheid aan dit Hoofdstuk bieden.
+- 2.1. Ontwerp en voorzieningen van machine- en elektrische installaties mogen van de in de [delen C](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=C&z=2011-01-01&g=2011-01-01), [D](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&z=2011-01-01&g=2011-01-01) en [E](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=E&z=2011-01-01&g=2011-01-01) vervatte vereisten afwijken, mits de vervangende ontwerpen en voorzieningen beantwoorden aan het doel van de desbetreffende vereisten en een gelijkwaardig niveau van veiligheid aan dit Hoofdstuk bieden.
 
-- 2.2. Wanneer vervangende ontwerpen of voorzieningen afwijken van de dwingende vereisten van de [delen C](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=C&z=2010-07-01&g=2010-07-01), [D](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&z=2010-07-01&g=2010-07-01) en [E](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=E&z=2010-07-01&g=2010-07-01), moeten de constructieanalyse, de evaluatie en de goedkeuring van het vervangende ontwerp en de vervangende voorzieningen worden uitgevoerd in overeenstemming met dit voorschrift.
+- 2.2. Wanneer vervangende ontwerpen of voorzieningen afwijken van de dwingende vereisten van de [delen C](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=C&z=2011-01-01&g=2011-01-01), [D](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&z=2011-01-01&g=2011-01-01) en [E](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=E&z=2011-01-01&g=2011-01-01), moeten de constructieanalyse, de evaluatie en de goedkeuring van het vervangende ontwerp en de vervangende voorzieningen worden uitgevoerd in overeenstemming met dit voorschrift.
 
 3. Constructieanalyse
 
@@ -32187,7 +32293,7 @@ De constructieanalyse opgesteld op basis van de door de Organisatie opgestelde r
 
 - .4. vermelding van de prestatiecriteria voor het schip en de betrokken machine- en elektrische installaties of ruimte(n), waarop de relevante dwingende vereisten van toepassing zijn:
 
-- .1. de prestatiecriteria moeten een veiligheidsniveau waarborgen dat niet geringer is dan de desbetreffende dwingende vereisten, vervat in de [delen C](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=C&z=2010-07-01&g=2010-07-01), [D](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&z=2010-07-01&g=2010-07-01) en [E](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=E&z=2010-07-01&g=2010-07-01); en
+- .1. de prestatiecriteria moeten een veiligheidsniveau waarborgen dat niet geringer is dan de desbetreffende dwingende vereisten, vervat in de [delen C](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=C&z=2011-01-01&g=2011-01-01), [D](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=D&z=2011-01-01&g=2011-01-01) en [E](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=E&z=2011-01-01&g=2011-01-01); en
 
 - .2. de prestatiecriteria moeten kwantificeerbaar en meetbaar zijn;
 
@@ -32241,17 +32347,31 @@ Indien de aannames en functionele beperkingen vermeld in het vervangende ontwerp
 
 - 2.2 Schepen gebouwd vóór 1 juli 2002 moeten ook voldoen aan:
 
-- .1. de paragrafen 3, 6.5 en 6.7 naar gelang toepasselijk;
+- .1 de paragrafen 3, 6.5 en 6.7 naar gelang toepasselijk;
 
-- .2. de voorschriften 13.3.4.2 tot en met 13.3.4.5, 13.4.3 en Deel E, behoudens de voorschriften 16.3.2.2 en 16.3.2.3 daarvan, naar gelang toepasselijk, uiterlijk op de datum van het eerste onderzoek na 1 juli 2002;
+- .2 de voorschriften 13.3.4.2 tot en met 13.3.4.5, 13.4.3 en Deel E, behoudens de voorschriften 16.3.2.2 en 16.3.2.3 daarvan, naar gelang toepasselijk, uiterlijk op de datum van het eerste onderzoek na 1 juli 2002;
 
-- .3. de voorschriften 10.4.1.3 en 10.6.4, uitsluitend voor nieuwe installaties;
+- .3 de voorschriften 10.4.1.3 en 10.6.4, uitsluitend voor nieuwe installaties;
 
-- .4. voorschrift 10.5.6, uiterlijk 1 oktober 2005, voor passagiersschepen met een brutotonnage van 2000 ton of meer; en
+- .4 voorschrift 10.5.6, uiterlijk 1 oktober 2005, voor passagiersschepen met een brutotonnage van 2000 ton of meer; en
 
 - .5. voorschriften 5.3.1.3.2 en 5.3.4 op passagiersschepen uiterlijk op de datum van het eerste onderzoek na 1 juli 2008.
 
 - 2.3 Schepen gebouwd op of na 1 juli 2002 en voor 1 juli 2010 moeten voldoen aan de paragrafen 7.1.1, 7.4.4.2, 7.4.4.3 en 7.5.2.1.2 van voorschrift 9, zoals aangenomen bij resolutie MSC.99(73).
+
+- 2.4 De volgende schepen met laadruimten bestemd voor het vervoer van verpakte gevaarlijke stoffen moeten uiterlijk op de datum van het eerste hernieuwde onderzoek op of na 1 januari 2011 voldoen aan voorschrift 19.3, behalve wanneer zij gevaarlijke stoffen vervoeren van klasse 6.2 en 7 en gevaarlijke stoffen in beperkte hoeveelheden en vrijgestelde hoeveelheden in overeenstemming met de tabellen 19.1 en 19.3:
+
+- .1. vrachtschepen met een brutotonnage van 500 ton of meer en passagiersschepen gebouwd op of na 1 september 1984 maar voor 1 januari 2011; en
+
+- .2. vrachtschepen met een brutotonnage van minder dan 500 ton gebouwd op of na 1 februari 1992 maar voor 1 januari 2011, en onverminderd deze bepalingen:
+
+- .3. vrachtschepen met een brutotonnage van 500 ton of meer en passagiersschepen gebouwd op of na 1 september 1984 maar voor 1 juli 1986 behoeven niet te voldoen aan voorschrift 19.3.3, mits zij voldoen aan voorschrift 54.2.3 zoals aangenomen bij resolutie MSC.1(XLV);
+
+- .4. vrachtschepen met een brutotonnage van 500 ton of meer en passagiersschepen gebouwd op of na 1 juli 1986 maar voor 1 februari 1992 behoeven niet te voldoen aan voorschrift 19.3.3, mits zij voldoen aan voorschrift 54.2.3 zoals aangenomen bij resolutie MSC.6(48);
+
+- .5. vrachtschepen met een brutotonnage van 500 ton of meer en passagiersschepen gebouwd op of na 1 september 1984 maar voor 1 juli 1998 behoeven niet te voldoen aan de voorschriften 19.3.10.1 en 19.3.10.2; en
+
+- .6. vrachtschepen met een brutotonnage van minder dan 500 ton gebouwd op of na 1 februari 1992 maar voor 1 juli 1998 behoeven niet te voldoen aan de voorschriften 19.3.10.1 en 19.3.10.2.
 
 - 3. Reparaties, wijzigingen, veranderingen en uitrusting
 
@@ -32337,13 +32457,13 @@ Indien de aannames en functionele beperkingen vermeld in het vervangende ontwerp
 
 - .8 minimalisering van de kans op ontbranding van ontvlambare ladingdampen.
 
-- 3. Verwezenlijking van de brandveiligheidsdoelen De in paragraaf 1 bedoelde brandveiligheidsdoelen moeten worden verwezenlijkt door de naleving van de dwingende vereisten vermeld in de [delen B](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=B&z=2010-07-01&g=2010-07-01), [C](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&z=2010-07-01&g=2010-07-01), [D](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=D&z=2010-07-01&g=2010-07-01), [E](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=E&z=2010-07-01&g=2010-07-01), of [G](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=G&z=2010-07-01&g=2010-07-01) of door een vervangend ontwerp en vervangende voorzieningen die voldoen aan [deel F](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=F&z=2010-07-01&g=2010-07-01). Een schip wordt geacht aan de in paragraaf 2 vermelde functionele vereisten te hebben voldaan en de in paragraaf 1 vermelde brandveiligheidsdoelen te hebben verwezenlijkt wanneer hetzij:
+- 3. Verwezenlijking van de brandveiligheidsdoelen De in paragraaf 1 bedoelde brandveiligheidsdoelen moeten worden verwezenlijkt door de naleving van de dwingende vereisten vermeld in de [delen B](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=B&z=2011-01-01&g=2011-01-01), [C](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&z=2011-01-01&g=2011-01-01), [D](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=D&z=2011-01-01&g=2011-01-01), [E](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=E&z=2011-01-01&g=2011-01-01), of [G](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=G&z=2011-01-01&g=2011-01-01) of door een vervangend ontwerp en vervangende voorzieningen die voldoen aan [deel F](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=F&z=2011-01-01&g=2011-01-01). Een schip wordt geacht aan de in paragraaf 2 vermelde functionele vereisten te hebben voldaan en de in paragraaf 1 vermelde brandveiligheidsdoelen te hebben verwezenlijkt wanneer hetzij:
 
-- .1 het ontwerp en de voorzieningen van het schip, als geheel, voldoen aan de desbetreffende dwingende vereisten van de [delen B](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=B&z=2010-07-01&g=2010-07-01), [C](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&z=2010-07-01&g=2010-07-01), [D](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=D&z=2010-07-01&g=2010-07-01), [E](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=E&z=2010-07-01&g=2010-07-01) of [G](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=G&z=2010-07-01&g=2010-07-01);
+- .1 het ontwerp en de voorzieningen van het schip, als geheel, voldoen aan de desbetreffende dwingende vereisten van de [delen B](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=B&z=2011-01-01&g=2011-01-01), [C](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&z=2011-01-01&g=2011-01-01), [D](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=D&z=2011-01-01&g=2011-01-01), [E](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=E&z=2011-01-01&g=2011-01-01) of [G](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=G&z=2011-01-01&g=2011-01-01);
 
-- .2 het ontwerp en de voorzieningen van het schip, als geheel, in overeenstemming met [deel F](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=F&z=2010-07-01&g=2010-07-01) zijn beoordeeld en goedgekeurd; of
+- .2 het ontwerp en de voorzieningen van het schip, als geheel, in overeenstemming met [deel F](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=F&z=2011-01-01&g=2011-01-01) zijn beoordeeld en goedgekeurd; of
 
-- .3 één of meerdere delen van het ontwerp en de voorzieningen van het schip in overeenstemming met [deel F](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=F&z=2010-07-01&g=2010-07-01) zijn beoordeeld en goedgekeurd en de overige delen van het schip voldoen aan de desbetreffende dwingende bepalingen van de [delen B](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=B&z=2010-07-01&g=2010-07-01), [C](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&z=2010-07-01&g=2010-07-01), [D](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=D&z=2010-07-01&g=2010-07-01), [E](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=E&z=2010-07-01&g=2010-07-01) of [G](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=G&z=2010-07-01&g=2010-07-01).
+- .3 één of meerdere delen van het ontwerp en de voorzieningen van het schip in overeenstemming met [deel F](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=F&z=2011-01-01&g=2011-01-01) zijn beoordeeld en goedgekeurd en de overige delen van het schip voldoen aan de desbetreffende dwingende bepalingen van de [delen B](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=B&z=2011-01-01&g=2011-01-01), [C](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&z=2011-01-01&g=2011-01-01), [D](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=D&z=2011-01-01&g=2011-01-01), [E](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=E&z=2011-01-01&g=2011-01-01) of [G](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=G&z=2011-01-01&g=2011-01-01).
 
 ##### Voorschrift 3. Omschrijvingen
 
@@ -32827,7 +32947,7 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, zijn 
 
 - 2.1.2 Toestellen voor mechanische ventilatie van ruimten voor accommodatie, dienstruimten, laadruimten, controlestations en machineruimten moeten vanuit een gemakkelijk bereikbare plaats buiten de ruimte die zij bedienen, kunnen worden gestopt. Deze plaats moet zodanig zijn gelegen dat die niet gemakkelijk onbereikbaar wordt in geval van brand in de ruimten die worden bediend.
 
-- 2.1.3 Op passagiersschepen die meer dan 36 passagiers vervoeren moeten alle toestellen voor mechanische ventilatie, met uitzondering van die voor laadruimten, machineruimten en voor de extra systemen die volgens [voorschrift 8.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&artikel=8&z=2010-07-01&g=2010-07-01) vereist kunnen zijn, op twee plaatsen centraal buiten werking gesteld kunnen worden; deze twee plaatsen moeten zo ver als praktisch mogelijk is van elkaar verwijderd zijn. Ventilatoren behorend tot mechanische ventilatiesystemen voor laadruimten moeten vanuit een veilige plaats buiten deze ruimten buiten werking kunnen worden gesteld.
+- 2.1.3 Op passagiersschepen die meer dan 36 passagiers vervoeren moeten alle toestellen voor mechanische ventilatie, met uitzondering van die voor laadruimten, machineruimten en voor de extra systemen die volgens [voorschrift 8.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&artikel=8&z=2011-01-01&g=2011-01-01) vereist kunnen zijn, op twee plaatsen centraal buiten werking gesteld kunnen worden; deze twee plaatsen moeten zo ver als praktisch mogelijk is van elkaar verwijderd zijn. Ventilatoren behorend tot mechanische ventilatiesystemen voor laadruimten moeten vanuit een veilige plaats buiten deze ruimten buiten werking kunnen worden gesteld.
 
 - 2.2 Bedieningsmiddelen in machineruimten
 
@@ -32837,9 +32957,9 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, zijn 
 
 - 2.2.3 Bedieningsmiddelen moeten worden voorzien voor het stoppen van ventilatoren voor geforceerde en geïnduceerde trek, brandstofolietrimpompen, pompen voor oliestookinrichtingen, smeeroliebedieningspompen, thermische-oliecirculatiepompen en oliescheiders (zuiveraars). De paragrafen 2.2.4 en 2.2.5 behoeven echter niet te worden toegepast op olie-waterafscheiders.
 
-- 2.2.4 De in de paragrafen 2.2.1 tot en met 2.2.3 en in [voorschrift 4.2.2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=B&artikel=4&z=2010-07-01&g=2010-07-01) vereiste bedieningsmiddelen moeten buiten de desbetreffende ruimte zijn aangebracht zodat deze bij brand niet worden geïsoleerd van de ruimte die zij bedienen.
+- 2.2.4 De in de paragrafen 2.2.1 tot en met 2.2.3 en in [voorschrift 4.2.2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=B&artikel=4&z=2011-01-01&g=2011-01-01) vereiste bedieningsmiddelen moeten buiten de desbetreffende ruimte zijn aangebracht zodat deze bij brand niet worden geïsoleerd van de ruimte die zij bedienen.
 
-- 2.2.5 Op passagiersschepen moeten de in de paragrafen 2.2.1 tot en met 2.2.4 en in [voorschrift 8.3.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&artikel=8&z=2010-07-01&g=2010-07-01) en [9.5.2.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&artikel=9&z=2010-07-01&g=2010-07-01) vereiste bedieningsmiddelen en de bedieningsmiddelen voor de vereiste brandblusinstallaties ten genoegen van de Administratie worden aangebracht op een centrale bedieningsplaats of worden gegroepeerd op een zo gering mogelijk aantal plaatsen. Dergelijke plaatsen moeten vanaf het open dek veilig toegankelijk zijn.
+- 2.2.5 Op passagiersschepen moeten de in de paragrafen 2.2.1 tot en met 2.2.4 en in [voorschrift 8.3.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&artikel=8&z=2011-01-01&g=2011-01-01) en [9.5.2.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&artikel=9&z=2011-01-01&g=2011-01-01) vereiste bedieningsmiddelen en de bedieningsmiddelen voor de vereiste brandblusinstallaties ten genoegen van de Administratie worden aangebracht op een centrale bedieningsplaats of worden gegroepeerd op een zo gering mogelijk aantal plaatsen. Dergelijke plaatsen moeten vanaf het open dek veilig toegankelijk zijn.
 
 - 2.3 Aanvullende vereisten voor bedieningsmiddelen in machineruimten die periodiek zonder toezicht zijn
 
@@ -32859,9 +32979,9 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, zijn 
 
 - 3.1.2.2 Op vrachtschepen moeten alle beschietingen, plafonds, afstoppingen en bijbehorende stijlen in de volgende ruimten van onbrandbaar materiaal zijn:
 
-- .1 in ruimten voor accommodatie, dienstruimten en controlestations op schepen waarvoor de in [voorschrift 9.2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&artikel=9&z=2010-07-01&g=2010-07-01) vermelde Methode IC wordt aangewezen; en
+- .1 in ruimten voor accommodatie, dienstruimten en controlestations op schepen waarvoor de in [voorschrift 9.2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&artikel=9&z=2011-01-01&g=2011-01-01) vermelde Methode IC wordt aangewezen; en
 
-- .2 in gangen en ingesloten trapruimten die toegang geven tot ruimten voor accommodatie, dienstruimten en controlestations op schepen waarvoor de in [voorschrift 9.2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&artikel=9&z=2010-07-01&g=2010-07-01) vermelde Methode IIC en IIIC wordt aangewezen.
+- .2 in gangen en ingesloten trapruimten die toegang geven tot ruimten voor accommodatie, dienstruimten en controlestations op schepen waarvoor de in [voorschrift 9.2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&artikel=9&z=2011-01-01&g=2011-01-01) vermelde Methode IIC en IIIC wordt aangewezen.
 
 - 3.1.3. **Gedeeltelijke schotten en dekken op passagiersschepen**
 
@@ -32873,9 +32993,9 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, zijn 
 
 - 3.2.1 Algemeen
 
-- 3.2.1.1 Op passagiersschepen moeten schotten van klasse „A”, „B”, of „C” die bekleed zijn met brandbare materialen, bekleding, lijstwerk, decoratieve versieringen en fineerlagen in ruimten voor accommodatie of dienstruimten en hutbalkons voldoen aan de bepalingen van de paragrafen 3.2.2 tot en met 3.2.4 en [voorschrift 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=B&artikel=6&z=2010-07-01&g=2010-07-01). Traditionele houten banken en houten beschietingen op schotten en plafonds zijn in sauna’s evenwel toegestaan en behoeven niet te worden onderworpen aan de in de paragrafen 3.2.2 en 3.2.3 voorgeschreven berekeningen. De bepalingen van paragraaf 3.2.3 behoeven evenwel niet op hutbalkons te worden toegepast.
+- 3.2.1.1 Op passagiersschepen moeten schotten van klasse „A”, „B”, of „C” die bekleed zijn met brandbare materialen, bekleding, lijstwerk, decoratieve versieringen en fineerlagen in ruimten voor accommodatie of dienstruimten en hutbalkons voldoen aan de bepalingen van de paragrafen 3.2.2 tot en met 3.2.4 en [voorschrift 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=B&artikel=6&z=2011-01-01&g=2011-01-01). Traditionele houten banken en houten beschietingen op schotten en plafonds zijn in sauna’s evenwel toegestaan en behoeven niet te worden onderworpen aan de in de paragrafen 3.2.2 en 3.2.3 voorgeschreven berekeningen. De bepalingen van paragraaf 3.2.3 behoeven evenwel niet op hutbalkons te worden toegepast.
 
-- 3.2.1.2 Op vrachtschepen mogen onbrandbare schotten, plafonds en beschietingen in ruimten voor accommodatie en dienstruimten worden bekleed met brandbare materialen, bekleding, lijstwerk, decoratieve versieringen en fineerlagen, mits deze ruimten worden begrensd door onbrandbare schotten, plafonds en beschietingen in overeenstemming met de bepalingen van de paragrafen 3.2.2 tot en met 3.2.4 en [voorschrift 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=B&artikel=6&z=2010-07-01&g=2010-07-01).
+- 3.2.1.2 Op vrachtschepen mogen onbrandbare schotten, plafonds en beschietingen in ruimten voor accommodatie en dienstruimten worden bekleed met brandbare materialen, bekleding, lijstwerk, decoratieve versieringen en fineerlagen, mits deze ruimten worden begrensd door onbrandbare schotten, plafonds en beschietingen in overeenstemming met de bepalingen van de paragrafen 3.2.2 tot en met 3.2.4 en [voorschrift 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=B&artikel=6&z=2011-01-01&g=2011-01-01).
 
 - 3.2.2 Maximum calorische waarde van brandbare materialen Brandbare materialen die worden gebruikt bij de in paragraaf 3.2.1 bedoelde oppervlakken en beschietingen, mogen een calorische waarde hebben van ten hoogste 45 MJ/m2, betrokken op de oppervlakte waarop de materialen met een bepaalde dikte zijn aangebracht. De vereisten van deze paragraaf zijn niet van toepassing op de oppervlakken van meubilair dat aan beschietingen of schotten is bevestigd.
 
@@ -32903,7 +33023,7 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, zijn 
 
 - 3.3 Meubilair in ingesloten trapruimten op passagiersschepen Meubilair in ingesloten trapruimten moet worden beperkt tot zitmeubelen. Deze moeten vast aangebracht zijn, beperkt zijn tot zes stoelen per dek per ruimte, een beperkt brandrisico hebben - bepaald in overeenstemming met de Code inzake beproevingsprocedures voor brandwerendheid - en mogen de vluchtweg voor passagiers niet belemmeren. De Administratie kan binnen ingesloten trapruimten in het centrale receptiegedeelte extra zitmeubelen toestaan, indien deze vast aangebracht zijn, onbrandbaar zijn en de vluchtweg voor passagiers niet belemmeren. Er mag geen meubilair worden toegestaan in gangen voor passagiers en bemanning die vluchtwegen vormen in gedeelten met hutten. Naast bovengenoemd meubilair kunnen kastjes van onbrandbaar materiaal worden toegestaan voor het opbergen van ingevolge deze voorschriften vereist ongevaarlijk veiligheidsmateriaal. In gangen mogen watertap- en ijsblokjesmachines worden toegestaan, mits deze vast zijn bevestigd en de breedte van de ontsnappingsroutes hierdoor niet wordt verkleind. Dit geldt tevens voor decoratieve bloemen- of plantenschikkingen, beelden of andere kunstvoorwerpen zoals schilderijen en tapijten in gangen en trapgedeelten.
 
-- 3.4. **Meubilair en inrichting op hutbalkons van passagierschepen** Op passagiersschepen moeten meubilair en inrichting op hutbalkons voldoen aan de [voorschriften 3.40.1, 3.40.2, 3.40.3, 3.40.6 en 3.40.7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=A&artikel=3&z=2010-07-01&g=2010-07-01), tenzij deze balkons worden beschermd door middel van een vast aangebrachte sproei-installatie voor water en een vast aangebrachte branddetectie- en brandalarminstallatie die voldoen aan de [voorschriften 7.10](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&artikel=7&z=2010-07-01&g=2010-07-01) en [10.6.1.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&artikel=10&z=2010-07-01&g=2010-07-01). Passagiersschepen gebouwd vóór 1 juli 2008 moeten bij het eerste onderzoek na 1 juli 2008 aan de vereisten van deze paragraaf voldoen.
+- 3.4. **Meubilair en inrichting op hutbalkons van passagierschepen** Op passagiersschepen moeten meubilair en inrichting op hutbalkons voldoen aan de [voorschriften 3.40.1, 3.40.2, 3.40.3, 3.40.6 en 3.40.7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=A&artikel=3&z=2011-01-01&g=2011-01-01), tenzij deze balkons worden beschermd door middel van een vast aangebrachte sproei-installatie voor water en een vast aangebrachte branddetectie- en brandalarminstallatie die voldoen aan de [voorschriften 7.10](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&artikel=7&z=2011-01-01&g=2011-01-01) en [10.6.1.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&artikel=10&z=2011-01-01&g=2011-01-01). Passagiersschepen gebouwd vóór 1 juli 2008 moeten bij het eerste onderzoek na 1 juli 2008 aan de vereisten van deze paragraaf voldoen.
 
 ##### Voorschrift 6. Rookvorming en giftigheid
 
@@ -33015,7 +33135,7 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, zijn 
 
 - 3.1 De bepalingen van deze paragraaf zijn van toepassing op machineruimten van categorie A en, indien de Administratie zulks wenselijk acht, op andere machineruimten.
 
-- 3.2 Onverminderd de bepalingen van [voorschrift 9.5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&artikel=9&z=2010-07-01&g=2010-07-01) moeten passende voorzieningen worden getroffen voor de afvoer van rook uit de te beveiligen ruimte in geval van brand. Voor dit doel mag het gebruik van de normaliter gebruikte ventilatiesystemen worden toegestaan.
+- 3.2 Onverminderd de bepalingen van [voorschrift 9.5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&artikel=9&z=2011-01-01&g=2011-01-01) moeten passende voorzieningen worden getroffen voor de afvoer van rook uit de te beveiligen ruimte in geval van brand. Voor dit doel mag het gebruik van de normaliter gebruikte ventilatiesystemen worden toegestaan.
 
 - 3.3 Er moeten middelen voor de bediening van de rookafvoervoorziening worden aangebracht en deze middelen moeten zodanig buiten de betrokken ruimte zijn aangebracht dat deze, in geval van brand, niet worden geïsoleerd van de ruimte die zij bedienen.
 
@@ -34313,7 +34433,7 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, zijn 
 
 - 1 Doel Het doel van dit voorschrift is het behouden van de structurele veiligheid van het schip ter voorkoming van het geheel of gedeeltelijk bezwijken van de scheepsstructuur als gevolg van verslapping door hitte. Hiertoe moeten bij de constructie van het schip materialen worden gebruikt die er borg voor staan dat de structurele veiligheid bij hitte niet wordt aangetast.
 
-- 2 Materiaal van de romp, opbouw, structurele schotten, dekken en dekhuizen De romp, de bovenbouw, structurele schotten, dekken en dekhuizen moeten van staal of ander gelijkwaardig materiaal vervaardigd zijn. Voor de toepassing van de omschrijving van staal of ander gelijkwaardig materiaal zoals die is gegeven in [voorschrift 3.43](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=A&artikel=3&z=2010-07-01&g=2010-07-01) moet de „brandproef die van toepassing is”, in overeenstemming zijn met de normen van brandwerendheid en voor isolatie zoals die zijn vermeld in de [tabellen 9.1 tot en met 9.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&artikel=9&z=2010-07-01&g=2010-07-01). Indien bijvoorbeeld schotten, dekken of zijden en eindschotten van dekhuizen brandwerendheid „B-0” mogen hebben is de „brandproef die van toepassing is” een half uur.
+- 2 Materiaal van de romp, opbouw, structurele schotten, dekken en dekhuizen De romp, de bovenbouw, structurele schotten, dekken en dekhuizen moeten van staal of ander gelijkwaardig materiaal vervaardigd zijn. Voor de toepassing van de omschrijving van staal of ander gelijkwaardig materiaal zoals die is gegeven in [voorschrift 3.43](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=A&artikel=3&z=2011-01-01&g=2011-01-01) moet de „brandproef die van toepassing is”, in overeenstemming zijn met de normen van brandwerendheid en voor isolatie zoals die zijn vermeld in de [tabellen 9.1 tot en met 9.4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&artikel=9&z=2011-01-01&g=2011-01-01). Indien bijvoorbeeld schotten, dekken of zijden en eindschotten van dekhuizen brandwerendheid „B-0” mogen hebben is de „brandproef die van toepassing is” een half uur.
 
 - 3 Constructie van aluminiumlegering Tenzij in paragraaf 2 anders wordt bepaald, gelden in gevallen waar een deel van de constructie van een aluminiumlegering is echter de volgende voorwaarden:
 
@@ -34327,7 +34447,7 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, zijn 
 
 - 4 Machineruimten van categorie A
 
-- 4.1 Kappen en schachten Kappen en schachten van machineruimten van categorie A moeten van staal en geïsoleerd zijn overeenkomstig de vereisten van de [tabellen 9.5 en 9.7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&artikel=9&z=2010-07-01&g=2010-07-01), naar gelang toepasselijk.
+- 4.1 Kappen en schachten Kappen en schachten van machineruimten van categorie A moeten van staal en geïsoleerd zijn overeenkomstig de vereisten van de [tabellen 9.5 en 9.7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&artikel=9&z=2011-01-01&g=2011-01-01), naar gelang toepasselijk.
 
 - 4.2 Vloerplaten De vloerplaten van normale gangpaden in machineruimten van categorie A moeten van staal zijn vervaardigd.
 
@@ -34355,7 +34475,7 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, zijn 
 
 - 6.3.3 Omloopleidingen in hoofdontluchtingsleidingen De krachtens paragraaf 6.1.1 vereiste kleppen die zowel overdruk als onderdruk kunnen corrigeren kunnen zijn voorzien van een omloopleiding, wanneer zij zich bevinden in een hoofdontluchtingsleiding of in een stijgleiding in de mast. Wanneer zo’n voorziening is aangebracht, moeten er geschikte aanwijsinstrumenten aanwezig zijn die aangeven of de omloopleiding open of dicht is.
 
-- 6.3.4 Voorzieningen ter voorkoming van overdruk of onderdruk Er moeten één of meer voorzieningen zijn aangebracht ter voorkoming van overdruk of onderdruk, om te voorkomen dat de ladingtanks onderhevig zijn aan: Deze voorzieningen moeten zijn aangebracht in de hoofdtoevoerleiding voor inert gas, tenzij zij zijn aangebracht in het ontluchtingssysteem vereist in [voorschrift 4.5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=B&artikel=4&z=2010-07-01&g=2010-07-01) of op de afzonderlijke ladingtanks. De plaats en het ontwerp van de voorzieningen moeten in overeenstemming zijn met voorschrift 4.5.3 en met paragraaf 6.
+- 6.3.4 Voorzieningen ter voorkoming van overdruk of onderdruk Er moeten één of meer voorzieningen zijn aangebracht ter voorkoming van overdruk of onderdruk, om te voorkomen dat de ladingtanks onderhevig zijn aan: Deze voorzieningen moeten zijn aangebracht in de hoofdtoevoerleiding voor inert gas, tenzij zij zijn aangebracht in het ontluchtingssysteem vereist in [voorschrift 4.5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=B&artikel=4&z=2011-01-01&g=2011-01-01) of op de afzonderlijke ladingtanks. De plaats en het ontwerp van de voorzieningen moeten in overeenstemming zijn met voorschrift 4.5.3 en met paragraaf 6.
 
 - .1 een overdruk, boven de beproevingsdruk van de ladingtank, indien de lading zou worden geladen bij de maximum aangegeven laadsnelheid en alle andere uitlaten gesloten blijven; en
 
@@ -34367,9 +34487,9 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, zijn 
 
 - 1 Doel Het doel van dit voorschrift is de bemanning en passagiers met het oog op een veilige evacuatie te waarschuwen in geval van brand. Hiertoe moeten een algemeen noodalarmsysteem en scheepsomroepsysteem aanwezig zijn.
 
-- 2 Algemeen noodalarmsysteem Een algemeen noodalarmsysteem als vereist in [voorschrift III/6.4.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=6&z=2010-07-01&g=2010-07-01) moet worden gebruikt om de bemanning en passagiers te waarschuwen in geval van brand.
+- 2 Algemeen noodalarmsysteem Een algemeen noodalarmsysteem als vereist in [voorschrift III/6.4.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=6&z=2011-01-01&g=2011-01-01) moet worden gebruikt om de bemanning en passagiers te waarschuwen in geval van brand.
 
-- 3 Scheepsomroepsystemen op passagiersschepen In alle ruimten voor accommodatie, dienstruimten en controlestations en op open dekken moet een scheepsomroepsysteem of een ander doeltreffend communicatiemiddel beschikbaar zijn, dat voldoet aan de vereisten van [voorschrift III/6.5](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=6&z=2010-07-01&g=2010-07-01).
+- 3 Scheepsomroepsystemen op passagiersschepen In alle ruimten voor accommodatie, dienstruimten en controlestations en op open dekken moet een scheepsomroepsysteem of een ander doeltreffend communicatiemiddel beschikbaar zijn, dat voldoet aan de vereisten van [voorschrift III/6.5](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&afdeling=I&artikel=6&z=2011-01-01&g=2011-01-01).
 
 ##### Voorschrift 13. Voorzieningen voor ontsnapping
 
@@ -34691,7 +34811,7 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, zijn 
 
 - 2 Boekjes voor een brandveilige bedrijfsvoering
 
-- 2.1 Het vereiste boekje voor brandveilige bedrijfsvoering moet de nodige informatie en instructies bevatten voor een veilige scheepsbedrijfsvoering en ladingbehandeling in relatie tot brandveiligheid. Het boekje moet informatie bevatten betreffende de verantwoordelijkheden van de bemanning voor de algemene veiligheid van het schip tijdens het laden en lossen van lading en gedurende de vaart. De nodige voorzorgsmaatregelen voor brandveiligheid bij de behandeling van algemene lading moeten worden uitgelegd. Voor schepen die gevaarlijke stoffen en ontvlambare bulklading vervoeren, moet het boekje voor brandveilige bedrijfsvoering verwijzen naar de relevante instructies inzake brandbestrijding en ladingbehandeling in noodgevallen als vervat in de Code voor veilig vervoer van vaste lading in bulk, de Internationale Code voor chemicaliën in bulk, de Internationale Code voor gastankschepen en de Internationale Maritieme Code voor gevaarlijke stoffen, naar gelang van toepassing.
+- 2.1 Het vereiste boekje voor brandveilige bedrijfsvoering moet de nodige informatie en instructies bevatten voor een veilige scheepsbedrijfsvoering en ladingbehandeling in relatie tot brandveiligheid. Het boekje moet informatie bevatten betreffende de verantwoordelijkheden van de bemanning voor de algemene veiligheid van het schip tijdens het laden en lossen van lading en gedurende de vaart. De nodige voorzorgsmaatregelen voor brandveiligheid bij de behandeling van algemene lading moeten worden uitgelegd. Voor schepen die gevaarlijke stoffen en ontvlambare bulklading vervoeren, moet het boekje voor brandveilige bedrijfsvoering verwijzen naar de relevante instructies inzake brandbestrijding en ladingbehandeling in noodgevallen als vervat in de de Internationale maritieme code voor het vervoer van vaste lading in bulk (IMSBC-Code), de Internationale Code voor chemicaliën in bulk, de Internationale Code voor gastankschepen en de Internationale Maritieme Code voor gevaarlijke stoffen, naar gelang van toepassing.
 
 - 2.2 In ieder bemanningsverblijf of in iedere hut voor bemanningsleden moet een boekje voor brandveilige bedrijfsvoering voorhanden zijn.
 
@@ -34725,7 +34845,7 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, zijn 
 
 - 2 Algemeen
 
-- 2.1 Het ontwerp en de voorzieningen voor brandveiligheid mogen afwijken van de in de [delen B](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=B&z=2010-07-01&g=2010-07-01), [C](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&z=2010-07-01&g=2010-07-01), [D](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=D&z=2010-07-01&g=2010-07-01), [E](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=E&z=2010-07-01&g=2010-07-01) of [G](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=G&z=2010-07-01&g=2010-07-01) vervatte dwingende vereisten, mits het ontwerp en de voorzieningen aan de brandveiligheidsdoelen en aan de functionele vereisten voldoen.
+- 2.1 Het ontwerp en de voorzieningen voor brandveiligheid mogen afwijken van de in de [delen B](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=B&z=2011-01-01&g=2011-01-01), [C](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&z=2011-01-01&g=2011-01-01), [D](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=D&z=2011-01-01&g=2011-01-01), [E](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=E&z=2011-01-01&g=2011-01-01) of [G](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=G&z=2011-01-01&g=2011-01-01) vervatte dwingende vereisten, mits het ontwerp en de voorzieningen aan de brandveiligheidsdoelen en aan de functionele vereisten voldoen.
 
 - 2.2 Wanneer het ontwerp of de voorzieningen voor brandveiligheid afwijken van de dwingende vereisten van dit hoofdstuk, moeten de constructie-analyse, evaluatie en goedkeuring van het vervangende ontwerp en de vervangende voorzieningen worden uitgevoerd in overeenstemming met dit voorschrift.
 
@@ -34781,9 +34901,9 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, zijn 
 
 - 2 Toepassing
 
-- 2.1 In aanvulling op de vereisten van de relevante voorschriften in de [delen B](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=B&z=2010-07-01&g=2010-07-01), [C](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&z=2010-07-01&g=2010-07-01), [D](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=D&z=2010-07-01&g=2010-07-01) en [E](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=E&z=2010-07-01&g=2010-07-01), moeten schepen met een helidek voldoen aan de bepalingen van dit voorschrift.
+- 2.1 In aanvulling op de vereisten van de relevante voorschriften in de [delen B](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=B&z=2011-01-01&g=2011-01-01), [C](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&z=2011-01-01&g=2011-01-01), [D](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=D&z=2011-01-01&g=2011-01-01) en [E](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=E&z=2011-01-01&g=2011-01-01), moeten schepen met een helidek voldoen aan de bepalingen van dit voorschrift.
 
-- 2.2 Wanneer helikopters landen of takelactiviteiten verrichten op een tijdelijke of noodbasis op schepen zonder helidek, mag brandbestrijdingsapparatuur worden gebruikt die is aangebracht in overeenstemming met de in [Deel C](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&z=2010-07-01&g=2010-07-01) genoemde vereisten. Deze apparatuur moet gedurende de helikopteractiviteiten onmiddellijk beschikbaar zijn in de dichte nabijheid van de landings- of takelgedeelten.
+- 2.2 Wanneer helikopters landen of takelactiviteiten verrichten op een tijdelijke of noodbasis op schepen zonder helidek, mag brandbestrijdingsapparatuur worden gebruikt die is aangebracht in overeenstemming met de in [Deel C](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&z=2011-01-01&g=2011-01-01) genoemde vereisten. Deze apparatuur moet gedurende de helikopteractiviteiten onmiddellijk beschikbaar zijn in de dichte nabijheid van de landings- of takelgedeelten.
 
 - 2.3 Onverminderd de vereisten van bovenstaande paragraaf 2.2 moeten ro-ro passagiersschepen zonder helidek voldoen aan voorschrift III/28.
 
@@ -34885,7 +35005,7 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, zijn 
 
 - .11 hangars en bijtank- en onderhoudsfaciliteiten moeten wat betreft de eisen ten aanzien van structurele brandbeveiliging, vast aangebrachte brandblus- en branddetectie-installaties worden behandeld als machineruimten van categorie „A”;
 
-- .12 omsloten hangarfaciliteiten of omsloten ruimten waarin zich bijtankinstallaties bevinden, moeten zijn uitgerust met mechanische ventilatie als vereist in [voorschrift 20.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=G&artikel=20&z=2010-07-01&g=2010-07-01) voor gesloten ruimten op ro-ro vrachtschepen. Er moet gebruik worden gemaakt van vonkvrije ventilatoren; en
+- .12 omsloten hangarfaciliteiten of omsloten ruimten waarin zich bijtankinstallaties bevinden, moeten zijn uitgerust met mechanische ventilatie als vereist in [voorschrift 20.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=G&artikel=20&z=2011-01-01&g=2011-01-01) voor gesloten ruimten op ro-ro vrachtschepen. Er moet gebruik worden gemaakt van vonkvrije ventilatoren; en
 
 - .13 elektrische apparatuur en bedrading in omsloten hangars en omsloten ruimten waarin zich bijtankinstallaties bevinden, moeten voldoen aan de vereisten van de voorschriften 20.3.2, 20.3.3 en 20.3.4.
 
@@ -34913,7 +35033,7 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, zijn 
 
 - 2 Algemene vereisten
 
-- 2.1 Bepaalde soorten schepen en laadruimten, bedoeld in paragraaf 2.2 die zijn bestemd voor vervoer van gevaarlijke stoffen, moeten niet alleen voldoen aan de vereisen van de voorschriften in de delen B, C, D, E en aan de voorschriften 18 en 20 die worden gesteld ten aanzien van schepen die gevaarlijke stoffen vervoeren, al naar gelang, maar ook aan de desbetreffende eisen die worden gesteld in dit voorschrift, behalve wanneer zij gevaarlijke stoffen in kleine hoeveelheden vervoeren, tenzij aan deze eisen reeds is voldaan door inachtneming van het bepaalde elders in dit hoofdstuk. De soorten schepen en de wijzen van vervoer van gevaarlijke stoffen staan vermeld in paragraaf 2.2 en in tabel 19.1 Vrachtschepen met een brutotonnage van minder dan 500 ton moeten aan dit voorschrift voldoen, doch de Administratie kan afwijkingen van deze eisen toestaan; afwijkingen van de eisen moeten worden vermeld in de in paragraaf 4 bedoelde verklaring.
+- 2.1 Bepaalde soorten schepen en laadruimten, bedoeld in paragraaf 2.2 die zijn bestemd voor vervoer van gevaarlijke stoffen, moeten niet alleen voldoen aan de vereisen van de voorschriften in de [delen B](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=B&z=2011-01-01&g=2011-01-01), [C](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&z=2011-01-01&g=2011-01-01), [D](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=D&z=2011-01-01&g=2011-01-01), [E](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=E&z=2011-01-01&g=2011-01-01) en aan de [voorschriften 18](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=G&artikel=18&z=2011-01-01&g=2011-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=G&artikel=20&z=2011-01-01&g=2011-01-01) die worden gesteld ten aanzien van schepen die gevaarlijke stoffen vervoeren, al naar gelang, maar ook aan de desbetreffende eisen die worden gesteld in dit voorschrift, behalve wanneer zij gevaarlijke stoffen in kleine hoeveelheden vervoeren en vrijgestelde hoeveelheden, tenzij aan deze eisen reeds is voldaan door inachtneming van het bepaalde elders in dit hoofdstuk. De soorten schepen en de wijzen van vervoer van gevaarlijke stoffen staan vermeld in paragraaf 2.2 en in tabel 19.1 Vrachtschepen met een brutotonnage van minder dan 500 ton moeten aan dit voorschrift voldoen, doch de Administratie kan afwijkingen van deze eisen toestaan; afwijkingen van de eisen moeten worden vermeld in de in paragraaf 4 bedoelde verklaring.
 
 - 2.2 De volgende soorten schepen en laadruimten vallen binnen het toepassingsgebied van de tabellen 19.1 en 19.2:
 
@@ -34933,7 +35053,7 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, zijn 
 
 - 3.1.1 Er moeten voorzieningen worden getroffen om te verzekeren dat er onmiddellijk onder de vereiste druk water kan worden aangevoerd vanuit de hoofdbrandblusleiding, hetzij door het op druk houden van die leiding, hetzij door op geschikte plaatsen aangebrachte voorzieningen om de brandbluspompen op afstand in werking te stellen.
 
-- 3.1.2 Er moet voldoende water worden aangevoerd om vier straalpijpen van een afmeting en onder een druk als aangegeven in voorschrift 10.2, te voorzien; deze moeten kunnen worden gericht op elk deel van de laadruimte, wanneer deze leeg is. Deze hoeveelheid water mag, ten genoegen van de Administratie, met behulp van gelijkwaardige middelen worden toegevoerd.
+- 3.1.2 Er moet voldoende water worden aangevoerd om vier straalpijpen van een afmeting en onder een druk als aangegeven in [voorschrift 10.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&artikel=10&z=2011-01-01&g=2011-01-01), te voorzien; deze moeten kunnen worden gericht op elk deel van de laadruimte, wanneer deze leeg is. Deze hoeveelheid water mag, ten genoegen van de Administratie, met behulp van gelijkwaardige middelen worden toegevoerd.
 
 - 3.1.3 Er moeten middelen aanwezig zijn om de aangewezen onderdeks gelegen laadruimte doeltreffend te kunnen koelen door middel van ten minste 5 l/min per vierkante meter; dit moet gebeuren door middel van vast aangebrachte sproeikoppen, of door de laadruimte onder water te zetten. Hiertoe kunnen in kleine laadruimten en in kleine afdelingen van grotere laadruimten, brandslangen worden gebruikt, zulks naar goeddunken van de Administratie. De spui- en lensinrichtingen moeten evenwel zodanig zijn dat de vorming van vrije vloeistofoppervlakken wordt voorkomen. Het afvoersysteem moet een zodanige capaciteit hebben dat hiermee ten minste 125% van de gezamenlijke capaciteit van zowel de pompen van de watersproei-installatie als het vereiste aantal straalpijpen kan worden afgevoerd. De afsluitkleppen van het afvoersysteem moeten van buiten de beveiligde ruimte kunnen worden bediend op een plaats in de nabijheid van de bedieningsmiddelen van de brandblusinstallatie. Lensputten moeten voldoende inhoudscapaciteit hebben en moeten bij de huid van het schip worden aangebracht op een onderlinge afstand van ten hoogste 40 m in elke waterdichte afdeling. Is dit niet mogelijk, dan moet de Administratie, voor zover zij zulks noodzakelijk acht, bij haar goedkeuring van de stabiliteitsgegevens rekening houden met de nadelige invloed van het toegevoegde gewicht en het vrije vloeistofoppervlak op de stabiliteit.
 
@@ -34945,7 +35065,7 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, zijn 
 
 - 3.3 Detectie-installatie In ro-ro-ruimten moet een vaste branddetectie- en brandalarminstallatie zijn aangebracht die voldoet aan de vereisten van de Code inzake brandveiligheidssystemen. Alle andere typen laadruimten moeten zijn voorzien van ofwel een vast aangebrachte branddetectie- en brandalarminstallatie, ofwel een rookdetectie-installatie die luchtmonsters neemt die voldoet aan de vereisten van de Code inzake brandveiligheidssystemen. Indien een rookdetectie-installatie die luchtmonsters neemt wordt aangebracht, moet bijzondere aandacht worden geschonken aan paragraaf 2.1.3 van hoofdstuk 10 van de Code inzake brandveiligheidssystemen, teneinde te voorkomen dat giftige dampen binnendringen in bemande ruimten.
 
-- 3.4 Ventilatie
+- 3.4 **Ventilatie**
 
 - 3.4.1 Omsloten laadruimten moeten zijn voorzien van toereikende mechanische ventilatie. Het systeem moet zodanig zijn dat ten minste zes luchtwisselingen per uur in de laadruimte kunnen plaatsvinden op basis van een lege laadruimte en dat uit de hoger of lager gelegen delen van de laadruimte, al naar gelang, dampen kunnen worden afgevoerd.
 
@@ -34967,9 +35087,9 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, zijn 
 
 - 3.6 Persoonlijke bescherming
 
-- 3.6.1 Er moeten, naast de krachtens voorschrift 10.10 vereiste brandweeruitrusting, vier stellen volledig beschermende, chemicaliënbestendige kleding aanwezig zijn. De beschermende kleding moet de gehele huid bedekken, zodat geen enkel deel van het lichaam onbeschermd is.
+- 3.6.1 Er moeten, naast de krachtens [voorschrift 10.10](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&artikel=10&z=2011-01-01&g=2011-01-01) vereiste brandweeruitrusting, vier stellen volledig beschermende, chemicaliënbestendige kleding aanwezig zijn en wordt gekozen rekening houdend met de gevaren die verband houden met de te vervoeren chemische stoffen en met de door de Organisatie ontwikkelde normen in overeenstemming met de klasse en fysieke staat. De beschermende kleding moet de gehele huid bedekken, zodat geen enkel deel van het lichaam onbeschermd is.
 
-- 3.6.2 Afgezien van de krachtens voorschrift 10 vereiste persluchttoestellen, moeten er nog twee van zulke toestellen aanwezig zijn. Voor elk vereist ademhalingstoestel moeten twee reservevullingen aanwezig zijn die geschikt zijn om met het ademhalingstoestel te worden gebruikt. Op passagiersschepen die niet meer dan 36 passagiers vervoeren en op vrachtschepen die zijn voorzien van op geschikte plaatsen aangebrachte inrichtingen voor het zonder besmetting volledig opnieuw vullen van de luchtcilinders, behoeft slechts één reservevulling voor elk vereist ademhalingstoestel aanwezig te zijn.
+- 3.6.2 Afgezien van de krachtens [voorschrift 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=C&artikel=10&z=2011-01-01&g=2011-01-01) vereiste persluchttoestellen, moeten er nog twee van zulke toestellen aanwezig zijn. Voor elk vereist ademhalingstoestel moeten twee reservevullingen aanwezig zijn die geschikt zijn om met het ademhalingstoestel te worden gebruikt. Op passagiersschepen die niet meer dan 36 passagiers vervoeren en op vrachtschepen die zijn voorzien van op geschikte plaatsen aangebrachte inrichtingen voor het zonder besmetting volledig opnieuw vullen van de luchtcilinders, behoeft slechts één reservevulling voor elk vereist ademhalingstoestel aanwezig te zijn.
 
 - 3.7 Draagbare brandblustoestellen Voor de laadruimten moeten draagbare brandblustoestellen met een totale capaciteit van ten minste 12 kg droogpoeder of een hiermee gelijk te stellen blusvermogen aanwezig zijn. Deze blustoestellen zijn vereist naast eventuele, elders in dit hoofdstuk vereiste draagbare brandblustoestellen.
 
@@ -34983,7 +35103,7 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, zijn 
 
 - 3.10.2 Op schepen met ro-ro-ruimten moet een afscheiding zijn aangebracht tussen een gesloten ro-ro-ruimte en het aangrenzende aan weer en wind blootgestelde dek. De afscheiding moet zodanig zijn dat de doorstroming van gevaarlijke dampen en vloeistoffen tussen dergelijke ruimten tot een minimum wordt beperkt. Een dergelijke afscheiding behoeft niet te worden aangebracht indien de voorzieningen voor de gesloten ro-ro-ruimten in overeenstemming zijn met hetgeen vereist wordt voor de gevaarlijke goederen die worden vervoerd op aangrenzende, aan weer en wind blootgestelde dekken.
 
-- 4 Verklaring dat wordt voldaan aan de eisen De Administratie moet het schip voorzien van een officieel document waaruit blijkt dat de constructie en de uitrusting voldoen aan de in dit voorschrift vervatte eisen. Certificering voor gevaarlijke stoffen, behoudens vaste gevaarlijke stoffen in bulk, is niet vereist voor lading van klasse 6.2 en 7, en gevaarlijke stoffen in kleine hoeveelheden. **Tabel 19.1 – Toepassing van de eisen op de verschillende methoden van vervoer van gevaarlijke stoffen op schepen en in laadruimten** Waar in tabel 19.1 een „X” staat aangegeven betekent dit dat deze eis geldt voor alle klassen gevaarlijke stoffen als vermeld in de desbetreffende kolom van tabel 19.3, behoudens de vermelding in de noten. Noten 1 Voor klassen 4 en 5.1 niet van toepassing op gesloten vrachtcontainers. Voor klassen 2, 3, 6.1 en 8 kan de ventilatiecapaciteit, wanneer de stoffen in gesloten vrachtcontainers worden vervoerd, worden verminderd tot niet minder dan twee luchtwisselingen. Voor de toepassing van deze eisen wordt een losse tank als gesloten vrachtcontainer beschouwd. 2 Uitsluitend van toepassing op dekken. 3 Uitsluitend van toepassing op gesloten ro-ro-ruimten die niet kunnen worden afgedicht. 4 In het speciale geval waarin de lichters ontvlambare dampen kunnen bevatten, of indien door middel van aan de lichters verbonden ventilatiekanalen ontvlambare dampen kunnen worden afgevoerd naar een veilige ruimte buiten de ruimte waarin de lichters worden vervoerd, kan ten genoegen van de Administratie verlichting of vrijstelling van deze eisen worden verleend. 5 Ruimten van bijzondere aard moeten worden behandeld als gesloten ro-ro-ruimten indien gevaarlijke stoffen worden vervoerd. **Tabel 19.2 - Toepassing van de eisen op verschillende klassen gevaarlijke stoffen voor schepen en laadruimten waarin vaste gevaarlijke stoffen in bulk worden vervoerd** Noten: 6 De gevaren van eventueel in bulk te vervoeren stoffen van deze klasse zijn zodanig dat de Administratie niet alleen aan de naleving van de in deze tabel opgesomde vereisten, maar ook aan de bouw en de uitrusting van het betrokken schip bijzondere aandacht moet schenken. 7 Alleen van toepassing op voederkoek die extracten van oplosmiddelen bevat, op ammoniumnitraat en op ammoniumnitraat-houdende kunstmest. 8 Alleen van toepassing op ammoniumnitraat en ammoniumnitraat-houdende kunstmest. Een mate van beveiliging overeenkomstig de normen als vervat in Publicatie 60079 van de Internationale Elektrotechnische Commissie: Elektrische apparatuur voor explosieve gasatmosferen, volstaat echter. 9 Alleen geschikte gaaswanden zijn vereist. 10 De eisen van de Code voor veilig vervoer van vaste lading in bulk (resolutie A.434.(XI) zoals gewijzigd, volstaan. **Tabel 19.3 – Toepassing van de eisen op verschillende klassen gevaarlijke stoffen met uitzondering van gevaarlijke vaste stoffen in bulk** Noten 11 Indien „mechanisch geventileerde ruimten” worden vereist door de Internationale Maritieme Code voor Gevaarlijke stoffen, zoals gewijzigd. 12 In alle gevallen stuwen op een horizontale afstand van 3 m vanaf de begrenzingswanden van machineruimten. 13 Zie de Internationale Maritieme Code voor Gevaarlijke Stoffen, zoals gewijzigd. 14 Al naar gelang de te vervoeren goederen. 15 Heeft betrekking op het vlampunt. 16 Uit hoofde van de bepalingen van de IMDG-Code, als gewijzigd, is het stuwen van gevaarlijke stoffen van klasse 5.2 onderdeks of in afgesloten ro-ro ruimten verboden.
+- 4 Verklaring dat wordt voldaan aan de eisen De Administratie moet het schip voorzien van een officieel document waaruit blijkt dat de constructie en de uitrusting voldoen aan de in dit voorschrift vervatte eisen. Certificering voor gevaarlijke stoffen, behoudens vaste gevaarlijke stoffen in bulk, is niet vereist voor lading van klasse 6.2 en 7, en gevaarlijke stoffen in kleine hoeveelheden en vrijgestelde hoeveelheden. **Tabel 19.1 – Toepassing van de eisen op de verschillende methoden van vervoer van gevaarlijke stoffen op schepen en in laadruimten** Waar in tabel 19.1 een „X” staat aangegeven betekent dit dat deze eis geldt voor alle klassen gevaarlijke stoffen als vermeld in de desbetreffende kolom van tabel 19.3, behoudens de vermelding in de noten. Noten 1) Voor vaste lading uit klassen 4 en 5.1 niet van toepassing op gesloten vrachtcontainers. Voor klassen 2, 3, 6.1 en 8 kan de ventilatiecapaciteit, wanneer de stoffen in gesloten vrachtcontainers worden vervoerd, worden verminderd tot niet minder dan twee luchtwisselingen per uur. Voor vloeistoffen uit klassen 4 en 5.1 kan de ventilatiecapaciteit, wanneer de stoffen in gesloten vrachtcontainers worden vervoerd, worden verminderd tot niet minder dan twee luchtwisselingen per uur. Voor de toepassing van deze eis wordt een losse tank als gesloten vrachtcontainer beschouwd. 2 Uitsluitend van toepassing op dekken. 3 Uitsluitend van toepassing op gesloten ro-ro-ruimten die niet kunnen worden afgedicht. 4 In het speciale geval waarin de lichters ontvlambare dampen kunnen bevatten, of indien door middel van aan de lichters verbonden ventilatiekanalen ontvlambare dampen kunnen worden afgevoerd naar een veilige ruimte buiten de ruimte waarin de lichters worden vervoerd, kan ten genoegen van de Administratie verlichting of vrijstelling van deze eisen worden verleend. 5 Ruimten van bijzondere aard moeten worden behandeld als gesloten ro-ro-ruimten indien gevaarlijke stoffen worden vervoerd. **Tabel 19.2 - Toepassing van de eisen op verschillende klassen gevaarlijke stoffen voor schepen en laadruimten waarin vaste gevaarlijke stoffen in bulk worden vervoerd** Noten: 6 De gevaren van eventueel in bulk te vervoeren stoffen van deze klasse zijn zodanig dat de Administratie niet alleen aan de naleving van de in deze tabel opgesomde vereisten, maar ook aan de bouw en de uitrusting van het betrokken schip bijzondere aandacht moet schenken. 7 Alleen van toepassing op voederkoek die extracten van oplosmiddelen bevat, op ammoniumnitraat en op ammoniumnitraat-houdende kunstmest. 8 Alleen van toepassing op ammoniumnitraat en ammoniumnitraat-houdende kunstmest. Een mate van beveiliging overeenkomstig de normen als vervat in Publicatie 60079 van de Internationale Elektrotechnische Commissie: Elektrische apparatuur voor explosieve gasatmosferen, volstaat echter. 9 Alleen geschikte gaaswanden zijn vereist. 10 De eisen van de Internationale maritieme code voor het vervoer van vaste lading in bulk (IMSBC-Code) zoals gewijzigd, volstaan. 11. Indien „mechanisch geventileerde ruimten” worden vereist door de IMDG-Code. 12. In alle gevallen stuwen op een horizontale afstand van 3 m vanaf de begrenzingswanden van machineruimten. 13. Zie de IMDG-Code. 14. Al naar gelang de te vervoeren goederen. 15. FP heeft betrekking op het vlampunt. 16. Volgens de bepalingen van de IMDG-Code is stuwage van gevaarlijke stoffen van klasse 5.2 onderdeks of in besloten ro-ro ruimten verboden. 17. Alleen van toepassing op gevaarlijke stoffen waarbij in de IMDG-Code vermelde brandbare dampen vrijkomen. 18. Alleen van toepassing op gevaarlijke stoffen met een vlampunt van lager dan 23ºC vermeld in de IMDG-Code. 19. Alleen van toepassing op gevaarlijke stoffen met een bijkomend risico klasse 6.1. 20. Volgens de bepalingen van de IMDG-Code is stuwage van gevaarlijke stoffen van klasse 2.3 met een bijkomend risico klasse 2.1 onderdeks of in besloten ro-ro ruimten verboden. 21. Volgens de bepalingen van de IMDG-Code is stuwage van vloeistoffen van klasse 4.3 met een vlampunt van lager dan 23ºC onderdeks of in besloten ro-ro ruimten verboden.
 
 | Voorschrift 19.2.2 |   | .1 | .2 | .3 | .3 | .4 | .5 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -34994,8 +35114,8 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, zijn 
 | 3.1.4 | – | X | X | X | X | X |   |
 | 3.2 | – | X | X | X | X | X4 |   |
 | 3.3 | – | X | X | X | – | X4 |   |
-| 3.4.1 | – | X | X1 | X | – | X4 |   |
-| 3.4.2 | – | X | X1 | X | – | X4 |   |
+| 3.4.1 | – | X | X1) | X | – | X4 |   |
+| 3.4.2 | – | X | X1) | X | – | X4 |   |
 | 3.5 | – | X | X | X | – | – |   |
 | 3.5.1 | X | X | X | X | X | – |   |
 | 3.6.2 | X | X | X | X | X | – |   |
@@ -35016,24 +35136,6 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, zijn 
 | 3.4.3 | X | X | X | X | X | X | X |
 | 3.6 | X | X | X | X | X | X | X |
 | 3.8 | X | X | X | X7 | - | - | X10 |
-
-| Klasse **Voorschrift 19** | 1.1 t/m 1.6 | 1.4S | 2.1 | 2.2 | 2.3 | 3 3 vloeistoffen ≤23°C15 | 3 vloeistoffen ≤23°C15 <61°C | 4.1 | 4.2 | 4.3 | 5.1 | 5.2 | 6.1 vloeistoffen | 6.1 vloeistoffen ≤23°C15 | 6.1 vloeistoffen >23°C15 ≤61°C | 6.1 vaste stoffen | 8 vloeistoffen | 8 vloeistoffen ≤23°C15 | 8 vloeistoffen >23°C15 ≤61°C | 8 vaste stoffen | 9 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3.1.1 | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X |
-| 3.1.2 | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | – |
-| 3.1.3 | X | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – |
-| 3.1.4 | X | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – | – |
-| 3.2 | X | – | X | – | - | X | – | – | – | – | – | – | – | X | – | – | – | X | – | – | – |
-| 3.3 | X | X | X | X | X | X | X | X | X | X | X | – | X | X | X | X | X | X | X | X | – |
-| 3.4.1 | – | – | X | – | X | X | – | X11 | X11 | X | X11 | – | – | X | X | X11 | – | X | X | – | X11 |
-| 3.4.2 | – | – | X | – | – | X | – | – | – | – | – | – | – | X | – | – | X | X | – | – |   |
-| 3.5 | – | – | – | – | – | X | – | – | – | – | – | – | X | X | X | – | – | X | – | – | – |
-| 3.6 | – | – | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X14 |
-| 3.7 | – | – | – | – | – | X | X | X | X | X | X | – | – | X | X | – | – | X | X | – | – |
-| 3.8 | X12 | – | X | X | X | X | X | X | X | X | X13 | – | – | X | X | – | – | X | X | – | – |
-| 3.9 | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X |
-| 3.10.1 | X | X | X | X | X | X | X | X | X | X | X | X16 | X | X | X | X | X | X | X | X | X |
-| 3.10.2 | X | X | X | X | X | X | X | X | X | X | X | X16 | X | X | X | X | X | X | X | X | X |
 
 ##### Voorschrift 20. Beveiliging van voertuigruimten, ruimten van bijzondere aard en ro-ro-ruimten
 
@@ -35171,7 +35273,7 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, zijn 
 
 1. Toepassing
 
-Passagiersschepen gebouwd op of na 1 juli 2010 met een lengte, als omschreven in [voorschrift 2.5 van Hoofdstuk II-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=2&z=2010-07-01&g=2010-07-01), van 120 m of meer, met drie of meer verticale hoofdsecties, moeten aan de bepalingen van dit voorschrift voldoen.
+Passagiersschepen gebouwd op of na 1 juli 2010 met een lengte, als omschreven in [voorschrift 2.5 van Hoofdstuk II-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=2&z=2011-01-01&g=2011-01-01), van 120 m of meer, met drie of meer verticale hoofdsecties, moeten aan de bepalingen van dit voorschrift voldoen.
 
 2. Doel
 
@@ -35187,7 +35289,7 @@ In het geval van brand omvat de ongevallendrempel:
 
 4. Veilige terugkeer naar de haven
 
-Wanneer de brandschade de in paragraaf 3 genoemde ongevallendrempel niet overschrijdt, is het schip in staat naar de haven terug te keren en kan tevens voor een veilige zone als omschreven in [voorschrift 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=3&z=2010-07-01&g=2010-07-01) worden gezorgd. Teneinde in staat geacht te worden naar de haven terug te keren, moeten de volgende systemen in het resterende deel van het schip dat niet is getroffen door de brand, operationeel blijven:
+Wanneer de brandschade de in paragraaf 3 genoemde ongevallendrempel niet overschrijdt, is het schip in staat naar de haven terug te keren en kan tevens voor een veilige zone als omschreven in [voorschrift 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=3&z=2011-01-01&g=2011-01-01) worden gezorgd. Teneinde in staat geacht te worden naar de haven terug te keren, moeten de volgende systemen in het resterende deel van het schip dat niet is getroffen door de brand, operationeel blijven:
 
 - .1. voortstuwing;
 
@@ -35251,7 +35353,7 @@ Wanneer de brandschade de in paragraaf 3 genoemde ongevallendrempel niet oversch
 
 1. Toepassing
 
-Passagiersschepen gebouwd op of na 1 juli 2010 met een lengte, als omschreven in [voorschrift 2.2 van Hoofdstuk II-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=2&z=2010-07-01&g=2010-07-01), van 120 m of meer, met drie of meer verticale hoofdsecties, moeten aan de bepalingen van dit voorschrift voldoen.
+Passagiersschepen gebouwd op of na 1 juli 2010 met een lengte, als omschreven in [voorschrift 2.2 van Hoofdstuk II-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=2&z=2011-01-01&g=2011-01-01), van 120 m of meer, met drie of meer verticale hoofdsecties, moeten aan de bepalingen van dit voorschrift voldoen.
 
 2. Doel
 
@@ -35345,9 +35447,9 @@ Het doel van dit voorschrift is een methode te bieden voor vervangend ontwerp en
 
 2. Algemeen
 
-- 2.1. Reddingsmiddelen en -voorzieningen mogen van de in [deel B](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&z=2010-07-01&g=2010-07-01) vervatte vereisten afwijken, mits de vervangende ontwerpen en voorzieningen beantwoorden aan het doel van deze vereisten en een gelijkwaardig niveau van veiligheid aan dit Hoofdstuk bieden.
+- 2.1. Reddingsmiddelen en -voorzieningen mogen van de in [deel B](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&z=2011-01-01&g=2011-01-01) vervatte vereisten afwijken, mits de vervangende ontwerpen en voorzieningen beantwoorden aan het doel van deze vereisten en een gelijkwaardig niveau van veiligheid aan dit Hoofdstuk bieden.
 
-- 2.2. Wanneer vervangende ontwerpen of voorzieningen afwijken van de dwingende vereisten van [deel B](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&z=2010-07-01&g=2010-07-01), moeten de constructieanalyse, evaluatie en keuring van het ontwerp en de voorzieningen worden uitgevoerd in overeenstemming met dit voorschrift.
+- 2.2. Wanneer vervangende ontwerpen of voorzieningen afwijken van de dwingende vereisten van [deel B](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&z=2011-01-01&g=2011-01-01), moeten de constructieanalyse, evaluatie en keuring van het ontwerp en de voorzieningen worden uitgevoerd in overeenstemming met dit voorschrift.
 
 3. Constructieanalyse
 
@@ -35361,7 +35463,7 @@ De constructieanalyse moet, op basis van de door de Organisatieopgestelde richts
 
 - .4. vermelding van de prestatiecriteria voor het schip en de betrokken reddingsmiddelen en -voorzieningen, door middel van het (de) relevante dwingende vereiste(n):
 
-- .4.1. de prestatiecriteria moeten een niveau van veiligheid waarborgen dat niet geringer is dan de desbetreffende in [deel B](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&z=2010-07-01&g=2010-07-01) vervatte dwingende vereisten; en
+- .4.1. de prestatiecriteria moeten een niveau van veiligheid waarborgen dat niet geringer is dan de desbetreffende in [deel B](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&deel=B&z=2011-01-01&g=2011-01-01) vervatte dwingende vereisten; en
 
 - .4.2. de prestatiecriteria moeten kwantificeerbaar en meetbaar zijn;
 
@@ -35437,7 +35539,7 @@ Indien de aannames en functionele beperkingen die in het vervangende ontwerp en 
 
 1. De Verdragsluitende Regeringen achten het hoogst gewenst niet af te wijken van de vereisten ingevolge dit Hoofdstuk; niettemin kan de Administratie aan individuele schepen gedeeltelijke of voorwaardelijke vrijstellingen verlenen van de Voorschriften 7 t/m 11, mits:
 
-- .1. deze schepen voldoen aan de functionele vereisten ingevolge [Voorschrift 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=A&artikel=4&z=2010-07-01&g=2010-07-01); en
+- .1. deze schepen voldoen aan de functionele vereisten ingevolge [Voorschrift 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=A&artikel=4&z=2011-01-01&g=2011-01-01); en
 
 - .2. de Administratie rekening heeft gehouden met het gevolg dat deze vrijstellingen kunnen hebben voor de veiligheid van alle schepen in verband met de algemene doelmatige hulpverlening.
 
@@ -35453,7 +35555,7 @@ Indien de aannames en functionele beperkingen die in het vervangende ontwerp en 
 
 Ieder schip moet buitengaats in staat zijn:
 
-- .1. behalve zoals bepaald in de [Voorschriften 8.1.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=8&z=2010-07-01&g=2010-07-01) en [10.1.4.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=10&z=2010-07-01&g=2010-07-01), noodoproepen van het schip naar de wal uit te zenden door middel van ten minste twee afzonderlijke en van elkaar onafhankelijke installaties, die elk van een ander radiocommunicatiesysteem gebruik maken;
+- .1. behalve zoals bepaald in de [Voorschriften 8.1.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=8&z=2011-01-01&g=2011-01-01) en [10.1.4.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=10&z=2011-01-01&g=2011-01-01), noodoproepen van het schip naar de wal uit te zenden door middel van ten minste twee afzonderlijke en van elkaar onafhankelijke installaties, die elk van een ander radiocommunicatiesysteem gebruik maken;
 
 - .2. noodoproepen van de wal naar het schip te ontvangen;
 
@@ -35463,11 +35565,11 @@ Ieder schip moet buitengaats in staat zijn:
 
 - .5. berichten op lokatie uit te zenden en te ontvangen;
 
-- .6. de signalen ten behoeve van het lokaliseren uit te zenden en, zoals vereist ingevolge [Voorschrift V/19.2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=19&z=2010-07-01&g=2010-07-01), te ontvangen*Verwezen wordt naar resolutie A.614(15) inzake het aan boord hebben van radarapparatuur die werkt binnen de frequentieband 9000-9500 MHz, aangenomen door de vijftiende Vergadering.;
+- .6. de signalen ten behoeve van het lokaliseren uit te zenden en, zoals vereist ingevolge [Voorschrift V/19.2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V&artikel=19&z=2011-01-01&g=2011-01-01), te ontvangen*Verwezen wordt naar resolutie A.614(15) inzake het aan boord hebben van radarapparatuur die werkt binnen de frequentieband 9000-9500 MHz, aangenomen door de vijftiende Vergadering.;
 
 - .7. maritieme veiligheidsinformatie uit te zenden en te ontvangen**Hierbij zij opgemerkt dat het nodig kan zijn dat schepen bepaalde maritieme veiligheidsinformatie kunnen ontvangen terwijl zij in de haven liggen.;
 
-- .8. algemene radioberichten uit te zenden naar en te ontvangen van radiosystemen of -netwerken aan wal, onder voorbehoud van het bepaalde in [Voorschrift 15.8](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=15&z=2010-07-01&g=2010-07-01);
+- .8. algemene radioberichten uit te zenden naar en te ontvangen van radiosystemen of -netwerken aan wal, onder voorbehoud van het bepaalde in [Voorschrift 15.8](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&deel=C&artikel=15&z=2011-01-01&g=2011-01-01);
 
 - .9. berichten van brug tot brug uit te zenden en te ontvangen.
 
@@ -36306,6 +36408,554 @@ Voor bulkcarriers gebouwd vóór 1 juli 1999 die binnen de toepassingsgrenzen va
 ##### Voorschrift 14. Beperkingen ten aanzien van het varen met lege ruimen
 
 Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie die ladingen vervoeren met een dichtheid van 1780 kg/m3 en meer mogen, indien zij niet voldoen aan de vereisten voor het weerstaan van vollopen van een van de ladingruimen als vermeld in [voorschrift 5.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=5&z=2010-07-01&g=2010-07-01) en de Normen en criteria voor de zijconstructie van bulkcarriers met een enkelzijdige huidconstructie, aangenomen door de Organisatie bij resolutie MSC.168(79), als door de Organisatie kan worden gewijzigd, op voorwaarde dat deze wijzigingen worden aangenomen, in werking worden gesteld en van kracht worden overeenkomstig het bepaalde in [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VIII&z=2010-07-01&g=2010-07-01) van dit Verdrag betreffende de procedures voor wijziging die van toepassing zijn op de Bijlage, met uitzondering van [Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2010-07-01&g=2010-07-01), wanneer deze schepen 10 jaar of ouder zijn, niet varen met ruimen die zijn geladen tot minder dan 10% van het maximum toegestane ladinggewicht bij volle belading. De toepasselijke volle belading voor dit voorschrift is een lading gelijk aan of groter dan 90% van het draagvermogen van het schip bij het relevante toegewezen vrijboord.
+
+IN WITNESS WHEREOF the undersigned, being duly authorized by their respective Governments for that purpose, have signed the present Convention.
+
+DONE AT LONDON this first day of November one thousand nine hundred and seventy-four.
+
+##### Voorschrift 1-1. Begripsomschrijvingen
+
+Voor de toepassing van dit Hoofdstuk, tenzij uitdrukkelijk anders bepaald, zijn de volgende begripsomschrijvingen van toepassing:
+
+- 1. Onder **IMSBC-Code**wordt verstaan de Internationale maritieme code voor het vervoer van vaste lading in bulk, aangenomen door de Maritieme Veiligheidscommissie van de Organisatie bij resolutie MSC.268(85), eventueel als gewijzigd door de Organisatie, op voorwaarde dat deze wijzigingen worden aangenomen, in werking worden gesteld en van kracht worden in overeenstemming met de bepalingen van [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VIII&z=2011-01-01&g=2011-01-01) van dit Verdrag inzake de wijzigingsprocedures die van toepassing zijn op de Bijlage, met uitzondering van [Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2011-01-01&g=2011-01-01).
+
+- 2. Onder **vaste bulklading** wordt verstaan een stof, anders dan een vloeistof of gas, bestaande uit een combinatie van deeltjes, korrels of grotere stukken, in het algemeen uniform van samenstelling, die rechtstreeks in de laadruimten van een schip wordt geladen zonder andere vorm van verpakking.
+
+##### Voorschrift 1-2. Vereisten voor het vervoer van vaste lading in bulk anders dan graan
+
+Het vervoer van vaste lading in bulk anders dan graan moet plaatsvinden in overeenstemming met de desbetreffende bepalingen van de IMSBC-Code.
+
+##### Voorschrift 2. Ladinggegevens
+
+1. De verscheper verstrekt de kapitein of diens vertegenwoordiger lang genoeg van tevoren de nodige ladinggegevens om het nemen van voorzorgsmaatregelen mogelijk te maken die nodig kunnen zijn voor goede stuwage en veilig vervoer van de lading. Deze gegevens moeten schriftelijk worden bevestigd door middel van de daarvoor bestemde ladingpapieren voordat de lading aan boord wordt gebracht. Voor de toepassing van dit voorschrift dienen de ladinggegevens, zoals vereist in hoofdstuk 1.9 van de Code of Safe Practice for Cargo Stowage and Securing (Vastzetcode), aangenomen door de Organisatie bij resolutie A.714(17), zoals eventueel gewijzigd, te worden verstrekt. Eventuele wijzigingen op hoofdstuk 1.9 moeten worden aangenomen, van kracht worden en toepassing vinden in overeenstemming met de bepalingen van artikel VIII van dit Verdrag betreffende de wijzigingsprocedures die gelden voor de Bijlage, met uitzondering van Hoofdstuk I.
+
+2. De ladinggegevens moeten omvatten:
+
+- .1. in het geval van stukgoedlading en ladingunits, een algemene beschrijving van de lading, het bruto gewicht van de lading of van de ladingunits, en relevante bijzondere kenmerken van de lading;
+
+- .2. in het geval van vaste lading in bulk, gegevens zoals vereist volgens punt 4 van de IMSBC-Code.
+
+3. Vóór het aan boord van schepen brengen van ladingunits verzekert de verscheper dat het bruto gewicht van die units overeenkomt met het in de scheepsdocumenten opgegeven bruto gewicht.
+
+##### Voorschrift 3. Apparatuur voor gasdetectie en zuurstofmeting
+
+1. Bij het vervoer van vaste bulkladingen die giftige of brandbare gassen kunnen afgeven, of die zuurstof binden, moet een geschikt instrument voor het meten van de concentratie gas of zuurstof in de lucht aanwezig zijn, voorzien van een gedetailleerde gebruiksaanwijzing. Een zodanig instrument moet ten genoegen van de Administratie zijn.
+
+2. De Administratie moet stappen ondernemen om te verzekeren dat bemanningen van schepen opgeleid zijn in het gebruik van die instrumenten.
+
+##### Voorschrift 4. Het gebruik van pesticiden op schepen
+
+Bij het gebruik van pesticiden op schepen, met name voor berokingsdoeleinden, moeten passende voorzorgsmaatregelen worden genomen.
+
+##### Voorschrift 5. Stuwage en zeevast zetten
+
+1. lading, vrachteenheden en laadeenheden die op of onder het dek worden vervoerd, moeten zodanig worden geladen, gestuwd en zeevast gezet dat, voor zover uitvoerbaar, gedurende de gehele reis, schade aan of gevaar voor schip en opvarenden, en verlies van lading overboord, worden voorkomen.
+
+2. Lading die wordt vervoerd in een ladingunit moet zodanig zijn verpakt en zeevast gezet binnen de ladingunit dat, gedurende de gehele reis, schade aan of gevaar voor schip en opvarenden wordt voorkomen.
+
+3. Er moeten passende voorzorgsmaatregelen worden genomen tijdens het laden en vervoeren van zware ladingstukken of ladingen met buitengewone afmetingen om te voorkomen dat structurele schade aan het schip wordt toegebracht en om toereikende stabiliteit te handhaven gedurende de gehele reis.
+
+4. Er moeten passende voorzorgsmaatregelen worden genomen tijdens het laden en vervoeren van vrachteenheden en laadeenheden aan boord van ro-roschepen, in het bijzonder wat betreft de zeevastinrichtingen aan boord van die schepen en binnen de vrachteenheden en laadeenheden, en wat betreft de sterkte van de bevestigingspunten en sjorrings.
+
+5. Vrachtcontainers worden niet zwaarder geladen dan het maximum bruto gewicht aangegeven op het veiligheidskeurmerk uit hoofde van de [Internationale Overeenkomst voor veilige containers (CSC)](https://wetten.overheid.nl/jci1.3:c:BWBV0003233) als gewijzigd.
+
+6. Alle ladingen, anders dan vaste en vloeibare bulklading moeten gedurende de gehele reis worden geladen, gestuwd en zeevast gezet in overeenstemming met de door de Administratie goedgekeurde Cargo Securing Manual. In schepen met ro-ro laadruimten, als omschreven in [voorschrift II-2/3.14](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=A&artikel=3&z=2011-01-01&g=2011-01-01), moet het zeevast zetten van dergelijke ladingen, in overeenstemming met de Cargo Securing Manual, zijn voltooid voordat het schip de aanlegplaats verlaat. De Cargo Securing Manual moet zijn opgesteld volgens een standaard die ten minste gelijkwaardig is aan de door de Organisatie geformuleerde richtlijnen
+
+##### Voorschrift 5-1. Materiaalveiligheidsinstructies
+
+Schepen die olie of brandstofolie vervoeren als omschreven in [voorschrift 1 van Bijlage 1 bij het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd bij het Protocol van 1978 daarbij](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&artikel=1), moeten voordat dergelijke olie als bulklading aan boord wordt genomen of voordat brandstofolie gebunkerd wordt, worden voorzien van materiaalveiligheidsinstructies op basis van de door de Organisatie ontwikkelde aanbevelingen.
+
+##### Voorschrift 7. Laden, lossen en stuwen van vaste bulklading
+
+1. Voor de toepassing van dit voorschrift wordt onder vertegenwoordiger van de laad-/loslocatie verstaan de door de laad-/loslocatie of een andere faciliteit waar het schip laadt of lost aangestelde persoon die verantwoordelijk is voor de handelingen door die haven of faciliteit die verband houden met het desbetreffende schip.
+
+2. Om de kapitein in staat te stellen te grote spanningen op de constructie van het schip te voorkomen, moet op het schip een boekje aanwezig zijn dat is opgesteld in een taal die beheerst wordt door de officieren van het schip die verantwoordelijk zijn voor de behandeling van de lading. Indien deze taal niet de Engelse taal is, moet op het schip tevens een boekje aanwezig zijn dat in de Engelse taal is opgesteld. Het boekje moet ten minste bevatten:
+
+- .1. stabiliteitsgegevens als vereist in [voorschrift II-1/5-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-1&artikel=5-1&z=2011-01-01&g=2011-01-01);
+
+- .2. ballast- en ontballastpercentages en -volumes;
+
+- .3. maximaal toegestane belasting per oppervlakte-eenheid van de bovenbeplating van de tanks;
+
+- .4. maximaal toegestane belasting per ruim;
+
+- .5. algemene instructies voor laden en lossen met betrekking tot de sterkte van de constructie van het schip met inbegrip van beperkingen bij de ongunstigste omstandigheden tijdens laden, lossen, ballasten en de reis;
+
+- .6. eventuele speciale restricties zoals beperkingen bij de ongunstigste omstandigheden als opgelegd door de Administratie of een door haar erkende organisatie, indien van toepassing; en
+
+- .7. waar berekeningen van de sterkte zijn vereist, maximaal toegestane krachten en momenten op de romp van het schip tijdens laden, lossen en de reis.
+
+3. Voordat een vaste lading wordt geladen of gelost, moeten de kapitein en de vertegenwoordiger van de laad-/loslocatie een plan overeenkomen dat waarborgt dat de toegestane krachten en momenten op het schip niet worden overschreden tijdens het laden of lossen en dat voorziet in de volgorde, de kwantiteit en het tempo van laden of lossen, rekening houdend met de snelheid van laden of lossen, het aantal stortingen en de ballast en ontballastcapaciteit van het schip. Het plan en eventuele latere wijzigingen daarop moeten worden ingediend bij de desbetreffende autoriteit van de staat waartoe de haven behoort.
+
+4. De kapitein en de vertegenwoordiger van de laad-/loslocatie moeten ervoor zorgen dat de laad- en loshandelingen verlopen in overeenstemming met het overeengekomen plan.
+
+5. Indien tijdens het laden of lossen één van de beperkingen van het schip bedoeld in paragraaf 2 wordt overschreden of waarschijnlijk zal worden overschreven indien het laden of lossen doorgaat, heeft de kapitein het recht de laad- of loshandeling te onderbreken en is hij verplicht de desbetreffende autoriteit van de staat van de haven waar het plan is ingediend op de hoogte te stellen. De kapitein en de vertegenwoordiger van de laad-/loslocatie moeten erop toezien dat herstellende maatregelen worden genomen. Bij het lossen van ladingen moeten de kapitein en de vertegenwoordiger van de laad-/loslocatie erop toezien dat de wijze van lossen niet leidt tot beschadiging van de constructie van het schip.
+
+6. De kapitein moet erop toezien dat de bemanning van het schip de behandeling van de lading voortdurend bewaakt. Indien mogelijk, moet de diepgang van het schip regelmatig worden gecontroleerd tijdens laden of lossen ter bevestiging van de verstrekte inhoudsgegevens. Iedere observatie ten aanzien van diepgang en inhoud moet worden opgenomen in een ladingslogboek. Indien significante afwijkingen van het overeengekomen plan worden ontdekt, moeten de ladings- of de ballasthandelingen of beide worden aangepast om ervoor te zorgen dat de afwijkingen worden gecorrigeerd.
+
+##### Voorschrift 8. Begripsomschrijvingen
+
+Voor de toepassing van dit deel wordt, tenzij uitdrukkelijk anders bepaald, verstaan onder:
+
+- 1. ,Internationale Graancode’: de Internationale Code voor veilig vervoer van graan in bulk, aangenomen door de Maritieme Veiligheidscommissie van de Organisatie bij resolutie MSC.23(59) zoals eventueel gewijzigd door de Organisatie, op voorwaarde dat eventuele wijzigingen zijn aangenomen, van kracht zijn geworden en toepassing vinden in overeenstemming met de bepalingen van artikel VIII van dit Verdrag betreffende de wijzigingsprocedures die gelden voor de Bijlage met uitzondering van [Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2011-01-01&g=2011-01-01).
+
+- 2. ,Graan’: tarwe, mais, haver, rogge, gerst, rijst, peulvruchten, zaden en hun bewerkte vormen, waarvan het gedrag gelijk is aan dat van graan in onbewerkte staat.
+
+##### Voorschrift 9. Vereisten voor vrachtschepen die graan vervoeren
+
+1. Naast andere toepasselijke vereisten van deze voorschriften moet een vrachtschip dat graan vervoert voldoen aan de vereisten van de Internationale Graancode, en moet voor dat schip een document van machtiging zijn afgegeven als vereist in die Code. Voor de toepassing van dit voorschrift worden de vereisten van de Code als verplicht behandeld.
+
+2. Een schip waarvoor een zodanig document niet is afgegeven, mag geen graan aan boord nemen totdat de kapitein ten genoegen van de Administratie, of de Verdragsluitende Regering van de haven waar het laden plaatsvindt namens de Administratie, aantoont dat het schip in de voorgenomen beladingstoestand zal voldoen aan de vereisten van de Internationale Graancode.
+
+### HOOFDSTUK VII. VERVOER VAN GEVAARLIJKE STOFFEN
+
+##### Voorschrift 1. Begripsomschrijvingen
+
+Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, wordt verstaan onder:
+
+- 1. **IMDG-Code,** de Internationale Maritieme Code inzake gevaarlijke stoffen, aangenomen door de Maritieme Veiligheidscommissie van de Organisatie bij resolutie MSC.122(75), eventueel als gewijzigd door de Organisatie, op voorwaarde dat deze wijzigingen worden aangenomen, in werking worden gesteld en van kracht worden overeenkomstig het bepaalde van [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VIII&z=2011-01-01&g=2011-01-01) van dit Verdrag betreffende de procedure voor wijziging die van toepassing is op de Bijlage, met uitzondering van [Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2011-01-01&g=2011-01-01).
+
+- 2. **Gevaarlijke stoffen,** de stoffen, materialen en artikelen waarop de IMDG-Code van toepassing is.
+
+- 3. **Verpakte vorm,** de in de IMDG-Code vermelde verpakkingsvorm.
+
+##### Voorschrift 2. Toepassing
+
+- 1. Tenzij uitdrukkelijk anders wordt bepaald, is dit deel van toepassing op het vervoer van gevaarlijke stoffen in verpakte vorm in alle schepen waarop deze voorschriften van toepassing zijn en in vrachtschepen met een brutotonnage van minder dan 500 ton.
+
+- 2. Deze bepalingen zijn niet van toepassing op de voorraden en uitrusting van schepen.
+
+- 3. Het vervoer van gevaarlijke stoffen in verpakte vorm is verboden tenzij dit geschiedt in overeenstemming met de voorschriften van dit hoofdstuk.
+
+- 4. Ter aanvulling van de bepalingen van dit deel vaardigt elke Verdragsluitende Regering gedetailleerde instructies uit, of doet deze uitvaardigen, inzake noodhulp en medische eerstehulpverlening bij voorvallen waarbij gevaarlijke stoffen in verpakte vorm een rol spelen, met inachtneming van de door de Organisatie opgestelde richtlijnen.
+
+##### Voorschrift 3. Bepalingen voor het vervoer van gevaarlijke stoffen
+
+Het vervoer van gevaarlijke stoffen in verpakte vorm moet plaatsvinden in overeenstemming met de desbetreffende bepalingen van de IMDG-Code.
+
+##### Voorschrift 4. Documenten
+
+- 1. In alle bescheiden die verband houden met het vervoer van gevaarlijke stoffen in verpakte vorm over zee, moet de juiste vervoersnaam van de stof worden gebezigd (uitsluitend handelsnamen mogen niet worden gebezigd) en moet de juiste omschrijving, in overeenstemming met de in de IMDG-Code vermelde classificatie, worden gegeven.
+
+- 2. De door de verscheper opgemaakte ladingpapieren moeten inhouden, of vergezeld zijn van een ondertekend certificaat of een ondertekende verklaring, dat de voor verscheping aangeboden partij deugdelijk is verpakt en gemerkt of geëtiketteerd, naar gelang noodzakelijk, en zich in een deugdelijke toestand voor vervoer bevindt.
+
+- 3. De persoon of personen die verantwoordelijk zijn voor het verpakken/laden van gevaarlijke stoffen in een ladingvervoerseenheid verstrekken een ondertekend container/voertuig-verpakkingscertificaat waarin wordt verklaard dat de lading in de eenheid naar behoren is verpakt en vastgezet en dat aan alle toepasselijke vereisten voor het vervoer ervan is voldaan. Een dergelijk certificaat mag worden gecombineerd met het in paragraaf 2 bedoelde document.
+
+- 4. Wanneer gegronde redenen bestaan om te vermoeden dat een ladingvervoerseenheid waarin gevaarlijke stoffen zijn verpakt niet voldoet aan de vereisten van paragraaf 2 of 3, of wanneer geen container/voertuig-verpakkingscertificaat beschikbaar is, mag de ladingvervoerseenheid niet voor vervoer worden aanvaard.
+
+- 5. Elk schip dat gevaarlijke stoffen in verpakte vorm vervoert, moet een speciale lijst of manifest aan boord hebben waarin, in overeenstemming met de in de IMDG-Code genoemde classificatie, de gevaarlijke stoffen aan boord en de plaats waar deze zich bevinden, worden omschreven. In plaats van een dergelijke speciale lijst of manifest kan een gedetailleerd stuwplan, waarin klasse en plaats van stuwage van alle aan boord aanwezige gevaarlijke stoffen zijn aangegeven, worden gebezigd. Voor vertrek moet een afschrift van een van deze documenten aan de door de autoriteit van de havenstaat aangewezen persoon of organisatie beschikbaar worden gesteld.
+
+##### Voorschrift 5. Handboek voor het vastzetten van lading (Cargo Securing Manual)
+
+Lading, laadeenheden en ladingvervoerseenheden moeten gedurende de gehele reis worden geladen, gestuwd en vastgezet in overeenstemming met het door de Administratie goedgekeurde Cargo Securing Manual. De instructies in het Cargo Securing Manual moeten ten minste gelijkwaardig zijn aan de door de Organisatie geformuleerde richtlijnen.’’
+
+##### Voorschrift 6. Melding van voorvallen waarbij gevaarlijke stoffen een rol spelen
+
+- 1. Indien een voorval plaatsvindt waarbij gevaarlijke stoffen in verpakte vorm verloren gaan of waarschijnlijk verloren zullen gaan in de zee, moet de kapitein of andere persoon die het gezag over het schip voert, de bijzonderheden van dat voorval onverwijld en zo volledig mogelijk melden bij de dichtstbijzijnde kuststaat. De melding moet gebaseerd zijn op de door de Organisatie opgestelde algemene beginselen en richtlijnen.
+
+- 2. Indien een schip als bedoeld in paragraaf 1 wordt verlaten, of indien een melding van dat schip onvolledig of niet verkrijgbaar is, moet de maatschappij, als omschreven in [voorschrift IX/1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=1&z=2011-01-01&g=2011-01-01) zo volledig mogelijk de verplichtingen op zich nemen die door dit voorschrift aan de kapitein worden opgelegd.
+
+##### Voorschrift 7. Begripsomschrijvingen
+
+Onder **gevaarlijke stoffen in vaste vorm in bulk** wordt verstaan materiaal, anders dan een vloeistof of gas, bestaande uit een combinatie van deeltjes, korrels of grotere stukken materiaal, in het algemeen gelijk van samenstelling, waarop de IMDG-Code van toepassing is en dat rechtstreeks in het laadruim van een schip wordt geladen zonder andere vorm van verpakking, en omvat dergelijke materialen die in een duwbak worden geladen op een lichterschip.
+
+##### Voorschrift 7-1. Toepassing
+
+1. Tenzij uitdrukkelijk anders wordt bepaald, is dit deel van toepassing op het vervoer van gevaarlijke stoffen in vaste vorm in bulk in alle schepen waarop deze voorschriften van toepassing zijn en in vrachtschepen met een brutotonnage van minder dan 500 ton.
+
+2. Het vervoer van gevaarlijke stoffen in vaste vorm in bulk is verboden tenzij dit geschiedt in overeenstemming met de voorschriften van dit deel.
+
+3. Ter aanvulling van de bepalingen van dit deel vaardigt elke Verdragsluitende Regering, of doet deze uitvaardigen, inzake noodhulp en medische eerstehulpverlening bij voorvallen waarbij gevaarlijke stoffen in vaste vorm in bulk een rol spelen, met inachtneming van de door de Organisatie opgestelde richtlijnen.
+
+##### Voorschrift 7-2. Documenten
+
+1. In alle bescheiden die verband houden met het vervoer van gevaarlijke stoffen in vaste vorm in bulk over zee, moet de juiste vervoersnaam van de bulklading worden gebezigd (uitsluitend handelsnamen mogen niet worden gebezigd).
+
+2. Elk schip dat gevaarlijke stoffen in vaste vorm in bulk vervoert, moet een speciale lijst of manifest aan boord hebben waarin de gevaarlijke stoffen aan boord en de plaats waar deze zich bevinden, worden omschreven. In plaats van een dergelijke speciale lijst of manifest kan een gedetailleerd stuwplan, waarin klasse en plaats van stuwage van alle aan boord aanwezige gevaarlijke stoffen zijn aangegeven, worden gebezigd. Voor vertrek moet een afschrift van een van deze documenten aan de door de autoriteit van de havenstaat aangewezen persoon of organisatie beschikbaar worden gesteld.
+
+##### Voorschrift 7-3. Vereisten inzake stuwage en scheiding
+
+1. Gevaarlijke stoffen in vaste vorm in bulk moeten veilig en op doelmatige wijze, in overeenstemming met de eigenschappen van de stoffen worden gestuwd. Stoffen die elkaar niet verdragen, moeten van elkaar zijn gescheiden.
+
+2. Gevaarlijke stoffen in vaste vorm in bulk die aan spontane broei of ontbranding onderhevig zijn, mogen niet worden vervoerd, tenzij doeltreffende voorzorgen zijn genomen om het risico van het uitbreken van brand tot een minimum te beperken.
+
+3. Gevaarlijke stoffen in vaste vorm in bulk die gevaarlijke dampen afgeven, moeten in een goed geventileerd laadruim worden gestuwd.
+
+##### Voorschrift 7-5. Vereisten voor het vervoer van gevaarlijke stoffen in vaste vorm in bulk
+
+Het vervoer van gevaarlijke stoffen in vaste vorm in bulk moet voldoen aan de desbetreffende bepalingen van de IMSBC-Code als omschreven in [voorschrift VI/1-1.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=VI&deel=A&artikel=1-1&z=2011-01-01&g=2011-01-01).
+
+##### Voorschrift 8. Begripsomschrijvingen
+
+Tenzij uitdrukkelijk anders is bepaald, gelden voor de toepassing van dit Deel de volgende begripsomschrijvingen:
+
+- 1. „Internationale Code voor chemicaliën in bulk” is de Internationale Code voor de bouw en uitrusting van schepen die gevaarlijke chemicaliën in bulk vervoeren, door de Maritieme Veiligheidscommissie aangenomen bij resolutie MSC.4(48), zoals deze door de Organisatie kan worden gewijzigd, mits deze wijzigingen zijn aangenomen, van kracht zijn geworden en in werking zijn getreden overeenkomstig de bepalingen van [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VIII&z=2011-01-01&g=2011-01-01) van dit Verdrag betreffende de toepasselijke procedures voor wijziging van de Bijlage, behalve van [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2011-01-01&g=2011-01-01).
+
+- 2. „Chemicaliëntankschip” is een vrachtschip, gebouwd of aangepast en gebruikt voor het vervoer in bulk van een vloeibaar produkt dat staat vermeld in hoofdstuk 17 van de Internationale Code voor chemicaliën in bulk.
+
+- 3. Voor de toepassing van [Voorschrift 9](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=VII&deel=B&artikel=9&z=2011-01-01&g=2011-01-01) is een „schip dat wordt gebouwd” een schip, waarvan de kiel is gelegd of waarvan de bouw zich in een soortgelijk stadium bevindt.
+
+- 4. „Een soortgelijk bouwstadium” is het stadium waarin:
+
+- .1. de bouw ten behoeve van een specifiek schip aanvangt; en
+
+- .2. is aangevangen met de montage van dat schip, welke ten minste 50 ton of 1 procent van de geschatte massa van alle bouwmateriaal omvat, welke van beide het minst is.
+
+##### Voorschrift 9. Toepassing op chemicaliëntankschepen
+
+1. Tenzij uitdrukkelijk anders bepaald, is dit Deel van toepassing op chemicaliëntankschepen gebouwd op of na 1 juli 1986, met inbegrip van die met een bruto-inhoud van minder dan 500 ton. Deze tankschepen moeten voldoen aan de vereisten van dit Deel, naast andere van toepassing zijnde vereisten van deze Voorschriften.
+
+2. Een chemicaliëntankschip, ongeacht de datum van constructie, dat reparaties, wijzigingen, veranderingen, alsmede de daarmede verband houdende aanpassing van de uitrusting ondergaat, moet ten minste blijven voldoen aan de voorschriften die voordien op dat schip van toepassing waren. Indien het gaat om een schip gebouwd vóór 1 juli 1986, dient dit over het algemeen te voldoen aan de voorschriften voor een schip gebouwd op of na die datum, in dezelfde mate als voordat het zodanige reparaties, wijzigingen, veranderingen alsmede aanpassing van de uitrusting onderging. Reparaties, veranderingen en wijzigingen van ingrijpende aard, alsmede de daarmede verband houdende aanpassing van de uitrusting, moeten voldoen aan de voorschriften voor een schip gebouwd op of na 1 juli 1986, voor zover de Administratie zulks redelijk en uitvoerbaar acht.
+
+3. Een schip, ongeacht de datum van constructie, dat wordt verbouwd tot chemicaliëntankschip, wordt beschouwd als chemicaliëntankschip gebouwd op de datum waarop met deze verbouwing werd aangevangen.
+
+##### Voorschrift 10. Voorschriften voor chemicaliëntankschepen
+
+1. Een chemicaliëntankschip moet voldoen aan de voorschriften van de Internationale Code voor chemicaliën in bulk en moet behalve dat het moet voldoen aan de vereisten van de [Voorschriften I/8](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=8&z=2011-01-01&g=2011-01-01), [I/9](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=9&z=2011-01-01&g=2011-01-01) en [I/10](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=10&z=2011-01-01&g=2011-01-01), naar gelang toepasselijk, worden onderzocht en daarvoor moeten certificaten worden afgegeven, zoals bepaald in die Code.
+
+2. Een chemicaliëntankschip dat in het bezit is van een certificaat afgegeven ingevolge de bepalingen van het eerste lid, is onderworpen aan de controle vastgelegd in [Voorschrift I/19](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=19&z=2011-01-01&g=2011-01-01). Hiertoe wordt zulk een certificaat beschouwd als een certificaat afgegeven ingevolge [Voorschrift I/12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=12&z=2011-01-01&g=2011-01-01) of [I/13](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=13&z=2011-01-01&g=2011-01-01).
+
+##### Voorschrift 11. Begripsomschrijvingen
+
+Tenzij uitdrukkelijk anders is bepaald, gelden voor de toepassing van dit Deel de volgende begripsomschrijvingen:
+
+- 1. „Internationale Code voor gastankschepen” is de Internationale Code voor de bouw en uitrusting van schepen die vloeibaar gemaakte gassen in bulk vervoeren, door de Maritieme Veiligheidscommissie van de Organisatie aangenomen bij resolutie MSC.5(48), zoals deze door de Organisatie kan worden gewijzigd, mits deze wijzigingen zijn aangenomen, van kracht zijn geworden en in werking zijn getreden overeenkomstig de bepalingen van [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VIII&z=2011-01-01&g=2011-01-01) van dit Verdrag betreffende de toepasselijke procedures voor wijziging van de Bijlage, behalve van [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2011-01-01&g=2011-01-01).
+
+- 2. „Gastankschip” is een vrachtschip, gebouwd of aangepast en gebruikt voor het vervoer in bulk van een vloeibaar gemaakt gas of ander produkt dat staat vermeld in hoofdstuk 19 van de Internationale Code voor gastankschepen.
+
+- 3. Voor de toepassing van [Voorschrift 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=VII&deel=C&artikel=12&z=2011-01-01&g=2011-01-01) is een „schip dat wordt gebouwd” een schip, waarvan de kiel is gelegd of waarvan de bouw zich in een soortgelijk stadium bevindt.
+
+- 4. „Een soortgelijk bouwstadium” is het stadium waarin:
+
+- .1. de bouw ten behoeve van een specifiek schip aanvangt; en
+
+- .2. is aangevangen met de montage van dat schip, welke ten minste 50 ton of 1 procent van de geschatte massa van alle bouwmateriaal omvat, welke van beide het minst is.
+
+##### Voorschrift 12. Toepassing op gastankschepen
+
+1. Tenzij uitdrukkelijk anders bepaald, is dit Deel van toepassing op gastankschepen gebouwd op of na 1 juli 1986, met inbegrip van die met eenbruto-inhoud van minder dan 500 ton. Deze gastankschepen moeten voldoen aan de vereisten van dit Deel, naast andere van toepassing zijnde vereisten van deze Voorschriften.
+
+2. Een gastankschip, ongeacht de datum van constructie, dat reparaties, wijzigingen, veranderingen, alsmede de daarmede verband houdende aanpassing van de uitrusting ondergaat, moet ten minste blijven voldoen aan de voorschriften die voordien op dat schip van toepassing waren. Indien het gaat om een schip gebouwd vóór 1 juli 1986, dient dit over het algemeen te voldoen aan de voorschriften voor een schip gebouwd op of na die datum, in dezelfde mate als voordat het zodanige reparaties, wijzigingen, veranderingen alsmede aanpassing van de uitrusting onderging. Reparaties, veranderingen en wijzigingen van ingrijpende aard, alsmede de daarmede verband houdende aanpassing van de uitrusting, moeten voldoen aan de voorschriften voor een schip gebouwd op of na 1 juli 1986, voor zover de Administratie zulks redelijk en uitvoerbaar acht.
+
+3. Een schip, ongeacht de datum van constructie, dat wordt verbouwd tot gastankschip, wordt beschouwd als gastankschip gebouwd op de datum waarop met deze verbouwing werd aangevangen.
+
+##### Voorschrift 13. Voorschriften voor gastankschepen
+
+1. Een gastankschip moet voldoen aan de voorschriften van de Internationale Code voor gastankschepen en moet, behalve dat het moet voldoen aan de vereisten van de [Voorschriften I/8](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=8&z=2011-01-01&g=2011-01-01), [I/9](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=9&z=2011-01-01&g=2011-01-01) en [I/10](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=10&z=2011-01-01&g=2011-01-01), naar gelang toepasselijk, worden onderzocht en daarvoor moeten certificaten worden afgegeven, zoals bepaald in die Code. Voor de toepassing van dit Voorschrift worden de vereisten van de Code als bindend beschouwd.
+
+2. Een gastankschip dat in het bezit is van een certificaat afgegeven ingevolge de bepalingen van het eerste lid is onderworpen aan de controle vastgelegd in [Voorschrift I/19](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=19&z=2011-01-01&g=2011-01-01). Hiertoe wordt zulk een certificaat beschouwd als certificaat afgegeven ingevolge [Voorschrift I/12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=12&z=2011-01-01&g=2011-01-01) of [I/13](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=13&z=2011-01-01&g=2011-01-01).
+
+## DEEL D. BIJZONDERE VEREISTEN VOOR HET VERVOER VAN VERPAKTE BESTRAALDE SPLIJTSTOFFEN, PLUTONIUM EN HOOG-RADIOACTIEF AFVAL AAN BOORD VAN SCHEPEN
+
+##### Voorschrift 14. Begripsomschrijvingen
+
+Voor de toepassing van dit deel, tenzij uitdrukkelijk anders bepaald, wordt verstaan onder:
+
+- 1. **INF-Code**, de internationale Code inzake het veilige vervoer van verpakte bestraalde splijtstoffen, plutonium en hoog-radioactief afval aan boord van schepen, aangenomen door de Maritieme Veiligheidscommissie van de Organisatie bij resolutie MSC.88(71), eventueel als gewijzigd door de Organisatie, op voorwaarde dat deze wijzigingen worden aangenomen, in werking worden gesteld en van kracht worden overeenkomstig het bepaalde van [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VIII&z=2011-01-01&g=2011-01-01) van dit Verdrag betreffende de procedure voor wijziging die van toepassing is op de Bijlage, met uitzondering van [Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2011-01-01&g=2011-01-01).
+
+- 2. **INF-lading,** verpakte bestraalde splijtstoffen, plutonium en hoog-radioactief afval die als lading worden vervoerd overeenkomstig klasse 7 van de IMDG-Code.
+
+- 3. **Bestraalde splijtstoffen**, stoffen die uranium-, thorium- en/of plutonium-isotopen bevatten die gebruikt zijn om een zichzelf ondersteunende nucleaire kernreactie te laten voortduren.
+
+- 4. **Plutonium,** het resulterende mengsel van isotopen van dat materiaal dat uit het opwerken van bestraalde splijtstoffen wordt gewonnen.
+
+- 5. **Hoog-radioactief afval,** vloeibaar afval uit de eerste winningscyclus of het geconcentreerde afval van latere winningscycli, in een inrichting voor het opwerken van bestraalde splijtstoffen, of vaste stoffen waarin deze vloeibare afval is omgezet.
+
+##### Voorschrift 15. Toepassing op schepen die INF-lading vervoeren
+
+- 1. Behoudens als bedoeld in paragraaf 2, is dit deel van toepassing op alle schepen ongeacht de datum van bouw of omvang, met inbegrip van vrachtschepen met een brutotonnage van minder dan 500 ton, die INF-lading vervoeren.
+
+- 2. Dit deel en de INF-Code zijn niet van toepassing op oorlogsschepen, hulpschepen of andere schepen die eigendom zijn van of worden geëxploiteerd door een Verdragsluitende Regering, en, tijdelijk, uitsluitend voor niet-commerciële overheidsdiensten worden gebruikt; elke Administratie draagt er evenwel, door middel van de aanneming van passende maatregelen die geen belemmering vormen voor de activiteiten of operationele capaciteiten van deze schepen die in haar bezit zijn of door haar worden geëxploiteerd, zorg voor dat dergelijke schepen die INF-lading vervoeren zich, voor zover redelijk en praktisch uitvoerbaar, gedragen op een wijze die verenigbaar is met dit deel en met de INF-Code.
+
+- 3. Niets in dit deel of de INF-Code doet afbreuk aan de rechten en verplichtingen van regeringen uit hoofde van het internationaal recht en alle maatregelen die worden getroffen om de naleving af te dwingen moeten in overeenstemming zijn met het internationaal recht.
+
+##### Voorschrift 16. Vereisten voor schepen die INF-lading vervoeren
+
+- 1. Een schip dat INF-lading vervoert moet, naast de overige toepasselijke vereisten van deze voorschriften, de vereisten van de INF-Code naleven, en moet in overeenstemming met deze Code worden geïnspecteerd en gecertificeerd.
+
+- 2. Een schip dat is voorzien van een certificaat ingevolge de bepalingen van paragraaf 1, is onderworpen aan de in de [voorschriften I/19](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=19&z=2011-01-01&g=2011-01-01) en [XI/4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-1&artikel=4&z=2011-01-01&g=2011-01-01) genoemde inspecties. Voor dit doel wordt dat certificaat aangemerkt als een krachtens [voorschrift I/12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=12&z=2011-01-01&g=2011-01-01) of [I/13](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=13&z=2011-01-01&g=2011-01-01) afgegeven certificaat.
+
+##### Voorschrift 7. Veiligheidsdossier
+
+- (a). Er moet een veiligheidsdossier worden aangelegd, teneinde de mate van veiligheid van de kernenergie-installatie en van het schip te kunnen beoordelen om te waarborgen, dat geen buitensporige straling noch enig ander risico van nucleaire oorsprong, zowel op zee als in een haven aanwezig is voor de bemanning, de passagiers, het publiek en voor de waterwegen, voedsel en watervoorzieningen. Wanneer zodanig veiligheidsdossier, dat voortdurend moet worden bijgehouden, ten genoegen van de Administratie is, keurt zij dit goed.
+
+- (b). Het veiligheidsdossier moet tijdig te voren ter beschikking gesteld worden van de Verdragsluitende Regeringen van de landen, die een reactorschip voornemens is te bezoeken, opdat deze de mate van veiligheid van het schip kunnen beoordelen.
+
+##### Voorschrift 8. Bandleiding voor het bedrijf
+
+Er moet een volledig gedetailleerde handleiding voor het bedrijf worden samengesteld ter voorlichting van en als leidraad voor het bedienende personeel inzake hun plichten met betrekking tot al hetgeen verband houdt met de behandeling van de kernenergie-installatie en van bijzonder belang is voor de veiligheid.
+
+Wanneer deze handleiding ten genoegen van de Administratie is, keurt zij deze goed; één exemplaar moet aan boord van het schip worden gehouden. De handleiding voor het bedrijf moet voortdurend worden bijgehouden.
+
+##### Voorschrift 9. Onderzoeken
+
+Het onderzoek van reactorschepen moet voldoen aan de van toepassing zijnde bepalingen van [Voorschrift 7 van Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=7&z=2011-01-01&g=2011-01-01), of van de [Voorschriften 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=8&z=2011-01-01&g=2011-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=9&z=2011-01-01&g=2011-01-01) en [10 van Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=10&z=2011-01-01&g=2011-01-01), behalve wanneer zodanig onderzoek beperkt moet worden door de aanwezigheid van straling. Daarenboven moeten de onderzoeken zich uitstrekken over alle speciale eisen, voorkomende in het veiligheidsdossier. De onderzoeken moeten in elk geval, niettegenstaande de bepalingen van de Voorschriften 8 en 10 van Hoofdstuk I, tenminste eenmaal per jaar worden gehouden.
+
+##### Voorschrift 10. Certificaten
+
+- (a). De bepalingen van [paragraaf (a) van Voorschrift 12 van Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=12&z=2011-01-01&g=2011-01-01) en van [Voorschrift 14 van Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=14&z=2011-01-01&g=2011-01-01) zijn niet van toepassing op reactorschepen.
+
+- (b). Een certificaat, genaamd „Veiligheidscertificaat voor Reactor-Passagiersschepen” dient te worden afgegeven na inspectie en onderzoek van een reactor-passagiersschip dat voldoet aan de eisen, gesteld in de [Hoofdstukken II-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&z=2011-01-01&g=2011-01-01), [II-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&z=2011-01-01&g=2011-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&z=2011-01-01&g=2011-01-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&z=2011-01-01&g=2011-01-01) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=VIII&z=2011-01-01&g=2011-01-01), en aan alle andere van toepassing zijnde eisen van deze Voorschriften.
+
+- (c). Een certificaat, genaamd „Veiligheidscertificaat voor Reactor-Vrachtschepen” dient te worden afgegeven na inspectie en onderzoek van een reactor-vrachtschip dat bij „survey” voldoet aan de eisen voor vrachtschepen, gesteld in [Voorschrift 10 van Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=10&z=2011-01-01&g=2011-01-01), en dat tevens voldoet aan de eisen, gesteld in de [Hoofdstukken II-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&z=2011-01-01&g=2011-01-01), [II-2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&z=2011-01-01&g=2011-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=III&z=2011-01-01&g=2011-01-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV&z=2011-01-01&g=2011-01-01) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=VIII&z=2011-01-01&g=2011-01-01), en alle andere van toepassing zijnde eisen van deze Voorschriften.
+
+- (d). Veiligheidscertificaten voor reactor-passagiersschepen en veiligheidscertificaten voor reactor-vrachtschepen moeten vaststellen: „dat het schip, zijnde een reactorschip, voldoet aan alle eisen, gesteld in [Hoofdstuk VIII van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=VIII&z=2011-01-01&g=2011-01-01) en in overeenstemming is met het vermelde in het voor het schip goedgekeurde veiligheidsdossier”.
+
+- (e). Veiligheidscertificaten voor reactor-passagiersschepen en voor reactor-vrachtschepen mogen niet langer geldig zijn dan gedurende een periode van 12 maanden.
+
+- (f). Veiligheidscertificaten voor reactor-passagiersschepen en veiligheidscertificaten voor reactor-vrachtschepen moeten worden afgegeven door de Administratie of door enig persoon of enige organisatie, die daartoe behoorlijk door haar gemachtigd is. In elk geval neemt die Administratie de volle verantwoordelijkheid voor het certificaat op zich.
+
+##### Voorschrift 11. Speciale controle
+
+Behalve aan de controle, in [Voorschrift 19 van Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=19&z=2011-01-01&g=2011-01-01) vastgesteld, moeten reactorschepen, voordat zij de havens van Verdragsluitende Regeringen binnenlopen en zolang zij in die havens verblijven, worden onderworpen aan een speciale controle, welke erop is gericht te verifiëren dat een geldig veiligheidscertificaat voor een reactorschip aan boord is en dat geen buitensporige straling of enig ander risico van nucleaire oorsprong, zowel op zee als in een haven aanwezig is voor de bemanning, de passagiers, het publiek en voor de waterwegen, voedsel en watervoorzieningen.
+
+##### Voorschrift 12. Ongevallen
+
+Van elk ongeval, dat gevaar voor de omgeving zou kunnen opleveren, moet de kapitein van een reactorschip onmiddellijk de Administratie in kennis stellen. De kapitein moet tevens onmiddellijk de bevoegde regeringsinstantie van het land in welks wateren het schip zich bevindt, of welks wateren het in beschadigde toestand nadert, waarschuwen.
+
+##### Voorschrift 4. Certificering
+
+1. Een conformiteitsdocument wordt afgegeven aan alle maatschappijen die voldoen aan de voorschriften van de ,International Safety Management Code’. Dit document wordt afgegeven door de Administratie, door een door de Administratie erkende organisatie, of op verzoek van de Administratie door een andere Verdragsluitende Regering.
+
+2. Een afschrift van het conformiteitsdocument dient aan boord van het schip te worden bewaard, zodat de kapitein dit, indien hij daarom wordt verzocht, ter verificatie kan overleggen.
+
+3. Een certificaat, genaamd ,Veiligheidsmanagementcertificaat’, wordt aan alle schepen afgegeven door de Administratie of door een door de Administratie erkende organisatie. De Administratie of de door haar erkende organisatie dient, alvorens het ,Veiligheidsmanagementcertificaat’ af te geven, te verifiëren of het management van de maatschappij en haar management aan boord van het schip functioneren overeenkomstig het goedgekeurde veiligheidsmanagementsysteem.
+
+##### Voorschrift 5. Instandhouding
+
+Het veiligheidsmanagementsysteem moet in stand worden gehouden overeenkomstig de bepalingen van de International Safety Management Code.
+
+##### Voorschrift 6. Verificatie en controle
+
+1. De Administratie, of op verzoek van de Administratie een andere Overeenkomstsluitende Regering of een door de Administratie erkende organisatie, dient periodieke controles te verrichten naar de goede functionering van het veiligheidsmanagementsysteem van het schip.
+
+2. dient een schip dat in het bezit moet zijn van een certificaat dat wordt afgegeven krachtens de bepalingen van [voorschrift 4.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=4&z=2011-01-01&g=2011-01-01), te worden onderworpen aan de controle zoals bedoeld in de bepalingen van voorschrift XI/4. Hiertoe dient een dergelijk certificaat te worden beschouwd als een certificaat afgegeven op grond van [voorschrift I/12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=12&z=2011-01-01&g=2011-01-01) of [I/13](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=13&z=2011-01-01&g=2011-01-01).
+
+### HOOFDSTUK XI-1. SPECIALE MAATREGELEN TER VERBETERING VAN DE VEILIGHEID OP ZEE
+
+##### Voorschrift 1. Bevoegdverklaring van de erkende organisaties
+
+De in voorschrift I/6 bedoelde organisaties moeten de richtlijnen naleven die de Organisatie heeft aangenomen door resolutie A.739(18) eventueel als gewijzigd door de Organisatie, en de door de Organisatie door resolutie A.789(19) aangenomen specificaties, eventueel als gewijzigd door de Organisatie, op voorwaarde dat deze wijzigingen worden aangenomen, in werking worden gesteld en van kracht worden overeenkomstig het bepaalde in artikel VIII van dit Verdrag betreffende de procedure voor wijziging die van toepassing is op de Bijlage, met uitzondering van Hoofdstuk I.
+
+##### Voorschrift 2. Verzwaring onderzoeken
+
+Bulkcarriers zoals omschreven in voorschrift IX/1.6 en olietankschepen zoals omschreven in voorschrift II-1/2.22 worden onderworpen aan een verzwaard inspectieprogramma, in overeenstemming met de bij resolutie A.744(18) door de Vergadering van de Organisatie aangenomen richtlijnen, zoals deze kunnen worden gewijzigd door de Organisatie, mits de wijzigingen worden aangenomen, in werking treden en van kracht worden in overeenstemming met de bepalingen van artikel VIII van dit Verdrag inzake de wijzigingsprocedures die van toepassing zijn op de Bijlage, met uitzondering van hoofdstuk I.
+
+##### Voorschrift 3. Scheepsidentificatienummer
+
+1. Dit voorschrift is van toepassing op alle passagiersschepen met een bruto tonnage van 100 of meer en op alle vrachtschepen met een bruto tonnage van 300 of meer.
+
+2. Elk schip wordt voorzien van een identificatienummer dat in overeenstemming is met het IMO-scheepsidentificatiesysteem dat door de Organisatie is aangenomen.
+
+3. Het identificatienummer van een schip wordt vermeld op de certificaten en op de gewaarmerkte afschriften daarvan die worden afgegeven krachtens [voorschrift I/12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=12&z=2011-01-01&g=2011-01-01) of [I/13](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&deel=B&artikel=13&z=2011-01-01&g=2011-01-01).
+
+4. Het scheepsidentificatienummer dient duurzaam te zijn aangebracht:
+
+.1 op een zichtbare plaats, hetzij op de achtersteven van het schip of aan beide zijden van de romp, midscheeps aan stuur- en bakboord, boven de diepste vastgestelde lastlijn of aan beide zijden van de bovenbouw, aan stuurboord en bakboord of aan de voorzijde van de bovenbouw of, in het geval van passagiersschepen, op een horizontaal oppervlak dat zichtbaar is vanuit de lucht; en
+
+.2 op een gemakkelijk toegankelijke plaats, hetzij op een van de einddwarsschotten van de machineruimtes, als omschreven in [voorschrift II-2/3.30](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-2&deel=A&artikel=3&z=2011-01-01&g=2011-01-01), of op een van de luiken, of in het geval van tankschepen, in de pompkamer of, in het geval van schepen met ro-ro ruimten, als omschreven in voorschrift II-2/3.41, op een van de einddwarsschotten van de ro-ro ruimten.
+
+5.1 Het duurzaam aangebrachte nummer dient goed zichtbaar te zijn, zich op afstand te bevinden van andere markeringen op de romp en aangebracht te zijn in een contrasterende kleur.
+
+5.2 De cijfers van het in paragraaf 4.1 bedoelde nummer dienen ten minste 200 mm hoog te zijn. De cijfers van het in paragraaf 4.2 bedoelde nummer dienen ten minste 100 mm hoog te zijn. De breedte van de cijfers dient in verhouding te staan tot de hoogte.
+
+5.3 Het duurzaam aangebrachte nummer kan worden aangebracht in de vorm van opliggende cijfers, of met behulp van graveren of centerponsen of met behulp van een andere vergelijkbare methode voor het aanbrengen van het scheepsidentificatienummer die waarborgt dat het nummer niet snel onleesbaar wordt.
+
+5.4 Op schepen vervaardigd van ander materiaal dan staal of metaal, dient de Administratie de methode voor het aanbrengen van het scheepsidentificatienummer goed te keuren.
+
+##### Voorschrift 3-1. Identificatienummer maatschappij en geregistreerde eigenaar
+
+1. Dit voorschrift is van toepassing op maatschappijen en geregistreerde eigenaren van schepen waarop [Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2011-01-01&g=2011-01-01) van toepassing is.
+
+2. Voor de toepassing van dit voorschrift is een geregistreerde eigenaar een eigenaar als aangegeven door de Administratie en de maatschappij als omschreven in [voorschrift IX/1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=1&z=2011-01-01&g=2011-01-01).
+
+3. Elke maatschappij en geregistreerde eigenaar ontvangt een identificatienummer dat voldoet aan de door de Organisatie aangenomen IMO-Regeling Uniek Identificatienummer Maatschappij en geregistreerde eigenaar .
+
+4. Het identificatienummer van de maatschappij moet worden vermeld op de certificaten en op de gewaarmerkte afschriften daarvan, afgegeven ingevolge [voorschrift IX/4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IX&artikel=4&z=2011-01-01&g=2011-01-01) en afdeling A/19.2 of A/19.4 van de ISPS-Code.
+
+5. Dit voorschrift wordt van kracht wanneer de in paragraaf 4 bedoelde certificaten worden afgegeven of vernieuwd op of na 1 januari 2009.
+
+### HOOFDSTUK XII. AANVULLENDE VEILIGHEIDSMAATREGELEN VOOR BULKCARRIERS
+
+##### Voorschrift 1. Begripsomschrijvingen
+
+Voor de toepassing van dit Hoofdstuk wordt verstaan onder:
+
+- 1. **Bulkcarrier**, een schip dat hoofdzakelijk bedoeld is voor het vervoer van droge lading in bulk, met inbegrip vantypen schepen als ertsschepen en combination carriers
+
+- 2. **Bulkcarrier met een enkelzijdige huidconstructie**, een bulkcarrier als omschreven in paragraaf 1: Onder deze schepen vallen mede combination carriers waarin enig deel van het ladinggedeelte door de scheepshuid wordt begrensd.
+
+- .1. waarbij enig deel van de lading door de scheepshuid wordt begrensd; of
+
+- .2. waarbij een of meer ladinggedeelten door een dubbelzijdige huid zijn begrensd, met een breedte van minder dan 760 mm op bulkcarriers gebouwd vóór 1 januari 2000 en minder dan 1000 mm op bulkcarriers gebouwd op of na 1 januari 2000, doch vóór 1 juli 2006; de afstand wordt evenwijdig met de scheepshuid gemeten.
+
+- 3. **Bulkcarrier met een dubbelzijdige huidconstructie**, een bulkcarrier als omschreven in paragraaf 1, waarin alle ladinggedeelten door een dubbele huid worden begrensd, anders dan omschreven in paragraaf 2.2
+
+- 4. **Dubbelzijdige huid**, een indeling waarbij elke scheepszijde bestaat uit de scheepshuid en een lengteschot dat de dubbele bodem en het dek met elkaar verbindt. Wanneer hopper- en top-zijtanks zijn aangebracht, mogen deze een integrerend onderdeel van de dubbele-huidindeling vormen.
+
+- 5. **Lengte** van een bulkcarrier, de lengte als omschreven in het van kracht zijnde [Internationaal Verdrag betreffende de uitwatering van schepen](https://wetten.overheid.nl/jci1.3:c:BWBV0003267).
+
+- 6. **Vaste bulklading**, een stof, anders dan een vloeistof of gas, bestaande uit een combinatie van deeltjes, korrels of grotere stukken materiaal, in het algemeen uniform van samenstelling, die rechtstreeks in de laadruimten van een schip wordt geladen zonder andere vorm van verpakking.
+
+- 7. **Normen voor schotten en dubbele bodemsterkte bij bulkcarriers**, „Normen voor de beoordeling van de verbanddelen van het waterdichte verticaal gegolfde dwarsschot tussen de twee voorste laadruimen en voor de beoordeling van de toelaatbare ruimlading in het voorste laadruim”, op 27 november 1997 aangenomen bij resolutie 4 van de Conferentie van Verdragsluitende Regeringen bij het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974, als door de Organisatie kan worden gewijzigd, mits deze wijzigingen worden aangenomen, van kracht worden en in werking treden in overeenstemming met de bepalingen van [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VIII&z=2011-01-01&g=2011-01-01) van dit Verdrag, betreffende de wijzigingsprocedures die van toepassing zijn op de Bijlage, met uitzondering van [Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2011-01-01&g=2011-01-01) daarvan.
+
+- 8. **Bulkcarriers die worden gebouwd,** bulkcarriers waarvan de kiel is gelegd of waarvan de bouw zich in een soortgelijk stadium bevindt.
+
+- 9. **Een soortgelijk bouwstadium**, het stadium waarin:
+
+- .1. de bouw ten behoeve van een specifiek schip aanvangt; en
+
+- .2. is aangevangen met de montage van dat schip, die ten minste 50 ton of 1 procent van de geschatte massa van alle bouwmateriaal omvat, naargelang welke van beide het minst is.
+
+- 10. **Breedte**(B)van een bulkcarrier, de breedte als omschreven in het van kracht zijnde [Internationaal Verdrag betreffende de uitwatering van schepen](https://wetten.overheid.nl/jci1.3:c:BWBV0003267).
+
+##### Voorschrift 2. Toepasselijkheid
+
+Bulkcarriers moeten voldoen aan de vereisten van dit Hoofdstuk, in aanvulling op de toepasselijke vereisten van andere Hoofdstukken.
+
+##### Voorschrift 3. Implementatieschema
+
+Bulkcarriers gebouwd vóór 1 juli 1999 waarop [voorschrift 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=4&z=2011-01-01&g=2011-01-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=6&z=2011-01-01&g=2011-01-01) van toepassing is, moeten aan de bepalingen van deze voorschriften voldoen in overeenstemming met het volgende schema, onder verwijzing naar het uitgebreide inspectieprogramma vereist in [voorschrift XI-1/2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-1&artikel=2&z=2011-01-01&g=2011-01-01):
+
+- .1. bulkcarriers die op 1 juli 1999 20 jaar of ouder waren, op de datum van de eerste tussentijdse inspectie of de eerste periodieke inspectie na 1 juli 1999, naargelang van welke datum eerder valt;
+
+- .2. bulkcarriers die op 1 juli 1999 15 jaar of ouder waren, maar minder dan 20 jaar oud, op de datum van de eerste periodieke inspectie na 1 juli 1999, doch uiterlijk 1 juli 2002; en
+
+- .3. bulkcarriers die op 1 juli 1999 minder dan 15 jaar oud waren, op de datum van de eerste periodieke inspectie na de datum waarop het schip 15 jaar wordt, doch uiterlijk op de datum waarop het schip 17 jaar wordt.
+
+##### Voorschrift 4. Op bulkcarriers toepasselijke vereisten inzake stabiliteit bij averij
+
+1. Bulkcarriers met een lengte van 150 m en meer met een enkelzijdige huidconstructie, ontworpen voor het vervoer van vaste bulkladingen met een dichtheid van 1000 kg/m3 en meer, gebouwd op of na 1 juli 1999 moeten, wanneer deze zijn geladen tot de zomerlastlijn, vollopen van willekeurig welk laadruim onder alle laadomstandigheden kunnen weerstaan en in een goede evenwichtstoestand blijven drijven, als vermeld in paragraaf 4.
+
+2. Bulkcarriers met een lengte van 150 m en meer met een dubbelzijdige huidconstructie, waarbij enig deel van het langsschot is gelegen binnen B/5 of 11,5 m, naargelang welke afstand geringer is, gemeten van de huid naar binnen toe loodrecht op hart schip op de toegewezen zomerlastlijn, ontworpen voor het vervoer van vaste bulkladingen met een dichtheid van 1000 kg/m3 en meer, gebouwd op of na 1 juli 2006 moeten, wanneer deze zijn geladen tot de zomerlastlijn, vollopen van willekeurig welk laadruim onder alle laadomstandigheden kunnen weerstaan en in een goede evenwichtstoestand blijven drijven, als vermeld in paragraaf 4.
+
+3. Bulkcarriers met een lengte van 150 m en meer met een enkelzijdige huidconstructie, die vaste bulkladingen vervoeren met een dichtheid van 1780 kg/m3 en meer, gebouwd vóór 1 juli 1999 moeten, wanneer deze zijn geladen tot de zomerlastlijn, vollopen van het voorste laadruim onder alle laadomstandigheden kunnen weerstaan en in een goede evenwichtstoestand blijven drijven, als vermeld in paragraaf 4. Aan dit vereiste moet worden voldaan in overeenstemming met het in [voorschrift 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=3&z=2011-01-01&g=2011-01-01) vermelde implementatieschema.
+
+4. Onder voorbehoud van de bepalingen van paragraaf 7 moet de evenwichtstoestand na vollopen overeenkomen met de evenwichtstoestand vervat in de bijlage bij resolutie A.320(IX) – Voorschrift equivalent aan [voorschrift 27 van het Internationaal Verdrag betreffende de uitwatering van schepen, 1966](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=27), als gewijzigd bij resolutie A.514(13). Bij het veronderstelde vollopen behoeft alleen rekening te worden gehouden met het vollopen van het laadruim tot het waterniveau aan de buitenzijde van het schip in die volgelopen toestand. De permeabiliteit van een geladen ruim wordt verondersteld 0,9 te zijn en die van een leeg ruim 0,95, tenzij een voor een specifieke lading relevante permeabiliteit wordt verondersteld voor het volume van een volgelopen ruim met lading en een permeabiliteit van 0,95 wordt verondersteld voor het resterende lege deel van het ruim.
+
+5. Bulkcarriers gebouwd vóór 1 juli 1999, waaraan overeenkomstig [voorschrift 27(7) van het Internationaal Verdrag betreffende de uitwatering van schepen, 1966](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=27), als aangenomen op 5 april 1966 een beperkt vrijboord is toegewezen, mogen worden aangemerkt als in overeenstemming met paragraaf 3 van dit voorschrift.
+
+6. Bulkcarriers waaraan overeenkomstig de bepalingen van paragraaf (8) van het voorschrift equivalent aan [voorschrift 27 van het Internationaal Verdrag betreffende de uitwatering van schepen, 1966](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=27), aangenomen bij resolutie A.320(IX), als gewijzigd bij resolutie A.514(13) een beperkt vrijboord is toegewezen, mogen worden aangemerkt als in overeenstemming met paragraaf 1 of 2, naargelang van welke van toepassing is.
+
+7. Ten aanzien van bulkcarriers waaraan in overeenstemming met de bepalingen van [voorschrift 27(8) van Bijlage B van het Protocol van 1988](onbekend) met betrekking tot het [Internationaal Verdrag betreffende de uitwatering van schepen, 1966](https://wetten.overheid.nl/jci1.3:c:BWBV0003267), een beperkt vrijboord is toegewezen, moet de evenwichtstoestand na vollopen voldoen aan de desbetreffende bepalingen van dat Protocol.
+
+##### Voorschrift 5. Constructiesterkte van bulkcarriers
+
+1. Bulkcarriers met een lengte van 150 m en meer, met een enkelzijdige huidconstructie, ontworpen voor het vervoer van vaste bulkladingen met een dichtheid van 1000 kg/m3 en meer, gebouwd op of na 1 juli 1999, moeten voldoende sterk zijn om vollopen van willekeurig welk laadruim tot het waterniveau buitenboord het schip in die volgelopen toestand in elke laad- en ballasttoestand te weerstaan, mede met inachtneming van dynamische effecten door de aanwezigheid van water in het ruim, en met inachtneming van de door de Organisatie aangenomenaanbevelingen.
+
+2. Bulkcarriers met een lengte van 150 m en meer met een dubbelzijdige huidconstructie, waarbij enig deel van het langsschot is gelegen binnen B/5 of 11,5 m, naargelang welke afstand geringer is, gemeten van de huid naar binnen toe loodrecht op hart schip op de toegewezen zomerlastlijn, ontworpen voor het vervoer van bulkladingen met een dichtheid van 1000 kg/m3 en meer, gebouwd op of na 1 juli 2006, moeten voldoen aan de in paragraaf 1 vervatte bepalingen inzake constructiesterkte.
+
+##### Voorschrift 6. Constructie- en andere vereisten voor bulkcarriers
+
+1. Bulkcarriers met een lengte van 150 m en meer met een enkelzijdige huidconstructie, die vaste bulkladingen vervoeren met een dichtheid van 1780 kg/m3 en meer, gebouwd vóór 1 juli 1999, moeten in overeenstemming met het in [voorschrift 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=3&z=2011-01-01&g=2011-01-01) vermelde implementatieschema aan de volgende vereisten voldoen:
+
+- .1. Het waterdichte dwarsschot tussen de twee voorste laadruimen en de dubbele bodem van het voorste laadruim moet voldoende sterk zijn om vollopen van het voorste laadruim te weerstaan, tevens rekening houdend met de dynamische effecten als gevolg van de aanwezigheid van water in het ruim, conform de normen voor de sterkte van schotten en dubbele bodems van bulkcarriers. Voor de toepassing van dit voorschrift worden de normen voor de sterkte van schotten en dubbele bodems van bulkcarriers als dwingende normen aangemerkt.
+
+- .2. Bij de beoordeling van de behoefte aan, en de mate van, versterking van het waterdichte dwarsschot of de dubbele bodem teneinde aan de vereisten van 1.1 te voldoen, kan met de volgende beperkingen rekening worden gehouden:
+
+- .1. beperkingen ten aanzien van de verdeling van het totale gewicht van de lading over de laadruimen; en
+
+- .2. beperkingen ten aanzien van het maximum draagvermogen.
+
+- .3. Ten aanzien van bulkcarriers waarop een van de in 1.2.1 en 1.2.2 genoemde beperkingen, of beide, worden toegepast om aan de vereisten van paragraaf 1.1 te voldoen, moet aan deze beperkingen worden voldaan wanneer vaste bulkladingen met een dichtheid van 1780 kg/m3 en meer worden vervoerd.
+
+2. Bulkcarriers met een lengte van 150 m en meer, gebouwd op of na 1 juli 2006, moeten in alle zones met een dubbelzijdige huidconstructie aan de volgende vereisten voldoen:
+
+- .1. Primaire verstijvingsstructuren van de dubbelzijdige huid mogen niet binnen het laadruim worden aangebracht.
+
+- .2. Onverminderd de onderstaande bepalingen mag de afstand tussen de buiten- en de binnenhuid in geen enkele dwarssectie minder bedragen dan 1000 mm, gemeten evenwijdig met de zijhuid. De dubbelzijdige huidconstructie moet zodanig zijn dat toegang voor inspectiedoeleinden mogelijk is, als bepaald in [voorschrift II-1/3-6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=3&z=2011-01-01&g=2011-01-01) en in de daarnaar verwijzende Technische Bepalingen.
+
+- .1. De vrije ruimten beneden behoeven niet te worden ondersteund door kruisverbanden, bovenste en onderste steunen van dwarsspanten of eindsteunen van langsspanten.
+
+- .2. De minimumbreedte van de vrije doorgang door de dubbelzijdige huidruimte ter hoogte van obstakels zoals pijpleidingen of verticale ladders moet ten minste 600 mm bedragen.
+
+- .3. Wanneer de binnen- en/of buitenhuid van dwarsspanten zijn voorzien, moet de vrije ruimte tussen de binnenste oppervlakken van de spanten ten minste 600 mm bedragen.
+
+- .4. Wanneer de binnen- en buitenhuid van lengtespanten zijn voorzien, moet de vrije ruimte tussen de binnenste oppervlakken van de spanten ten minste 800 mm bedragen. Buiten het parallelle deel van de lengte van het laadruim mag deze vrije ruimte worden beperkt wanneer de bouwconstructie zulks nodig maakt; de vrije ruimte mag echter nimmer minder dan 600 mm bedragen.
+
+- .5. De hierboven bedoelde vrije ruimte is de kortste afstand gemeten tussen denkbeeldige lijnen die een verbinding vormen tussen de binnenste oppervlakken van de spanten en de binnen- en buitenhuid.
+
+- 3. De ruimten van de dubbelzijdige zijhuid, met uitzondering van bovenzijtanks, indien aanwezig, mogen niet worden gebruikt voor het vervoer van lading.
+
+- 4. Op bulkcarriers met een lengte van 150 m en meer, waarmee vaste bulkladingen worden vervoerd met een dichtheid van 1000 kg/m3 en meer, gebouwd op of na 1 juli 2006:
+
+- .1. moet de constructie van de laadruimen zodanig zijn dat alle mogelijke ladingen kunnen worden geladen en gelost met standaard laad- en losapparatuur en -procedures, zonder beschadiging waardoor de veiligheid van de constructie in het geding zou kunnen komen;
+
+- .2. moet de effectieve continuïteit tussen de huidconstructie en de rest van de rompconstructie worden gewaarborgd; en
+
+- .3. moet de constructie van ladinggedeelten zodanig zijn dat het falen van een onderdeel van de verstijvingsconstructie niet leidt tot het onmiddellijk falen van andere constructiedelen, waardoor mogelijk alle verstijvingspanelen het zullen begeven.
+
+##### Voorschrift 7. Inspectie en onderhoud van bulkcarriers
+
+1. Bulkcarriers met een lengte van 150 m en meer met een enkelzijdige huidconstructie, gebouwd vóór 1 juli 1999, van 10 jaar en ouder, mogen geen vaste bulkladingen met een dichtheid van 1780 kg/m3 en meer vervoeren, tenzij het schip met succes:
+
+- .1. een periodieke inspectie heeft ondergaan in overeenstemming met het uitgebreide inspectieprogramma tijdens onderzoeken als vereist in [voorschrift XI-1/2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-1&artikel=2&z=2011-01-01&g=2011-01-01); of
+
+- .2. een inspectie heeft ondergaan van alle laadruimen, in dezelfde mate als die welke vereist is voor periodieke inspecties krachtens het uitgebreide inspectieprogramma tijdens onderzoeken als vereist in [voorschrift XI-1/2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-1&artikel=2&z=2011-01-01&g=2011-01-01).
+
+2. Bulkcarriers moeten voldoen aan de onderhoudsvereisten vermeld in [voorschrift II-1/3-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=A&artikel=3&z=2011-01-01&g=2011-01-01) en de Normen voor inspectie en onderhoud van luikopeningen op bulkcarriers door eigenaren, aangenomen door de Organisatie bij resolutie MSC.169(79), als door de Organisatie kan worden gewijzigd, mits deze wijzigingen worden aangenomen, in werking worden gesteld en van kracht worden overeenkomstig het bepaalde in [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VIII&z=2011-01-01&g=2011-01-01) van dit Verdrag betreffende de procedures voor wijziging die van toepassing zijn op de Bijlage, met uitzondering van [Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2011-01-01&g=2011-01-01).
+
+##### Voorschrift 8. Informatie inzake naleving van de vereisten voor bulkcarriers
+
+1. Het in [voorschrift VI/7.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=VI&deel=B&artikel=7&z=2011-01-01&g=2011-01-01) vereiste boekje moet door of namens de Administratie worden afgetekend teneinde aan te geven dat aan de [voorschriften 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=4&z=2011-01-01&g=2011-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=5&z=2011-01-01&g=2011-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=6&z=2011-01-01&g=2011-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=7&z=2011-01-01&g=2011-01-01), naargelang welk van toepassing is, is voldaan.
+
+2. Eventuele beperkingen gesteld aan het vervoer van vaste bulkladingen met een dichtheid van 1780 kg/m3 en meer in overeenstemming met de vereisten van de [voorschriften 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=6&z=2011-01-01&g=2011-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=14&z=2011-01-01&g=2011-01-01), moeten in het in paragraaf 1 bedoelde boekje worden vermeld en geregistreerd.
+
+3. Een bulkcarrier waarop paragraaf 2 van toepassing is, moet worden voorzien van een permanente markering op de zijhuid midscheeps, aan bakboord en stuurboord, door middel van een volle gelijkzijdige driehoek met zijden van 500 mm en de top 300 mm onder de deklijn, en geschilderd in een kleur die met de kleur van de romp contrasteert.
+
+##### Voorschrift 9. Vereisten voor bulkcarriers die als gevolg van het ontwerp van hun laadruimen niet kunnen voldoen aan [voorschrift 4.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=4&z=2011-01-01&g=2011-01-01)
+
+Voor bulkcarriers gebouwd vóór 1 juli 1999 die binnen de toepassingsgrenzen van [voorschrift 4.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=4&z=2011-01-01&g=2011-01-01) vallen, die zijn gebouwd met een onvoldoende aantal waterdichte dwarsschotten om aan dat voorschrift te voldoen, kan de Administratie ontheffing van de toepassing van de [voorschriften 4.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=4&z=2011-01-01&g=2011-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=6&z=2011-01-01&g=2011-01-01) verlenen, mits deze aan de volgende vereisten voldoen:
+
+- .1. ten aanzien van het voorste laadruim moeten de in het door [voorschrift XI-1/2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-1&artikel=2&z=2011-01-01&g=2011-01-01) vereiste uitgebreide inspectieprogramma voorgeschreven inspecties tijdens onderzoeken voor de jaarlijkse inspectie worden vervangen door de inspecties die daarin zijn voorgeschreven voor de tussentijdse inspectie van laadruimen;
+
+- .2. zij moeten in alle laadruimen, of in ladingtransporttunnels, naargelang hetgeen van toepassing is, zijn voorzien van alarmvoorzieningen voor hoge waterniveaus in lensputten die een hoorbaar en zichtbaar alarm op de navigatiebrug geven, als goedgekeurd door de Administratie of door een door haar in overeenstemming met de bepalingen van [voorschrift XI-1/1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XI-1&artikel=1&z=2011-01-01&g=2011-01-01) erkende organisatie; en
+
+- .3. zij moeten aan boord over gedetailleerde informatie beschikken op het gebied van specifieke scenario’s bij volgelopen laadruimen. Deze informatie moet gedetailleerde instructies bevatten inzake evacuatievoorbereiding krachtens de bepalingen van afdeling 8 van de International Safety Management Code (ISM-Code) en moet kunnen worden gebruikt als uitgangspunt voor opleidingen en oefeningen voor de bemanning.
+
+##### Voorschrift 10. Verklaring omtrent de dichtheid van vaste bulklading
+
+1. Voordat bulklading in bulkcarriers met een lengte van 150 m en meer wordt geladen, moet de expediteur, naast het verstrekken van de krachtens [voorschrift VI/2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=VI&deel=A&artikel=2&z=2011-01-01&g=2011-01-01) vereiste ladinggegevens opgave doen van de dichtheid van de lading.
+
+2. Ten aanzien van bulkcarriers waarop [voorschrift 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=VI&deel=B&artikel=6&z=2011-01-01&g=2011-01-01) van toepassing is, moet van alle lading waarvan wordt aangegeven dat deze een dichtheid tussen 1250 kg/m3 en 1780 kg/m3 heeft, de dichtheid door een geaccrediteerde beproevingsinstantie worden geverifieerd, tenzij deze bulkcarriers voldoen aan alle relevante vereisten van dit Hoofdstuk die van toepassing zijn op het vervoer van vaste bulkladingen met een dichtheid van 1780 kg/m3 en meer.
+
+##### Voorschrift 11. Laadinstrument
+
+(Tenzij anderszins bepaald, is dit voorschrift van toepassing op bulkcarriers, ongeacht de datum van bouw)
+
+1. Bulkcarriers met een lengte van 150 m en meer moeten worden uitgerust met een laadinstrument dat gegevens kan verstrekken inzake de dwarskrachten en buigmomenten op de rompbalken, met inachtneming vande door de Organisatie aangenomen aanbeveling.
+
+2. Bulkcarriers met een lengte van 150 m en meer, gebouwd vóór 1 juli 1999 moeten uiterlijk op de datum van de eerste tussentijdse of periodieke inspectie van het schip na 1 juli 1999 voldoen aan de vereisten van paragraaf 1.
+
+3. Bulkcarriers met een lengte van minder dan 150 m, gebouwd op of na 1 juli 2006 moeten zijn uitgerust met een laadinstrument dat gegevens kan verstrekken inzake de stabiliteit van het schip in onbeschadigde toestand. De computersoftware moet door de Administratie zijn goedgekeurd voor de berekening van stabiliteitsgegevens en moet zijn voorzien van standaardvoorwaarden voor testdoeleinden ten aanzien vande goedgekeurde stabiliteitsgegevens.
+
+##### Voorschrift 12. Waterniveaualarmen voor ruimen, ballastruimen en droge ruimten
+
+(Dit voorschrift is van toepassing op bulkcarriers, ongeacht de datum van bouw)
+
+1. Bulkcarriers moeten zijn uitgerust met waterniveaudetectoren:
+
+- .1. in elk laadruim, voorzien van een hoorbaar en zichtbaar alarm, een wanneer het waterniveau boven de binnenbodem in een ruim een hoogte van 0,5 m bereikt en een ander op een hoogte van ten minste 15% van de diepte van het laadruim, maar ten hoogste op 2 m. In bulkcarriers waarop [voorschrift 9.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=9&z=2011-01-01&g=2011-01-01) van toepassing is, hoeven uitsluitend detectoren met laatstgenoemd alarm te worden geïnstalleerd. De waterniveaudetectoren moeten worden geplaatst aan de achterzijde van de laadruimen. Bij laadruimen die worden gebruikt voor waterballast mag een voorziening worden gemonteerd waarmee het alarm kan worden uitgeschakeld. De visuele alarmen moeten een duidelijk onderscheid maken tussen de twee verschillende waterniveaus die in elk ruim worden gemeten;
+
+- .2. in elk laadruim gelegen voor het aanvaringsschot als vereist door [voorschrift II-1/12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-2&artikel=12&z=2011-01-01&g=2011-01-01), voorzien van een hoorbaar en zichtbaar alarm wanneer de vloeistof in de tank een niveau bereikt van ten hoogste 10% van de tankcapaciteit. Het is toegestaan een voorziening te installeren waarmee het alarm kan worden uitgeschakeld wanneer de tank in gebruik is; en
+
+- .3. in alle droge of lege ruimten anders dan een kabelkettingbak, elk gedeelte gelegen voor het voorste laadruim, voorzien van een hoorbaar en zichtbaar alarm bij een waterniveau van 0,1 m boven het dek. Dergelijke alarmvoorzieningen behoeven niet te worden geplaatst in gesloten ruimten waarvan het volume 0,1% of minder van de maximale waterverplaatsing van het schip bedraagt.
+
+2. De in paragraaf 1 bedoelde hoorbare en zichtbare alarmvoorzieningen moeten op de navigatiebrug zijn geplaatst.
+
+3. Bulkcarriers gebouwd vóór 1 juli 2004 moeten uiterlijk op de datum van de jaarlijkse of tussentijdse inspectie of de herkeuring van het schip na 1 juli 2004, naargelang welke datum eerder valt, voldoen aan de vereisten van dit voorschrift.
+
+##### Voorschrift 13. Beschikbaarheid van pompsystemen
+
+(Dit voorschrift is van toepassing op bulkcarriers, ongeacht de datum van bouw)
+
+1. Op bulkcarriers moeten de voorzieningen voor het leeg- en volpompen van ballasttanks gelegen voor het aanvaringsschot en de droge ruimten waarvan delen zich uitstrekken tot vóór het voorste laadruim, vanaf een gemakkelijk toegankelijke gesloten ruimte kunnen worden bediend; deze ruimte moet vanaf de navigatiebrug of vanaf de plaats van waar de besturing van de voortstuwingsmachines plaatsvindt, kunnen worden bereikt zonder blootgestelde vrijboord- of opbouwdekken te betreden. Wanneer leidingen naar dergelijke tanks of ruimten door het aanvaringsschot zijn gevoerd, kan klepbediening, in afwijking van de in [voorschrift II-1/12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=II-1&deel=B-2&artikel=12&z=2011-01-01&g=2011-01-01) bedoelde klepbediening, door activering op afstand worden toegestaan, mits de plaatsing van deze klepbediening met dit voorschrift in overeenstemming is.
+
+2. Bulkcarriers gebouwd vóór 1 juli 2004 moeten uiterlijk op de datum van de eerste tussentijdse inspectie of herkeuring van het schip na 1 juli 2004, doch uiterlijk op 1 juli 2007, voldoen aan de vereisten van dit voorschrift.
+
+##### Voorschrift 14. Beperkingen ten aanzien van het varen met lege ruimen
+
+Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie die ladingen vervoeren met een dichtheid van 1780 kg/m3 en meer mogen, indien zij niet voldoen aan de vereisten voor het weerstaan van vollopen van een van de ladingruimen als vermeld in [voorschrift 5.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=XII&artikel=5&z=2011-01-01&g=2011-01-01) en de Normen en criteria voor de zijconstructie van bulkcarriers met een enkelzijdige huidconstructie, aangenomen door de Organisatie bij resolutie MSC.168(79), als door de Organisatie kan worden gewijzigd, op voorwaarde dat deze wijzigingen worden aangenomen, in werking worden gesteld en van kracht worden overeenkomstig het bepaalde in [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VIII&z=2011-01-01&g=2011-01-01) van dit Verdrag betreffende de procedures voor wijziging die van toepassing zijn op de Bijlage, met uitzondering van [Hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=I&z=2011-01-01&g=2011-01-01), wanneer deze schepen 10 jaar of ouder zijn, niet varen met ruimen die zijn geladen tot minder dan 10% van het maximum toegestane ladinggewicht bij volle belading. De toepasselijke volle belading voor dit voorschrift is een lading gelijk aan of groter dan 90% van het draagvermogen van het schip bij het relevante toegewezen vrijboord.
 
 IN WITNESS WHEREOF the undersigned, being duly authorized by their respective Governments for that purpose, have signed the present Convention.
 
