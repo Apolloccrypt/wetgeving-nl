@@ -7,169 +7,113 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
-:root {
-  --rood:#AE1C28;--wit:#fff;--blauw:#21468B;--oranje:#FF6B00;
-  --donker:#0a0a0f;--grijs:#f5f5f1;--tekst:#1a1a2e;--zacht:#6b7280;--rand:#e8e8e3;
-}
+:root{--rood:#AE1C28;--wit:#fff;--blauw:#21468B;--oranje:#FF6B00;--donker:#0a0a0f;--grijs:#f5f5f1;--tekst:#1a1a2e;--zacht:#6b7280;--rand:#e8e8e3;}
 *{margin:0;padding:0;box-sizing:border-box;}
 body{font-family:'Syne',sans-serif;background:var(--grijs);color:var(--tekst);min-height:100vh;}
 header{background:var(--donker);color:var(--wit);padding:1.5rem 2rem;position:relative;}
-header::before{content:'';position:absolute;top:0;left:0;right:0;height:10px;
-  background:linear-gradient(180deg,var(--rood) 33%,var(--wit) 33%,var(--wit) 66%,var(--blauw) 66%);}
-header::after{content:'';position:absolute;bottom:0;left:0;right:0;height:10px;
-  background:linear-gradient(180deg,var(--rood) 33%,var(--wit) 33%,var(--wit) 66%,var(--blauw) 66%);}
-.header-inner{max-width:1200px;margin:0 auto;display:flex;justify-content:space-between;align-items:center;}
+header::before{content:'';position:absolute;top:0;left:0;right:0;height:10px;background:linear-gradient(180deg,var(--rood) 33%,var(--wit) 33%,var(--wit) 66%,var(--blauw) 66%);}
+header::after{content:'';position:absolute;bottom:0;left:0;right:0;height:10px;background:linear-gradient(180deg,var(--rood) 33%,var(--wit) 33%,var(--wit) 66%,var(--blauw) 66%);}
+.header-inner{max-width:1100px;margin:0 auto;display:flex;justify-content:space-between;align-items:center;}
 .logo{font-size:1.4rem;font-weight:800;text-decoration:none;color:var(--wit);}
 .logo span{color:var(--oranje);}
 .nav-bar{background:var(--donker);border-top:1px solid rgba(255,255,255,0.06);padding:0 2rem;}
-.nav-inner{max-width:1200px;margin:0 auto;display:flex;gap:0;overflow-x:auto;}
-.nav-btn{font-family:'JetBrains Mono',monospace;font-size:0.72rem;padding:0.7rem 1.1rem;
-  color:rgba(255,255,255,0.45);text-decoration:none;white-space:nowrap;
-  border-bottom:2px solid transparent;transition:all 0.15s;}
+.nav-inner{max-width:1100px;margin:0 auto;display:flex;gap:0;overflow-x:auto;align-items:center;}
+.nav-btn{font-family:'JetBrains Mono',monospace;font-size:0.72rem;padding:0.7rem 1.1rem;color:rgba(255,255,255,0.45);text-decoration:none;white-space:nowrap;border-bottom:2px solid transparent;transition:all 0.15s;}
 .nav-btn:hover{color:var(--wit);}
 .nav-btn.actief{color:var(--oranje);border-bottom-color:var(--oranje);}
 .nav-spacer{flex:1;}
 .nav-dropdown-wrap{position:relative;display:flex;align-items:center;margin:0 0.5rem;}
-.nav-dropdown-btn{font-family:'JetBrains Mono',monospace;font-size:0.7rem;
-  padding:0.4rem 0.8rem;border-radius:4px;background:rgba(255,255,255,0.07);
-  border:1px solid rgba(255,255,255,0.12);color:rgba(255,255,255,0.5);
-  cursor:pointer;transition:all 0.15s;display:flex;align-items:center;gap:0.3rem;}
+.nav-dropdown-btn{font-family:'JetBrains Mono',monospace;font-size:0.7rem;padding:0.4rem 0.8rem;border-radius:4px;background:rgba(255,255,255,0.07);border:1px solid rgba(255,255,255,0.12);color:rgba(255,255,255,0.5);cursor:pointer;transition:all 0.15s;display:flex;align-items:center;gap:0.3rem;}
 .nav-dropdown-btn:hover{background:rgba(255,255,255,0.11);color:var(--wit);}
-.nav-dropdown{position:absolute;right:0;top:calc(100% + 6px);
-  background:#0e0e14;border:1px solid rgba(255,255,255,0.12);
-  border-radius:8px;padding:0.35rem;min-width:210px;z-index:500;
-  display:none;box-shadow:0 8px 24px rgba(0,0,0,0.5);}
-.nav-dropdown-wrap:hover .nav-dropdown{display:block;}
-.nav-dropdown a{display:flex;align-items:center;gap:0.5rem;padding:0.5rem 0.75rem;border-radius:5px;
-  font-family:'JetBrains Mono',monospace;font-size:0.68rem;
-  color:rgba(255,255,255,0.55);text-decoration:none;transition:all 0.1s;}
+.nav-dropdown{position:absolute;right:0;top:calc(100% + 6px);background:#0e0e14;border:1px solid rgba(255,255,255,0.12);border-radius:8px;padding:0.35rem;min-width:210px;z-index:500;display:none;box-shadow:0 8px 24px rgba(0,0,0,0.5);}
+.nav-dropdown a{display:flex;align-items:center;gap:0.5rem;padding:0.5rem 0.75rem;border-radius:5px;font-family:'JetBrains Mono',monospace;font-size:0.68rem;color:rgba(255,255,255,0.55);text-decoration:none;transition:all 0.1s;}
 .nav-dropdown a:hover{background:rgba(255,107,0,0.1);color:var(--wit);}
 .nav-dropdown-sep{height:1px;background:rgba(255,255,255,0.07);margin:0.25rem 0;}
 
-/* Hero */
 .hero{background:var(--donker);color:var(--wit);padding:2rem 2rem 3rem;text-align:center;}
 .hero h1{font-size:2rem;font-weight:800;margin-bottom:0.5rem;}
 .hero h1 span{color:var(--oranje);}
 .hero p{font-size:0.85rem;color:rgba(255,255,255,0.4);font-family:'JetBrains Mono',monospace;}
 
-/* Zoekkaart */
-.zoek-container{max-width:900px;margin:-1.5rem auto 2rem;padding:0 2rem;position:relative;z-index:10;}
+.zoek-container{max-width:1100px;margin:-1.5rem auto 1.5rem;padding:0 2rem;position:relative;z-index:10;}
 .zoek-card{background:var(--wit);border-radius:12px;padding:1.5rem;box-shadow:0 8px 32px rgba(0,0,0,0.12);}
-
 .zoek-rij{display:flex;gap:0.75rem;margin-bottom:1rem;}
 .zoek-wrap{flex:1;position:relative;}
-.zoek-input{width:100%;padding:0.75rem 1rem;font-family:'Syne',sans-serif;font-size:0.95rem;
-  border:2px solid var(--rand);border-radius:8px;outline:none;transition:border-color 0.15s;}
+.zoek-input{width:100%;padding:0.75rem 1rem;font-family:'Syne',sans-serif;font-size:0.95rem;border:2px solid var(--rand);border-radius:8px;outline:none;transition:border-color 0.15s;}
 .zoek-input:focus{border-color:var(--oranje);}
-.ac-lijst{position:absolute;top:100%;left:0;right:0;
-  background:#fff;border:1.5px solid var(--rand);border-top:none;
-  border-radius:0 0 8px 8px;z-index:100;display:none;max-height:260px;overflow-y:auto;
-  box-shadow:0 8px 24px rgba(0,0,0,0.08);}
-.ac-lijst.open{display:block;}
+.ac{position:absolute;top:100%;left:0;right:0;background:var(--wit);border:1.5px solid var(--rand);border-top:none;border-radius:0 0 8px 8px;z-index:100;display:none;max-height:240px;overflow-y:auto;box-shadow:0 8px 20px rgba(0,0,0,0.08);}
+.ac.open{display:block;}
 .ac-item{padding:0.6rem 1rem;cursor:pointer;border-bottom:1px solid var(--rand);transition:background 0.1s;}
-.ac-item:last-child{border-bottom:none;}
 .ac-item:hover,.ac-item.hl{background:#fff7ed;}
-.ac-naam{font-size:0.85rem;font-weight:600;}
+.ac-naam{font-size:0.83rem;font-weight:600;}
 .ac-naam mark{background:transparent;color:var(--oranje);font-weight:700;}
 .ac-sub{font-family:'JetBrains Mono',monospace;font-size:0.62rem;color:var(--zacht);margin-top:2px;}
 
-/* Type-filters */
-.type-filters{display:flex;gap:0.5rem;flex-wrap:wrap;}
-.type-lbl{font-family:'JetBrains Mono',monospace;font-size:0.68rem;color:var(--zacht);
-  display:flex;align-items:center;margin-right:0.3rem;}
-.type-btn{padding:0.35rem 0.8rem;border:1.5px solid var(--rand);border-radius:20px;
-  font-family:'JetBrains Mono',monospace;font-size:0.68rem;cursor:pointer;
-  background:var(--grijs);color:var(--zacht);transition:all 0.12s;}
-.type-btn:hover{border-color:var(--oranje);color:var(--oranje);}
-.type-btn.actief{background:var(--oranje);border-color:var(--oranje);color:var(--wit);}
+.filters{display:flex;gap:0.5rem;flex-wrap:wrap;align-items:center;}
+.filter-lbl{font-family:'JetBrains Mono',monospace;font-size:0.68rem;color:var(--zacht);}
+.filter-btn{padding:0.35rem 0.8rem;border:1.5px solid var(--rand);border-radius:20px;font-family:'JetBrains Mono',monospace;font-size:0.68rem;cursor:pointer;background:var(--grijs);color:var(--zacht);transition:all 0.12s;}
+.filter-btn:hover{border-color:var(--oranje);color:var(--oranje);}
+.filter-btn.actief{border-color:var(--oranje);color:var(--oranje);background:#fff7ed;font-weight:600;}
 
-/* Snelknoppen */
-.snelknoppen{display:flex;gap:0.4rem;flex-wrap:wrap;margin-top:1rem;padding-top:1rem;border-top:1px solid var(--rand);}
-.snelknop-lbl{font-family:'JetBrains Mono',monospace;font-size:0.68rem;color:var(--zacht);
-  display:flex;align-items:center;margin-right:0.2rem;}
-.snelknop{padding:0.3rem 0.7rem;border:1.5px solid var(--rand);border-radius:4px;
-  font-family:'JetBrains Mono',monospace;font-size:0.68rem;cursor:pointer;
-  background:var(--wit);color:var(--tekst);transition:all 0.12s;}
+.snelknoppen{display:flex;gap:0.4rem;flex-wrap:wrap;margin-top:1rem;padding-top:1rem;border-top:1px solid var(--rand);align-items:center;}
+.snelknop-lbl{font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:var(--zacht);}
+.snelknop{padding:0.3rem 0.7rem;border:1.5px solid var(--rand);border-radius:4px;font-family:'JetBrains Mono',monospace;font-size:0.68rem;cursor:pointer;background:var(--wit);color:var(--tekst);transition:all 0.12s;}
 .snelknop:hover{border-color:var(--blauw);color:var(--blauw);}
 
-/* Resultaten */
-.resultaten{max-width:900px;margin:0 auto;padding:0 2rem 4rem;}
-.telling{font-family:'JetBrains Mono',monospace;font-size:0.72rem;color:var(--zacht);margin-bottom:1rem;}
+.layout{max-width:1100px;margin:0 auto;padding:0 2rem 4rem;display:grid;grid-template-columns:1fr 380px;gap:1.5rem;}
+@media(max-width:900px){.layout{grid-template-columns:1fr;}}
 
-/* Keten kaart */
-.keten-kaart{background:var(--wit);border-radius:10px;border:1px solid var(--rand);
-  margin-bottom:0.75rem;overflow:hidden;transition:box-shadow 0.15s;}
-.keten-kaart:hover{box-shadow:0 4px 20px rgba(0,0,0,0.08);}
-.keten-header{padding:1rem 1.2rem;display:flex;align-items:flex-start;gap:1rem;cursor:pointer;}
-.keten-type-badge{
-  flex-shrink:0;padding:0.25rem 0.6rem;border-radius:4px;
-  font-family:'JetBrains Mono',monospace;font-size:0.62rem;font-weight:600;
-  margin-top:2px;
-}
-.badge-mandaat{background:#fef3c7;color:#92400e;border:1px solid #fde68a;}
-.badge-delegatie{background:#dbeafe;color:#1e40af;border:1px solid #bfdbfe;}
-.badge-ondermandaat{background:#f3e8ff;color:#6b21a8;border:1px solid #e9d5ff;}
-.badge-volmacht{background:#dcfce7;color:#166534;border:1px solid #bbf7d0;}
-.badge-machtiging{background:#fce7f3;color:#9d174d;border:1px solid #fbcfe8;}
-.badge-overig{background:var(--grijs);color:var(--zacht);border:1px solid var(--rand);}
+/* Lijst */
+.telling{font-family:'JetBrains Mono',monospace;font-size:0.72rem;color:var(--zacht);margin-bottom:0.75rem;}
+.besluit-item{background:var(--wit);border:1px solid var(--rand);border-radius:8px;margin-bottom:0.5rem;cursor:pointer;transition:all 0.12s;border-left:3px solid transparent;}
+.besluit-item:hover{box-shadow:0 2px 12px rgba(0,0,0,0.07);}
+.besluit-item.geselecteerd{border-left-color:var(--oranje);box-shadow:0 2px 12px rgba(255,107,0,0.1);}
+.besluit-header{padding:0.85rem 1rem;display:flex;align-items:flex-start;gap:0.75rem;}
+.type-badge{flex-shrink:0;padding:0.2rem 0.55rem;border-radius:3px;font-family:'JetBrains Mono',monospace;font-size:0.6rem;font-weight:600;margin-top:2px;}
+.b-mandaat{background:#fef3c7;color:#92400e;}
+.b-delegatie{background:#dbeafe;color:#1e40af;}
+.b-ondermandaat{background:#f3e8ff;color:#6b21a8;}
+.b-volmacht{background:#dcfce7;color:#166534;}
+.b-machtiging{background:#fce7f3;color:#9d174d;}
+.b-overig{background:var(--grijs);color:var(--zacht);}
+.besluit-titel{font-size:0.85rem;font-weight:600;line-height:1.4;}
+.besluit-meta{font-family:'JetBrains Mono',monospace;font-size:0.62rem;color:var(--zacht);margin-top:0.2rem;}
 
-.keten-info{flex:1;min-width:0;}
-.keten-titel{font-size:0.9rem;font-weight:600;line-height:1.4;margin-bottom:0.3rem;}
-.keten-meta{font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:var(--zacht);}
+/* Detail paneel */
+.detail{background:var(--wit);border-radius:10px;border:1px solid var(--rand);position:sticky;top:1rem;height:fit-content;max-height:85vh;overflow-y:auto;}
+.detail-leeg{padding:2rem;text-align:center;font-family:'JetBrains Mono',monospace;font-size:0.78rem;color:var(--zacht);}
+.detail-header{padding:1.2rem 1.2rem 0.8rem;border-bottom:1px solid var(--rand);}
+.detail-type{font-family:'JetBrains Mono',monospace;font-size:0.62rem;font-weight:600;margin-bottom:0.4rem;}
+.detail-titel{font-size:0.95rem;font-weight:700;line-height:1.4;margin-bottom:0.4rem;}
+.detail-meta{font-family:'JetBrains Mono',monospace;font-size:0.62rem;color:var(--zacht);}
+.detail-acties{display:flex;gap:0.5rem;padding:0.8rem 1.2rem;border-bottom:1px solid var(--rand);}
+.detail-btn{font-family:'JetBrains Mono',monospace;font-size:0.65rem;padding:0.4rem 0.75rem;border-radius:5px;text-decoration:none;border:1.5px solid var(--rand);color:var(--zacht);transition:all 0.12s;white-space:nowrap;}
+.detail-btn:hover{border-color:var(--oranje);color:var(--oranje);}
+.detail-btn.prim{background:var(--donker);color:var(--wit);border-color:var(--donker);}
+.detail-btn.prim:hover{background:#2a2a3f;}
+.detail-body{padding:1rem 1.2rem;}
+.detail-body-tekst{font-size:0.82rem;line-height:1.8;color:var(--tekst);white-space:pre-wrap;font-family:'JetBrains Mono',monospace;}
+.detail-body-tekst mark{background:#fef9c3;border-radius:2px;padding:0 1px;}
 
-/* Keten visualisatie */
-.keten-body{display:none;padding:0 1.2rem 1rem;border-top:1px solid var(--rand);}
-.keten-body.open{display:block;}
-.keten-flow{display:flex;align-items:center;flex-wrap:wrap;gap:0;margin:0.8rem 0;}
-.keten-node{
-  background:var(--grijs);border:1.5px solid var(--rand);border-radius:6px;
-  padding:0.5rem 0.8rem;font-size:0.78rem;font-weight:600;
-  display:flex;flex-direction:column;gap:0.1rem;
-}
-.keten-node .rol{font-family:'JetBrains Mono',monospace;font-size:0.58rem;color:var(--zacht);}
-.keten-node.centrum{background:#fff7ed;border-color:var(--oranje);}
-.keten-pijl{padding:0 0.4rem;color:var(--zacht);font-size:0.8rem;display:flex;align-items:center;}
-.keten-pijl span{font-family:'JetBrains Mono',monospace;font-size:0.58rem;color:var(--zacht);
-  writing-mode:horizontal-tb;white-space:nowrap;}
-.keten-wetlinks{display:flex;gap:0.5rem;margin-top:0.75rem;flex-wrap:wrap;}
-.keten-link{font-family:'JetBrains Mono',monospace;font-size:0.65rem;
-  padding:0.3rem 0.65rem;border-radius:4px;text-decoration:none;
-  border:1.5px solid var(--rand);color:var(--zacht);transition:all 0.12s;}
-.keten-link:hover{border-color:var(--oranje);color:var(--oranje);}
-.keten-link.prim{background:var(--donker);color:var(--wit);border-color:var(--donker);}
-.keten-link.prim:hover{background:#2a2a3f;}
-
-.leeg{text-align:center;padding:3rem;font-family:'JetBrains Mono',monospace;
-  font-size:0.82rem;color:var(--zacht);}
-
-footer{text-align:center;padding:1.5rem;font-family:'JetBrains Mono',monospace;
-  font-size:0.68rem;color:var(--zacht);border-top:1px solid var(--rand);
-  background:var(--wit);margin-top:2rem;}
+footer{text-align:center;padding:1.5rem;font-family:'JetBrains Mono',monospace;font-size:0.68rem;color:var(--zacht);border-top:1px solid var(--rand);background:var(--wit);}
 footer a{color:var(--blauw);text-decoration:none;}
-
-@media(max-width:640px){
-  .zoek-rij{flex-direction:column;}
-  .keten-flow{flex-direction:column;align-items:flex-start;}
-  .keten-pijl{transform:rotate(90deg);}
-}
+.laden{text-align:center;padding:3rem;font-family:'JetBrains Mono',monospace;font-size:0.8rem;color:var(--zacht);}
 </style>
 </head>
 <body>
-
 <header>
   <div class="header-inner">
     <a class="logo" href="index.html">vrije<span>wetgeving.nl</span></a>
   </div>
 </header>
-
 <nav class="nav-bar">
   <div class="nav-inner">
-    <a class="nav-btn " href="index.html">Alle wetten</a>
-    <a class="nav-btn " href="bevoegdheden.html">Bevoegdhedencheck</a>
+    <a class="nav-btn" href="index.html">Alle wetten</a>
+    <a class="nav-btn" href="bevoegdheden.html">Bevoegdhedencheck</a>
     <a class="nav-btn actief" href="bevoegdhedenketen.html">Bevoegdhedenketen</a>
-    <a class="nav-btn " href="rechten.html">Mijn rechten</a>
+    <a class="nav-btn" href="rechten.html">Mijn rechten</a>
     <div class="nav-spacer"></div>
-    <div class="nav-dropdown-wrap" id="gh-wrap">
+    <div class="nav-dropdown-wrap">
       <button class="nav-dropdown-btn" onclick="toggleGH(event)">
         <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.477 2 2 6.477 2 12c0 4.418 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.009-.868-.013-1.703-2.782.604-3.369-1.341-3.369-1.341-.454-1.154-1.11-1.462-1.11-1.462-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0 1 12 6.836a9.59 9.59 0 0 1 2.504.337c1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.203 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.743 0 .267.18.578.688.48C19.138 20.163 22 16.418 22 12c0-5.523-4.477-10-10-10z"/></svg>
         GitHub
@@ -187,7 +131,7 @@ footer a{color:var(--blauw);text-decoration:none;}
 
 <div class="hero">
   <h1>Bevoegdheden<span>keten</span></h1>
-  <p>// wie heeft wat aan wie gegeven — mandaat · delegatie · ondermandaat · volmacht</p>
+  <p>// mandaat · delegatie · ondermandaat · volmacht · machtiging — wie heeft wat aan wie gegeven</p>
 </div>
 
 <div class="zoek-container">
@@ -195,35 +139,47 @@ footer a{color:var(--blauw);text-decoration:none;}
     <div class="zoek-rij">
       <div class="zoek-wrap">
         <input class="zoek-input" id="zoek" type="search" autocomplete="off"
-          placeholder="Zoek op orgaan of onderwerp... bijv. minister, gemeente, inspectie"
-          oninput="acZoek()" onkeydown="acKey(event)">
-        <div class="ac-lijst" id="ac"></div>
+          placeholder="Zoek op orgaan, onderwerp of BWBR-nummer..."
+          oninput="zoekBijwerken()" onkeydown="acKey(event)">
+        <div class="ac" id="ac"></div>
       </div>
     </div>
-    <div class="type-filters">
-      <span class="type-lbl">Type:</span>
-      <button class="type-btn actief" onclick="toggleType('alles',this)">Alles</button>
-      <button class="type-btn" onclick="toggleType('mandaat',this)">Mandaat</button>
-      <button class="type-btn" onclick="toggleType('delegatie',this)">Delegatie</button>
-      <button class="type-btn" onclick="toggleType('ondermandaat',this)">Ondermandaat</button>
-      <button class="type-btn" onclick="toggleType('volmacht',this)">Volmacht</button>
-      <button class="type-btn" onclick="toggleType('machtiging',this)">Machtiging</button>
+    <div class="filters">
+      <span class="filter-lbl">Type:</span>
+      <button class="filter-btn actief" onclick="setType('alles',this)">Alles (961)</button>
+      <button class="filter-btn" onclick="setType('mandaat',this)">Mandaat</button>
+      <button class="filter-btn" onclick="setType('delegatie',this)">Delegatie</button>
+      <button class="filter-btn" onclick="setType('ondermandaat',this)">Ondermandaat</button>
+      <button class="filter-btn" onclick="setType('volmacht',this)">Volmacht</button>
+      <button class="filter-btn" onclick="setType('machtiging',this)">Machtiging</button>
     </div>
     <div class="snelknoppen">
-      <span class="snelknop-lbl">Snel zoeken:</span>
-      <button class="snelknop" onclick="zoekDirect('minister')">Ministers</button>
-      <button class="snelknop" onclick="zoekDirect('staatssecretaris')">Staatssecretarissen</button>
-      <button class="snelknop" onclick="zoekDirect('burgemeester')">Burgemeester</button>
-      <button class="snelknop" onclick="zoekDirect('college van burgemeester')">College B&W</button>
-      <button class="snelknop" onclick="zoekDirect('inspectie')">Inspecties</button>
-      <button class="snelknop" onclick="zoekDirect('directeur-generaal')">Directeur-Generaal</button>
-      <button class="snelknop" onclick="zoekDirect('rijksdienst')">Rijksdiensten</button>
+      <span class="snelknop-lbl">Snel:</span>
+      <button class="snelknop" onclick="snel('minister van')">Ministers</button>
+      <button class="snelknop" onclick="snel('staatssecretaris')">Staatssecretarissen</button>
+      <button class="snelknop" onclick="snel('directeur-generaal')">DG</button>
+      <button class="snelknop" onclick="snel('inspectie')">Inspecties</button>
+      <button class="snelknop" onclick="snel('burgemeester')">Burgemeester</button>
+      <button class="snelknop" onclick="snel('college van burgemeester')">College B&W</button>
+      <button class="snelknop" onclick="snel('rijksdienst')">Rijksdiensten</button>
+      <button class="snelknop" onclick="snel('waterschap')">Waterschappen</button>
     </div>
   </div>
 </div>
 
-<div class="resultaten" id="resultaten">
-  <div class="leeg">Zoek een bestuursorgaan of onderwerp om de bevoegdhedenketen te zien.</div>
+<div class="layout">
+  <div>
+    <div class="telling" id="telling"></div>
+    <div id="lijst"><div class="laden">Besluiten laden...</div></div>
+  </div>
+  <div>
+    <div class="detail" id="detail">
+      <div class="detail-leeg">
+        Klik op een besluit om de volledige tekst te lezen.<br><br>
+        Je ziet direct wie mandaat geeft aan wie, voor welke bevoegdheid, en op basis van welk wetsartikel.
+      </div>
+    </div>
+  </div>
 </div>
 
 <footer>
@@ -234,221 +190,138 @@ footer a{color:var(--blauw);text-decoration:none;}
 
 <script>
 const GITHUB = 'https://github.com/Apolloccrypt/wetgeving-nl/blob/main/';
-let indexData = [];
-let acIdx = -1;
-let actiefType = 'alles';
+let data = [];
+let huidigType = 'alles';
 let huidigZoek = '';
-
-const TYPE_TERMEN = {
-  mandaat:     ['mandaat', 'mandaatbesluit'],
-  delegatie:   ['delegatie', 'delegatiebesluit'],
-  ondermandaat:['ondermandaat', 'ondervolmacht'],
-  volmacht:    ['volmacht'],
-  machtiging:  ['machtiging'],
-};
-
-const ORGAAN_PATRONEN = [
-  { patroon: /minister van (\w[\w\s&]+?)(?:\s+(?:inzake|voor|tot|aan|betreffende|met betrekking)|$)/i, rol: 'Minister' },
-  { patroon: /staatssecretaris van (\w[\w\s]+?)(?:\s+(?:inzake|voor|tot|aan)|$)/i, rol: 'Staatssecretaris' },
-  { patroon: /directeur[\-\s]generaal\s+(\w[\w\s]+?)(?:\s+(?:inzake|voor|tot|aan|verlening)|$)/i, rol: 'Directeur-Generaal' },
-  { patroon: /directeur\s+(\w[\w\s]+?)(?:\s+(?:inzake|voor|tot|aan|verlening)|$)/i, rol: 'Directeur' },
-  { patroon: /college van (?:burgemeester(?:s)? en wethouders|gedeputeerde staten)\s+(?:van\s+)?(\w[\w\s]+?)(?:\s+(?:inzake|voor|tot|aan)|$)/i, rol: 'College' },
-  { patroon: /burgemeester(?:\s+van\s+(\w[\w\s]+?))?(?:\s+(?:inzake|voor|tot|aan)|$)/i, rol: 'Burgemeester' },
-  { patroon: /inspectie[\-\s]?(\w[\w\s]*?)(?:\s+(?:inzake|voor|tot|aan|handhaving)|$)/i, rol: 'Inspectie' },
-  { patroon: /rijksdienst\s+(?:voor\s+)?(\w[\w\s]+?)(?:\s+(?:inzake|voor|tot|aan)|$)/i, rol: 'Rijksdienst' },
-];
-
-function detecteerType(titel) {
-  const t = titel.toLowerCase();
-  if (t.includes('ondermandaat') || t.includes('ondervolmacht')) return 'ondermandaat';
-  if (t.includes('delegatie')) return 'delegatie';
-  if (t.includes('volmacht') && !t.includes('mandaat')) return 'volmacht';
-  if (t.includes('machtiging') && !t.includes('mandaat')) return 'machtiging';
-  if (t.includes('mandaat')) return 'mandaat';
-  return 'overig';
-}
-
-function extraheerKeten(titel) {
-  // Probeer verlener en ontvanger uit de titel te halen
-  const keten = [];
-  
-  // Patroon: "Besluit [verlener] verlening [type] aan [ontvanger]"
-  const verleningMatch = titel.match(/(?:verlening|doorverlening)\s+(?:van\s+)?(?:mandaat|volmacht|machtiging|ondermandaat)[^\s]*\s+(?:en\s+\w+\s+)?(?:aan\s+|van\s+)?(.+?)(?:\s+(?:inzake|voor|met betrekking|$))/i);
-  
-  // Zoek orgaan-patronen
-  for (const p of ORGAAN_PATRONEN) {
-    const m = titel.match(p.patroon);
-    if (m) {
-      keten.push({ naam: m[1] ? m[1].trim() : p.rol, rol: p.rol });
-    }
-  }
-
-  return keten;
-}
-
-function typeKleur(type) {
-  const map = { mandaat:'badge-mandaat', delegatie:'badge-delegatie',
-    ondermandaat:'badge-ondermandaat', volmacht:'badge-volmacht',
-    machtiging:'badge-machtiging', overig:'badge-overig' };
-  return map[type] || 'badge-overig';
-}
+let acIdx = -1;
+let gefilterd = [];
 
 async function init() {
-  const r = await fetch('index.json');
-  indexData = await r.json();
+  const r = await fetch('bevoegdheden_index.json');
+  data = await r.json();
+  zoekBijwerken();
 }
 
-function getBevoegdheidsWetten(q) {
-  const ql = q.toLowerCase().trim();
-  const termen = ql.split(/\s+/).filter(t => t.length > 2);
-  
-  return indexData.filter(wet => {
-    const titel = (wet.titel || '').toLowerCase();
-    
-    // Moet een bevoegdheids-wet zijn
-    const isBevoegdheid = Object.values(TYPE_TERMEN).flat().some(t => titel.includes(t));
-    if (!isBevoegdheid) return false;
-    
-    // Type filter
-    if (actiefType !== 'alles') {
-      const typeTermen = TYPE_TERMEN[actiefType] || [];
-      if (!typeTermen.some(t => titel.includes(t))) return false;
-    }
-    
-    // Zoekterm filter
-    if (q) {
-      return termen.some(t => titel.includes(t));
-    }
-    return true;
-  }).slice(0, 60);
-}
-
-function zoekDirect(q) {
-  document.getElementById('zoek').value = q;
-  huidigZoek = q;
-  toonResultaten(getBevoegdheidsWetten(q));
-  document.getElementById('ac').className = 'ac-lijst';
-}
-
-function acZoek() {
+function zoekBijwerken() {
   const q = document.getElementById('zoek').value.trim();
   huidigZoek = q;
-  const ac = document.getElementById('ac');
-  acIdx = -1;
+  updateAC(q);
+  renderLijst();
+}
 
-  if (q.length < 2) {
-    ac.className = 'ac-lijst';
-    if (q.length === 0) toonResultaten([]);
+function getFiltred() {
+  const ql = huidigZoek.toLowerCase();
+  return data.filter(b => {
+    if (huidigType !== 'alles' && b.type !== huidigType) return false;
+    if (!ql) return true;
+    return (b.titel||'').toLowerCase().includes(ql) ||
+           (b.identifier||'').toLowerCase().includes(ql) ||
+           (b.body||'').toLowerCase().includes(ql);
+  });
+}
+
+function renderLijst() {
+  gefilterd = getFiltred();
+  const lijst = document.getElementById('lijst');
+  document.getElementById('telling').textContent =
+    `${gefilterd.length} besluiten${huidigZoek ? ` voor "${huidigZoek}"` : ''}`;
+
+  if (!gefilterd.length) {
+    lijst.innerHTML = '<div class="laden">Geen besluiten gevonden.</div>';
     return;
   }
 
-  // Toon autocomplete suggesties
-  const hits = getBevoegdheidsWetten(q).slice(0, 8);
-  if (!hits.length) { ac.className = 'ac-lijst'; return; }
-
-  ac.innerHTML = hits.map((w, i) => {
-    const type = detecteerType(w.titel);
-    const ql = q.toLowerCase();
-    const naam = w.titel.replace(new RegExp(ql.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'),'gi'), m => `<mark>${m}</mark>`);
-    return `<div class="ac-item" onclick="kiesAC('${w.identifier}')">
-      <div class="ac-naam">${naam}</div>
-      <div class="ac-sub">${w.identifier} · ${type}</div>
-    </div>`;
-  }).join('');
-  ac.__hits = hits;
-  ac.className = 'ac-lijst open';
-
-  // Direct ook de resultaten bijwerken
-  toonResultaten(getBevoegdheidsWetten(q));
+  lijst.innerHTML = gefilterd.slice(0, 100).map((b, i) => `
+    <div class="besluit-item" id="item-${i}" onclick="toonDetail(${i})">
+      <div class="besluit-header">
+        <span class="type-badge b-${b.type}">${b.type}</span>
+        <div>
+          <div class="besluit-titel">${esc(b.titel)}</div>
+          <div class="besluit-meta">${b.identifier} · ${b.datum || 'datum onbekend'} · ${b.categorie}</div>
+        </div>
+      </div>
+    </div>`).join('');
 }
 
-function kiesAC(id) {
-  const wet = indexData.find(w => w.identifier === id);
-  if (wet) {
-    document.getElementById('zoek').value = wet.titel;
-    toonResultaten([wet]);
+function toonDetail(idx) {
+  const b = gefilterd[idx];
+  if (!b) return;
+
+  // Markeer geselecteerde item
+  document.querySelectorAll('.besluit-item').forEach(el => el.classList.remove('geselecteerd'));
+  document.getElementById(`item-${idx}`)?.classList.add('geselecteerd');
+
+  // Markeer zoektermen in bodytekst
+  let body = esc(b.body || '(Geen tekst beschikbaar)');
+  if (huidigZoek) {
+    const re = new RegExp(huidigZoek.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'), 'gi');
+    body = body.replace(re, m => `<mark>${m}</mark>`);
   }
-  document.getElementById('ac').className = 'ac-lijst';
+
+  document.getElementById('detail').innerHTML = `
+    <div class="detail-header">
+      <div class="detail-type b-${b.type}" style="display:inline-block;padding:0.2rem 0.55rem;border-radius:3px;font-family:'JetBrains Mono',monospace;font-size:0.62rem;font-weight:600;margin-bottom:0.4rem;background:${typeBg(b.type)};color:${typeClr(b.type)}">${b.type}</div>
+      <div class="detail-titel">${esc(b.titel)}</div>
+      <div class="detail-meta">${b.identifier} · ${b.datum || ''} · ${b.categorie}</div>
+    </div>
+    <div class="detail-acties">
+      <a class="detail-btn prim" href="${GITHUB}${b.pad}" target="_blank">Bekijk op GitHub</a>
+      <a class="detail-btn" href="https://wetten.overheid.nl/${b.identifier}" target="_blank">wetten.overheid.nl</a>
+    </div>
+    <div class="detail-body">
+      <div class="detail-body-tekst">${body}</div>
+    </div>`;
+}
+
+function typeBg(t) {
+  return {mandaat:'#fef3c7',delegatie:'#dbeafe',ondermandaat:'#f3e8ff',volmacht:'#dcfce7',machtiging:'#fce7f3',overig:'#f5f5f1'}[t]||'#f5f5f1';
+}
+function typeClr(t) {
+  return {mandaat:'#92400e',delegatie:'#1e40af',ondermandaat:'#6b21a8',volmacht:'#166534',machtiging:'#9d174d',overig:'#6b7280'}[t]||'#6b7280';
+}
+
+function setType(type, btn) {
+  huidigType = type;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('actief'));
+  btn.classList.add('actief');
+  renderLijst();
+}
+
+function snel(q) {
+  document.getElementById('zoek').value = q;
+  huidigZoek = q;
+  renderLijst();
+  document.getElementById('ac').className = 'ac';
+}
+
+function updateAC(q) {
+  const ac = document.getElementById('ac');
+  acIdx = -1;
+  if (q.length < 2) { ac.className = 'ac'; return; }
+  const hits = data.filter(b => (b.titel||'').toLowerCase().includes(q.toLowerCase())).slice(0, 8);
+  if (!hits.length) { ac.className = 'ac'; return; }
+  ac.innerHTML = hits.map((b, i) => `
+    <div class="ac-item" onclick="snel('${b.identifier}')">
+      <div class="ac-naam">${b.titel.replace(new RegExp(q.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'),'gi'), m => `<mark>${m}</mark>`)}</div>
+      <div class="ac-sub">${b.identifier} · ${b.type} · ${b.datum||''}</div>
+    </div>`).join('');
+  ac.className = 'ac open';
 }
 
 function acKey(e) {
   const ac = document.getElementById('ac');
   const items = ac.querySelectorAll('.ac-item');
-  if (e.key==='ArrowDown') { e.preventDefault(); acIdx=Math.min(acIdx+1,items.length-1); items.forEach((el,i)=>el.classList.toggle('hl',i===acIdx)); }
-  else if (e.key==='ArrowUp') { e.preventDefault(); acIdx=Math.max(acIdx-1,-1); items.forEach((el,i)=>el.classList.toggle('hl',i===acIdx)); }
-  else if (e.key==='Enter' && acIdx>=0) { items[acIdx]?.click(); }
-  else if (e.key==='Escape') { ac.className='ac-lijst'; }
+  if (e.key==='ArrowDown'){e.preventDefault();acIdx=Math.min(acIdx+1,items.length-1);items.forEach((el,i)=>el.classList.toggle('hl',i===acIdx));}
+  else if(e.key==='ArrowUp'){e.preventDefault();acIdx=Math.max(acIdx-1,-1);items.forEach((el,i)=>el.classList.toggle('hl',i===acIdx));}
+  else if(e.key==='Enter'&&acIdx>=0){items[acIdx]?.click();}
+  else if(e.key==='Escape'){ac.className='ac';}
 }
 
-function toggleType(type, btn) {
-  actiefType = type;
-  document.querySelectorAll('.type-btn').forEach(b => b.classList.remove('actief'));
-  btn.classList.add('actief');
-  toonResultaten(getBevoegdheidsWetten(huidigZoek));
-}
+function esc(t){return(t||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
 
-function esc(t) { return (t||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
-
-function toonResultaten(wetten) {
-  const container = document.getElementById('resultaten');
-  if (!wetten.length) {
-    container.innerHTML = '<div class="leeg">Geen bevoegdheidsbesluiten gevonden. Probeer een andere zoekterm.</div>';
-    return;
-  }
-
-  let html = `<div class="telling">${wetten.length} bevoegdheidsbesluiten gevonden</div>`;
-
-  wetten.forEach(wet => {
-    const type  = detecteerType(wet.titel);
-    const keten = extraheerKeten(wet.titel);
-    const id    = `k-${wet.identifier}`;
-
-    // Bouw keten-flow HTML
-    let ketenHtml = '';
-    if (keten.length >= 2) {
-      ketenHtml = '<div class="keten-flow">';
-      keten.forEach((node, i) => {
-        if (i > 0) {
-          ketenHtml += `<div class="keten-pijl"><span>${type}</span> →</div>`;
-        }
-        ketenHtml += `<div class="keten-node${i===0?' centrum':''}">
-          <span>${esc(node.naam)}</span>
-          <span class="rol">${esc(node.rol)}</span>
-        </div>`;
-      });
-      ketenHtml += '</div>';
-    }
-
-    html += `
-    <div class="keten-kaart">
-      <div class="keten-header" onclick="toggleKaart('${id}')">
-        <span class="keten-type-badge ${typeKleur(type)}">${type}</span>
-        <div class="keten-info">
-          <div class="keten-titel">${esc(wet.titel)}</div>
-          <div class="keten-meta">${esc(wet.identifier||'')}${wet.datum ? ' · ' + wet.datum.substring(0,7) : ''} · ${esc(wet.categorie||'')}</div>
-        </div>
-      </div>
-      <div class="keten-body" id="${id}">
-        ${ketenHtml || '<p style="font-size:0.8rem;color:var(--zacht);margin-bottom:0.75rem">Keten niet automatisch detecteerbaar — bekijk de volledige wet voor de bevoegdhedensketen.</p>'}
-        <div class="keten-wetlinks">
-          <a class="keten-link prim" href="${GITHUB}${wet.pad}" target="_blank">Bekijk wet</a>
-          <a class="keten-link" href="https://wetten.overheid.nl/${wet.identifier}" target="_blank">wetten.overheid.nl</a>
-        </div>
-      </div>
-    </div>`;
-  });
-
-  container.innerHTML = html;
-}
-
-function toggleKaart(id) {
-  const el = document.getElementById(id);
-  el.classList.toggle('open');
-}
-
-document.addEventListener('click', e => {
-  if (!e.target.closest('.zoek-wrap')) document.getElementById('ac').className = 'ac-lijst';
-});
+function toggleGH(e){e.stopPropagation();const m=document.getElementById('gh-menu');m.style.display=m.style.display==='block'?'none':'block';}
+document.addEventListener('click',()=>{const m=document.getElementById('gh-menu');if(m)m.style.display='none';});
+document.addEventListener('click',e=>{if(!e.target.closest('.zoek-wrap'))document.getElementById('ac').className='ac';});
 
 init();
 </script>
