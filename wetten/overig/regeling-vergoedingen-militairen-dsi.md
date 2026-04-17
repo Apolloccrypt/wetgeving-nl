@@ -1,0 +1,65 @@
+---
+title: "Regeling vergoedingen militairen DSI"
+identifier: "BWBR0039792"
+categorie: "Overig"
+publicatiedatum: 2026-01-15
+laatste_update: 2026-01-15
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0039792"
+---
+
+# Regeling vergoedingen militairen DSI
+
+Gelet op de [artikelen 60a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=60a), [60c](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=60c) en [117 van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=117), [artikel 12 van het Besluit dienstreizen defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=12) en [artikel 12 van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=12)
+
+De Minister van Defensie
+
+#### Artikel 1. Begripsomschrijving
+
+In deze regeling wordt verstaan onder:
+
+- **Militair:**
+
+- 1). de militair die is geplaatst bij de Dienst Speciale Interventies (DSI) en in dat kader voor operationele inzet beschikbaar is;
+
+- 2). door de commandant van het Korps Mariniers aan te wijzen militairen, met een maximum van 142, van de Maritime Special Operations Forces indien deze voor operationele inzet beschikbaar zijn;
+
+- 3). door de commandant van de Brigade Speciale Beveiligingsopdrachten Koninklijke Marechaussee aan te wijzen militairen, met een maximum van 38, van de afdeling operaties 2 en deel uitmaakt van het Arrestatie en Ondersteuningsteam, indien deze voor operationele inzet beschikbaar zijn;
+
+- **VROB:** Regeling vergoeding voor overwerk, onregelmatigheid, beschikbaarheid en bereikbaarheid.
+
+#### Artikel 2. Consignatie- en inzetvergoeding
+
+1. In afwijking van artikel 7 van de VROB wordt de militair voor consignatie een vergoeding toegekend.
+
+2. In afwijking van [artikel 12 van de Regeling dienstreizen defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&artikel=12) wordt de militair een tegemoetkoming voor verblijfskosten toegekend voor zover samenhangend met de operationele inzet als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039792&artikel=1&z=2026-01-15&g=2026-01-15).
+
+3. De in het eerste lid en tweede lid bedoelde vergoedingen bedragen tezamen € 1.296,62 bruto per maand.
+
+#### Artikel 3. Tegemoetkoming kosten bovenmaatse kleding
+
+In afwijking van [artikel 14 van de Regeling uitrusting defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&artikel=14) wordt de militair bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039792&artikel=1&z=2026-01-15&g=2026-01-15) voor de aanschaf van burgerkleding, waarvan de maat met het oog op de functie-uitoefening afwijkt van de gebruikelijke maat van de militair een tegemoetkoming van € 1.750,20 bruto per kalenderjaar toegekend.
+
+#### Artikel 4. Toelage DSI
+
+Aan de militair wordt per maand een toelage toegekend van 15% over het maximum van de voor hem geldende salarisschaal.
+
+#### Artikel 5. Afwijkende bepaling inzake de vergoeding voor overwerk en de vergoeding voor meerdaagse activiteiten.
+
+1. In afwijking van artikel 8, derde en vierde lid, van de VROB wordt voor overwerk altijd een vergoeding in geld toegekend.
+
+2. In afwijking van artikel 6, eerste lid, van de VROB wordt aan de militair voor het verrichten van meerdaagse activiteiten die een aaneengesloten periode van een etmaal of langer dan een etmaal beslaan geen vergoeding toegekend.
+
+3. Het rooster van de militair bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039792&artikel=1&z=2026-01-15&g=2026-01-15) is gebaseerd op een arbeidsduur van gemiddeld 36 uren per week, zonder dat hiervoor een korting op het salaris wordt toegepast.
+
+4. De militair bedoeld in [artikel 1 onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039792&artikel=1&z=2026-01-15&g=2026-01-15) heeft geen aanspraak op vergoedingen zoals opgenomen in de [Regeling vergoeding extra werkdruk Brigade Speciale Beveiligingsopdrachten](https://wetten.overheid.nl/jci1.3:c:BWBR0039958).
+
+#### Artikel 6. Inwerkingtreding
+
+Deze ministeriële regeling treedt in werking met ingang van de datum dat zij bekend wordt gemaakt en werkt terug tot 1 juli 2006.
+
+#### Artikel 7. Citeertitel
+
+Deze regeling wordt aangehaald als ‘Regeling vergoedingen militairen DSI’.
+
+Deze regeling wordt met toelichting in de Staatscourant geplaatst.

@@ -1,0 +1,63 @@
+name: 🔄 Dagelijkse wetten-update
+
+on:
+  schedule:
+    # Elke dag om 06:00 UTC (08:00 NL zomertijd)
+    - cron: '0 6 * * *'
+  workflow_dispatch:  # Ook handmatig te starten
+
+jobs:
+  update-wetten:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Volledige history voor nette commits
+
+      - name: Python instellen
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Dependencies installeren
+        run: |
+          pip install -r scripts/requirements.txt
+
+      - name: Wetten ophalen en converteren
+        run: |
+          python scripts/fetch_bwb.py --output wetten/ --log update.log
+        env:
+          BWB_MAX_WETTEN: ${{ vars.BWB_MAX_WETTEN || '100' }}  # Pas aan naar wens
+
+      - name: Check of er wijzigingen zijn
+        id: check_changes
+        run: |
+          git diff --quiet wetten/ || echo "changes=true" >> $GITHUB_OUTPUT
+
+      - name: Commit en push wijzigingen
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config user.name "wetgeving-bot"
+          git config user.email "bot@wetgeving-nl.github"
+
+          # Elke gewijzigde wet = aparte commit (zoals Spanje)
+          git diff --name-only wetten/ | while read file; do
+            wet_naam=$(basename "$file" .md)
+            git add "$file"
+            git commit -m "⚖️ [update] $wet_naam — $(date +%Y-%m-%d)"
+          done
+
+          git push
+
+      - name: Samenvatting
+        run: |
+          echo "### Update voltooid $(date)" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          if [ -f update.log ]; then
+            echo "$(cat update.log)" >> $GITHUB_STEP_SUMMARY
+          fi

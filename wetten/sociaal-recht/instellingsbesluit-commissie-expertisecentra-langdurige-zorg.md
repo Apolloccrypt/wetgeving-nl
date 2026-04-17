@@ -1,0 +1,161 @@
+---
+title: "Instellingsbesluit Commissie Expertisecentra langdurige zorg"
+identifier: "BWBR0042534"
+categorie: "Sociaal recht"
+publicatiedatum: 2026-02-28
+laatste_update: 2026-02-28
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0042534"
+---
+
+# Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 5 september 2019, kenmerk 1564875-193879-LZ, houdende de instelling van de Commissie Expertisecentra langdurige zorg (Instellingsbesluit Commissie Expertisecentra langdurige zorg)
+
+Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
+
+Besluit:
+
+#### Artikel 1. Begripsbepalingen
+
+In dit besluit wordt verstaan onder:
+
+- a. **minister:** Minister voor Langdurige Zorg en Sport;
+
+- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042534&artikel=2&z=2026-02-28&g=2026-02-28).
+
+#### Artikel 2. Instelling en taak
+
+1. Er is een Commissie Expertisecentra langdurige zorg.
+
+2. De commissie heeft tot taak het voeren van regie op de inrichting van de (kennis)infrastructuur van specifieke doelgroepen met hoog complexe zorgbehoefte en een laag volume. Het gaat om de realisatie van expertisecentra langdurige zorg, de daarbij behorende Kenniscentra en de zorgaanbieders (satellieten) waarmee de Expertisecentra en Kenniscentra samenwerken. Daartoe gelden de volgende deelopdrachten:
+
+- a. selectiecriteria; Op 14 juli 2019 is het KPMG-advies Expertisecentra in de langdurige zorg aan de Tweede Kamer gestuurd (Kamerstukken II 2018–2019, 31 765, nr. 414). In dit advies zijn criteria benoemd die zijn te stellen aan de kenniscentra, expertisecentra en satellieten. Op basis van de in genoemd rapport geformuleerde criteria doen de vertegenwoordigers van de specifieke doelgroepen een voorstel voor de verdere uitwerking van selectiecriteria aan de commissie. Waar mogelijk geven zij ook aan welke partij een van de rollen kan gaan vervullen. De commissie toetst deze voorstellen en adviseert daarover. De uitvoering van de deelopdrachten b tot en met d is mede afhankelijk van de resultaten van deelopdracht a;
+
+- b. faciliteren specifieke doelgroepen; De commissie voert regie door het ondersteunen van de aangewezen partijen bij het gaan voldoen aan de criteria voor kenniscentrum, expertisecentra of satelliet. Waar nodig kan de commissie een stimulerende rol vervullen;
+
+- c. stelselpartijen en kennisinfrastructuur; De commissie houdt verbinding met stelselpartijen (met name de Nederlandse Zorgautoriteit (NZa) en Zorgverzekeraars Nederland (ZN)) over de vorderingen bij specifieke doelgroepen. Ook kan de commissie aan de NZa en ZN adviseren over de wijze waarop de bekostiging en de contractering van de specifieke doelgroepen kan gaan plaatsvinden. Daarnaast werkt de commissie de samenhang uit met de overige onderdelen van de kennisinfrastructuur zoals de Academische Werkplaatsen, beroepsorganisaties, Stichting KwaliteitsImpuls Langdurige Zorg, Zorgonderzoek Nederland Medische Wetenschappen en Vilans;
+
+- d. adviseer over de structurele situatie; Het nu aanwijzen van de partijen is geen eenmalige actie. Er zal bezien moeten worden of de aangewezen partijen hun rol in de kennisinfrastructuur waar maken en wellicht zullen de selectiecriteria op termijn geactualiseerd moeten worden. De commissie werkt de mogelijkheden daartoe uit.
+
+3. De commissie heeft tevens tot taak:
+
+- a. het waarborgen en bevorderen van de kwaliteit en continuïteit van de laagvolume hoogcomplexe doelgroepnetwerken en kenniscentra in de langdurige zorg;
+
+- b. het opstellen en beheren van criteria voor doelgroepnetwerken, kenniscentra en expertisecentra die onderdeel zijn van de doelgroepnetwerken, alsmede het inrichten van visitatie en beoordelingsprocessen;
+
+- c. het stimuleren en faciliteren van kennisuitwisseling en kennisimplementatie tussen doelgroepnetwerken en kenniscentra onderling, alsmede met andere kennisinfrastructuren;
+
+- d. het ondersteunen van doelgroepnetwerken en kenniscentra;
+
+- e. het verrichten van visitaties, het adviseren van de minister over onder andere deze visitaties mede ten aanzien van nieuwe doelgroepnetwerken;
+
+- f. het organiseren of doen organiseren van bijeenkomsten; en
+
+- g. het deelnemen in en mede vormgeven aan discussie, opinievorming en beleidsbepaling op het gebied van de laagvolume hoogcomplexe langdurige zorg;
+
+- h. het voeren van regie op de structurele verankering van de kwaliteitscriteria laagvolume hoogcomplexe doelgroepnetwerken in een kwaliteitsinstrument en op de borging van de nieuw ontwikkelde infrastructuur binnen het zorgstelsel. Beide dienen per 1 januari 2027 gerealiseerd te zijn.
+
+#### Artikel 3. Samenstelling, benoeming, ontslag
+
+1. De commissie bestaat uit een voorzitter en vier andere leden.
+
+2. De samenstelling van de commissie is als volgt:
+
+- a. voorzitter;
+
+- b. vice-voorzitter;
+
+- c. portefeuillehouder ouderenzorg;
+
+- d. portefeuillehouder gehandicaptenzorg;
+
+- e. portefeuillehouder kwaliteit en auditing.
+
+3. De voorzitter en de leden hebben zitting op persoonlijke titel en oefenen hun functie uit zonder last of ruggespraak.
+
+4. De voorzitter en de andere leden worden door de minister benoemd.
+
+5. De benoeming geschiedt voor de duur van de commissie.
+
+6. Bij tussentijds vertrek van een lid kan de minister op voordracht van de voorzitter onderscheidenlijk de resterende leden een ander lid dan wel een andere voorzitter benoemen.
+
+7. De voorzitter en overige leden kunnen op eigen verzoek of wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden worden geschorst en ontslagen door de minister.
+
+#### Artikel 4. Instelling
+
+De commissie wordt ingesteld met ingang van 1 oktober 2019 en wordt opgeheven met ingang van 1 januari 2027.
+
+#### Artikel 5. Leden
+
+Met ingang van 1 januari 2025 worden tot lid van de commissie benoemd:
+
+- a. Mevrouw M.H.A. Braks, te Nijmegen, tevens voorzitter;
+
+- b. De heer R.J.W. de Bruijn, te Zoetermeer, tevens vice-voorzitter;
+
+- c. De heer R.T.C.M. Koopmans, te Malden, tevens portefeuillehouder ouderenzorg;
+
+- d. Mevrouw D.A.M. Maes-Festen, te Rotterdam, tevens portefeuillehouder gehandicaptenzorg; en
+
+- e. De heer M.B.V. Rouppe van der Voort, te Houten, tevens portefeuillehouder kwaliteit en auditing.
+
+#### Artikel 6. Programmabureau
+
+1. De commissie wordt ondersteund door een programmabureau.
+
+2. Het programmabureau is voor de inhoudelijke uitvoering van zijn taak verantwoording schuldig aan de voorzitter van de commissie.
+
+3. In het programmabureau wordt voorzien door de minister.
+
+#### Artikel 7. Werkwijze
+
+1. De commissie stelt in overleg met de minister haar werkwijze vast.
+
+2. De commissie kan zich door andere personen doen bijstaan voor zover dat voor de vervulling van haar taak nodig is.
+
+#### Artikel 8. Informatieplicht
+
+1. De commissie verstrekt aan de minister desgevraagd de door hem gewenste inlichtingen.
+
+2. De commissie is bevoegd zich voor het inwinnen van inlichtingen rechtstreeks te wenden tot personen en instellingen en hen te verzoeken die medewerking te verlenen die redelijkerwijs nodig is voor de vervulling van haar taak.
+
+#### Artikel 9. Vergoeding
+
+1. Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 zoals vastgelegd in de CAO Rijk en de arbeidsduurfactor op 4/36.
+
+2. Aan de vice-voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 zoals vastgelegd in de CAO Rijk en de arbeidsduurfactor op 9/36.
+
+3. Aan de portefeuillehouder ouderenzorg wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 zoals vastgelegd in de CAO Rijk en de arbeidsduurfactor op 4/36.
+
+4. Aan de portefeuillehouder gehandicaptenzorg wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 zoals vastgelegd in de CAO Rijk en de arbeidsduurfactor op 3/36.
+
+5. Aan portefeuillehouder kwaliteit en auditing wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 zoals vastgelegd in de CAO Rijk en de arbeidsduurfactor op 3/36.
+
+#### Artikel 10. Kosten van de commissie
+
+1. De kosten van de commissie komen, voor zover goedgekeurd, voor rekening van de minister. Onder kosten worden in ieder geval verstaan:
+
+- a. de kosten voor de faciliteiten van vergaderingen en voor secretariële ondersteuning, en
+
+- b. de kosten voor het inschakelen van externe deskundigheid en het laten verrichten van onderzoek.
+
+2. De commissie biedt zo spoedig mogelijk na haar instelling een begroting en een planning aan de minister aan.
+
+#### Artikel 11. Verantwoording
+
+De commissie biedt de minister bij voorkeur vóór 1 december 2026, doch uiterlijk 31 december 2026 een eindverslag aan waarin verslag wordt gedaan over de activiteiten van de periode waarin de commissie werkzaam is geweest.
+
+#### Artikel 12. Archiefbescheiden
+
+De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden of, zo de omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffende die werkzaamheden over aan het archief van de Directie Langdurige Zorg van het Ministerie van Volksgezondheid, Welzijn en Sport.
+
+#### Artikel 13. Inwerkingtreding
+
+1. Dit besluit treedt in werking met ingang van 1 oktober 2019.
+
+2. Dit besluit vervalt met ingang van 1 januari 2027.
+
+#### Artikel 14. Citeertitel
+
+Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Expertisecentra langdurige zorg.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

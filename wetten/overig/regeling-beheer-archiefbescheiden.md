@@ -1,0 +1,79 @@
+---
+title: "Regeling beheer archiefbescheiden"
+identifier: "BWBR0009866"
+categorie: "Overig"
+publicatiedatum: 1998-01-01
+laatste_update: 1998-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0009866"
+---
+
+# Regeling beheer archiefbescheiden
+
+Gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14);
+
+Besluit:
+
+#### Artikel 1
+
+In deze regeling wordt verstaan onder:
+
+#### Artikel 2
+
+1. De secretaris-generaal is bevoegd om namens de Minister van Binnenlandse Zaken en Koninkrijksrelaties het beheer over de archiefbescheiden te voeren.
+
+2. De secretaris-generaal kan de bevoegdheid, bedoeld in het eerste lid, overdragen aan:
+
+- a. de plaatsvervangend secretaris-generaal;
+
+- b. de directeuren-generaal, voor zover het hun dienstonderdeel betreft;
+
+- c. het hoofd van de Binnenlandse Veiligheidsdienst, voor zover het de Binnenlandse Veiligheidsdienst betreft.
+
+3. De directeuren-generaal kunnen ten aanzien van de aan hen overgedragen bevoegdheid, ondermandaat verlenen aan de hoofden van de onder hen ressorterende diensten.
+
+4. Het Hoofd Binnenlandse Veiligheidsdienst kan ten aanzien van de aan hem overgedragen bevoegdheid, ondermandaat verlenen aan het onder hem ressorterende afdelingshoofd.
+
+#### Artikel 3
+
+1. De secretaris-generaal stelt uitvoeringsregelingen vast ten aanzien van het beheer van de archiefbescheiden.
+
+2. De uitvoeringsregelingen handelen tenminste over de volgende onderwerpen:
+
+- a. registratie en archivering van archiefbescheiden, zowel fysiek als elektronisch;
+
+- b. documentaire structuurplannen;
+
+- c. opleidingseisen;
+
+- d. selectielijsten voor en vernietiging van archiefbescheiden;
+
+- e. vereisten aan gegevensdragers;
+
+- f. vereisten aan archiefruimten;
+
+- g. overdracht van archiefbescheiden van decentrale archieven naar de semi-statische archieven van het Ministerie van Binnenlandse Zaken;
+
+- h. beveiliging van archiefbescheiden;
+
+- i. substitutie, vervreemding en beschikbaarstelling van archiefbescheiden;
+
+- j. overbrenging van archiefbescheiden naar een rijksarchiefbewaarplaats in de zin van de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376);
+
+- k. aanverwante werkzaamheden.
+
+#### Artikel 4
+
+Deze regeling treedt in werking met ingang van 1 januari 1998.
+
+Deze regeling zal in de Staatscourant worden geplaatst.
+
+Een afschrift van dit besluit wordt gezonden aan:
+
+- de plaatsvervangend secretaris-generaal
+
+- de directeuren-generaal
+
+- het hoofd van de Binnenlandse Veiligheidsdienst
+
+- de hoofden van de diensten ressorterende onder de directeuren-generaal.

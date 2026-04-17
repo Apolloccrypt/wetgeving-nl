@@ -1,0 +1,57 @@
+---
+title: "Wijzigingsbesluit Inrichtingsbesluit WVO enz. (deeleindexamens vmbo)"
+identifier: "BWBR0039713"
+categorie: "Bestuursrecht"
+publicatiedatum: 2022-08-01
+laatste_update: 2022-08-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0039713"
+---
+
+# Besluit van 9 juni 2017, houdende wijziging van diverse uitvoeringsbesluiten voor het voortgezet onderwijs in verband met onder meer deeleindexamens vmbo
+
+#### Artikel I. Wijziging [Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946)
+
+Wijzigt het Inrichtingsbesluit WVO.
+
+#### Artikel II. Wijziging [Inrichtingsbesluit WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029589)
+
+Wijzigt het Inrichtingsbesluit VWO BES.
+
+#### Artikel III. Wijziging [Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593)
+
+Wijzigt het Eindexamenbesluit VO.
+
+#### Artikel IV. Wijziging [Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990)
+
+Wijzigt het Eindexamenbesluit VO BES.
+
+#### Artikel V. Wijziging [Staatsexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0011538)
+
+Wijzigt het Staatsexamenbesluit VO.
+
+#### Artikel VI. Wijziging [Staatsexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029981)
+
+Wijzigt het Staatsexamenbesluit VO BES.
+
+#### Artikel VII. Overgangsrecht vakbenaming bedrijfseconomie, afsluiten vak culturele en kunstzinnige vorming, en vak algemene natuurwetenschappen
+
+Een voldoende eindcijfer voor het examen in het vak management en organisatie in het vwo of havo geldt voor de toepassing van het [Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787) als hetzelfde eindcijfer voor het examen in het vak bedrijfseconomie in het vwo onderscheidenlijk havo, indien dit eindcijfer voor het vak management en organisatie niet langer dan 10 jaar geleden is behaald.
+
+#### Artikel VIII. Inwerkingtreding
+
+1. De [artikelen I tot en met IV](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=I&z=2022-08-01&g=2022-08-01) en [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=VII&z=2022-08-01&g=2022-08-01) treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. [Artikel III, onderdeel OO](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=III&z=2022-08-01&g=2022-08-01), en [artikel VII, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=VII&z=2022-08-01&g=2022-08-01), kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+2. De [artikelen V](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=V&z=2022-08-01&g=2022-08-01) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=VI&z=2022-08-01&g=2022-08-01) treden in werking met ingang van 1 januari 2018.
+
+Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, van 17 maart 2017, nr. WJZ/1163336 (7625), directie Wetgeving en Juridische Zaken, gedaan in overeenstemming met de Staatssecretaris van Economische Zaken;
+
+Gelet op de [artikelen 13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=13), [14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=15), [29, tweede, vierde en vijfde lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=29)[30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=30), en [60, vijfde en zesde lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=60), de [artikelen 39, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=39), [40, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=40), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=41), [72, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=72), [74, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=74), en [116, vijfde lid, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=116), [artikel 7.4.11, derde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.11) en [artikel 7.4.13, derde lid, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=7.4.13);
+
+De Afdeling advisering van de Raad van State gehoord (advies van 21 april 2017, No. W05.17.0084/I);
+
+Gezien het nader rapport van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 9 juni 2017, nr. WJZ/1184734 (7625), directie Wetgeving en Juridische Zaken, uitgebracht in overeenstemming met de Staatssecretaris van Economische Zaken;
+
+Hebben goedgevonden en verstaan:
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

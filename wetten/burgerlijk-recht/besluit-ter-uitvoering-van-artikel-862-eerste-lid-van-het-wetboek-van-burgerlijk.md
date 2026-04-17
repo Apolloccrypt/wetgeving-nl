@@ -1,0 +1,19 @@
+---
+title: "Besluit ter uitvoering van artikel 862, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering BES"
+identifier: "BWBR0028331"
+categorie: "Burgerlijk recht"
+publicatiedatum: 2010-10-10
+laatste_update: 2010-10-10
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0028331"
+---
+
+# Besluit ter uitvoering van artikel 862, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering BES
+
+#### Artikel 1
+
+Het bedrag, bedoeld in [artikel 862, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=862) wordt gesteld op 5587 USD.
+
+#### Artikel 2
+
+Dit besluit wordt aangehaald als: Besluit ter uitvoering van artikel 862, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering BES.

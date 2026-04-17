@@ -1,0 +1,103 @@
+---
+title: "Besluit uitvoering artikel 3, derde lid, Wet aansprakelijkheidsverzekering motorrijtuigen"
+identifier: "BWBR0002847"
+categorie: "Bestuursrecht"
+publicatiedatum: 2022-06-30
+laatste_update: 2022-06-30
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0002847"
+---
+
+# Besluit van 23 november 1972, tot uitvoering van artikel 3, derde lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen (aanwijzing van landen en gebieden)
+
+Op de voordracht van Onze Minister van Justitie van 5 oktober 1972, Stafafdeling Wetgeving Privaatrecht, nr. 495/672;
+
+Gelet op [artikel 3, derde lid, der Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=3);
+
+De Raad van State gehoord (advies van 10 oktober 1972, nr. 12);
+
+Gezien het nader rapport van Onze voornoemde Minister van 13 november 1972, Stafafdeling Wetgeving Privaatrecht, nr. 569/672;
+
+Hebben goedgevonden en verstaan:
+
+#### Artikel 1
+
+Ter uitvoering van de [artikelen 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=3), en [3a, derde lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=3a) worden aangewezen de landen:
+
+a. Andorra;
+
+b. België;
+
+c. Bondsrepubliek Duitsland;
+
+d. Bosnië en Herzegovina;
+
+e. Bulgarije;
+
+f. Cyprus;
+
+g. Denemarken, met inbegrip van de Faeröer;
+
+h. Estland;
+
+i. Finland;
+
+j. Frankrijk en Monaco;
+
+k. Griekenland;
+
+l. Hongarije;
+
+m. Ierland;
+
+n. Italië, San Marino en Vaticaanstad;
+
+o. Kroatië;
+
+p. Letland;
+
+q. Litouwen;
+
+r. Luxemburg;
+
+s. Malta;
+
+t. Montenegro;
+
+u. Noorwegen;
+
+v. Oostenrijk
+
+w. Polen;
+
+x. Portugal;
+
+y. Roemenië;
+
+z. Servië;
+
+aa. Slovenië;
+
+bb. Slowaakse Republiek;
+
+cc. Spanje;
+
+dd. Tjechische Republiek;
+
+ee. Verenigd Koninkrijk van Groot-Brittanië en Noord-Ierland, de Kanaaleilanden, het eiland Man en Gibraltar;
+
+ff. IJsland;
+
+gg. Zweden;
+
+hh. Zwitserland en Liechtenstein.
+
+#### Artikel 2
+
+Vervallen
+
+#### Artikel 3
+
+De onderscheidene bepalingen van dit besluit treden in werking met ingang van door Ons te bepalen tijdstippen, welke ook voor wat de aanwijzing van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002847&artikel=1&z=2022-06-30&g=2022-06-30) genoemde landen betreft verschillend kunnen zijn.
+
+Onze Minister van Justitie is belast met de uitvoering van dit besluit dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.

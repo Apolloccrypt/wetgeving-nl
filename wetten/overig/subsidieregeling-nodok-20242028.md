@@ -1,0 +1,137 @@
+---
+title: "Subsidieregeling NODOK 2024–2028"
+identifier: "BWBR0041809"
+categorie: "Overig"
+publicatiedatum: 2024-06-29
+laatste_update: 2024-06-29
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0041809"
+---
+
+# Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 19 december 2018, kenmerk 1436504-183102-PG, houdende regels voor de subsidiëring van nader onderzoek naar de doodsoorzaak van kinderen (Subsidieregeling NODOK 2019–2023)
+
+Gelet op [artikel 3 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3);
+
+Besluit:
+
+#### Artikel 1
+
+In deze regeling wordt verstaan onder:
+
+- a. **minister:** Minister voor Medische Zorg;
+
+- b. **NODOK-protocol:** multidisciplinaire richtlijn van april 2024, waarin richtlijnen zijn gegeven voor het verrichten van nader onderzoek naar de doodsoorzaak van kinderen.
+
+#### Artikel 2
+
+Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
+
+#### Artikel 3
+
+1. De minister kan aan een universitair medisch centrum jaarlijks op aanvraag een subsidie verstrekken voor het verrichten van nader onderzoek naar de doodsoorzaak van kinderen.
+
+2. De subsidie wordt per kalenderjaar verstrekt.
+
+3. Het laatste jaar waarover subsidie kan worden aangevraagd is het jaar 2028.
+
+4. De subsidie voor de onderzoeken tot en met 2023 bedraagt per verricht onderzoek uit de categorieën zoals omschreven in de multidisciplinaire richtlijn NODOK:
+
+€ 6.700 indien het gaat om een onderzoek uit de categorie NODOK A1;
+
+€ 8.700 indien het gaat om een onderzoek uit de categorie NODOK A2;
+
+€ 8.850 indien het gaat om een onderzoek uit categorie NODOK B1;
+
+€ 10.850 indien het gaat om een onderzoek uit categorie NODOK B2;
+
+€ 11.250 indien het gaat om een onderzoek uit categorie NODOK C1;
+
+€ 13.250 indien het gaat om een onderzoek uit categorie NODOK C2.
+
+5. Voor de onderzoeken die vanaf 2024 worden verricht, bedraagt de subsidie per verricht onderzoek uit de categorieën zoals omschreven in het NODOK-protocol:
+
+€ 7.370 indien het gaat om een onderzoek uit de categorie NODOK A1;
+
+€ 9.570 indien het gaat om een onderzoek uit de categorie NODOK A2;
+
+€ 9.735 indien het gaat om een onderzoek uit de categorie NODOK B1;
+
+€ 11.935 indien het gaat om een onderzoek uit de categorie NODOK B2;
+
+€ 12.375 indien het gaat om een onderzoek uit de categorie NODOK C1;
+
+€ 14.575 indien het gaat om een onderzoek uit de categorie NODOK C2;
+
+€ 2.500 indien het gaat om een onderzoek uit categorie NODOK D1;
+
+€ 1.000 indien het gaat om een onderzoek uit categorie NODOK E1;
+
+€ 2.500 indien het gaat om een onderzoek uit categorie NODOK E2.
+
+6. De subsidie voor categorie D1 kan uitsluitend in combinatie met een onderzoek uit de categorieën A1, A2, B1, B2, C1 en C2 worden aangevraagd, en ten hoogste eenmaal per onderzoek naar de doodsoorzaak van een kind.
+
+7. De subsidie voor categorieën E1 of E2 kan uitsluitend in combinatie met een onderzoek uit de categorieën A1, A2, B1 en B2 worden aangevraagd, en ten hoogste eenmaal per onderzoek naar de doodsoorzaak van een kind.
+
+8. De subsidie bestaat uit een bedrag dat ontstaat uit vermenigvuldiging van het aantal verrichte onderzoeken met het van toepassing zijnde bedrag.
+
+#### Artikel 4
+
+1. Een subsidie wordt uitsluitend verstrekt ten behoeve van een onderzoek indien dat:
+
+- a. is gericht op het achterhalen van de aard van het overlijden en de doodsoorzaak van het kind;
+
+- b. voldoet aan de criteria omschreven in de NODOK-protocol;
+
+- c. wordt uitgevoerd volgens de procedure omschreven in de NODOK-protocol;
+
+- d. uitsluitend wordt verricht op schriftelijk verzoek van de ouder of ouders dan wel voogd of voogden die bekleed waren met het (ouderlijk) gezag.
+
+2. De minister verstrekt geen subsidie indien het onderzoek uit andere hoofde voor financiering in aanmerking komt.
+
+#### Artikel 5
+
+Het verrichten van nader onderzoek naar de doodsoorzaak van kinderen wordt aangewezen als een dienst van algemeen economisch belang in de zin van artikel 106, tweede lid, van het Verdrag betreffende de Werking van de Europese Unie.
+
+#### Artikel 6
+
+1. De subsidie wordt op aanvraag vastgesteld.
+
+2. Voor de aanvraag wordt een door de minister vastgesteld formulier gebruikt.
+
+3. De aanvraag wordt ondertekend door de aanvrager of door een persoon die bevoegd is de aanvrager te vertegenwoordigen.
+
+4. De aanvraag wordt uiterlijk 1 juni na afloop van het desbetreffende jaar waarin de onderzoeken zijn verricht ontvangen en omvat alle in het desbetreffende jaar uitgevoerde procedures.
+
+5. Indien de subsidie € 125.000 of meer bedraagt, legt de subsidieontvanger bij de aanvraag een assurancerapport over.
+
+Het rapport is opgesteld door een accountant overeenkomstig een door de minister vastgesteld model met inachtneming van een door de minister vastgesteld accountantsprotocol, bekend gemaakt op de website [www.Rijksoverheid.nl](http://www.rijksoverheid.nl).
+
+6. Een aanvraag die na de termijn, bedoeld in het vierde lid, wordt ontvangen, wordt afgewezen.
+
+#### Artikel 7
+
+1. De minister geeft binnen dertien weken na ontvangst van de aanvraag een beschikking tot vaststelling van de subsidie.
+
+2. Het besluit tot vaststelling van de subsidie vermeldt het bedrag van de subsidie.
+
+#### Artikel 8
+
+1. De aanvrager werkt, onder meer door het verschaffen van de daartoe benodigde inlichtingen, gegevens en bescheiden, mee aan door of namens de minister ingesteld onderzoek dat erop is gericht de minister inlichtingen te verschaffen die van belang zijn voor:
+
+- a. het nemen van een besluit over het verstrekken van de subsidie, of
+
+- b. de ontwikkeling van het beleid van de minister.
+
+2. De aanvrager levert gegevens over afgeronde onderzoeken voor 1 juni van het nieuwe kalenderjaar aan bij de beheerder van de landelijke NODOK-database.
+
+#### Artikel 9
+
+1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2019.
+
+2. Deze regeling vervalt met ingang van 1 juli 2029.
+
+#### Artikel 10
+
+Deze regeling wordt aangehaald als: Subsidieregeling NODOK 2024–2028.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

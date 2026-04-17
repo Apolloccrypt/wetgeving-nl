@@ -1,0 +1,113 @@
+---
+title: "Organisatie-, mandaat- en volmachtbesluit KO 2019"
+identifier: "BWBR0042440"
+categorie: "Overig"
+publicatiedatum: 2023-09-19
+laatste_update: 2023-09-19
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0042440"
+---
+
+# Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 juli 2019, nr. 2019-0000097652, houdende de inrichting van de directie Kinderopvang, alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Kinderopvang (Organisatie-, mandaat- en volmachtbesluit KO 2019)
+
+Gelet op de [artikelen 3, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0042435&artikel=3), en [15 van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Werk 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042435&artikel=15);
+
+Besluit:
+
+#### § 1. Begripsbepaling
+
+#### Artikel 1
+
+In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
+
+- a. **directie:** de directie Kinderopvang van het ministerie van Sociale Zaken en Werkgelegenheid;
+
+- b. **directeur:** de directeur Kinderopvang;
+
+- c. **plaatsvervangend directeur:** het afdelingshoofd Stelsel, Toegankelijkheid & Kennis.
+
+#### § 2. Organisatie en taken
+
+#### Artikel 2
+
+1. De directie bestaat uit de volgende afdelingen:
+
+- a. Afdeling Kwaliteit, Toezicht & Veiligheid;
+
+- b. Afdeling Stelsel, Toegankelijkheid & Kennis
+
+- c. MT-lid herziening financieringsstelsel kinderopvang.
+
+2. De directeur, de afdelingshoofden en het MT-lid herziening financieringsstelsel kinderopvang vormen tezamen het Managementteam (MT) van de directie.
+
+3. De directie werkt met een flexibele structuur. Afhankelijk van de beleidsopgaven waarmee de directie zich geconfronteerd ziet, kan het MT een directiestructuur hanteren die past bij deze opgaven. Hierbij kan bijvoorbeeld gewerkt worden met clusters, projecten, programma’s en/of teams.
+
+#### Artikel 3
+
+De directeur, de afdelingshoofden en het MT-lid herziening financieringsstelsel kinderopvang zijn verantwoordelijk voor:
+
+- a. het uitvoeren van programma’s en projecten zoals toegewezen door de directeur of vermeld in het jaarplan van de directie;
+
+- b. het algemeen beheer, coördineren en implementeren van wet- en regelgeving op het gebied van de kwaliteit en de veiligheid van de kinderopvang;
+
+- c. het ontwikkelen van beleid gericht op de verbetering van het toezicht op de kwaliteit en de handhaving van het stelsel van kinderopvang;
+
+- d. het ontwikkelen van beleid gericht op de verbetering van de aansluiting van kinderopvang met het onderwijs;
+
+- e. het ontwikkelen en toepassen van beleidsinstrumenten op de taakgebieden, bedoeld in onderdelen b tot en met d;
+
+- f. het algemeen beheer, coördineren en implementeren van wet- en regelgeving op het gebied van de financiering van de kinderopvang en de daarmee samenhangende onderwerpen als kinderopvangtoeslag in Nederland en het buitenland, fraudebestrijding en doelgroepenbeleid;
+
+- g. het ontwikkelen van beleid ten aanzien van marktwerking in de kinderopvang en de positie van ouders;
+
+- h. het ontwikkelen en toepassen van beleidsinstrumenten op de taakgebieden, bedoeld in onderdelen f en g, waaronder registers en ICT- toepassingen;
+
+- i. het coördineren van de bijdragen aan de begrotingsproducten en de uitvoeringsrapportages binnen de directie;
+
+- j. het bedrijfsmatig beheren van de budgetten;
+
+- k. het behartigen van overige financiële activiteiten binnen de directie waaronder het subsidie- en contractenbeheer.
+
+#### Artikel 4
+
+1. Aan de afdelingshoofden wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst. Dit geldt voor:
+
+- a. het organiseren en accorderen van activiteiten binnen hun eigen afdeling die voorafgaand door de directeur zijn geaccordeerd;
+
+- b. het accorderen van door de eigen afdeling ingediende voorstellen/uitgaven (opdrachten/onderzoeken/subsidies) zoals opgenomen in het door de directie vastgestelde bestedingsplan;
+
+- c. personele ontwikkeling van medewerkers zoals opleidingen en begeleiding.
+
+2. Aan het MT-lid herziening financieringsstelsel kinderopvang wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst. Dit geldt voor:
+
+- a. het organiseren en accorderen van activiteiten binnen het eigen taakveld die voorafgaand door de directeur zijn geaccordeerd.
+
+- b. het accorderen van binnen het eigen taakveld passende voorstellen/uitgaven (opdrachten/onderzoeken/subsidies) zoals opgenomen in het door de directie vastgestelde bestedingsplan.
+
+#### Artikel 5
+
+De plaatsvervangend directeur kan aan rechtstreeks onder haar ressorterende functionarissen bevoegdheden doorverlenen, met uitzondering van bevoegdheden met betrekking tot personeelsaangelegenheden. Doorverlening van bevoegdheden is slechts toegestaan na voorafgaande schriftelijke toestemming van de directeur.
+
+#### § 3. Slotbepalingen
+
+#### Artikel 6
+
+Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door de plaatsvervangend directeur.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+#### Artikel 4
+
+De plaatsvervangend directeur kan aan rechtstreeks onder haar ressorterende functionarissen bevoegdheden doorverlenen, met uitzondering van bevoegdheden met betrekking tot personeelsaangelegenheden. Doorverlening van bevoegdheden is slechts toegestaan na voorafgaande schriftelijke toestemming van de directeur.
+
+#### § 3. Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+#### Artikel 7
+
+1. Het [Organisatie-, mandaat- en volmachtbesluit directie Kinderopvang 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0035041) wordt ingetrokken.
+
+2. Deze regeling treedt in werking met ingang van de dag na de datum van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2019.
+
+3. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit KO 2019.

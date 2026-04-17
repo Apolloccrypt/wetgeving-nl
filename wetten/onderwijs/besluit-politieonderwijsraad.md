@@ -1,0 +1,99 @@
+---
+title: "Besluit politieonderwijsraad"
+identifier: "BWBR0016802"
+categorie: "Onderwijs"
+publicatiedatum: 2017-11-29
+laatste_update: 2017-11-29
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0016802"
+---
+
+# Besluit van 2 juni 2004 tot vaststelling van nadere regels inzake de organisatie, werkwijze en bekostiging van de politieonderwijsraad (Besluit politieonderwijsraad)
+
+Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, van 1 april 2004, nr. EA2004/60035, directoraat-generaal voor Openbare Orde en Veiligheid;
+
+Gelet op [artikel 21, van de Wet op het LSOP en het politieonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0014623&artikel=21);
+
+De Raad van State gehoord (advies van 22 april 2004, nr. W04.04.0156/I);
+
+Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, van 10 mei 2004, nr. EA2004/63883, directoraat-generaal voor Openbare Orde en Veiligheid;
+
+Hebben goedgevonden en verstaan:
+
+#### § 1. Algemene bepalingen
+
+#### Artikel 1. Begripsbepaling
+
+In dit besluit wordt verstaan onder de raad: de politieonderwijsraad.
+
+#### § 2. Inrichting en werkwijze
+
+#### Artikel 2. Secretariaat
+
+1. De raad wordt bijgestaan door een secretaris, die de leiding heeft over het secretariaat van de raad.
+
+2. Het secretariaat van de raad is ondergebracht bij een ondersteunende dienst als bedoeld in [artikel 25, eerste lid, onderdeel c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25).
+
+3. De secretaris en de overige leden van het secretariaat zijn geen lid van de raad.
+
+#### Artikel 3. Voorbereiding adviezen
+
+1. De raad kan, ter voorbereiding van een advies, een of meer ad hoc-werkgroepen instellen. Een werkgroep adviseert uitsluitend aan de raad.
+
+2. Aan de werkzaamheden van een werkgroep als bedoeld in het eerste lid, kunnen deskundigen deelnemen die geen lid zijn van de raad.
+
+3. De raad benoemt een van zijn leden tot voorzitter van een werkgroep als bedoeld in het eerste lid.
+
+#### Artikel 4. Totstandkoming adviezen, minderheidsstandpunt
+
+1. De raad beraadslaagt en besluit in vergadering over de uit te brengen adviezen.
+
+2. Over de uit te brengen adviezen wordt niet besloten dan in aanwezigheid van ten minste de helft van de leden.
+
+3. De adviezen worden uitgebracht overeenkomstig het gevoelen van de meerderheid van de ter vergadering aanwezige leden, waarbij elk lid één stem heeft.
+
+4. Indien het nodig is over het besluit tot vaststelling van het advies bij wijze van stemming te beslissen, wordt dat besluit bij meerderheid van stemmen opgemaakt.
+
+5. Indien de stemmen staken, wordt de besluitvorming aangehouden tot de volgende vergadering, tenzij de advisering niet uitgesteld kan worden of de vergadering voltallig is. In deze gevallen beslist de stem van de voorzitter. Van die omstandigheid wordt in het advies melding gemaakt.
+
+6. Een lid dat ter vergadering een standpunt heeft ingebracht dat afwijkt van het gevoelen van de meerderheid, kan over dat standpunt een afzonderlijke nota bij het advies voegen.
+
+#### Artikel 5. Reglement van Orde
+
+De raad stelt een reglement van orde vast.
+
+#### Artikel 6. Informatieverwerving
+
+De raad is bevoegd tot het horen van deskundigen, maatschappelijke organisaties en andere belanghebbenden teneinde informatie te verkrijgen die noodzakelijk is voor de taakuitvoering.
+
+#### Artikel 7. Middelen, begroting, jaarrekening
+
+1. De raad verricht zijn werkzaamheden binnen het kader van de middelen die hem jaarlijks door het Ministerie van Veiligheid en Justitie ter beschikking worden gesteld.
+
+2. De raad stelt jaarlijks voor 1 april een ontwerpbegroting op voor het eerstvolgende jaar en zendt deze naar Onze Minister.
+
+3. De raad doet jaarlijks voor 15 maart aan Onze Minister schriftelijk verslag van zijn werkzaamheden en over voor het secretariaat ter beschikking gestelde sterkte.
+
+#### § 3. Slotbepalingen
+
+#### Artikel 8. Archief
+
+1. Het beheer van de bescheiden betreffende de werkzaamheden van de raad geschiedt door het secretariaat, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016802&paragraaf=2&artikel=2&z=2017-11-29&g=2017-11-29), op overeenkomstige wijze als bij het Ministerie van Veiligheid en Justitie.
+
+2. De bescheiden worden bij opheffing van de raad overgedragen aan Onze Minister.
+
+#### Artikel 9. Inwerkingtreding
+
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
+
+#### Artikel 10. Citeertitel
+
+Dit besluit wordt aangehaald als: Besluit politieonderwijsraad.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+#### Artikel 8a
+
+Dit besluit berust op [artikel 82, zevende lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=82).
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

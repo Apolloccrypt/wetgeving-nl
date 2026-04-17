@@ -1,0 +1,43 @@
+---
+title: "Uitvoeringsreglement Distributie Buitenlandse Arthousefilm"
+identifier: "BWBR0019481"
+categorie: "Overig"
+publicatiedatum: 2009-12-31
+laatste_update: 2006-03-25
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0019481"
+---
+
+# Uitvoeringsreglement Distributie Buitenlandse Arthousefilm
+
+23 januari 2006
+
+Het Nederlands Fonds voor de Film publiceert: Uitvoeringsreglement Distributie Buitenlandse Arthousefilm die het Fonds in opdracht van het ministerie van OCW ontworpen heeft.
+
+Ter uitvoering van een verzoek in november 2004 van het Ministerie van Onderwijs, Cultuur en Wetenschap aan het Nederlands Fonds voor de Film geldt het volgende:
+
+1. Films waarop dit reglement van toepassing is, dienen bij te dragen aan een substantiële kwalitatieve toevoeging van het filmklimaat in Nederland.
+
+2.1. Voor distributie in Nederland van de **buitenlandse arthousefilm** met een vertoningsduur van tenminste 70 minuten kan een financiële bijdrage worden aangevraagd.
+
+2.2. Een aanvraag als bedoeld in het eerste lid kan uitsluitend worden ingediend door een distributeur die op het moment van indiening minimaal twee jaar als zodanig in Nederland werkzaam is.
+
+2.3. Met betrekking tot een film die is uitgebracht vóór 1 juli wordt een aanvraag uitsluitend in behandeling genomen indien deze vóór 1 oktober daaropvolgend is ingediend en is voldaan aan de voorwaarden van dit reglement.
+
+2.4. Met betrekking tot een film die is uitgebracht vóór 1 januari wordt een aanvraag uitsluitend in behandeling genomen indien deze vóór 1april daaropvolgend is ingediend en is voldaan aan de voorwaarden van dit reglement.
+
+3. Ten aanzien van de film waarop de aanvraag betrekking heeft, geldt het navolgende:
+
+4.1. Onverminderd het bepaalde in artikel drie, wordt een bijdrage eerst verleend indien is voldaan aan de criteria zoals neergelegd in het tweede lid en aan het automatische puntensysteem waarvan de uitwerkingen zijn opgenomen in een bij dit reglement behorende bijlage.
+
+4.2. Criteria voor toewijzing zijn: het land van herkomst, de staat van dienst van regisseur, de hoogte van de productiekosten en het aantal publieke vertoningen.
+
+5.1. De financiële bijdrage wordt verstrekt aan de aanvrager.
+
+5.2. De rangorde die het gevolg is van het automatische puntensysteem bepaalt of een aanvrager in aanmerking komt voor een bijdrage.
+
+5.3. De te verlenen bijdrage mag uitsluitend worden aangewend ten behoeve van aankoop van films zoals bedoeld in dit reglement.
+
+6. De inleverdata die betrekking hebben op dit reglement worden op de voor het fonds gebruikelijke publicatiekanalen bekend gemaakt.
+
+7. Dit reglement treedt in werking op de dag na die waarop dit reglement in de Staatscourant is gepubliceerd.

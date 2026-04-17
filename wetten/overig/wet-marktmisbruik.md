@@ -1,0 +1,47 @@
+---
+title: "Wet marktmisbruik"
+identifier: "BWBR0018474"
+categorie: "Overig"
+publicatiedatum: 2005-10-01
+laatste_update: 2005-10-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0018474"
+---
+
+# Wet marktmisbruik
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657), de [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063) en het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) te wijzigen in verband met de uitvoering van [richtlijn nr. 2003/6/EG](32003L0006) van het Europees Parlement en de Raad van de Europese Unie van 28 januari 2003 betreffende handel met voorwetenschap en marktmanipulatie (PbEU L 96), [richtlijn nr. 2003/124/EG](32003L0124) van de Commissie van de Europese Gemeenschappen van 22 december 2003 tot uitvoering van [Richtlijn nr. 2003/6/EG](32003L0006) van het Europees Parlement en de Raad wat de definitie en openbaarmaking van voorwetenschap en de definitie van marktmanipulatie betreft (PbEU L 339), [richtlijn nr. 2003/125/EG](32003L0125) van de Commissie van de Europese Gemeenschappen van 22 december 2003 tot uitvoering van [Richtlijn nr. 2003/6/EG](32003L0006) van het Europees Parlement en de Raad wat de juiste voorstelling van beleggingsaanbevelingen en de bekendmaking van belangenconflicten betreft (PbEU L 339) en [richtlijn nr. 2004/72/EG](32004L0072) van de Commissie van de Europese Gemeenschappen van 29 april 2004 tot uitvoering van [Richtlijn nr. 2003/6/EG](32003L0006) van het Europees Parlement en de Raad wat gebruikelijke marktpraktijken, de definitie van voorwetenschap met betrekking tot van grondstoffen afgeleide instrumenten, het opstellen van lijsten van personen met voorwetenschap, de melding van transacties van leidinggevende personen en de melding van verdachte transacties betreft (PbEU L 72);
+
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+#### Artikel I
+
+Wijzigt de Wet toezicht effectenverkeer 1995.
+
+#### Artikel II
+
+Wijzigt de Wet op de economische delicten.
+
+#### Artikel III
+
+Wijzigt het Wetboek van Strafvordering.
+
+#### Artikel IV
+
+Indien voor het tijdstip van inwerkingtreding van deze wet bezwaar of beroep is ingesteld tegen een op grond van een van de artikelen opgenomen in [hoofdstuk XII van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII) genomen besluit, wordt op het bezwaar onderscheidenlijk het beroep beslist met toepassing van het voor dat tijdstip geldende recht.
+
+#### Artikel V
+
+Vanaf het tijdstip van inwerkingtreding van deze wet berust het register, bedoeld in [artikel 46c, eerste lid (oud), van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=46c), op [artikel 47, negende lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=47).
+
+#### Artikel VI
+
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+
+#### Artikel VII
+
+Deze wet wordt aangehaald als: Wet marktmisbruik.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
