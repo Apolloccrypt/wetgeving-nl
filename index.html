@@ -333,25 +333,19 @@ function categorieKleur(cat) {
 
 async function laadWetten() {
   try {
-    const r = await fetch(GITHUB_API);
+    const r = await fetch('index.json');
     const data = await r.json();
-    const bestanden = (data.tree||[]).filter(f =>
-      f.path.startsWith('wetten/') && f.path.endsWith('.md')
-    );
-    alleWetten = bestanden.map(f => {
-      const delen = f.path.split('/');
-      const categorie = delen[1] || 'overig';
-      const bestandsnaam = delen[2] || '';
-      const naam = bestandsnaam.replace('.md','').replace(/-/g,' ')
-        .replace(/\b\w/g, c => c.toUpperCase());
-      const bwbr = bestandsnaam.replace('.md','').match(/bwbr?\d+/i);
-      return {
-        pad: f.path, naam, categorie,
-        bwbr: bwbr ? bwbr[0].toUpperCase() : '',
-        url: `https://github.com/Apolloccrypt/wetgeving-nl/blob/main/${f.path}`,
-        voorstelUrl: PROPOSALS_URL,
-      };
-    });
+    alleWetten = data.map(w => ({
+      pad: w.pad,
+      naam: w.titel,
+      categorie: w.categorie.toLowerCase().replace(/ /g,'-').replace(/[^a-z0-9-]/g,''),
+      categorieNaam: w.categorie,
+      bwbr: w.identifier,
+      datum: w.datum ? w.datum.substring(0,7) : '',
+      status: w.status,
+      url: `https://github.com/Apolloccrypt/wetgeving-nl/blob/main/${w.pad}`,
+      voorstelUrl: PROPOSALS_URL,
+    }));
 
     animeerGetal('stat-wetten', alleWetten.length);
     bouwFilters();
@@ -434,8 +428,9 @@ function toonResultaten() {
           <div class="wet-titel">${esc(w.naam)}</div>
           <div class="wet-sub">
             ${w.bwbr ? `<span class="wet-id">${w.bwbr}</span>` : ''}
-            <span class="wet-cat" style="color:${categorieKleur(w.categorie)};border-color:${categorieKleur(w.categorie)}30">${w.categorie}</span>
-            <span class="wet-status status-geldig">geldig</span>
+            ${w.datum ? `<span class="wet-datum">${w.datum}</span>` : ''}
+            <span class="wet-cat" style="color:${categorieKleur(w.categorie)};border-color:${categorieKleur(w.categorie)}30">${w.categorieNaam || w.categorie}</span>
+            <span class="wet-status ${w.status === 'ingetrokken' ? 'status-ingetrokken' : 'status-geldig'}">${w.status}</span>
           </div>
           <a class="wet-voorstel-btn" href="${w.voorstelUrl}" target="_blank" onclick="event.stopPropagation()">+ voorstel</a>
         </a>
