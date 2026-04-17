@@ -75,6 +75,26 @@ header::after {
 .stat-getal { font-size:1.3rem; font-weight:700; color:var(--wit); font-variant-numeric:tabular-nums; }
 .stat-label { font-size:0.68rem; color:rgba(255,255,255,0.4); font-family:'JetBrains Mono',monospace; text-transform:uppercase; letter-spacing:0.06em; }
 
+/* ── Nav bar ── */
+.nav-bar {
+  background: var(--donker);
+  border-top: 1px solid rgba(255,255,255,0.06);
+  padding: 0 2rem;
+}
+.nav-inner {
+  max-width:1200px; margin:0 auto;
+  display:flex; gap:0; overflow-x:auto;
+}
+.nav-btn {
+  font-family:'JetBrains Mono',monospace; font-size:0.72rem;
+  padding:0.7rem 1.1rem; color:rgba(255,255,255,0.45);
+  text-decoration:none; white-space:nowrap;
+  border-bottom:2px solid transparent;
+  transition:all 0.15s;
+}
+.nav-btn:hover { color:var(--wit); border-bottom-color:rgba(255,255,255,0.2); }
+.nav-btn.actief { color:var(--oranje); border-bottom-color:var(--oranje); }
+
 /* ── Sticky zoekbalk ── */
 .zoek-sectie {
   position:sticky; top:0; z-index:100;
@@ -294,6 +314,17 @@ footer a:hover { text-decoration:underline; }
   </div>
 </header>
 
+<nav class="nav-bar">
+  <div class="nav-inner">
+    <a class="nav-btn actief" href="index.html">Alle wetten</a>
+    <a class="nav-btn " href="bevoegdheden.html">Bevoegdhedencheck</a>
+    <a class="nav-btn " href="verwijzingen.html">Verwijzingen-graaf</a>
+    <a class="nav-btn " href="rechten.html">Mijn rechten</a>
+    <a class="nav-btn" href="https://github.com/Apolloccrypt/wetgeving-nl/tree/main/proposals" target="_blank">Wetsvoorstellen</a>
+    <a class="nav-btn" href="https://github.com/Apolloccrypt/wetgeving-nl/discussions" target="_blank">Discussie</a>
+    <a class="nav-btn" href="https://github.com/Apolloccrypt/wetgeving-nl" target="_blank">GitHub</a>
+  </div>
+</nav>
 <div class="zoek-sectie">
   <div class="zoek-inner">
     <div class="zoek-wrapper">
