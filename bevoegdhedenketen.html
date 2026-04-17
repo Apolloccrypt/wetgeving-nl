@@ -3,37 +3,48 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Bevoegdhedenketen — vrijewetgeving.nl</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚖️</text></svg>">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
 :root{--rood:#AE1C28;--wit:#fff;--blauw:#21468B;--oranje:#FF6B00;--donker:#0a0a0f;--grijs:#f5f5f1;--tekst:#1a1a2e;--zacht:#6b7280;--rand:#e8e8e3;}
 *{margin:0;padding:0;box-sizing:border-box;}
 body{font-family:'Syne',sans-serif;background:var(--grijs);color:var(--tekst);min-height:100vh;}
-header{background:var(--donker);color:var(--wit);padding:1.5rem 2rem;position:relative;}
-header::before{content:'';position:absolute;top:0;left:0;right:0;height:10px;background:linear-gradient(180deg,var(--rood) 33%,var(--wit) 33%,var(--wit) 66%,var(--blauw) 66%);}
-header::after{content:'';position:absolute;bottom:0;left:0;right:0;height:10px;background:linear-gradient(180deg,var(--rood) 33%,var(--wit) 33%,var(--wit) 66%,var(--blauw) 66%);}
+header{background:var(--donker);color:var(--wit);padding:1.2rem 2rem;position:relative;}
+header::before{content:'';position:absolute;top:0;left:0;right:0;height:8px;background:linear-gradient(180deg,var(--rood) 33%,var(--wit) 33%,var(--wit) 66%,var(--blauw) 66%);}
 .header-inner{max-width:1100px;margin:0 auto;display:flex;justify-content:space-between;align-items:center;}
-.logo{font-size:1.4rem;font-weight:700;text-decoration:none;color:var(--wit);letter-spacing:-0.01em;}
+.logo{font-size:1.3rem;font-weight:700;text-decoration:none;color:var(--wit);letter-spacing:-0.01em;}
 .logo span{color:var(--oranje);}
-.nav-bar{background:var(--donker);border-top:1px solid rgba(255,255,255,0.06);padding:0 2rem;}
-.nav-inner{max-width:1100px;margin:0 auto;display:flex;gap:0;overflow-x:auto;align-items:center;}
-.nav-btn{font-family:'JetBrains Mono',monospace;font-size:0.72rem;padding:0.7rem 1.1rem;color:rgba(255,255,255,0.45);text-decoration:none;white-space:nowrap;border-bottom:2px solid transparent;transition:all 0.15s;}
+.nav-bar{background:var(--donker);border-bottom:1px solid rgba(255,255,255,0.08);padding:0 2rem;}
+.nav-inner{max-width:1100px;margin:0 auto;display:flex;align-items:center;overflow-x:auto;}
+.nav-btn{font-family:'JetBrains Mono',monospace;font-size:0.7rem;padding:0.65rem 1rem;color:rgba(255,255,255,0.45);text-decoration:none;white-space:nowrap;border-bottom:2px solid transparent;transition:all 0.15s;}
 .nav-btn:hover{color:var(--wit);}
 .nav-btn.actief{color:var(--oranje);border-bottom-color:var(--oranje);}
 .nav-spacer{flex:1;}
-.nav-dropdown-wrap{position:relative;display:flex;align-items:center;margin:0 0.5rem;}
-.nav-dropdown-btn{font-family:'JetBrains Mono',monospace;font-size:0.7rem;padding:0.4rem 0.8rem;border-radius:4px;background:rgba(255,255,255,0.07);border:1px solid rgba(255,255,255,0.12);color:rgba(255,255,255,0.5);cursor:pointer;transition:all 0.15s;display:flex;align-items:center;gap:0.3rem;}
-.nav-dropdown-btn:hover{background:rgba(255,255,255,0.11);color:var(--wit);}
-.nav-dropdown{position:absolute;right:0;top:calc(100% + 6px);background:#0e0e14;border:1px solid rgba(255,255,255,0.12);border-radius:8px;padding:0.35rem;min-width:210px;z-index:500;display:none;box-shadow:0 8px 24px rgba(0,0,0,0.5);}
-.nav-dropdown a{display:flex;align-items:center;gap:0.5rem;padding:0.5rem 0.75rem;border-radius:5px;font-family:'JetBrains Mono',monospace;font-size:0.68rem;color:rgba(255,255,255,0.55);text-decoration:none;transition:all 0.1s;}
-.nav-dropdown a:hover{background:rgba(255,107,0,0.1);color:var(--wit);}
-.nav-dropdown-sep{height:1px;background:rgba(255,255,255,0.07);margin:0.25rem 0;}
-
-.hero{background:var(--donker);color:var(--wit);padding:2rem 2rem 3rem;text-align:center;}
-.hero h1{font-size:2rem;font-weight:700;margin-bottom:0.5rem;letter-spacing:-0.02em;}
+.nav-gh{font-family:'JetBrains Mono',monospace;font-size:0.7rem;padding:0.35rem 0.8rem;border-radius:4px;background:rgba(255,255,255,0.07);border:1px solid rgba(255,255,255,0.12);color:rgba(255,255,255,0.5);cursor:pointer;display:flex;align-items:center;gap:0.3rem;transition:all 0.15s;position:relative;}
+.nav-gh:hover{background:rgba(255,255,255,0.11);color:var(--wit);}
+.nav-gh-menu{position:absolute;right:0;top:calc(100% + 6px);background:#0e0e14;border:1px solid rgba(255,255,255,0.12);border-radius:8px;padding:0.35rem;min-width:210px;z-index:500;display:none;box-shadow:0 8px 24px rgba(0,0,0,0.5);}
+.nav-gh-menu a{display:flex;padding:0.5rem 0.75rem;border-radius:5px;font-family:'JetBrains Mono',monospace;font-size:0.68rem;color:rgba(255,255,255,0.55);text-decoration:none;transition:all 0.1s;}
+.nav-gh-menu a:hover{background:rgba(255,107,0,0.1);color:var(--wit);}
+.nav-gh-sep{height:1px;background:rgba(255,255,255,0.07);margin:0.25rem 0;}
+.disclaimer{background:#fff8e1;border-bottom:1px solid #f59e0b;padding:0.55rem 2rem;font-family:'JetBrains Mono',monospace;font-size:0.67rem;color:#78350f;text-align:center;}
+.disclaimer strong{font-weight:700;}
+.hero{background:var(--donker);color:var(--wit);padding:2.5rem 2rem 3rem;text-align:center;position:relative;overflow:hidden;}
+.hero::after{content:'';position:absolute;bottom:0;left:0;right:0;height:1px;background:linear-gradient(90deg,transparent,rgba(255,107,0,0.4),transparent);}
+.hero h1{font-size:2rem;font-weight:700;letter-spacing:-0.03em;margin-bottom:0.5rem;}
 .hero h1 span{color:var(--oranje);}
 .hero p{font-size:0.85rem;color:rgba(255,255,255,0.4);font-family:'JetBrains Mono',monospace;}
+footer{background:var(--donker);color:rgba(255,255,255,0.4);padding:2rem 2rem;margin-top:3rem;}
+.footer-inner{max-width:1100px;margin:0 auto;display:grid;grid-template-columns:1fr 1fr 1fr;gap:2rem;}
+.footer-col h4{font-size:0.78rem;font-weight:700;color:var(--wit);margin-bottom:0.6rem;}
+.footer-col p,.footer-col a{font-family:'JetBrains Mono',monospace;font-size:0.67rem;color:rgba(255,255,255,0.4);line-height:1.8;text-decoration:none;display:block;}
+.footer-col a:hover{color:var(--oranje);}
+.footer-bottom{max-width:1100px;margin:1.2rem auto 0;padding-top:1.2rem;border-top:1px solid rgba(255,255,255,0.07);font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:rgba(255,255,255,0.25);display:flex;justify-content:space-between;flex-wrap:wrap;gap:0.5rem;}
+@media(max-width:700px){.hero h1{font-size:1.5rem;}.footer-inner{grid-template-columns:1fr;}}
+
+*{margin:0;padding:0;box-sizing:border-box;}
+
+header::after{content:'';position:absolute;bottom:0;left:0;right:0;height:10px;background:linear-gradient(180deg,var(--rood) 33%,var(--wit) 33%,var(--wit) 66%,var(--blauw) 66%);}
 
 .zoek-container{max-width:1100px;margin:-1.5rem auto 1.5rem;padding:0 2rem;position:relative;z-index:10;}
 .zoek-card{background:var(--wit);border-radius:12px;padding:1.5rem;box-shadow:0 8px 32px rgba(0,0,0,0.12);}
@@ -68,7 +79,7 @@ header::after{content:'';position:absolute;bottom:0;left:0;right:0;height:10px;b
 .besluit-item{background:var(--wit);border:1px solid var(--rand);border-radius:8px;margin-bottom:0.5rem;cursor:pointer;transition:all 0.12s;border-left:3px solid transparent;}
 .besluit-item:hover{box-shadow:0 2px 12px rgba(0,0,0,0.07);}
 .besluit-item.geselecteerd{border-left-color:var(--oranje);box-shadow:0 2px 12px rgba(255,107,0,0.1);}
-.besluit-header{padding:0.85rem 1rem;display:flex;align-items:flex-start;gap:0.75rem;}
+.besluit-
 .type-badge{flex-shrink:0;padding:0.2rem 0.55rem;border-radius:3px;font-family:'JetBrains Mono',monospace;font-size:0.6rem;font-weight:600;margin-top:2px;}
 .b-mandaat{background:#fef3c7;color:#92400e;}
 .b-delegatie{background:#dbeafe;color:#1e40af;}
@@ -82,7 +93,7 @@ header::after{content:'';position:absolute;bottom:0;left:0;right:0;height:10px;b
 /* Detail paneel */
 .detail{background:var(--wit);border-radius:10px;border:1px solid var(--rand);position:sticky;top:1rem;height:fit-content;max-height:85vh;overflow-y:auto;}
 .detail-leeg{padding:2rem;text-align:center;font-family:'JetBrains Mono',monospace;font-size:0.78rem;color:var(--zacht);}
-.detail-header{padding:1.2rem 1.2rem 0.8rem;border-bottom:1px solid var(--rand);}
+.detail-
 .detail-type{font-family:'JetBrains Mono',monospace;font-size:0.62rem;font-weight:600;margin-bottom:0.4rem;}
 .detail-titel{font-size:0.95rem;font-weight:700;line-height:1.4;margin-bottom:0.4rem;}
 .detail-meta{font-family:'JetBrains Mono',monospace;font-size:0.62rem;color:var(--zacht);}
@@ -91,11 +102,10 @@ header::after{content:'';position:absolute;bottom:0;left:0;right:0;height:10px;b
 .detail-btn:hover{border-color:var(--oranje);color:var(--oranje);}
 .detail-btn.prim{background:var(--donker);color:var(--wit);border-color:var(--donker);}
 .detail-btn.prim:hover{background:#2a2a3f;}
-.detail-body{padding:1rem 1.2rem;}
+.detail-
 .detail-body-tekst{font-size:0.82rem;line-height:1.8;color:var(--tekst);white-space:pre-wrap;font-family:'JetBrains Mono',monospace;}
 .detail-body-tekst mark{background:#fef9c3;border-radius:2px;padding:0 1px;}
 
-footer{text-align:center;padding:1.5rem;font-family:'JetBrains Mono',monospace;font-size:0.68rem;color:var(--zacht);border-top:1px solid var(--rand);background:var(--wit);}
 footer a{color:var(--blauw);text-decoration:none;}
 .laden{text-align:center;padding:3rem;font-family:'JetBrains Mono',monospace;font-size:0.8rem;color:var(--zacht);}
 
@@ -117,6 +127,28 @@ footer a{color:var(--blauw);text-decoration:none;}
   <div class="header-inner">
     <a class="logo" href="index.html">vrije<span>wetgeving.nl</span></a>
   </div>
+</header>
+<nav class="nav-bar">
+  <div class="nav-inner">
+    <a class="nav-btn" href="index.html">Alle wetten</a>
+    <a class="nav-btn" href="bevoegdheden.html">Bevoegdhedencheck</a>
+    <a class="nav-btn actief" href="bevoegdhedenketen.html">Bevoegdhedenketen</a>
+    <a class="nav-btn" href="rechten.html">Mijn rechten</a>
+    <div class="nav-spacer"></div>
+    <div class="nav-gh" onclick="toggleGH(event)">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.477 2 2 6.477 2 12c0 4.418 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.009-.868-.013-1.703-2.782.604-3.369-1.341-3.369-1.341-.454-1.154-1.11-1.462-1.11-1.462-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0 1 12 6.836a9.59 9.59 0 0 1 2.504.337c1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.203 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.743 0 .267.18.578.688.48C19.138 20.163 22 16.418 22 12c0-5.523-4.477-10-10-10z"/></svg>
+      GitHub
+      <div class="nav-gh-menu" id="gh-menu">
+        <a href="https://github.com/Apolloccrypt/wetgeving-nl" target="_blank">Repository</a>
+        <div class="nav-gh-sep"></div>
+        <a href="https://github.com/Apolloccrypt/wetgeving-nl/tree/main/proposals" target="_blank">Wetsvoorstel indienen</a>
+        <a href="https://github.com/Apolloccrypt/wetgeving-nl/discussions" target="_blank">Discussie</a>
+        <a href="https://github.com/Apolloccrypt/wetgeving-nl/issues" target="_blank">Fout melden</a>
+      </div>
+    </div>
+  </div>
+</nav>
+<div class="disclaimer"><strong>Let op:</strong> vrijewetgeving.nl is een hulptool om wetgeving te zoeken. Dit is geen juridisch advies. Raadpleeg een jurist of advocaat voor uw specifieke situatie.</div>
 </header>
 <nav class="nav-bar">
   <div class="nav-inner">
@@ -195,9 +227,31 @@ footer a{color:var(--blauw);text-decoration:none;}
 </div>
 
 <footer>
-  <a href="index.html">vrijewetgeving.nl</a> &nbsp;|&nbsp;
-  Data: wetten.overheid.nl (CC0) &nbsp;|&nbsp;
-  <a href="https://github.com/Apolloccrypt/wetgeving-nl">GitHub</a>
+  <div class="footer-inner">
+    <div class="footer-col">
+      <h4>vrijewetgeving.nl</h4>
+      <p>Nederlandse wetgeving als open data. Elke wet een bestand, elke wijziging een commit.</p>
+      <a href="https://github.com/Apolloccrypt/wetgeving-nl" target="_blank" style="margin-top:0.5rem;color:var(--oranje)">→ Bekijk op GitHub</a>
+    </div>
+    <div class="footer-col">
+      <h4>Tools</h4>
+      <a href="index.html">Alle wetten</a>
+      <a href="bevoegdheden.html">Bevoegdhedencheck</a>
+      <a href="bevoegdhedenketen.html">Bevoegdhedenketen</a>
+      <a href="rechten.html">Mijn rechten</a>
+    </div>
+    <div class="footer-col">
+      <h4>Bijdragen</h4>
+      <a href="https://github.com/Apolloccrypt/wetgeving-nl/tree/main/proposals" target="_blank">Wetsvoorstel indienen</a>
+      <a href="https://github.com/Apolloccrypt/wetgeving-nl/discussions" target="_blank">Discussie</a>
+      <a href="https://github.com/Apolloccrypt/wetgeving-nl/issues" target="_blank">Fout melden</a>
+      <a href="https://github.com/Apolloccrypt/wetgeving-nl/fork" target="_blank">Fork de repo</a>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span>Data: wetten.overheid.nl · Licentie: CC0 (wetten) + MIT (code)</span>
+    <span>geen juridisch advies — raadpleeg een jurist</span>
+  </div>
 </footer>
 
 <script>
