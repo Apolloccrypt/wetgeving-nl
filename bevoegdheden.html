@@ -28,6 +28,29 @@ header::after { content:''; position:absolute; bottom:0; left:0; right:0; height
   border-bottom:2px solid transparent; transition:all 0.15s; }
 .nav-btn:hover { color:var(--wit); }
 .nav-btn.actief { color:var(--oranje); border-bottom-color:var(--oranje); }
+.nav-spacer { flex:1; }
+.nav-dropdown-wrap { position:relative; display:flex; align-items:center; padding:0 0.5rem; }
+.nav-dropdown-btn {
+  font-family:'JetBrains Mono',monospace; font-size:0.72rem;
+  padding:0.5rem 0.9rem; border-radius:5px;
+  background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.15);
+  color:rgba(255,255,255,0.6); cursor:pointer; transition:all 0.15s; white-space:nowrap;
+}
+.nav-dropdown-btn:hover { background:rgba(255,255,255,0.14); color:var(--wit); }
+.nav-dropdown {
+  position:absolute; right:0; top:calc(100% + 4px);
+  background:rgba(10,10,15,0.98); border:1px solid rgba(255,255,255,0.15);
+  border-radius:8px; padding:0.4rem; min-width:200px; z-index:500;
+  display:none; backdrop-filter:blur(12px);
+}
+.nav-dropdown-wrap:hover .nav-dropdown { display:block; }
+.nav-dropdown a {
+  display:block; padding:0.45rem 0.75rem; border-radius:4px;
+  font-family:'JetBrains Mono',monospace; font-size:0.7rem;
+  color:rgba(255,255,255,0.6); text-decoration:none; transition:all 0.1s;
+}
+.nav-dropdown a:hover { background:rgba(255,107,0,0.12); color:var(--oranje); }
+
 footer { text-align:center; padding:1.5rem; font-family:'JetBrains Mono',monospace;
   font-size:0.68rem; color:var(--zacht); border-top:1px solid var(--rand); background:var(--wit); margin-top:2rem; }
 footer a { color:var(--blauw); text-decoration:none; }
@@ -155,9 +178,16 @@ footer a { color:var(--blauw); text-decoration:none; }
     <a class="nav-btn actief" href="bevoegdheden.html">Bevoegdhedencheck</a>
     <a class="nav-btn" href="verwijzingen.html">Verwijzingen-graaf</a>
     <a class="nav-btn" href="rechten.html">Mijn rechten</a>
-    <a class="nav-btn" href="https://github.com/Apolloccrypt/wetgeving-nl/tree/main/proposals" target="_blank">Wetsvoorstellen</a>
-    <a class="nav-btn" href="https://github.com/Apolloccrypt/wetgeving-nl/discussions" target="_blank">Discussie</a>
-    <a class="nav-btn" href="https://github.com/Apolloccrypt/wetgeving-nl" target="_blank">GitHub</a>
+    <div class="nav-spacer"></div>
+    <div class="nav-dropdown-wrap">
+      <button class="nav-dropdown-btn">GitHub ▾</button>
+      <div class="nav-dropdown">
+        <a href="https://github.com/Apolloccrypt/wetgeving-nl" target="_blank">Repository</a>
+        <a href="https://github.com/Apolloccrypt/wetgeving-nl/tree/main/proposals" target="_blank">Wetsvoorstellen indienen</a>
+        <a href="https://github.com/Apolloccrypt/wetgeving-nl/discussions" target="_blank">Discussie</a>
+        <a href="https://github.com/Apolloccrypt/wetgeving-nl/issues" target="_blank">Issues & fouten</a>
+      </div>
+    </div>
   </div>
 </nav>
 <div class="hero">
