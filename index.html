@@ -8,92 +8,35 @@
 <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
 :root {
-  --rood: #AE1C28;
-  --wit: #ffffff;
-  --blauw: #21468B;
-  --oranje: #FF6B00;
-  --donker: #0a0a0f;
-  --grijs: #f5f5f1;
-  --tekst: #1a1a2e;
-  --zacht: #6b7280;
-  --rand: #e8e8e3;
-  --kaart-hover: #fafaf6;
+  --rood:#AE1C28; --wit:#ffffff; --blauw:#21468B; --oranje:#FF6B00;
+  --donker:#0a0a0f; --grijs:#f5f5f1; --tekst:#1a1a2e; --zacht:#6b7280; --rand:#e8e8e3;
 }
 * { margin:0; padding:0; box-sizing:border-box; }
-body { font-family:'Syne',sans-serif; background:var(--wit); color:var(--tekst); min-height:100vh; }
+body { font-family:'Syne',sans-serif; background:var(--grijs); color:var(--tekst); min-height:100vh; }
 
-/* ── Header ── */
-header {
-  background: var(--donker);
-  color: var(--wit);
-  padding: 1.5rem 2rem 1.8rem;
-  position: relative;
-  overflow: hidden;
-}
-header::before {
-  content:'';
-  position:absolute;
-  top:0; left:0; right:0;
-  height:10px;
-  background: linear-gradient(180deg, var(--rood) 33%, var(--wit) 33%, var(--wit) 66%, var(--blauw) 66%);
-}
-header::after {
-  content:'';
-  position:absolute;
-  bottom:0; left:0; right:0;
-  height:10px;
-  background: linear-gradient(180deg, var(--rood) 33%, var(--wit) 33%, var(--wit) 66%, var(--blauw) 66%);
-}
-.header-inner { max-width:1200px; margin:0 auto; }
-.header-top { display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:1.5rem; flex-wrap:wrap; gap:1rem; }
-.logo { font-size:1.8rem; font-weight:800; letter-spacing:-0.03em; }
+header { background:var(--donker); color:var(--wit); padding:1.5rem 2rem; position:relative; }
+header::before { content:''; position:absolute; top:0; left:0; right:0; height:10px;
+  background:linear-gradient(180deg,var(--rood) 33%,var(--wit) 33%,var(--wit) 66%,var(--blauw) 66%); }
+header::after { content:''; position:absolute; bottom:0; left:0; right:0; height:10px;
+  background:linear-gradient(180deg,var(--rood) 33%,var(--wit) 33%,var(--wit) 66%,var(--blauw) 66%); }
+.header-inner { max-width:1200px; margin:0 auto; display:flex; justify-content:space-between; align-items:center; }
+.logo { font-size:1.4rem; font-weight:800; text-decoration:none; color:var(--wit); }
 .logo span { color:var(--oranje); }
-.header-badges { display:flex; gap:0.6rem; align-items:center; }
-.badge-beta {
-  font-family:'JetBrains Mono',monospace;
-  font-size:0.65rem;
-  padding:0.25rem 0.6rem;
-  border-radius:4px;
-  background: rgba(255,255,255,0.1);
-  color: rgba(255,255,255,0.6);
-  border:1px solid rgba(255,255,255,0.15);
-}
-.btn-github {
-  font-family:'JetBrains Mono',monospace;
-  font-size:0.72rem;
-  padding:0.4rem 0.9rem;
-  border-radius:5px;
-  background: rgba(255,255,255,0.08);
-  color: var(--wit);
-  border:1px solid rgba(255,255,255,0.2);
-  text-decoration:none;
-  transition:background 0.15s;
-}
-.btn-github:hover { background:rgba(255,255,255,0.15); }
-.stats { display:flex; gap:2rem; flex-wrap:wrap; }
-.stat { display:flex; flex-direction:column; gap:0.15rem; }
-.stat-getal { font-size:1.3rem; font-weight:700; color:var(--wit); font-variant-numeric:tabular-nums; }
-.stat-label { font-size:0.68rem; color:rgba(255,255,255,0.4); font-family:'JetBrains Mono',monospace; text-transform:uppercase; letter-spacing:0.06em; }
 
-/* ── Nav bar ── */
-.nav-bar {
-  background: var(--donker);
-  border-top: 1px solid rgba(255,255,255,0.06);
-  padding: 0 2rem;
-}
-.nav-inner {
-  max-width:1200px; margin:0 auto;
-  display:flex; gap:0; overflow-x:auto;
-}
-.nav-btn {
-  font-family:'JetBrains Mono',monospace; font-size:0.72rem;
-  padding:0.7rem 1.1rem; color:rgba(255,255,255,0.45);
-  text-decoration:none; white-space:nowrap;
-  border-bottom:2px solid transparent;
-  transition:all 0.15s;
-}
-.nav-btn:hover { color:var(--wit); border-bottom-color:rgba(255,255,255,0.2); }
+.nav-bar { background:var(--donker); border-top:1px solid rgba(255,255,255,0.06); padding:0 2rem; }
+.nav-inner { max-width:1200px; margin:0 auto; display:flex; gap:0; overflow-x:auto; }
+.nav-btn { font-family:'JetBrains Mono',monospace; font-size:0.72rem; padding:0.7rem 1.1rem;
+  color:rgba(255,255,255,0.45); text-decoration:none; white-space:nowrap;
+  border-bottom:2px solid transparent; transition:all 0.15s; }
+.nav-btn:hover { color:var(--wit); }
 .nav-btn.actief { color:var(--oranje); border-bottom-color:var(--oranje); }
+
+footer { text-align:center; padding:1.5rem; font-family:'JetBrains Mono',monospace;
+  font-size:0.68rem; color:var(--zacht); border-top:1px solid var(--rand); background:var(--wit); margin-top:4rem; }
+footer a { color:var(--blauw); text-decoration:none; }
+
+
+
 
 /* ── Sticky zoekbalk ── */
 .zoek-sectie {
@@ -290,36 +233,15 @@ footer a:hover { text-decoration:underline; }
 
 <header>
   <div class="header-inner">
-    <div class="header-top">
-      <div class="logo">vrije<span>wetgeving.nl</span></div>
-      <div class="header-badges">
-        <span class="badge-beta">beta</span>
-        <a class="btn-github" href="https://github.com/Apolloccrypt/wetgeving-nl" target="_blank">GitHub</a>
-      </div>
-    </div>
-    <div class="stats">
-      <div class="stat">
-        <span class="stat-getal" id="stat-wetten">—</span>
-        <span class="stat-label">wetten geladen</span>
-      </div>
-      <div class="stat">
-        <span class="stat-getal">21.407</span>
-        <span class="stat-label">actuele regelingen</span>
-      </div>
-      <div class="stat">
-        <span class="stat-getal">dagelijks</span>
-        <span class="stat-label">bijgewerkt</span>
-      </div>
-    </div>
+    <a class="logo" href="index.html">vrije<span>wetgeving.nl</span></a>
   </div>
 </header>
-
 <nav class="nav-bar">
   <div class="nav-inner">
     <a class="nav-btn actief" href="index.html">Alle wetten</a>
-    <a class="nav-btn " href="bevoegdheden.html">Bevoegdhedencheck</a>
-    <a class="nav-btn " href="verwijzingen.html">Verwijzingen-graaf</a>
-    <a class="nav-btn " href="rechten.html">Mijn rechten</a>
+    <a class="nav-btn" href="bevoegdheden.html">Bevoegdhedencheck</a>
+    <a class="nav-btn" href="verwijzingen.html">Verwijzingen-graaf</a>
+    <a class="nav-btn" href="rechten.html">Mijn rechten</a>
     <a class="nav-btn" href="https://github.com/Apolloccrypt/wetgeving-nl/tree/main/proposals" target="_blank">Wetsvoorstellen</a>
     <a class="nav-btn" href="https://github.com/Apolloccrypt/wetgeving-nl/discussions" target="_blank">Discussie</a>
     <a class="nav-btn" href="https://github.com/Apolloccrypt/wetgeving-nl" target="_blank">GitHub</a>
@@ -355,12 +277,9 @@ footer a:hover { text-decoration:underline; }
 </div>
 
 <footer>
-  <p>
-    Data: <a href="https://wetten.overheid.nl">wetten.overheid.nl</a> (CC0) &nbsp;|&nbsp;
-    Code: <a href="https://github.com/Apolloccrypt/wetgeving-nl">GitHub</a> &nbsp;|&nbsp; <a href="https://vrijewetgeving.nl">vrijewetgeving.nl</a> (MIT) &nbsp;|&nbsp;
-    <a href="https://github.com/Apolloccrypt/wetgeving-nl/tree/main/proposals">Wetsvoorstel indienen</a>
-  </p>
-  <p style="margin-top:0.4rem;opacity:0.5">Geen officiele band met de Nederlandse overheid.</p>
+  <a href="index.html">vrijewetgeving.nl</a> &nbsp;|&nbsp;
+  <a href="https://github.com/Apolloccrypt/wetgeving-nl">GitHub</a> &nbsp;|&nbsp;
+  Data: wetten.overheid.nl (CC0)
 </footer>
 
 <a class="floating-cta"
