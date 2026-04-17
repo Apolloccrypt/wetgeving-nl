@@ -11,7 +11,7 @@
   --rood: #AE1C28;
   --wit: #ffffff;
   --blauw: #21468B;
-  --oranje: #E07020;
+  --oranje: #FF6B00;
   --donker: #0a0a0f;
   --grijs: #f5f5f1;
   --tekst: #1a1a2e;
@@ -34,7 +34,14 @@ header::before {
   content:'';
   position:absolute;
   top:0; left:0; right:0;
-  height:5px;
+  height:10px;
+  background: linear-gradient(180deg, var(--rood) 33%, var(--wit) 33%, var(--wit) 66%, var(--blauw) 66%);
+}
+header::after {
+  content:'';
+  position:absolute;
+  bottom:0; left:0; right:0;
+  height:10px;
   background: linear-gradient(180deg, var(--rood) 33%, var(--wit) 33%, var(--wit) 66%, var(--blauw) 66%);
 }
 .header-inner { max-width:1200px; margin:0 auto; }
@@ -90,7 +97,7 @@ header::before {
   outline:none;
   transition:border-color 0.15s, box-shadow 0.15s;
 }
-.zoek-veld:focus { border-color:var(--blauw); box-shadow:0 0 0 3px rgba(33,70,139,0.08); }
+.zoek-veld:focus { border-color:var(--oranje); box-shadow:0 0 0 3px rgba(255,107,0,0.12); }
 .zoek-hint {
   position:absolute; right:0.9rem; top:50%; transform:translateY(-50%);
   font-family:'JetBrains Mono',monospace; font-size:0.62rem;
@@ -105,8 +112,8 @@ header::before {
   background:var(--wit); cursor:pointer;
   transition:all 0.12s; color:var(--zacht); white-space:nowrap;
 }
-.filter-btn:hover { border-color:var(--blauw); color:var(--blauw); }
-.filter-btn.actief { background:var(--blauw); border-color:var(--blauw); color:var(--wit); }
+.filter-btn:hover { border-color:var(--oranje); color:var(--oranje); }
+.filter-btn.actief { background:var(--oranje); border-color:var(--oranje); color:var(--wit); }
 .wis-btn {
   padding:0.4rem 0.7rem;
   font-family:'JetBrains Mono',monospace; font-size:0.68rem;
@@ -137,7 +144,7 @@ header::before {
   position:relative;
 }
 .wet-kaart:hover { background:var(--kaart-hover); }
-.wet-kaart:hover .wet-titel { color:var(--blauw); }
+.wet-kaart:hover .wet-titel { color:var(--oranje); }
 .wet-titel { font-size:0.88rem; font-weight:600; line-height:1.4; transition:color 0.1s; }
 .wet-sub {
   display:flex; gap:0.5rem; align-items:center; flex-wrap:wrap;
