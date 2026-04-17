@@ -390,7 +390,8 @@ function toonResultaten(wetten) {
     groepen[c].push(w);
   });
 
-  let html = `<div class="telling">${wetten.length} relevante wetten</div>`;
+  const totaal = wetten.length;
+  let html = `<div class="telling">${totaal} relevante wetten</div>`;
   Object.entries(groepen).sort((a,b) => b[1].length - a[1].length).forEach(([cat, ws]) => {
     html += `<div class="sectie-titel">${esc(cat)} (${ws.length})</div>`;
     ws.forEach(wet => {
