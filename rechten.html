@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Mijn rechten — vrijewetgeving.nl</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
 :root {
@@ -30,81 +31,76 @@ header::after { content:''; position:absolute; bottom:0; left:0; right:0; height
 .nav-btn:hover { color:var(--wit); }
 .nav-btn.actief { color:var(--oranje); border-bottom-color:var(--oranje); }
 
-footer { text-align:center; padding:1.5rem; font-family:'JetBrains Mono',monospace;
-  font-size:0.68rem; color:var(--zacht); border-top:1px solid var(--rand); background:var(--wit); margin-top:4rem; }
-footer a { color:var(--blauw); text-decoration:none; }
-
-
-
-
-
-
-
-
-
-.
-.logo { font-size:1.4rem; font-weight:800; text-decoration:none; color:var(--wit); }
-.logo span { color:var(--oranje); }
-
-
-
-
-
-
-
 .hero { background:var(--donker); color:var(--wit); padding:2rem 2rem 3rem; text-align:center; }
 .hero h1 { font-size:2rem; font-weight:800; margin-bottom:0.5rem; }
 .hero h1 span { color:var(--oranje); }
-.hero p { font-size:0.85rem; color:rgba(255,255,255,0.5); font-family:'JetBrains Mono',monospace; }
+.hero p { font-size:0.85rem; color:rgba(255,255,255,0.4); font-family:'JetBrains Mono',monospace; }
 
-.kiezer-container { max-width:900px; margin:-1.5rem auto 2rem; padding:0 2rem; position:relative; z-index:10; }
+.kiezer { max-width:1000px; margin:-1.5rem auto 2rem; padding:0 2rem; position:relative; z-index:10; }
 .kiezer-card { background:var(--wit); border-radius:12px; padding:1.5rem; box-shadow:0 8px 32px rgba(0,0,0,0.12); }
-.kiezer-card h2 { font-size:0.78rem; font-weight:600; color:var(--zacht); text-transform:uppercase; letter-spacing:0.08em; margin-bottom:1rem; font-family:'JetBrains Mono',monospace; }
+.kiezer-label { font-size:0.72rem; font-weight:600; color:var(--zacht); text-transform:uppercase; letter-spacing:0.08em; margin-bottom:1rem; font-family:'JetBrains Mono',monospace; }
 
-.rollen-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(140px,1fr)); gap:0.75rem; }
+.rollen { display:grid; grid-template-columns:repeat(auto-fill,minmax(110px,1fr)); gap:0.6rem; margin-bottom:1.2rem; }
 .rol-btn {
-  padding:1rem; border:2px solid var(--rand); border-radius:8px;
-  background:var(--grijs); cursor:pointer; text-align:center;
-  transition:all 0.15s; font-family:'Syne',monospace;
+  padding:0.9rem 0.5rem; border:2px solid var(--rand); border-radius:8px;
+  background:var(--grijs); cursor:pointer; text-align:center; transition:all 0.15s;
 }
 .rol-btn:hover { border-color:var(--oranje); background:var(--wit); }
 .rol-btn.actief { border-color:var(--oranje); background:#fff7ed; }
-.rol-icoon { font-size:1.8rem; margin-bottom:0.4rem; display:block; }
-.rol-naam { font-size:0.82rem; font-weight:600; }
-.rol-sub { font-size:0.68rem; color:var(--zacht); font-family:'JetBrains Mono',monospace; margin-top:0.2rem; }
+.rol-icoon { font-size:1.6rem; display:block; margin-bottom:0.3rem; }
+.rol-naam { font-size:0.78rem; font-weight:600; }
 
-.situatie-sectie { max-width:900px; margin:0 auto 2rem; padding:0 2rem; display:none; }
-.situatie-sectie.open { display:block; }
-.situatie-sectie h3 { font-size:0.78rem; font-weight:600; color:var(--zacht); text-transform:uppercase; letter-spacing:0.08em; margin-bottom:0.75rem; font-family:'JetBrains Mono',monospace; }
-.situatie-grid { display:flex; gap:0.5rem; flex-wrap:wrap; }
-.situatie-btn {
-  padding:0.45rem 0.9rem; border:1.5px solid var(--rand); border-radius:5px;
+.situaties-wrap { border-top:1px solid var(--rand); padding-top:1rem; display:none; }
+.situaties-wrap.open { display:block; }
+.situaties { display:flex; gap:0.5rem; flex-wrap:wrap; }
+.sit-btn {
+  padding:0.4rem 0.85rem; border:1.5px solid var(--rand); border-radius:5px;
   background:var(--wit); cursor:pointer; font-family:'JetBrains Mono',monospace;
   font-size:0.72rem; color:var(--tekst); transition:all 0.12s;
 }
-.situatie-btn:hover { border-color:var(--oranje); color:var(--oranje); }
-.situatie-btn.actief { background:var(--oranje); border-color:var(--oranje); color:var(--wit); }
+.sit-btn:hover { border-color:var(--oranje); color:var(--oranje); }
+.sit-btn.actief { background:var(--oranje); border-color:var(--oranje); color:var(--wit); }
 
-.resultaten { max-width:900px; margin:0 auto; padding:0 2rem 4rem; }
-.rechten-groep { margin-bottom:2rem; }
-.rechten-groep h3 { font-size:1rem; font-weight:700; margin-bottom:0.75rem; padding-bottom:0.5rem; border-bottom:2px solid var(--rand); }
-.recht-kaart {
-  background:var(--wit); border:1px solid var(--rand); border-radius:8px;
-  padding:1.1rem 1.3rem; margin-bottom:0.6rem;
-  border-left:3px solid var(--oranje);
-  transition:box-shadow 0.15s;
+.resultaten { max-width:1000px; margin:0 auto; padding:0 2rem 4rem; }
+.sectie-titel {
+  font-size:0.72rem; font-weight:600; color:var(--zacht); text-transform:uppercase;
+  letter-spacing:0.08em; font-family:'JetBrains Mono',monospace;
+  margin:1.5rem 0 0.75rem; padding-bottom:0.5rem; border-bottom:1px solid var(--rand);
 }
-.recht-kaart:hover { box-shadow:0 4px 16px rgba(0,0,0,0.07); }
-.recht-naam { font-size:0.9rem; font-weight:600; margin-bottom:0.3rem; }
-.recht-uitleg { font-size:0.8rem; color:var(--zacht); line-height:1.6; margin-bottom:0.6rem; }
-.recht-wet { font-family:'JetBrains Mono',monospace; font-size:0.68rem; color:var(--zacht); }
-.recht-wet a { color:var(--blauw); text-decoration:none; }
-.recht-wet a:hover { text-decoration:underline; }
+.wet-rij {
+  background:var(--wit); border:1px solid var(--rand); border-radius:8px;
+  padding:1rem 1.2rem; margin-bottom:0.5rem;
+  border-left:3px solid var(--oranje);
+  display:flex; justify-content:space-between; align-items:flex-start; gap:1rem;
+  transition:box-shadow 0.12s;
+}
+.wet-rij:hover { box-shadow:0 4px 16px rgba(0,0,0,0.07); }
+.wet-info { flex:1; }
+.wet-naam { font-size:0.88rem; font-weight:600; margin-bottom:0.3rem; }
+.wet-meta { font-family:'JetBrains Mono',monospace; font-size:0.65rem; color:var(--zacht); }
+.wet-cat { display:inline-block; padding:0.1rem 0.45rem; border-radius:3px;
+  background:var(--grijs); border:1px solid var(--rand); margin-left:0.4rem; }
+.wet-acties { display:flex; gap:0.4rem; flex-shrink:0; align-items:center; }
+.wet-link {
+  font-family:'JetBrains Mono',monospace; font-size:0.65rem;
+  padding:0.3rem 0.65rem; border-radius:4px; text-decoration:none;
+  border:1.5px solid var(--rand); color:var(--zacht); transition:all 0.12s; white-space:nowrap;
+}
+.wet-link:hover { border-color:var(--oranje); color:var(--oranje); }
+.wet-link.primair { background:var(--donker); color:var(--wit); border-color:var(--donker); }
+.wet-link.primair:hover { background:#2a2a3f; }
 
-.laden { text-align:center; padding:3rem; font-family:'JetBrains Mono',monospace; font-size:0.82rem; color:var(--zacht); }
+.leeg { text-align:center; padding:3rem; font-family:'JetBrains Mono',monospace; font-size:0.82rem; color:var(--zacht); }
+.telling { font-family:'JetBrains Mono',monospace; font-size:0.72rem; color:var(--zacht); margin-bottom:0.5rem; }
 
+footer { text-align:center; padding:1.5rem; font-family:'JetBrains Mono',monospace;
+  font-size:0.68rem; color:var(--zacht); border-top:1px solid var(--rand); background:var(--wit); margin-top:2rem; }
+footer a { color:var(--blauw); text-decoration:none; }
 
-
+@media(max-width:600px) {
+  .rollen { grid-template-columns:repeat(auto-fill,minmax(85px,1fr)); }
+  .wet-rij { flex-direction:column; }
+}
 </style>
 </head>
 <body>
@@ -114,6 +110,7 @@ footer a { color:var(--blauw); text-decoration:none; }
     <a class="logo" href="index.html">vrije<span>wetgeving.nl</span></a>
   </div>
 </header>
+
 <nav class="nav-bar">
   <div class="nav-inner">
     <a class="nav-btn" href="index.html">Alle wetten</a>
@@ -128,202 +125,246 @@ footer a { color:var(--blauw); text-decoration:none; }
 
 <div class="hero">
   <h1>Mijn <span>rechten</span></h1>
-  <p>// kies jouw situatie — zie welke wetten voor jou gelden</p>
+  <p>// kies wie je bent — zie welke wetten voor jou gelden</p>
 </div>
 
-<div class="kiezer-container">
+<div class="kiezer">
   <div class="kiezer-card">
-    <h2>Wie ben jij?</h2>
-    <div class="rollen-grid" id="rollen-grid"></div>
+    <div class="kiezer-label">Wie ben jij?</div>
+    <div class="rollen" id="rollen"></div>
+    <div class="situaties-wrap" id="situaties-wrap">
+      <div class="kiezer-label" style="margin-bottom:0.75rem">Jouw situatie (meerdere mogelijk)</div>
+      <div class="situaties" id="situaties"></div>
+    </div>
   </div>
-</div>
-
-<div class="situatie-sectie" id="situatie-sectie">
-  <h3>Jouw situatie</h3>
-  <div class="situatie-grid" id="situatie-grid"></div>
 </div>
 
 <div class="resultaten" id="resultaten"></div>
 
 <footer>
   <a href="index.html">vrijewetgeving.nl</a> &nbsp;|&nbsp;
-  <a href="https://github.com/Apolloccrypt/wetgeving-nl">GitHub</a> &nbsp;|&nbsp;
-  Data: wetten.overheid.nl (CC0)
+  Data: wetten.overheid.nl (CC0) &nbsp;|&nbsp; Geen juridisch advies
 </footer>
 
 <script>
-const GITHUB_BASE = 'https://github.com/Apolloccrypt/wetgeving-nl/blob/main/';
+const GITHUB = 'https://github.com/Apolloccrypt/wetgeving-nl/blob/main/';
 
+// Rollen met zoektermen die wetten ophalen uit de echte index
 const ROLLEN = [
-  { id:'huurder',    icoon:'🏠', naam:'Huurder',       sub:'woning of kamer' },
-  { id:'werknemer',  icoon:'💼', naam:'Werknemer',      sub:'in loondienst' },
-  { id:'zzp',        icoon:'🧾', naam:'ZZP\'er',        sub:'zelfstandige' },
-  { id:'patient',    icoon:'🏥', naam:'Patient',        sub:'medische zorg' },
-  { id:'consument',  icoon:'🛒', naam:'Consument',      sub:'kopen & klagen' },
-  { id:'ouder',      icoon:'👨‍👩‍👧', naam:'Ouder',          sub:'kind & gezin' },
-  { id:'student',    icoon:'🎓', naam:'Student',        sub:'onderwijs & ov' },
-  { id:'ondernemer', icoon:'🏢', naam:'Ondernemer',     sub:'bedrijf starten' },
-  { id:'burger',     icoon:'🗳️', naam:'Burger',         sub:'algemene rechten' },
-  { id:'ambtenaar',  icoon:'⚖️', naam:'Ambtenaar',      sub:'overheid & recht' },
+  { id:'huurder',    icoon:'🏠', naam:'Huurder',
+    zoekTermen:['huur','woonruimte','huurprijzen','huurcommissie','huurbescherming'],
+    situaties:[
+      { label:'Huurverhoging',    termen:['huurprijzen','huurverhoging','maximale huur'] },
+      { label:'Gebreken',         termen:['gebrek','onderhoud','huurverlaging'] },
+      { label:'Opzegging',        termen:['huurbeeindiging','opzegging huur','ontruiming'] },
+      { label:'Borg & kosten',    termen:['waarborgsom','servicekosten','huurovereenkomst'] },
+    ]
+  },
+  { id:'werknemer',  icoon:'💼', naam:'Werknemer',
+    zoekTermen:['arbeidsovereenkomst','werknemer','arbeidsrecht','ontslagrecht'],
+    situaties:[
+      { label:'Ontslag',          termen:['ontslag','ontslagbescherming','transitievergoeding','uwv'] },
+      { label:'Minimumloon',      termen:['minimumloon','loon','vakantiegeld'] },
+      { label:'Ziekte',           termen:['ziekteverzuim','loondoorbetaling','ziekmelding','wia'] },
+      { label:'Vakantie',         termen:['vakantiedagen','verlof','vakantierechten'] },
+      { label:'Discriminatie',    termen:['gelijke behandeling','discriminatie arbeids'] },
+    ]
+  },
+  { id:'zzp',        icoon:'🧾', naam:"ZZP'er",
+    zoekTermen:['zelfstandige','zzp','opdrachtnemer','freelance'],
+    situaties:[
+      { label:'Opdrachtgever',    termen:['opdrachtovereenkomst','aanneming werk'] },
+      { label:'BTW',              termen:['omzetbelasting','btw ondernemer'] },
+      { label:'Arbeidsongeschikt',termen:['zelfstandigen arbeid','aov'] },
+    ]
+  },
+  { id:'patient',    icoon:'🏥', naam:'Patient',
+    zoekTermen:['patient','geneeskundige behandeling','wgbo','zorgverlener'],
+    situaties:[
+      { label:'Behandeling',      termen:['behandelingsovereenkomst','informed consent','toestemming behandeling'] },
+      { label:'Dossier',          termen:['medisch dossier','inzage dossier','patientendossier'] },
+      { label:'Klachten zorg',    termen:['klachtenregeling zorg','wkkgz','tuchtrecht'] },
+      { label:'Eigen bijdrage',   termen:['eigen bijdrage zorg','wlz','wmo'] },
+    ]
+  },
+  { id:'consument',  icoon:'🛒', naam:'Consument',
+    zoekTermen:['consument','koop','garantie','herroeping'],
+    situaties:[
+      { label:'Online kopen',     termen:['herroepingsrecht','koop op afstand','bedenktijd'] },
+      { label:'Garantie',         termen:['non-conformiteit','garantie','gebrekkig product'] },
+      { label:'Incasso',          termen:['incasso','schulden','betalingsachterstand'] },
+      { label:'Reclame',          termen:['misleidende reclame','oneerlijke handelspraktijken'] },
+    ]
+  },
+  { id:'student',    icoon:'🎓', naam:'Student',
+    zoekTermen:['student','onderwijs','studiefinanciering','hoger onderwijs'],
+    situaties:[
+      { label:'Studiefinanciering',termen:['studiefinanciering','studentenlening','ov-kaart'] },
+      { label:'Examen',           termen:['examenreglement','tentamen','diploma'] },
+      { label:'Leerplicht',       termen:['leerplicht','kwalificatieplicht'] },
+    ]
+  },
+  { id:'ondernemer', icoon:'🏢', naam:'Ondernemer',
+    zoekTermen:['ondernemer','bedrijf','handelsnaam','kvk'],
+    situaties:[
+      { label:'Starten',          termen:['handelsregister','inschrijving kvk','rechtsvorm'] },
+      { label:'Personeel',        termen:['arbeidsrecht werkgever','cao werkgever'] },
+      { label:'Aansprakelijkheid',termen:['aansprakelijkheid ondernemer','bv aansprakelijkheid'] },
+      { label:'Faillissement',    termen:['faillissement','surseance','insolventie'] },
+    ]
+  },
+  { id:'burger',     icoon:'🗳️', naam:'Burger',
+    zoekTermen:['burger','grondrecht','persoonsgegevens','bezwaar'],
+    situaties:[
+      { label:'Privacy',          termen:['avg','persoonsgegevens','gegevensbescherming'] },
+      { label:'Bezwaar overheid', termen:['bezwaar awb','beroep bestuursrecht','zienswijze'] },
+      { label:'Belasting',        termen:['inkomstenbelasting','aangifte','belastingdienst'] },
+      { label:'Uitkering',        termen:['bijstand','participatiewet','uitkering'] },
+    ]
+  },
+  { id:'ouder',      icoon:'👨‍👩‍👧', naam:'Ouder',
+    zoekTermen:['gezag','alimentatie','ouder','kind'],
+    situaties:[
+      { label:'Gezag & alimentatie',termen:['ouderlijk gezag','kinderalimentatie','co-ouderschap'] },
+      { label:'Kinderopvang',     termen:['kinderopvang','gastouder','bso'] },
+      { label:'Jeugdzorg',        termen:['jeugdwet','jeugdzorg','voogdij'] },
+    ]
+  },
+  { id:'ambtenaar',  icoon:'⚖️', naam:'Ambtenaar',
+    zoekTermen:['ambtenaar','rijksoverheid','ambtenarenrecht'],
+    situaties:[
+      { label:'Rechtspositie',    termen:['wnra','ambtenarenrecht','rechtspositie ambtenaar'] },
+      { label:'Bezwaar & beroep', termen:['bezwaar ambtenaar','beroep ambtenarenrecht'] },
+      { label:'Integriteit',      termen:['integriteit ambtenaar','nevenfuncties','geschenken'] },
+    ]
+  },
 ];
 
-const SITUATIES = {
-  huurder:   ['huurverhoging', 'onderhoud gebreken', 'opzegging', 'borg', 'woningcorporatie'],
-  werknemer: ['ontslag', 'ziekmelding', 'vakantiedagen', 'minimumloon', 'discriminatie'],
-  zzp:       ['btw afdragen', 'facturen', 'opdrachtgever geschil', 'arbeidsongeschiktheid'],
-  patient:   ['behandelovereenkomst', 'medisch dossier', 'second opinion', 'klachten'],
-  consument: ['herroepingsrecht', 'garantie', 'misleidende reclame', 'incassobureau'],
-  ouder:     ['gezag', 'alimentatie', 'kinderopvang', 'leerplicht'],
-  student:   ['studiefinanciering', 'examenrecht', 'ov-kaart', 'diploma weigering'],
-  ondernemer:['kvk inschrijving', 'arbeidsrecht personeel', 'aansprakelijkheid', 'faillissement'],
-  burger:    ['privacy avg', 'bezwaar besluit', 'klacht overheid', 'belastingaangifte'],
-  ambtenaar: ['ambtenarenrecht', 'bezwaar', 'beoordeling', 'disciplinaire maatregel'],
-};
-
-const RECHTEN_DATABASE = {
-  huurder: {
-    'huurverhoging': [
-      { naam:'Maximale huurverhoging', uitleg:'De verhuurder mag de huur jaarlijks verhogen, maar is gebonden aan wettelijke maxima. Voor sociale huur geldt een absoluut maximum.', wet:'Burgerlijk Wetboek Boek 7 art. 248-262', bwbr:'BWBR0005290', pad:'wetten/burgerlijk-recht/burgerlijk-wetboek-boek-7.md' },
-      { naam:'Bezwaar tegen huurverhoging', uitleg:'Je kunt binnen 6 weken bezwaar maken bij de Huurcommissie als de huurverhoging onterecht of te hoog is.', wet:'Uitvoeringswet huurprijzen woonruimte', bwbr:'BWBR0002221', pad:'wetten/burgerlijk-recht/uitvoeringswet-huurprijzen-woonruimte.md' },
-    ],
-    'onderhoud gebreken': [
-      { naam:'Onderhoudsplicht verhuurder', uitleg:'De verhuurder is verplicht gebreken te verhelpen. Kleine herstellingen zijn voor rekening van de huurder.', wet:'Burgerlijk Wetboek Boek 7 art. 204', bwbr:'BWBR0005290', pad:'wetten/burgerlijk-recht/burgerlijk-wetboek-boek-7.md' },
-      { naam:'Huurverlaging bij gebreken', uitleg:'Bij ernstige gebreken kun je via de Huurcommissie tijdelijke huurverlaging afdwingen.', wet:'BW Boek 7 art. 207', bwbr:'BWBR0005290', pad:'wetten/burgerlijk-recht/burgerlijk-wetboek-boek-7.md' },
-    ],
-    'opzegging': [
-      { naam:'Huurbescherming', uitleg:'Een verhuurder kan de huur niet zomaar opzeggen. Er gelden wettelijke opzeggingsgronden en opzegtermijnen.', wet:'Burgerlijk Wetboek Boek 7 art. 271', bwbr:'BWBR0005290', pad:'wetten/burgerlijk-recht/burgerlijk-wetboek-boek-7.md' },
-    ],
-  },
-  werknemer: {
-    'ontslag': [
-      { naam:'Ontslagbescherming', uitleg:'Een werkgever heeft toestemming van UWV of de rechter nodig voor ontslag. Er zijn strikte gronden.', wet:'Burgerlijk Wetboek Boek 7 art. 669', bwbr:'BWBR0005290', pad:'wetten/arbeidsrecht/burgerlijk-wetboek-boek-7.md' },
-      { naam:'Transitievergoeding', uitleg:'Bij ontslag na 2+ jaar heb je recht op een transitievergoeding van 1/3 maandsalaris per dienstjaar.', wet:'BW Boek 7 art. 673', bwbr:'BWBR0005290', pad:'wetten/arbeidsrecht/burgerlijk-wetboek-boek-7.md' },
-    ],
-    'minimumloon': [
-      { naam:'Recht op minimumloon', uitleg:'Elke werknemer heeft recht op het wettelijk minimumloon. Dit geldt ook voor stagiaires met een productieve functie.', wet:'Wet minimumloon en minimumvakantiebijslag', bwbr:'BWBR0002014', pad:'wetten/arbeidsrecht/wet-minimumloon-en-minimumvakantiebijslag.md' },
-    ],
-    'vakantiedagen': [
-      { naam:'Minimaal 4x arbeidsuren vakantie', uitleg:'Je hebt recht op minimaal 4x het aantal uren per week vakantiedagen per jaar. Bij fulltime is dat 20 dagen.', wet:'BW Boek 7 art. 634', bwbr:'BWBR0005290', pad:'wetten/arbeidsrecht/burgerlijk-wetboek-boek-7.md' },
-    ],
-  },
-  patient: {
-    'behandelovereenkomst': [
-      { naam:'Recht op informatie', uitleg:'De zorgverlener moet je volledig informeren over diagnose, behandeling en alternatieven voordat je toestemming geeft.', wet:'Wet op de geneeskundige behandelingsovereenkomst (WGBO)', bwbr:'BWBR0005290', pad:'wetten/gezondheidszorg/' },
-      { naam:'Recht op weigering', uitleg:'Je mag een behandeling weigeren, ook als dit ernstige gevolgen heeft. De arts moet dit respecteren.', wet:'WGBO art. 450', bwbr:'BWBR0005290', pad:'wetten/gezondheidszorg/' },
-    ],
-    'medisch dossier': [
-      { naam:'Inzage in medisch dossier', uitleg:'Je hebt recht op inzage in je volledige medisch dossier. De zorgverlener moet dit binnen 4 weken verstrekken.', wet:'WGBO art. 456', bwbr:'BWBR0005290', pad:'wetten/gezondheidszorg/' },
-    ],
-  },
-  consument: {
-    'herroepingsrecht': [
-      { naam:'14 dagen bedenktijd', uitleg:'Bij online aankopen heb je 14 dagen bedenktijd zonder opgave van reden. De verkoper moet dit duidelijk vermelden.', wet:'Burgerlijk Wetboek Boek 6 art. 230o', bwbr:'BWBR0005289', pad:'wetten/burgerlijk-recht/burgerlijk-wetboek-boek-6.md' },
-    ],
-    'garantie': [
-      { naam:'Wettelijke garantie', uitleg:'Een product moet voldoen aan de verwachtingen. Bij gebreken binnen 2 jaar vermoedt de wet dat het probleem er al bij aankoop was.', wet:'BW Boek 7 art. 17-21', bwbr:'BWBR0005290', pad:'wetten/burgerlijk-recht/burgerlijk-wetboek-boek-7.md' },
-    ],
-  },
-  burger: {
-    'privacy avg': [
-      { naam:'Recht op inzage', uitleg:'Je hebt het recht om te weten welke persoonsgegevens een organisatie van je verwerkt en waarom.', wet:'AVG art. 15 / Uitvoeringswet AVG', bwbr:'BWBR0040940', pad:'wetten/digitaal/uitvoeringswet-algemene-verordening-gegevensbescherming.md' },
-      { naam:'Recht op vergetelheid', uitleg:'Je kunt verzoeken om verwijdering van je persoonsgegevens als er geen legitieme reden meer is om ze te bewaren.', wet:'AVG art. 17', bwbr:'BWBR0040940', pad:'wetten/digitaal/uitvoeringswet-algemene-verordening-gegevensbescherming.md' },
-    ],
-    'bezwaar besluit': [
-      { naam:'Bezwaar tegen overheidsbesluit', uitleg:'Tegen een besluit van een overheidsorgaan kun je binnen 6 weken bezwaar maken. Dit is gratis.', wet:'Algemene wet bestuursrecht art. 7:1', bwbr:'BWBR0005537', pad:'wetten/bestuursrecht/algemene-wet-bestuursrecht.md' },
-    ],
-  },
-};
-
-// Vul standaard lege situaties aan
-Object.keys(SITUATIES).forEach(rol => {
-  if (!RECHTEN_DATABASE[rol]) RECHTEN_DATABASE[rol] = {};
-  SITUATIES[rol].forEach(sit => {
-    if (!RECHTEN_DATABASE[rol][sit]) {
-      RECHTEN_DATABASE[rol][sit] = [{
-        naam: `Rechten bij ${sit}`,
-        uitleg: `Zoek in onze database naar wetten over "${sit}" voor ${rol}.`,
-        wet: 'Zie wettendatabase',
-        bwbr: '',
-        pad: '',
-        zoekterm: `${rol} ${sit}`,
-      }];
-    }
-  });
-});
-
+let indexData = [];
+let zoekData = [];
 let actieveRol = null;
 let activeSituaties = new Set();
 
-// Render rollen
-document.getElementById('rollen-grid').innerHTML = ROLLEN.map(r => `
-  <button class="rol-btn" onclick="selecteerRol('${r.id}')">
-    <span class="rol-icoon">${r.icoon}</span>
-    <div class="rol-naam">${r.naam}</div>
-    <div class="rol-sub">${r.sub}</div>
-  </button>
-`).join('');
+async function init() {
+  const [idx, zoek] = await Promise.all([
+    fetch('index.json').then(r => r.json()),
+    fetch('zoekindex.json').then(r => r.json()).catch(() => []),
+  ]);
+  indexData = idx;
+  zoekData = zoek;
+  renderRollen();
+}
 
-function selecteerRol(rolId) {
+function renderRollen() {
+  document.getElementById('rollen').innerHTML = ROLLEN.map(r => `
+    <button class="rol-btn ${actieveRol === r.id ? 'actief' : ''}" onclick="selectRol('${r.id}')">
+      <span class="rol-icoon">${r.icoon}</span>
+      <div class="rol-naam">${r.naam}</div>
+    </button>`).join('');
+}
+
+function selectRol(rolId) {
   actieveRol = rolId;
   activeSituaties.clear();
+  renderRollen();
 
-  document.querySelectorAll('.rol-btn').forEach(b => b.classList.remove('actief'));
-  event.currentTarget.classList.add('actief');
+  const rol = ROLLEN.find(r => r.id === rolId);
+  const wrap = document.getElementById('situaties-wrap');
+  wrap.className = 'situaties-wrap open';
+  document.getElementById('situaties').innerHTML = rol.situaties.map(s => `
+    <button class="sit-btn" onclick="toggleSit('${s.label}', this)">${s.label}</button>`
+  ).join('');
 
-  const situaties = SITUATIES[rolId] || [];
-  const sectie = document.getElementById('situatie-sectie');
-  const grid = document.getElementById('situatie-grid');
-
-  grid.innerHTML = situaties.map(s => `
-    <button class="situatie-btn" onclick="toggleSituatie('${s}', this)">${s}</button>
-  `).join('');
-
-  sectie.classList.add('open');
-  document.getElementById('resultaten').innerHTML = '<div class="laden">Kies een situatie hierboven om je rechten te zien.</div>';
+  zoekEnToon(rol.zoekTermen, []);
 }
 
-function toggleSituatie(situatie, btn) {
-  if (activeSituaties.has(situatie)) {
-    activeSituaties.delete(situatie);
+function toggleSit(label, btn) {
+  if (activeSituaties.has(label)) {
+    activeSituaties.delete(label);
     btn.classList.remove('actief');
   } else {
-    activeSituaties.add(situatie);
+    activeSituaties.add(label);
     btn.classList.add('actief');
   }
-  toonRechten();
+
+  const rol = ROLLEN.find(r => r.id === actieveRol);
+  const sitTermen = rol.situaties
+    .filter(s => activeSituaties.has(s.label))
+    .flatMap(s => s.termen);
+
+  zoekEnToon(rol.zoekTermen, sitTermen);
 }
 
-function toonRechten() {
-  if (!actieveRol || activeSituaties.size === 0) {
-    document.getElementById('resultaten').innerHTML = '';
+function zoekEnToon(basisTermen, sitTermen) {
+  const alleTermen = [...new Set([...basisTermen, ...sitTermen])];
+  const alleLower = alleTermen.map(t => t.toLowerCase());
+
+  // Score elke wet
+  const gescoord = indexData.map((wet, i) => {
+    const titel = (wet.titel||'').toLowerCase();
+    const body  = (zoekData[i]?.b||'').toLowerCase();
+    let score = 0;
+
+    alleLower.forEach(t => {
+      if (titel.includes(t)) score += sitTermen.includes(t) ? 15 : 8;
+      if (body.includes(t))  score += sitTermen.includes(t) ? 4  : 2;
+    });
+
+    return { wet, score, i };
+  })
+  .filter(r => r.score >= 8)
+  .sort((a, b) => b.score - a.score);
+
+  renderResultaten(gescoord, sitTermen.length > 0);
+}
+
+function esc(t) { return (t||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+
+function renderResultaten(gescoord, heeftSituatie) {
+  const container = document.getElementById('resultaten');
+
+  if (gescoord.length === 0) {
+    container.innerHTML = '<div class="leeg">Geen wetten gevonden. Selecteer een andere situatie.</div>';
     return;
   }
 
-  const db = RECHTEN_DATABASE[actieveRol] || {};
-  const container = document.getElementById('resultaten');
-  container.innerHTML = '';
-
-  activeSituaties.forEach(sit => {
-    const rechten = db[sit] || [];
-    const groep = document.createElement('div');
-    groep.className = 'rechten-groep';
-    groep.innerHTML = `<h3>${sit}</h3>` + rechten.map(r => `
-      <div class="recht-kaart">
-        <div class="recht-naam">${r.naam}</div>
-        <div class="recht-uitleg">${r.uitleg}</div>
-        <div class="recht-wet">
-          Wet: ${r.pad ?
-            `<a href="${GITHUB_BASE}${r.pad}" target="_blank">${r.wet}</a>` :
-            r.zoekterm ?
-            `<a href="index.html?q=${encodeURIComponent(r.zoekterm)}">${r.wet} → zoek</a>` :
-            r.wet
-          }
-        </div>
-      </div>
-    `).join('');
-    container.appendChild(groep);
+  const top = gescoord.slice(0, 40);
+  const catGroepen = {};
+  top.forEach(({ wet }) => {
+    const cat = wet.categorie || 'Overig';
+    if (!catGroepen[cat]) catGroepen[cat] = [];
+    catGroepen[cat].push(wet);
   });
+
+  let html = `<div class="telling">${top.length} relevante wetten gevonden</div>`;
+
+  Object.entries(catGroepen)
+    .sort((a, b) => b[1].length - a[1].length)
+    .forEach(([cat, wetten]) => {
+      html += `<div class="sectie-titel">${esc(cat)} (${wetten.length})</div>`;
+      wetten.forEach(wet => {
+        html += `
+          <div class="wet-rij">
+            <div class="wet-info">
+              <div class="wet-naam">${esc(wet.titel)}</div>
+              <div class="wet-meta">
+                ${wet.identifier || ''}
+                ${wet.datum ? ` · ${wet.datum.substring(0,7)}` : ''}
+                <span class="wet-cat">${esc(wet.categorie)}</span>
+              </div>
+            </div>
+            <div class="wet-acties">
+              <a class="wet-link primair" href="${GITHUB}${wet.pad}" target="_blank">Lees wet</a>
+              <a class="wet-link" href="https://wetten.overheid.nl/${wet.identifier}" target="_blank">officieel</a>
+            </div>
+          </div>`;
+      });
+    });
+
+  container.innerHTML = html;
 }
+
+init();
 </script>
 </body>
 </html>
