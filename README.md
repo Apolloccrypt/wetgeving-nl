@@ -1,49 +1,95 @@
-# GestolenDezeWeek.nl
+# wetgeving-nl
 
-Wekelijkse datalek-radar voor Nederland. Onderdeel van de **Check Don't Store** campagne.
+> Nederlandse wetgeving in Markdown — elke wet een bestand, elke wijziging een commit, elke burger een potentiële bijdrager.
 
-## Deploy op Vercel (30 seconden)
+Geïnspireerd door [legalize-es](https://github.com/legalize-dev/legalize-es) (Spanje), maar met een echte community-laag voor wetsvoorstellen.
 
-```bash
-npx vercel --prod
-```
+---
 
-Of: sleep de map op [vercel.com/new](https://vercel.com/new) → klaar.
-Geen build-step, geen framework, gewoon static HTML. Werkt ook 1-op-1 op Netlify / Cloudflare Pages / GitHub Pages.
+## Waarom dit project?
 
-## Wat je nu hebt
+Officiële wetten zijn publiek eigendom — maar wetten.overheid.nl is ontoegankelijk, wijzigingen zijn onvindbaar en burgers hebben geen stem.
 
-- ✅ Landingspagina met hero, preview, uitleg en vergelijking met HIBP
-- ✅ Volledig werkende vinklijst van 40 NL diensten, gegroepeerd per categorie
-- ✅ Selecties blijven bewaard in `localStorage` (terugkerende bezoeker ziet z'n keuzes weer)
-- ✅ E-mail hand-off van hero naar vinklijst
-- ✅ Validatie op e-mail + minstens 1 dienst
-- ✅ Responsive (mobiel + desktop)
-- ✅ Privacy-first: geen trackers, geen externe scripts behalve Google Fonts
+Dit project maakt wetgeving:
+- **Leesbaar** — schone Markdown, geen juridisch HTML-geknoei
+- **Traceerbaar** — elke wetswijziging is één commit met een leesbare diff
+- **Participatief** — iedereen kan een wetsvoorstel indienen via een Pull Request
 
-## Wat je nog moet regelen (backend — 1 uur werk)
+---
 
-Zoek in `index.html` naar `TODO (backend)`. Daar moet een POST-request naar jouw signup-endpoint. Snelste opties:
-
-1. **Formspree** — koppel het form, ontvang inschrijvingen in je mailbox (gratis tot 50/maand)
-2. **Resend + Vercel Function** — maak `/api/signup.js`, hash de email, sla `{hash, services}` op in KV
-3. **Mailchimp / Buttondown** — voeg subscriber toe + tag met geselecteerde services
-
-Voor de **wekelijkse crawler** (Z-CERT, Tweakers, NOS): een simpele Vercel Cron Job (elke donderdag 09:00) die:
-1. Nieuwe lekken ophaalt uit jouw bronnen
-2. Per ingeschreven user checkt of hun geselecteerde services geraakt zijn
-3. Gepersonaliseerde mail stuurt via Resend
-
-## Tech
-
-- 1 bestand. Geen dependencies. Geen build.
-- Fonts: Fraunces (display) + IBM Plex Sans (body) + JetBrains Mono (data) via Google Fonts
-- Ontwerp: Dutch editorial / investigatief journalistiek, niet de standaard SaaS-blauw look
-
-## Bestandsstructuur
+## Structuur
 
 ```
-.
-├── index.html    ← alles zit hier
-└── README.md     ← dit bestand
+wetgeving-nl/
+├── wetten/                   # Officiële wetten (automatisch bijgewerkt)
+│   ├── strafrecht/
+│   ├── burgerlijk-recht/
+│   ├── bestuursrecht/
+│   ├── belastingrecht/
+│   ├── arbeidsrecht/
+│   ├── staatsinrichting/
+│   └── ...
+├── proposals/                # Community wetsvoorstellen
+│   └── templates/
+└── scripts/                  # Parser en update-tools
 ```
+
+---
+
+## Hoe een wet eruitziet
+
+```markdown
+---
+title: "Wetboek van Strafrecht"
+identifier: "BWBR0001854"
+categorie: "Strafrecht"
+publicatiedatum: 1886-09-01
+laatste_update: 2026-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0001854"
+---
+
+# Wetboek van Strafrecht
+
+## Boek Eerste. Algemene bepalingen
+
+#### Artikel 1
+
+1. Geen feit is strafbaar dan uit kracht van een daaraan voorafgegane wettelijke strafbepaling.
+```
+
+---
+
+## Meedoen
+
+**Fout gevonden in een wet?**
+Open een [Issue](../../issues/new?template=fout-in-wet.md)
+
+**Wetsvoorstel indienen?**
+Lees de [bijdragegids](CONTRIBUTING.md) en open een PR met jouw voorstel in `proposals/`.
+
+**Technisch bijdragen?**
+Verbeter de parser, voeg wetten toe, of bouw de web-interface. Zie [CONTRIBUTING.md](CONTRIBUTING.md).
+
+---
+
+## Data-bron
+
+Alle officiële wetten komen van het **Basis Wetten Bestand (BWB)** via [data.overheid.nl](https://data.overheid.nl/dataset/basis-wetten-bestand).
+De data is eigendom van de Nederlandse overheid en valt onder de CC0 licentie.
+
+De community-bijdragen (proposals/) vallen onder CC BY-SA 4.0.
+
+---
+
+## Roadmap
+
+- [ ] Parser: BWB-XML naar nette Markdown voor alle wetten
+- [ ] GitHub Actions: dagelijkse automatische update
+- [ ] Web-interface: wetten lezen en PR indienen met één klik
+- [ ] Zoekfunctie over alle wetteksten
+- [ ] Koppeling met Kamerstukken
+
+---
+
+*Dit project heeft geen officiële band met de Nederlandse overheid.*
