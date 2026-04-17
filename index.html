@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>wetgeving-nl — Nederlandse wetgeving open en leesbaar</title>
+<title>vrijewetgeving.nl — Nederlandse wetgeving open en leesbaar</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
@@ -175,6 +175,15 @@ header::after {
 }
 .status-geldig { background:#dcfce7; color:#166534; border:1px solid #bbf7d0; }
 .status-ingetrokken { background:#fee2e2; color:#991b1b; border:1px solid #fecaca; }
+.wet-kamer-btn {
+  position:absolute; right:5.5rem; top:50%; transform:translateY(-50%);
+  font-family:'JetBrains Mono',monospace; font-size:0.6rem;
+  padding:0.2rem 0.5rem; border-radius:3px;
+  background:transparent; border:1px solid #dbeafe;
+  color:#3b82f6; opacity:0; transition:opacity 0.15s;
+  text-decoration:none;
+}
+.wet-kaart:hover .wet-kamer-btn { opacity:1; }
 .wet-voorstel-btn {
   position:absolute; right:1rem; top:50%; transform:translateY(-50%);
   font-family:'JetBrains Mono',monospace; font-size:0.6rem;
@@ -183,7 +192,16 @@ header::after {
   color:var(--zacht); opacity:0; transition:opacity 0.15s;
   text-decoration:none;
 }
-.wet-kaart:hover .wet-voorstel-btn { opacity:1; }
+.wet-kaart:hover .wet-kamer-btn {
+  position:absolute; right:5.5rem; top:50%; transform:translateY(-50%);
+  font-family:'JetBrains Mono',monospace; font-size:0.6rem;
+  padding:0.2rem 0.5rem; border-radius:3px;
+  background:transparent; border:1px solid #dbeafe;
+  color:#3b82f6; opacity:0; transition:opacity 0.15s;
+  text-decoration:none;
+}
+.wet-kaart:hover .wet-kamer-btn { opacity:1; }
+.wet-voorstel-btn { opacity:1; }
 
 /* ── Meer laden ── */
 .meer-laden {
@@ -253,7 +271,7 @@ footer a:hover { text-decoration:underline; }
 <header>
   <div class="header-inner">
     <div class="header-top">
-      <div class="logo">wetgeving<span>-nl</span></div>
+      <div class="logo">vrije<span>wetgeving.nl</span></div>
       <div class="header-badges">
         <span class="badge-beta">beta</span>
         <a class="btn-github" href="https://github.com/Apolloccrypt/wetgeving-nl" target="_blank">GitHub</a>
@@ -308,7 +326,7 @@ footer a:hover { text-decoration:underline; }
 <footer>
   <p>
     Data: <a href="https://wetten.overheid.nl">wetten.overheid.nl</a> (CC0) &nbsp;|&nbsp;
-    Code: <a href="https://github.com/Apolloccrypt/wetgeving-nl">GitHub</a> (MIT) &nbsp;|&nbsp;
+    Code: <a href="https://github.com/Apolloccrypt/wetgeving-nl">GitHub</a> &nbsp;|&nbsp; <a href="https://vrijewetgeving.nl">vrijewetgeving.nl</a> (MIT) &nbsp;|&nbsp;
     <a href="https://github.com/Apolloccrypt/wetgeving-nl/tree/main/proposals">Wetsvoorstel indienen</a>
   </p>
   <p style="margin-top:0.4rem;opacity:0.5">Geen officiele band met de Nederlandse overheid.</p>
@@ -380,6 +398,7 @@ async function laadWetten() {
       status: w.status,
       url: `https://github.com/Apolloccrypt/wetgeving-nl/blob/main/${w.pad}`,
       voorstelUrl: PROPOSALS_URL,
+      kamerstukken: w.kamerstukken || [],
     }));
 
     animeerGetal('stat-wetten', alleWetten.length);
@@ -499,6 +518,9 @@ function toonResultaten() {
             <span class="wet-cat" style="color:${categorieKleur(w.categorie)};border-color:${categorieKleur(w.categorie)}30">${w.categorieNaam || w.categorie}</span>
             <span class="wet-status ${w.status === 'ingetrokken' ? 'status-ingetrokken' : 'status-geldig'}">${w.status}</span>
           </div>
+          ${w.kamerstukken && w.kamerstukken.length > 0 ? `
+            <a class="wet-kamer-btn" href="${w.kamerstukken[0].url}" target="_blank" onclick="event.stopPropagation()" title="${esc(w.kamerstukken[0].titel)}">Kamerstukken</a>
+          ` : ''}
           <a class="wet-voorstel-btn" href="${w.voorstelUrl}" target="_blank" onclick="event.stopPropagation()">+ voorstel</a>
         </a>
       `).join('')}
