@@ -322,7 +322,13 @@ function zoekActie() {
 
     return { wet, body, score, gevondenTermen, index: i };
   })
-  .filter(r => r.score > 0)
+  .filter(r => {
+    // Korte queries (1 woord): alleen titelmatch
+    if (termen.length === 1 && termen[0].length < 8) {
+      return r.score >= 10; // Alleen als het in de TITEL zit
+    }
+    return r.score >= 5;
+  })
   .sort((a, b) => b.score - a.score)
   .slice(0, 50);
 
