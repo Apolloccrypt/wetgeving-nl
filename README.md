@@ -1,18 +1,20 @@
 # wetgeving-nl
 
-> Nederlandse wetgeving in Markdown — elke wet een bestand, elke wijziging een commit, elke burger een potentiële bijdrager.
+> Nederlandse wetgeving in Markdown — elke wet een bestand, elke wijziging een commit, elke burger een potentiele bijdrager.
 
-Geïnspireerd door [legalize-es](https://github.com/legalize-dev/legalize-es) (Spanje), maar met een echte community-laag voor wetsvoorstellen.
+**Website:** [apolloccrypt.github.io/wetgeving-nl](https://apolloccrypt.github.io/wetgeving-nl)
+
+Geinspireerd door [legalize-es](https://github.com/legalize-dev/legalize-es) (Spanje), maar met een echte community-laag voor wetsvoorstellen.
 
 ---
 
 ## Waarom dit project?
 
-Officiële wetten zijn publiek eigendom — maar wetten.overheid.nl is ontoegankelijk, wijzigingen zijn onvindbaar en burgers hebben geen stem.
+Officiele wetten zijn publiek eigendom — maar wetten.overheid.nl is ontoegankelijk, wijzigingen zijn onvindbaar en burgers hebben geen stem.
 
 Dit project maakt wetgeving:
 - **Leesbaar** — schone Markdown, geen juridisch HTML-geknoei
-- **Traceerbaar** — elke wetswijziging is één commit met een leesbare diff
+- **Traceerbaar** — elke wetswijziging is een commit met een leesbare diff
 - **Participatief** — iedereen kan een wetsvoorstel indienen via een Pull Request
 
 ---
@@ -21,7 +23,7 @@ Dit project maakt wetgeving:
 
 ```
 wetgeving-nl/
-├── wetten/                   # Officiële wetten (automatisch bijgewerkt)
+├── wetten/                   # 21.407 officiele wetten (dagelijks bijgewerkt)
 │   ├── strafrecht/
 │   ├── burgerlijk-recht/
 │   ├── bestuursrecht/
@@ -69,27 +71,36 @@ Open een [Issue](../../issues/new?template=fout-in-wet.md)
 Lees de [bijdragegids](CONTRIBUTING.md) en open een PR met jouw voorstel in `proposals/`.
 
 **Technisch bijdragen?**
-Verbeter de parser, voeg wetten toe, of bouw de web-interface. Zie [CONTRIBUTING.md](CONTRIBUTING.md).
+Verbeter de parser, voeg wetten toe, of bouw mee aan de web-interface. Zie [CONTRIBUTING.md](CONTRIBUTING.md).
+
+**Discussie starten?**
+Ga naar [Discussions](../../discussions).
 
 ---
 
 ## Data-bron
 
-Alle officiële wetten komen van het **Basis Wetten Bestand (BWB)** via [data.overheid.nl](https://data.overheid.nl/dataset/basis-wetten-bestand).
+Alle officiele wetten komen van het **Basis Wetten Bestand (BWB)** via [data.overheid.nl](https://data.overheid.nl/dataset/basis-wetten-bestand).
 De data is eigendom van de Nederlandse overheid en valt onder de CC0 licentie.
 
-De community-bijdragen (proposals/) vallen onder CC BY-SA 4.0.
+De community-bijdragen in `proposals/` vallen onder CC BY-SA 4.0.
+De scripts vallen onder de MIT licentie.
+
+Zie [LICENSE](LICENSE) voor details.
 
 ---
 
 ## Roadmap
 
-- [ ] Parser: BWB-XML naar nette Markdown voor alle wetten
-- [ ] GitHub Actions: dagelijkse automatische update
-- [ ] Web-interface: wetten lezen en PR indienen met één klik
+- [x] 21.407 Nederlandse wetten in schone Markdown
+- [x] Automatische dagelijkse updates via GitHub Actions
+- [x] Community proposals-sectie met templates
+- [x] Web-interface op apolloccrypt.github.io/wetgeving-nl
+- [x] Volledige wetsgeschiedenis (423.000+ commits)
 - [ ] Zoekfunctie over alle wetteksten
 - [ ] Koppeling met Kamerstukken
+- [ ] Betere web-interface zonder GitHub-kennis vereist
 
 ---
 
-*Dit project heeft geen officiële band met de Nederlandse overheid.*
+*Dit project heeft geen officiele band met de Nederlandse overheid.*
