@@ -3,170 +3,135 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Verwijzingen-graaf — vrijewetgeving.nl</title>
+<title>Wettengraaf — vrijewetgeving.nl</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
 <style>
 :root {
-  --rood:#AE1C28; --wit:#ffffff; --blauw:#21468B; --oranje:#FF6B00;
-  --donker:#0a0a0f; --grijs:#f5f5f1; --tekst:#1a1a2e; --zacht:#6b7280; --rand:#e8e8e3;
+  --rood:#AE1C28;--wit:#fff;--blauw:#21468B;--oranje:#FF6B00;
+  --donker:#0a0a0f;--grijs:#f5f5f1;--tekst:#1a1a2e;--zacht:#6b7280;--rand:#e8e8e3;
 }
-* { margin:0; padding:0; box-sizing:border-box; }
-body { font-family:'Syne',sans-serif; background:var(--donker); color:var(--wit); min-height:100vh; overflow:hidden; }
+*{margin:0;padding:0;box-sizing:border-box;}
+body{font-family:'Syne',sans-serif;background:var(--donker);color:var(--wit);height:100vh;overflow:hidden;display:flex;flex-direction:column;}
 
-header { background:var(--donker); color:var(--wit); padding:1.5rem 2rem; position:relative; z-index:50; }
-header::before { content:''; position:absolute; top:0; left:0; right:0; height:10px;
-  background:linear-gradient(180deg,var(--rood) 33%,var(--wit) 33%,var(--wit) 66%,var(--blauw) 66%); }
-header::after { content:''; position:absolute; bottom:0; left:0; right:0; height:10px;
-  background:linear-gradient(180deg,var(--rood) 33%,var(--wit) 33%,var(--wit) 66%,var(--blauw) 66%); }
-.header-inner { max-width:100%; display:flex; justify-content:space-between; align-items:center; }
-.logo { font-size:1.4rem; font-weight:800; text-decoration:none; color:var(--wit); }
-.logo span { color:var(--oranje); }
+/* Header & nav */
+header{background:var(--donker);padding:1rem 1.5rem;position:relative;flex-shrink:0;}
+header::before{content:'';position:absolute;top:0;left:0;right:0;height:8px;
+  background:linear-gradient(180deg,var(--rood) 33%,var(--wit) 33%,var(--wit) 66%,var(--blauw) 66%);}
+.header-inner{display:flex;justify-content:space-between;align-items:center;}
+.logo{font-size:1.2rem;font-weight:800;text-decoration:none;color:var(--wit);}
+.logo span{color:var(--oranje);}
+.nav-bar{background:var(--donker);border-bottom:1px solid rgba(255,255,255,0.08);padding:0 1.5rem;flex-shrink:0;}
+.nav-inner{display:flex;gap:0;overflow-x:auto;}
+.nav-btn{font-family:'JetBrains Mono',monospace;font-size:0.7rem;padding:0.6rem 1rem;
+  color:rgba(255,255,255,0.4);text-decoration:none;white-space:nowrap;
+  border-bottom:2px solid transparent;transition:all 0.15s;}
+.nav-btn:hover{color:var(--wit);}
+.nav-btn.actief{color:var(--oranje);border-bottom-color:var(--oranje);}
 
-.nav-bar { background:var(--donker); border-top:1px solid rgba(255,255,255,0.06); padding:0 2rem; position:relative; z-index:50; }
-.nav-inner { max-width:100%; display:flex; gap:0; overflow-x:auto; }
-.nav-btn { font-family:'JetBrains Mono',monospace; font-size:0.72rem; padding:0.7rem 1.1rem;
-  color:rgba(255,255,255,0.45); text-decoration:none; white-space:nowrap;
-  border-bottom:2px solid transparent; transition:all 0.15s; }
-.nav-btn:hover { color:var(--wit); }
-.nav-btn.actief { color:var(--oranje); border-bottom-color:var(--oranje); }
+/* Toolbar */
+.toolbar{background:rgba(10,10,15,0.9);border-bottom:1px solid rgba(255,255,255,0.08);
+  padding:0.6rem 1.5rem;display:flex;gap:0.6rem;align-items:center;flex-shrink:0;flex-wrap:wrap;}
 
-.toolbar {
-  position:absolute; top:140px; left:0; right:0; z-index:40;
-  padding:0.75rem 1.5rem;
-  display:flex; gap:0.75rem; align-items:center;
-  background:rgba(10,10,15,0.85); backdrop-filter:blur(8px);
-  border-bottom:1px solid rgba(255,255,255,0.08);
-}
-.zoek-input {
-  flex:1; max-width:380px; padding:0.55rem 0.9rem;
-  font-family:'Syne',sans-serif; font-size:0.9rem;
-  background:rgba(255,255,255,0.08); border:1.5px solid rgba(255,255,255,0.15);
-  border-radius:6px; color:var(--wit); outline:none;
-  transition:border-color 0.15s;
-}
-.zoek-input::placeholder { color:rgba(255,255,255,0.3); }
-.zoek-input:focus { border-color:var(--oranje); }
-.toolbar-label { font-family:'JetBrains Mono',monospace; font-size:0.68rem; color:rgba(255,255,255,0.4); }
-.d-btn {
-  width:32px; height:32px; border-radius:5px;
-  font-family:'JetBrains Mono',monospace; font-size:0.75rem;
-  background:rgba(255,255,255,0.08); border:1.5px solid rgba(255,255,255,0.15);
-  color:rgba(255,255,255,0.6); cursor:pointer; transition:all 0.12s;
-}
-.d-btn:hover { border-color:var(--oranje); color:var(--oranje); }
-.d-btn.actief { background:var(--oranje); border-color:var(--oranje); color:var(--wit); }
-.reset-btn {
-  padding:0.4rem 0.9rem; border-radius:5px;
-  font-family:'JetBrains Mono',monospace; font-size:0.68rem;
-  background:transparent; border:1.5px solid rgba(255,255,255,0.2);
-  color:rgba(255,255,255,0.5); cursor:pointer; transition:all 0.12s;
-}
-.reset-btn:hover { border-color:rgba(255,255,255,0.5); color:var(--wit); }
-.telling { font-family:'JetBrains Mono',monospace; font-size:0.68rem; color:rgba(255,255,255,0.35); margin-left:auto; }
+/* Modus knoppen */
+.modus-groep{display:flex;gap:0.3rem;background:rgba(255,255,255,0.05);border-radius:6px;padding:3px;}
+.modus-btn{padding:0.35rem 0.75rem;border:none;border-radius:4px;
+  font-family:'JetBrains Mono',monospace;font-size:0.68rem;cursor:pointer;
+  background:transparent;color:rgba(255,255,255,0.45);transition:all 0.15s;}
+.modus-btn:hover{color:var(--wit);}
+.modus-btn.actief{background:var(--oranje);color:var(--wit);}
 
-.graaf-wrap { position:absolute; top:185px; left:0; right:0; bottom:0; }
-#graaf { width:100%; height:100%; }
+/* Zoek wrapper */
+.zoek-wrap{position:relative;flex:1;max-width:340px;}
+.zoek-input{width:100%;padding:0.5rem 0.85rem;font-family:'JetBrains Mono',monospace;font-size:0.8rem;
+  background:rgba(255,255,255,0.07);border:1.5px solid rgba(255,255,255,0.12);
+  border-radius:6px;color:var(--wit);outline:none;transition:border-color 0.15s;}
+.zoek-input::placeholder{color:rgba(255,255,255,0.25);}
+.zoek-input:focus{border-color:var(--oranje);}
+.ac-lijst{position:absolute;top:100%;left:0;right:0;
+  background:rgba(12,12,18,0.98);border:1px solid rgba(255,255,255,0.12);
+  border-top:none;border-radius:0 0 8px 8px;z-index:300;display:none;max-height:260px;overflow-y:auto;}
+.ac-lijst.open{display:block;}
+.ac-item{padding:0.55rem 0.85rem;cursor:pointer;border-bottom:1px solid rgba(255,255,255,0.04);}
+.ac-item:hover,.ac-item.hl{background:rgba(255,107,0,0.12);}
+.ac-titel{font-size:0.78rem;color:var(--wit);}
+.ac-titel mark{background:transparent;color:var(--oranje);font-weight:700;}
+.ac-sub{font-family:'JetBrains Mono',monospace;font-size:0.6rem;color:rgba(255,255,255,0.3);margin-top:2px;}
 
-.tooltip {
-  position:fixed; background:rgba(10,10,15,0.95);
-  border:1px solid rgba(255,255,255,0.15);
-  color:var(--wit); padding:0.7rem 1rem; border-radius:8px;
-  font-family:'JetBrains Mono',monospace; font-size:0.72rem;
-  pointer-events:none; opacity:0; transition:opacity 0.1s;
-  max-width:300px; line-height:1.6; z-index:200;
-  backdrop-filter:blur(8px);
-}
+/* Diepte & acties */
+.tb-label{font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:rgba(255,255,255,0.35);}
+.d-btn{width:28px;height:28px;border-radius:4px;font-family:'JetBrains Mono',monospace;font-size:0.72rem;
+  background:rgba(255,255,255,0.07);border:1px solid rgba(255,255,255,0.12);
+  color:rgba(255,255,255,0.5);cursor:pointer;transition:all 0.12s;}
+.d-btn:hover{border-color:var(--oranje);color:var(--oranje);}
+.d-btn.actief{background:var(--oranje);border-color:var(--oranje);color:var(--wit);}
+.tb-actie{padding:0.35rem 0.75rem;border-radius:4px;font-family:'JetBrains Mono',monospace;font-size:0.65rem;
+  background:transparent;border:1px solid rgba(255,255,255,0.15);
+  color:rgba(255,255,255,0.45);cursor:pointer;transition:all 0.12s;}
+.tb-actie:hover{border-color:rgba(255,255,255,0.4);color:var(--wit);}
+.tb-actie.rood:hover{border-color:#f87171;color:#f87171;}
+.telling{font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:rgba(255,255,255,0.25);margin-left:auto;}
 
-.info-paneel {
-  position:absolute; right:1.5rem; top:1rem; z-index:100;
-  background:rgba(10,10,15,0.95); border:1px solid rgba(255,255,255,0.15);
-  border-radius:10px; padding:1.2rem; width:280px;
-  backdrop-filter:blur(8px); display:none;
-}
-.info-paneel.open { display:block; }
-.info-sluiten { position:absolute; right:0.8rem; top:0.8rem;
-  background:none; border:none; color:rgba(255,255,255,0.4);
-  cursor:pointer; font-size:1rem; }
-.info-sluiten:hover { color:var(--wit); }
-.info-titel { font-size:0.88rem; font-weight:700; margin-bottom:0.3rem; line-height:1.4; }
-.info-ident { font-family:'JetBrains Mono',monospace; font-size:0.65rem; color:rgba(255,255,255,0.4); margin-bottom:0.8rem; }
-.info-stat { font-family:'JetBrains Mono',monospace; font-size:0.68rem; color:rgba(255,255,255,0.5); margin-bottom:0.5rem; }
-.info-stat span { color:var(--oranje); font-weight:600; }
-.info-links { display:flex; flex-direction:column; gap:0.4rem; margin-top:0.8rem; }
-.info-link {
-  font-family:'JetBrains Mono',monospace; font-size:0.65rem;
-  padding:0.35rem 0.7rem; border-radius:4px; text-decoration:none;
-  border:1px solid rgba(255,255,255,0.15); color:rgba(255,255,255,0.6);
-  text-align:center; transition:all 0.12s; cursor:pointer; background:none;
-}
-.info-link:hover { border-color:var(--oranje); color:var(--oranje); }
-.info-link.primair { background:var(--oranje); border-color:var(--oranje); color:var(--wit); }
-.info-link.primair:hover { background:#e05500; }
+/* Canvas */
+.canvas{flex:1;position:relative;overflow:hidden;}
+#graaf{width:100%;height:100%;}
 
+/* Context menu */
+.ctx-menu{position:fixed;background:rgba(12,12,18,0.98);border:1px solid rgba(255,255,255,0.15);
+  border-radius:8px;padding:0.4rem;z-index:500;display:none;min-width:180px;}
+.ctx-menu.open{display:block;}
+.ctx-item{padding:0.45rem 0.75rem;border-radius:4px;cursor:pointer;
+  font-family:'JetBrains Mono',monospace;font-size:0.72rem;color:rgba(255,255,255,0.7);
+  transition:background 0.1s;display:flex;align-items:center;gap:0.5rem;}
+.ctx-item:hover{background:rgba(255,107,0,0.15);color:var(--wit);}
+.ctx-item.gevaar:hover{background:rgba(248,113,113,0.15);color:#f87171;}
+.ctx-sep{height:1px;background:rgba(255,255,255,0.08);margin:0.3rem 0;}
 
-.leg-item { display:flex; align-items:center; gap:0.5rem; margin-bottom:0.4rem; color:rgba(255,255,255,0.5); }
-.leg-item:last-child { margin-bottom:0; }
-.leg-dot { width:10px; height:10px; border-radius:50%; flex-shrink:0; }
+/* Info paneel */
+.info{position:absolute;right:1rem;top:1rem;width:270px;
+  background:rgba(10,10,15,0.96);border:1px solid rgba(255,255,255,0.12);
+  border-radius:10px;padding:1rem;display:none;backdrop-filter:blur(12px);}
+.info.open{display:block;}
+.info-sluit{position:absolute;right:0.7rem;top:0.7rem;background:none;border:none;
+  color:rgba(255,255,255,0.3);cursor:pointer;font-size:1rem;}
+.info-sluit:hover{color:var(--wit);}
+.info-h{font-size:0.85rem;font-weight:700;line-height:1.4;margin-bottom:0.25rem;padding-right:1.5rem;}
+.info-id{font-family:'JetBrains Mono',monospace;font-size:0.62rem;color:rgba(255,255,255,0.35);margin-bottom:0.7rem;}
+.info-stat{display:flex;gap:1rem;margin-bottom:0.8rem;}
+.info-s{text-align:center;}
+.info-s .n{font-size:1.2rem;font-weight:700;color:var(--oranje);}
+.info-s .l{font-family:'JetBrains Mono',monospace;font-size:0.6rem;color:rgba(255,255,255,0.35);}
+.info-acties{display:flex;flex-direction:column;gap:0.35rem;}
+.info-btn{padding:0.4rem 0.7rem;border-radius:5px;font-family:'JetBrains Mono',monospace;
+  font-size:0.65rem;text-decoration:none;text-align:center;cursor:pointer;
+  border:1px solid rgba(255,255,255,0.12);color:rgba(255,255,255,0.6);
+  background:transparent;transition:all 0.12s;display:block;}
+.info-btn:hover{border-color:var(--oranje);color:var(--oranje);}
+.info-btn.prim{background:var(--oranje);border-color:var(--oranje);color:var(--wit);}
+.info-btn.prim:hover{background:#e05500;}
 
-.gebruikswijzer {
-  position:absolute; left:1.5rem; bottom:1.5rem; z-index:100;
-  background:rgba(10,10,15,0.85); border:1px solid rgba(255,255,255,0.1);
-  border-radius:8px; padding:0.9rem 1rem; max-width:320px;
-  backdrop-filter:blur(8px);
-}
-.stap {
-  display:flex; gap:0.7rem; align-items:flex-start;
-  font-family:'JetBrains Mono',monospace; font-size:0.65rem;
-  color:rgba(255,255,255,0.45); margin-bottom:0.5rem; line-height:1.5;
-}
-.stap:last-child { margin-bottom:0; }
-.stap-nr {
-  min-width:18px; height:18px; border-radius:50%;
-  background:var(--oranje); color:var(--wit);
-  font-size:0.6rem; font-weight:700;
-  display:flex; align-items:center; justify-content:center; flex-shrink:0;
-  margin-top:1px;
-}
-.stap em { color:rgba(255,255,255,0.7); font-style:normal; }
-.legenda {
-  position:absolute; right:1.5rem; bottom:1.5rem; z-index:100;
-  background:rgba(10,10,15,0.8); border:1px solid rgba(255,255,255,0.1);
-  border-radius:8px; padding:0.8rem; font-family:'JetBrains Mono',monospace; font-size:0.65rem;
-}
-.autocomplete {
-  position:absolute; top:100%; left:0; right:0; max-width:380px;
-  background:rgba(15,15,20,0.98); border:1px solid rgba(255,255,255,0.15);
-  border-top:none; border-radius:0 0 8px 8px;
-  backdrop-filter:blur(8px); z-index:200; display:none;
-  max-height:280px; overflow-y:auto;
-}
-.autocomplete.open { display:block; }
-.ac-item {
-  padding:0.6rem 0.9rem; cursor:pointer;
-  border-bottom:1px solid rgba(255,255,255,0.05);
-  transition:background 0.1s;
-}
-.ac-item:last-child { border-bottom:none; }
-.ac-item:hover, .ac-item.actief { background:rgba(255,107,0,0.15); }
-.ac-naam { font-family:'Syne',sans-serif; font-size:0.82rem; color:var(--wit); }
-.ac-naam mark { background:transparent; color:var(--oranje); font-weight:700; }
-.ac-meta { font-family:'JetBrains Mono',monospace; font-size:0.62rem; color:rgba(255,255,255,0.3); margin-top:0.1rem; }
-.zoek-wrapper { position:relative; flex:1; max-width:380px; }
-.hint {
-  position:absolute; bottom:1.5rem; left:50%; transform:translateX(-50%);
-  font-family:'JetBrains Mono',monospace; font-size:0.65rem;
-  color:rgba(255,255,255,0.25); pointer-events:none; z-index:50;
-  white-space:nowrap;
-}
+/* Legenda */
+.legenda{position:absolute;right:1rem;bottom:1rem;
+  background:rgba(10,10,15,0.8);border:1px solid rgba(255,255,255,0.08);
+  border-radius:8px;padding:0.7rem 0.9rem;font-family:'JetBrains Mono',monospace;font-size:0.62rem;}
+.leg{display:flex;align-items:center;gap:0.45rem;margin-bottom:0.3rem;color:rgba(255,255,255,0.45);}
+.leg:last-child{margin-bottom:0;}
+.leg-dot{width:9px;height:9px;border-radius:50%;flex-shrink:0;}
 
-.laden-overlay {
-  position:absolute; top:185px; left:0; right:0; bottom:0;
-  display:flex; align-items:center; justify-content:center;
-  background:var(--donker); z-index:90;
-}
-.laden-tekst { font-family:'JetBrains Mono',monospace; font-size:0.85rem; color:rgba(255,255,255,0.4); }
+/* Tooltip */
+.tt{position:fixed;background:rgba(10,10,15,0.95);border:1px solid rgba(255,255,255,0.1);
+  color:var(--wit);padding:0.5rem 0.8rem;border-radius:6px;
+  font-family:'JetBrains Mono',monospace;font-size:0.68rem;
+  pointer-events:none;opacity:0;transition:opacity 0.1s;z-index:200;max-width:260px;line-height:1.5;}
+
+/* Entiteit chips */
+.entiteit-chips{display:flex;gap:0.4rem;flex-wrap:wrap;margin-top:0.4rem;}
+.entiteit-chip{padding:0.25rem 0.65rem;border-radius:20px;
+  font-family:'JetBrains Mono',monospace;font-size:0.65rem;cursor:pointer;
+  border:1px solid rgba(255,255,255,0.15);color:rgba(255,255,255,0.5);
+  transition:all 0.12s;}
+.entiteit-chip:hover{border-color:var(--oranje);color:var(--oranje);}
 </style>
 </head>
 <body>
@@ -181,7 +146,7 @@ header::after { content:''; position:absolute; bottom:0; left:0; right:0; height
   <div class="nav-inner">
     <a class="nav-btn" href="index.html">Alle wetten</a>
     <a class="nav-btn" href="bevoegdheden.html">Bevoegdhedencheck</a>
-    <a class="nav-btn actief" href="verwijzingen.html">Verwijzingen-graaf</a>
+    <a class="nav-btn actief" href="verwijzingen.html">Wettengraaf</a>
     <a class="nav-btn" href="rechten.html">Mijn rechten</a>
     <a class="nav-btn" href="https://github.com/Apolloccrypt/wetgeving-nl/tree/main/proposals" target="_blank">Wetsvoorstellen</a>
     <a class="nav-btn" href="https://github.com/Apolloccrypt/wetgeving-nl/discussions" target="_blank">Discussie</a>
@@ -190,54 +155,89 @@ header::after { content:''; position:absolute; bottom:0; left:0; right:0; height
 </nav>
 
 <div class="toolbar">
-  <div class="zoek-wrapper">
-    <input class="zoek-input" id="zoek" type="search"
-      placeholder="Zoek een wet... (bijv. huurrecht, strafrecht)"
-      oninput="zoekAutoComplete()" onkeydown="acKeydown(event)" autocomplete="off"
-      style="width:100%">
-    <div class="autocomplete" id="ac"></div>
+  <!-- Modus -->
+  <div class="modus-groep">
+    <button class="modus-btn actief" id="m-wet" onclick="setModus('wet')">Wet zoeken</button>
+    <button class="modus-btn" id="m-entiteit" onclick="setModus('entiteit')">Begrip / entiteit</button>
   </div>
-  <span class="toolbar-label">Diepte:</span>
+
+  <!-- Zoek -->
+  <div class="zoek-wrap">
+    <input class="zoek-input" id="zoek" type="search" placeholder="Zoek een wet of begrip..."
+      oninput="acZoek()" onkeydown="acKey(event)" autocomplete="off">
+    <div class="ac-lijst" id="ac"></div>
+  </div>
+
+  <span class="tb-label">Diepte:</span>
   <button class="d-btn actief" id="d1" onclick="setDiepte(1)">1</button>
   <button class="d-btn" id="d2" onclick="setDiepte(2)">2</button>
   <button class="d-btn" id="d3" onclick="setDiepte(3)">3</button>
-  <button class="reset-btn" onclick="resetNaarStart()">Reset</button>
+  <button class="tb-actie" onclick="allesVerwijderen()">Leeg</button>
+  <button class="tb-actie" onclick="resetView()">Reset view</button>
   <span class="telling" id="telling"></span>
 </div>
 
-<div class="graaf-wrap">
-  <div class="laden-overlay" id="laden">
-    <span class="laden-tekst">Verwijzingen laden...</span>
-  </div>
+<div class="canvas">
   <svg id="graaf"></svg>
-  <div class="tooltip" id="tooltip"></div>
-  <div class="info-paneel" id="info"></div>
-  <div class="gebruikswijzer">
-  <div class="stap"><span class="stap-nr">1</span><span>Zoek een wet in de balk bovenin — bijv. <em>huurrecht</em> of <em>strafrecht</em></span></div>
-  <div class="stap"><span class="stap-nr">2</span><span>De oranje knoop is jouw wet. Blauwe knoppen zijn wetten waarnaar verwezen wordt.</span></div>
-  <div class="stap"><span class="stap-nr">3</span><span>Klik op een knoop voor details. Klik <em>Centreer in graaf</em> om die wet centraal te zetten.</span></div>
-  <div class="stap"><span class="stap-nr">4</span><span>Verhoog de diepte (1→2→3) voor meer verbindingen. Sleep knoppen om de graaf te ordenen.</span></div>
-</div>
-<div class="legenda">
-    <div class="leg-item"><div class="leg-dot" style="background:var(--oranje)"></div>Geselecteerde wet</div>
-    <div class="leg-item"><div class="leg-dot" style="background:#60a5fa"></div>Direct verwezen</div>
-    <div class="leg-item"><div class="leg-dot" style="background:#4ade80"></div>Indirect verwezen</div>
-    <div class="leg-item"><div class="leg-dot" style="background:#a78bfa"></div>Verwijst terug</div>
+  <div class="tt" id="tt"></div>
+
+  <div class="info" id="info">
+    <button class="info-sluit" onclick="sluitInfo()">×</button>
+    <div class="info-h" id="info-h"></div>
+    <div class="info-id" id="info-id"></div>
+    <div class="info-stat" id="info-stat"></div>
+    <div class="info-acties" id="info-acties"></div>
   </div>
-  <div class="hint">Scroll om in te zoomen · Sleep nodes · Klik voor details</div>
+
+  <div class="legenda">
+    <div class="leg"><div class="leg-dot" style="background:#FF6B00"></div>Geselecteerd / centrum</div>
+    <div class="leg"><div class="leg-dot" style="background:#60a5fa"></div>Verwijst naar</div>
+    <div class="leg"><div class="leg-dot" style="background:#a78bfa"></div>Verwijst terug</div>
+    <div class="leg"><div class="leg-dot" style="background:#4ade80"></div>Diepte 2+</div>
+  </div>
+</div>
+
+<!-- Context menu -->
+<div class="ctx-menu" id="ctx">
+  <div class="ctx-item" id="ctx-centreer" onclick="ctxCentreer()">↯ Centreer in graaf</div>
+  <div class="ctx-item" id="ctx-uitbreid" onclick="ctxUitbreid()">＋ Uitbreiden</div>
+  <div class="ctx-sep"></div>
+  <div class="ctx-item" id="ctx-wet" onclick="ctxOpenWet()">↗ Bekijk wet</div>
+  <div class="ctx-sep"></div>
+  <div class="ctx-item gevaar" onclick="ctxVerwijder()">✕ Verwijder uit graaf</div>
 </div>
 
 <script>
 const GITHUB = 'https://github.com/Apolloccrypt/wetgeving-nl/blob/main/';
 
+// Entiteiten: begrippen die naar relevante wetten leiden
+const ENTITEITEN = [
+  { label:'Huurrecht',       termen:['huur','woonruimte','huurprijzen'] },
+  { label:'Privacy & AVG',   termen:['persoonsgegevens','avg','gegevensbescherming'] },
+  { label:'Arbeidsrecht',    termen:['arbeidsovereenkomst','arbeidsrecht','cao '] },
+  { label:'Strafrecht',      termen:['wetboek van strafrecht','strafvordering','delict'] },
+  { label:'Bestuursrecht',   termen:['algemene wet bestuursrecht','awb','bezwaar'] },
+  { label:'Belasting',       termen:['inkomstenbelasting','omzetbelasting','belastingwet'] },
+  { label:'Zorg',            termen:['wgbo','zorgverzekering','wlz','wmo'] },
+  { label:'Onderwijs',       termen:['leerplicht','studiefinanciering','onderwijswet'] },
+  { label:'Milieu',          termen:['milieuwet','waterwet','omgevingswet'] },
+  { label:'Faillissement',   termen:['faillissement','surseance','insolventie'] },
+];
+
 let indexData = [];
 let verwData  = {};
 let bwbrMap   = {};
-let huidigeDiepte = 1;
-let huidigeCentrum = null;
-let simulatie = null;
+let modus     = 'wet';
+let diepte    = 1;
+let sim       = null;
+let acIdx     = -1;
+let ctxNode   = null;
 
-async function laadAlles() {
+// Graaf state
+let grNodes = new Map(); // id -> node obj
+let grLinks = [];
+
+async function init() {
   const [idx, verw] = await Promise.all([
     fetch('index.json').then(r => r.json()),
     fetch('verwijzingen.json').then(r => r.json()).catch(() => ({})),
@@ -245,279 +245,328 @@ async function laadAlles() {
   indexData = idx;
   verwData  = verw;
   indexData.forEach((w, i) => { if (w.identifier) bwbrMap[w.identifier] = i; });
-
-  document.getElementById('laden').style.display = 'none';
-
-  // Start met meest verwezen wet
-  const populair = Object.entries(verwData)
-    .sort((a, b) => b[1].length - a[1].length)[0];
-  if (populair) {
-    const wet = indexData[bwbrMap[populair[0]]];
-    if (wet) toonGraaf(wet);
-  }
+  initGraaf();
+  // Start met populairste wet
+  const top = Object.entries(verwData).sort((a,b) => b[1].length - a[1].length)[0];
+  if (top) voegWetToe(indexData[bwbrMap[top[0]]], 0);
 }
 
-function zoekWet() {
-  const q = document.getElementById('zoek').value.toLowerCase().trim();
-  if (q.length < 2) return;
-  const gevonden = indexData.find(w =>
-    (w.titel||'').toLowerCase().includes(q) ||
-    (w.identifier||'').toLowerCase().includes(q)
-  );
-  if (gevonden) toonGraaf(gevonden);
+// ── Modus ────────────────────────────────────────────────────────────────
+
+function setModus(m) {
+  modus = m;
+  document.querySelectorAll('.modus-btn').forEach(b => b.classList.remove('actief'));
+  document.getElementById('m-' + m).classList.add('actief');
+  document.getElementById('zoek').placeholder =
+    m === 'wet' ? 'Zoek een wet...' : 'Zoek een begrip (bijv. huurrecht, privacy)...';
+  document.getElementById('zoek').value = '';
+  document.getElementById('ac').className = 'ac-lijst';
 }
+
+// ── Diepte ───────────────────────────────────────────────────────────────
 
 function setDiepte(d) {
-  huidigeDiepte = d;
+  diepte = d;
   document.querySelectorAll('.d-btn').forEach(b => b.classList.remove('actief'));
   document.getElementById('d' + d).classList.add('actief');
-  if (huidigeCentrum) toonGraaf(huidigeCentrum);
 }
 
-function resetNaarStart() {
-  document.getElementById('zoek').value = '';
-  const populair = Object.entries(verwData).sort((a,b) => b[1].length - a[1].length)[0];
-  if (populair) {
-    const wet = indexData[bwbrMap[populair[0]]];
-    if (wet) toonGraaf(wet);
-  }
-}
+// ── Autocomplete ─────────────────────────────────────────────────────────
 
-function bouwGraaf(centrumWet, diepte) {
-  const nodes = new Map();
-  const links = [];
-  const bezocht = new Set();
+function acZoek() {
+  const q = document.getElementById('zoek').value.toLowerCase().trim();
+  const ac = document.getElementById('ac');
+  acIdx = -1;
+  if (q.length < 2) { ac.className = 'ac-lijst'; return; }
 
-  function voegToe(id, niveau) {
-    if (nodes.has(id)) return;
-    const idx = bwbrMap[id];
-    if (idx === undefined) return;
-    const wet = indexData[idx];
-    nodes.set(id, { id, titel: wet.titel, categorie: wet.categorie, pad: wet.pad, niveau });
-  }
+  let hits = [];
 
-  function verwerk(id, niveau) {
-    if (bezocht.has(id) || niveau > diepte) return;
-    bezocht.add(id);
-    voegToe(id, niveau);
-
-    const refs = verwData[id] || [];
-    refs.slice(0, 12).forEach(refId => {
-      voegToe(refId, niveau + 1);
-      if (!links.find(l => l.source === id && l.target === refId)) {
-        links.push({ source: id, target: refId, type: 'naar' });
-      }
-      if (niveau < diepte) verwerk(refId, niveau + 1);
-    });
-
-    // Ook: wie verwijst naar dit?
-    if (niveau === 0) {
-      Object.entries(verwData).forEach(([fromId, toIds]) => {
-        if (toIds.includes(id) && !nodes.has(fromId)) {
-          voegToe(fromId, 1);
-          links.push({ source: fromId, target: id, type: 'vanuit' });
-        }
-      });
+  if (modus === 'wet') {
+    hits = indexData
+      .filter(w => (w.titel||'').toLowerCase().includes(q) && verwData[w.identifier])
+      .sort((a,b) => (verwData[b.identifier]||[]).length - (verwData[a.identifier]||[]).length)
+      .slice(0, 8)
+      .map(w => ({
+        label: w.titel,
+        sub: `${w.identifier} · ${(verwData[w.identifier]||[]).length} verwijzingen`,
+        action: () => voegWetToe(w, 0),
+      }));
+  } else {
+    // Entiteiten + vrije zoekterm
+    const entHits = ENTITEITEN.filter(e => e.label.toLowerCase().includes(q));
+    hits = entHits.map(e => ({
+      label: e.label,
+      sub: `begrip · klik om gerelateerde wetten te laden`,
+      action: () => laadEntiteit(e),
+    }));
+    if (hits.length < 3) {
+      // Voeg ook directe wet-hits toe
+      indexData
+        .filter(w => (w.titel||'').toLowerCase().includes(q))
+        .slice(0, 5 - hits.length)
+        .forEach(w => hits.push({
+          label: w.titel,
+          sub: w.identifier,
+          action: () => voegWetToe(w, 0),
+        }));
     }
   }
 
-  verwerk(centrumWet.identifier, 0);
-  return { nodes: Array.from(nodes.values()), links };
+  if (!hits.length) { ac.className = 'ac-lijst'; return; }
+  ac.innerHTML = hits.map((h, i) => `
+    <div class="ac-item" onclick="kiesAC(${i})">
+      <div class="ac-titel">${h.label.replace(new RegExp(q,'gi'), m => `<mark>${m}</mark>`)}</div>
+      <div class="ac-sub">${h.sub}</div>
+    </div>`).join('');
+  ac.__hits = hits;
+  ac.className = 'ac-lijst open';
 }
 
-const KLEUREN = {
-  0: '#FF6B00',
-  1: '#60a5fa',
-  2: '#4ade80',
-  vanuit: '#a78bfa',
+function kiesAC(i) {
+  const ac = document.getElementById('ac');
+  const hit = ac.__hits[i];
+  if (hit) { hit.action(); document.getElementById('zoek').value = ''; }
+  ac.className = 'ac-lijst';
+}
+
+function acKey(e) {
+  const ac = document.getElementById('ac');
+  const items = ac.querySelectorAll('.ac-item');
+  if (e.key === 'ArrowDown') { e.preventDefault(); acIdx = Math.min(acIdx+1, items.length-1); items.forEach((el,i) => el.classList.toggle('hl', i===acIdx)); }
+  else if (e.key === 'ArrowUp') { e.preventDefault(); acIdx = Math.max(acIdx-1, -1); items.forEach((el,i) => el.classList.toggle('hl', i===acIdx)); }
+  else if (e.key === 'Enter' && acIdx >= 0) { items[acIdx]?.click(); }
+  else if (e.key === 'Escape') { ac.className = 'ac-lijst'; }
+}
+
+document.addEventListener('click', e => {
+  if (!e.target.closest('.zoek-wrap')) document.getElementById('ac').className = 'ac-lijst';
+  if (!e.target.closest('.ctx-menu')) sluitCtx();
+});
+
+// ── Entiteiten ────────────────────────────────────────────────────────────
+
+function laadEntiteit(entiteit) {
+  allesVerwijderen();
+  const termen = entiteit.termen.map(t => t.toLowerCase());
+  const wetten = indexData
+    .filter(w => termen.some(t => (w.titel||'').toLowerCase().includes(t)) && verwData[w.identifier])
+    .sort((a,b) => (verwData[b.identifier]||[]).length - (verwData[a.identifier]||[]).length)
+    .slice(0, 8);
+  wetten.forEach((w, i) => voegWetToe(w, i === 0 ? 0 : 1, false));
+  hertekenGraaf();
+}
+
+// ── Graaf core ────────────────────────────────────────────────────────────
+
+function voegWetToe(wet, niveau, herteken = true) {
+  if (!wet?.identifier) return;
+  if (grNodes.has(wet.identifier)) {
+    toonInfo(wet); return;
+  }
+  grNodes.set(wet.identifier, {
+    id: wet.identifier, titel: wet.titel,
+    categorie: wet.categorie, pad: wet.pad,
+    niveau, x: undefined, y: undefined,
+  });
+
+  // Voeg verwijzingen toe tot diepte
+  function uitbreid(id, huidigNiveau) {
+    if (huidigNiveau >= diepte) return;
+    (verwData[id] || []).slice(0, 10).forEach(refId => {
+      if (!grNodes.has(refId) && bwbrMap[refId] !== undefined) {
+        const w = indexData[bwbrMap[refId]];
+        grNodes.set(refId, { id: refId, titel: w.titel, categorie: w.categorie, pad: w.pad, niveau: huidigNiveau+1 });
+        uitbreid(refId, huidigNiveau+1);
+      }
+    });
+  }
+  uitbreid(wet.identifier, niveau);
+  herbouwLinks();
+  if (herteken) hertekenGraaf();
+  toonInfo(wet);
+}
+
+function herbouwLinks() {
+  grLinks = [];
+  grNodes.forEach((node, id) => {
+    (verwData[id] || []).forEach(refId => {
+      if (grNodes.has(refId)) {
+        grLinks.push({ source: id, target: refId });
+      }
+    });
+  });
+}
+
+function verwijderNode(id) {
+  grNodes.delete(id);
+  herbouwLinks();
+  hertekenGraaf();
+  sluitInfo();
+}
+
+function allesVerwijderen() {
+  grNodes.clear(); grLinks = [];
+  hertekenGraaf(); sluitInfo();
+}
+
+// ── D3 graaf ──────────────────────────────────────────────────────────────
+
+let svgEl, gEl, zoomBehavior;
+
+function initGraaf() {
+  svgEl = d3.select('#graaf');
+  gEl   = svgEl.append('g');
+  zoomBehavior = d3.zoom().scaleExtent([0.1, 5]).on('zoom', e => gEl.attr('transform', e.transform));
+  svgEl.call(zoomBehavior);
+  svgEl.append('defs').selectAll('marker').data(['to','from']).join('marker')
+    .attr('id', d => 'arr-'+d).attr('viewBox','0 -4 8 8').attr('refX',20).attr('refY',0)
+    .attr('markerWidth',5).attr('markerHeight',5).attr('orient','auto')
+    .append('path').attr('d','M0,-4L8,0L0,4')
+    .attr('fill', d => d==='to' ? '#60a5fa30' : '#a78bfa30');
+}
+
+function resetView() {
+  svgEl.transition().duration(400).call(zoomBehavior.transform, d3.zoomIdentity);
+}
+
+const KLEUR = id => {
+  const n = grNodes.get(id);
+  if (!n) return '#6b7280';
+  if (n.niveau === 0) return '#FF6B00';
+  return n.niveau === 1 ? '#60a5fa' : '#4ade80';
 };
 
-function toonGraaf(wet) {
-  huidigeCentrum = wet;
-  const { nodes, links } = bouwGraaf(wet, huidigeDiepte);
+function hertekenGraaf() {
+  if (!gEl) return;
+  gEl.selectAll('*').remove();
+  if (sim) sim.stop();
+
+  const nodes = Array.from(grNodes.values());
+  const links = grLinks.map(l => ({...l}));
 
   document.getElementById('telling').textContent =
-    `${nodes.length} wetten · ${links.length} verwijzingen`;
+    `${nodes.length} wetten · ${links.length} verbindingen`;
 
-  const svg = d3.select('#graaf');
-  svg.selectAll('*').remove();
+  if (!nodes.length) return;
 
-  const wrap = document.querySelector('.graaf-wrap');
-  const W = wrap.clientWidth;
-  const H = wrap.clientHeight;
+  const W = document.querySelector('.canvas').clientWidth;
+  const H = document.querySelector('.canvas').clientHeight;
 
-  const g = svg.append('g');
-  svg.call(d3.zoom().scaleExtent([0.2, 4]).on('zoom', e => g.attr('transform', e.transform)));
-
-  svg.append('defs').selectAll('marker').data(['naar','vanuit']).join('marker')
-    .attr('id', d => `pijl-${d}`)
-    .attr('viewBox', '0 -4 8 8').attr('refX', 22).attr('refY', 0)
-    .attr('markerWidth', 5).attr('markerHeight', 5).attr('orient', 'auto')
-    .append('path').attr('d', 'M0,-4L8,0L0,4')
-    .attr('fill', d => d === 'naar' ? '#60a5fa40' : '#a78bfa40');
-
-  const sim = d3.forceSimulation(nodes)
-    .force('link', d3.forceLink(links).id(d => d.id).distance(d => d.source.niveau === 0 ? 130 : 90))
-    .force('charge', d3.forceManyBody().strength(-350))
+  sim = d3.forceSimulation(nodes)
+    .force('link', d3.forceLink(links).id(d => d.id).distance(110).strength(0.5))
+    .force('charge', d3.forceManyBody().strength(-300))
     .force('center', d3.forceCenter(W/2, H/2))
-    .force('collision', d3.forceCollide(45));
-  simulatie = sim;
+    .force('collision', d3.forceCollide(42));
 
-  const link = g.append('g').selectAll('line').data(links).join('line')
-    .attr('stroke', d => d.type === 'vanuit' ? '#a78bfa30' : '#60a5fa30')
+  const link = gEl.append('g').selectAll('line').data(links).join('line')
+    .attr('stroke', l => {
+      const src = typeof l.source === 'object' ? l.source.id : l.source;
+      const tgt = typeof l.target === 'object' ? l.target.id : l.target;
+      if (verwData[tgt]?.includes(src)) return '#a78bfa40';
+      return '#60a5fa30';
+    })
     .attr('stroke-width', 1.5)
-    .attr('marker-end', d => `url(#pijl-${d.type})`);
+    .attr('marker-end', 'url(#arr-to)');
 
-  const node = g.append('g').selectAll('g').data(nodes).join('g')
+  const node = gEl.append('g').selectAll('g').data(nodes).join('g')
     .style('cursor', 'pointer')
     .call(d3.drag()
       .on('start', (e,d) => { if (!e.active) sim.alphaTarget(0.3).restart(); d.fx=d.x; d.fy=d.y; })
       .on('drag',  (e,d) => { d.fx=e.x; d.fy=e.y; })
-      .on('end',   (e,d) => { if (!e.active) sim.alphaTarget(0); d.fx=null; d.fy=null; })
+      .on('end',   (e,d) => { if (!e.active) sim.alphaTarget(0); })
     )
-    .on('click', (e,d) => {
-      const w = indexData[bwbrMap[d.id]];
-      if (w) toonInfo(w, nodes, links);
-    })
+    .on('click', (e,d) => { e.stopPropagation(); toonInfo(indexData[bwbrMap[d.id]]); })
+    .on('dblclick', (e,d) => { e.stopPropagation(); uitbreidNode(d.id); })
+    .on('contextmenu', (e,d) => { e.preventDefault(); openCtx(e, d); })
     .on('mouseover', (e,d) => {
+      const tt = document.getElementById('tt');
       const verw = (verwData[d.id]||[]).length;
-      const tt = document.getElementById('tooltip');
-      tt.innerHTML = `<strong>${d.titel}</strong><br><span style="opacity:0.5">${d.id}</span><br><span style="color:var(--oranje)">${verw} verwijzingen</span>`;
+      tt.innerHTML = `<strong>${d.titel}</strong><br><span style="opacity:.5">${d.id}</span><br><span style="color:var(--oranje)">${verw} verwijzingen</span><br><em style="opacity:.4">Dubbelklik om uit te breiden · Rechtsklik voor opties</em>`;
       tt.style.opacity = '1';
     })
     .on('mousemove', e => {
-      const tt = document.getElementById('tooltip');
-      tt.style.left = (e.clientX + 14) + 'px';
-      tt.style.top  = (e.clientY - 35) + 'px';
+      const tt = document.getElementById('tt');
+      tt.style.left = (e.clientX+14)+'px'; tt.style.top = (e.clientY-40)+'px';
     })
-    .on('mouseout', () => document.getElementById('tooltip').style.opacity = '0');
+    .on('mouseout', () => document.getElementById('tt').style.opacity = '0');
+
+  const radius = d => d.niveau === 0 ? 18 : d.niveau === 1 ? 12 : 8;
 
   node.append('circle')
-    .attr('r', d => d.niveau === 0 ? 20 : d.niveau === 1 ? 12 : 8)
-    .attr('fill', d => {
-      if (d.niveau === 0) return '#FF6B00';
-      const l = links.find(l => l.target === d.id || l.target.id === d.id);
-      return l?.type === 'vanuit' ? '#a78bfa' : d.niveau === 1 ? '#60a5fa' : '#4ade80';
-    })
-    .attr('fill-opacity', d => d.niveau === 0 ? 1 : 0.7)
-    .attr('stroke', d => d.niveau === 0 ? '#fff' : 'none')
+    .attr('r', radius)
+    .attr('fill', d => KLEUR(d.id))
+    .attr('fill-opacity', d => d.niveau === 0 ? 1 : 0.75)
+    .attr('stroke', d => d.niveau === 0 ? 'rgba(255,255,255,0.3)' : 'none')
     .attr('stroke-width', 2);
 
   node.append('text')
     .attr('text-anchor', 'middle')
-    .attr('dy', d => (d.niveau === 0 ? 34 : d.niveau === 1 ? 24 : 18))
-    .attr('font-size', d => d.niveau === 0 ? '11px' : '9px')
+    .attr('dy', d => radius(d) + 13)
+    .attr('font-size', d => d.niveau === 0 ? '10px' : '8.5px')
     .attr('font-family', 'JetBrains Mono, monospace')
-    .attr('fill', 'rgba(255,255,255,0.6)')
-    .text(d => {
-      const max = d.niveau === 0 ? 35 : 28;
-      return d.titel.length > max ? d.titel.substring(0, max-2) + '…' : d.titel;
-    });
+    .attr('fill', 'rgba(255,255,255,0.55)')
+    .text(d => { const max = d.niveau===0?38:30; return d.titel.length>max ? d.titel.substring(0,max-1)+'…' : d.titel; });
 
   sim.on('tick', () => {
     link.attr('x1', d => d.source.x).attr('y1', d => d.source.y)
         .attr('x2', d => d.target.x).attr('y2', d => d.target.y);
     node.attr('transform', d => `translate(${d.x},${d.y})`);
   });
-
-  toonInfo(wet, nodes, links);
 }
 
-function toonInfo(wet, nodes, links) {
-  const aantalVerw = (verwData[wet.identifier]||[]).length;
-  const aantalVanuit = links.filter(l =>
-    (l.target === wet.identifier || l.target?.id === wet.identifier) && l.type === 'vanuit'
-  ).length;
-
-  const paneel = document.getElementById('info');
-  paneel.className = 'info-paneel open';
-  paneel.innerHTML = `
-    <button class="info-sluiten" onclick="this.parentElement.classList.remove('open')">×</button>
-    <div class="info-titel">${wet.titel}</div>
-    <div class="info-ident">${wet.identifier} · ${wet.categorie}</div>
-    <div class="info-stat">Verwijst naar: <span>${aantalVerw} wetten</span></div>
-    <div class="info-stat">Wordt verwezen door: <span>${aantalVanuit} wetten</span></div>
-    <div class="info-links">
-      <button class="info-link" onclick="toonGraaf(indexData[bwbrMap['${wet.identifier}']])">Centreer in graaf</button>
-      <a class="info-link primair" href="${GITHUB}${wet.pad}" target="_blank">Bekijk wet</a>
-      <a class="info-link" href="https://wetten.overheid.nl/${wet.identifier}" target="_blank">wetten.overheid.nl</a>
-    </div>`;
-}
-
-// ── Autocomplete ─────────────────────────────────────────
-let acIndex = -1;
-
-function zoekAutoComplete() {
-  const q = document.getElementById('zoek').value.toLowerCase().trim();
-  const ac = document.getElementById('ac');
-  acIndex = -1;
-
-  if (q.length < 2) { ac.className = 'autocomplete'; return; }
-
-  // Vind wetten met verwijzingen die matchen op titel
-  const hits = indexData
-    .filter(w => (w.titel||'').toLowerCase().includes(q) && verwData[w.identifier])
-    .sort((a,b) => (verwData[b.identifier]||[]).length - (verwData[a.identifier]||[]).length)
-    .slice(0, 8);
-
-  if (hits.length === 0) { ac.className = 'autocomplete'; return; }
-
-  ac.innerHTML = hits.map((w, i) => {
-    const verw = (verwData[w.identifier]||[]).length;
-    const titel = w.titel.replace(
-      new RegExp(q.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'), 'gi'),
-      m => `<mark>${m}</mark>`
-    );
-    return `<div class="ac-item" data-id="${w.identifier}" onclick="kiesAC('${w.identifier}')">
-      <div class="ac-naam">${titel}</div>
-      <div class="ac-meta">${w.identifier} · ${verw} verwijzingen · ${w.categorie}</div>
-    </div>`;
-  }).join('');
-  ac.className = 'autocomplete open';
-}
-
-function kiesAC(identifier) {
-  const wet = indexData[bwbrMap[identifier]];
-  if (!wet) return;
-  document.getElementById('zoek').value = wet.titel;
-  document.getElementById('ac').className = 'autocomplete';
-  toonGraaf(wet);
-}
-
-function acKeydown(e) {
-  const ac = document.getElementById('ac');
-  const items = ac.querySelectorAll('.ac-item');
-  if (e.key === 'ArrowDown') {
-    e.preventDefault();
-    acIndex = Math.min(acIndex + 1, items.length - 1);
-    items.forEach((el, i) => el.classList.toggle('actief', i === acIndex));
-  } else if (e.key === 'ArrowUp') {
-    e.preventDefault();
-    acIndex = Math.max(acIndex - 1, -1);
-    items.forEach((el, i) => el.classList.toggle('actief', i === acIndex));
-  } else if (e.key === 'Enter') {
-    if (acIndex >= 0 && items[acIndex]) {
-      items[acIndex].click();
-    } else {
-      zoekWet();
+function uitbreidNode(id) {
+  const w = indexData[bwbrMap[id]];
+  if (!w) return;
+  const node = grNodes.get(id);
+  if (!node) return;
+  (verwData[id]||[]).slice(0, 12).forEach(refId => {
+    if (!grNodes.has(refId) && bwbrMap[refId] !== undefined) {
+      const rw = indexData[bwbrMap[refId]];
+      grNodes.set(refId, { id: refId, titel: rw.titel, categorie: rw.categorie, pad: rw.pad, niveau: node.niveau+1 });
     }
-    ac.className = 'autocomplete';
-  } else if (e.key === 'Escape') {
-    ac.className = 'autocomplete';
-  }
+  });
+  herbouwLinks();
+  hertekenGraaf();
 }
 
-document.addEventListener('click', e => {
-  if (!e.target.closest('.zoek-wrapper')) {
-    document.getElementById('ac').className = 'autocomplete';
-  }
-});
+// ── Context menu ──────────────────────────────────────────────────────────
 
-laadAlles();
+function openCtx(e, d) {
+  ctxNode = d;
+  const m = document.getElementById('ctx');
+  m.style.left = e.clientX+'px'; m.style.top = e.clientY+'px';
+  m.className = 'ctx-menu open';
+}
+function sluitCtx() { document.getElementById('ctx').className = 'ctx-menu'; }
+function ctxCentreer() { if (ctxNode) { const w = indexData[bwbrMap[ctxNode.id]]; if (w) { allesVerwijderen(); voegWetToe(w,0); } } sluitCtx(); }
+function ctxUitbreid() { if (ctxNode) uitbreidNode(ctxNode.id); sluitCtx(); }
+function ctxOpenWet() { if (ctxNode) { const w = indexData[bwbrMap[ctxNode.id]]; if (w) window.open(GITHUB+w.pad,'_blank'); } sluitCtx(); }
+function ctxVerwijder() { if (ctxNode) verwijderNode(ctxNode.id); sluitCtx(); }
 
-document.getElementById('zoek').addEventListener('keydown', e => {
-  if (e.key === 'Enter') zoekWet();
-});
+// ── Info paneel ───────────────────────────────────────────────────────────
+
+function toonInfo(wet) {
+  if (!wet) return;
+  const aantalVerw    = (verwData[wet.identifier]||[]).length;
+  const aantalVanuit  = Object.values(verwData).filter(v => v.includes(wet.identifier)).length;
+
+  document.getElementById('info-h').textContent = wet.titel;
+  document.getElementById('info-id').textContent = `${wet.identifier} · ${wet.categorie}`;
+  document.getElementById('info-stat').innerHTML = `
+    <div class="info-s"><div class="n">${aantalVerw}</div><div class="l">verwijst naar</div></div>
+    <div class="info-s"><div class="n">${aantalVanuit}</div><div class="l">verwezen door</div></div>`;
+  document.getElementById('info-acties').innerHTML = `
+    <button class="info-btn" onclick="uitbreidNode('${wet.identifier}')">＋ Uitbreiden in graaf</button>
+    <button class="info-btn" onclick="allesVerwijderen();voegWetToe(indexData[bwbrMap['${wet.identifier}']],0)">↯ Centreer in graaf</button>
+    <a class="info-btn prim" href="${GITHUB}${wet.pad}" target="_blank">Bekijk wet ↗</a>
+    <a class="info-btn" href="https://wetten.overheid.nl/${wet.identifier}" target="_blank">wetten.overheid.nl ↗</a>
+    <button class="info-btn" style="color:#f87171;border-color:#f87171;margin-top:0.2rem" onclick="verwijderNode('${wet.identifier}')">✕ Verwijder uit graaf</button>`;
+  document.getElementById('info').className = 'info open';
+}
+
+function sluitInfo() { document.getElementById('info').className = 'info'; }
+
+init();
 </script>
 </body>
 </html>
