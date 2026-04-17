@@ -14,9 +14,9 @@ Officiele wetten zijn publiek eigendom — maar wetten.overheid.nl is ontoeganke
 
 Dit project maakt wetgeving:
 
-- **Leesbaar** — schone Markdown met nette YAML-frontmatter, geen juridisch HTML-geknoei
+- **Leesbaar** — schone Markdown met nette YAML-frontmatter
 - **Traceerbaar** — elke wetswijziging is een commit met een leesbare diff
-- **Doorzoekbaar** — zoek via de website of direct in de bestanden
+- **Doorzoekbaar** — zoek op titel en volledige wettekst via de website
 - **Participatief** — iedereen kan een wetsvoorstel indienen via een Pull Request
 
 ---
@@ -26,6 +26,7 @@ Dit project maakt wetgeving:
 | | |
 |---|---|
 | Wetten | 21.407 officiele regelingen |
+| Categorieen | 14 (strafrecht, belastingrecht, bestuursrecht, etc.) |
 | Commits | 423.000+ historische wetswijzigingen |
 | Update | Dagelijks automatisch via GitHub Actions |
 | Bron | Basis Wetten Bestand (BWB), data.overheid.nl |
@@ -57,15 +58,18 @@ wetgeving-nl/
 ├── proposals/                     # Community wetsvoorstellen
 │   └── templates/
 │       └── voorstel-template.md
-├── scripts/                       # Parser en update-tools
-│   ├── cleanup_legalize.py        # Hoofdconverter
+├── scripts/
+│   ├── cleanup_legalize.py        # Hoofdconverter BWB → Markdown
 │   ├── dagelijkse_update.py       # Dagelijkse BWB-sync
-│   └── hercategoriseer.py         # Categorisering
+│   ├── genereer_index.py          # Genereert index.json + zoekindex.json
+│   └── hercategoriseer.py         # Verbetert categorisering
 ├── .github/
 │   ├── workflows/
 │   │   └── update-wetten.yml      # Dagelijkse GitHub Actions
 │   └── ISSUE_TEMPLATE/
 ├── index.html                     # Web-interface
+├── index.json                     # Metadata index (5MB)
+├── zoekindex.json                 # Volledige tekst zoekindex (8MB)
 ├── README.md
 ├── CONTRIBUTING.md
 ├── CODE_OF_CONDUCT.md
@@ -126,22 +130,22 @@ Ga naar [Discussions](../../discussions).
 - [x] Community proposals-sectie met templates en issue-templates
 - [x] Web-interface op apolloccrypt.github.io/wetgeving-nl
 - [x] Volledige wetsgeschiedenis (423.000+ commits)
+- [x] Zoeken op titel en volledige wettekst
+- [x] Sorteren op naam en datum
 - [x] LICENSE, CODE_OF_CONDUCT, SECURITY
 - [x] GitHub Discussions
 
 ### In ontwikkeling
 
-- [ ] Volledige zoekfunctie over alle wetteksten
 - [ ] Betere web-interface zonder GitHub-kennis vereist
 - [ ] Koppeling met Kamerstukken (debatten bij wetswijzigingen)
+- [ ] Per-bestand git-history correct koppelen
 
 ### Toekomst
 
-- [ ] Per-bestand git-history correct koppelen
-- [ ] Dark mode op de website
+- [ ] Dark mode
 - [ ] AI-zoekhulp: zoek in gewoon Nederlands
 - [ ] Vergelijk twee versies van een wet
-- [ ] Mijn wetten (persoonlijke lijst)
 - [ ] Mobiele app
 
 ---
