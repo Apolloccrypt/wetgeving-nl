@@ -1,9 +1,9 @@
-name: 🔄 Dagelijkse wetten-update
+name: Dagelijkse wetten-update
 
 on:
   schedule:
-    - cron: '0 6 * * *'   # Elke dag 06:00 UTC
-  workflow_dispatch:        # Ook handmatig te starten via GitHub UI
+    - cron: '0 6 * * *'
+  workflow_dispatch:
 
 jobs:
   update-wetten:
@@ -23,20 +23,18 @@ jobs:
           python-version: '3.12'
 
       - name: Dependencies installeren
-        run: pip install pyyaml
+        run: pip install requests pyyaml
 
-      - name: Nieuwste legalize-nl ophalen
+      - name: Legalize-nl klonen (fallback)
         run: |
           git clone --depth 1 https://github.com/legalize-dev/legalize-nl.git /tmp/legalize-nl
-          echo "✅ legalize-nl gecloned: $(ls /tmp/legalize-nl/nl/ | wc -l) bestanden"
+          echo "Legalize-nl: $(ls /tmp/legalize-nl/nl/ | wc -l) bestanden"
 
-      - name: Cleanup en bijwerken
+      - name: Wetten bijwerken
         run: |
-          python scripts/cleanup_legalize.py \
-            --input /tmp/legalize-nl/nl/ \
-            --output wetten/
+          python scripts/dagelijkse_update.py --output wetten/ --dagen 2
 
-      - name: Check of er wijzigingen zijn
+      - name: Check wijzigingen
         id: check
         run: |
           git diff --quiet wetten/ || echo "changes=true" >> $GITHUB_OUTPUT
@@ -46,15 +44,11 @@ jobs:
         run: |
           git config user.name  "wetgeving-bot"
           git config user.email "bot@wetgeving-nl"
-
-          # Hoeveel wetten zijn gewijzigd?
           AANTAL=$(git diff --name-only wetten/ | wc -l)
-
           git add wetten/
-          git commit -m "⚖️ Dagelijkse update: $AANTAL wetten bijgewerkt ($(date +%Y-%m-%d))"
+          git commit -m "Dagelijkse update: $AANTAL wetten bijgewerkt ($(date +%Y-%m-%d))"
           git push
 
-      - name: Samenvatting
-        run: |
-          echo "### Update $(date +%Y-%m-%d)" >> $GITHUB_STEP_SUMMARY
-          echo "Wetten in repo: $(find wetten/ -name '*.md' | wc -l)" >> $GITHUB_STEP_SUMMARY
+      - name: Geen wijzigingen
+        if: steps.check.outputs.changes != 'true'
+        run: echo "Geen wetswijzigingen vandaag."
