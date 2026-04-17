@@ -60,6 +60,7 @@ def main():
     p.add_argument("--wetten",  default="wetten/")
     p.add_argument("--output",  default="index.json")
     p.add_argument("--zoekindex", default="zoekindex.json")
+    p.add_argument("--verwijzingen", default="verwijzingen.json")
     args = p.parse_args()
 
     wetten_dir = Path(args.wetten)
@@ -108,6 +109,24 @@ def main():
         encoding="utf-8"
     )
     print(f"zoekindex.json: {zoek_pad.stat().st_size/1024/1024:.1f} MB")
+
+    # Genereer verwijzingen.json
+    bwbr_pat = re.compile(r'BWBR\d{7}')
+    bwbr_naar_idx = {w['identifier']: i for i, w in enumerate(index) if w.get('identifier')}
+    verwijzingen = {}
+    for i, item in enumerate(zoekindex_lijst):
+        body = item.get('b', '')
+        eigen_id = index[i].get('identifier', '') if i < len(index) else ''
+        if not eigen_id:
+            continue
+        refs = set(bwbr_pat.findall(body))
+        refs.discard(eigen_id)
+        refs = [r for r in refs if r in bwbr_naar_idx]
+        if refs:
+            verwijzingen[eigen_id] = refs
+    verw_pad = Path(args.verwijzingen)
+    verw_pad.write_text(json.dumps(verwijzingen, ensure_ascii=False, separators=(',', ':')), encoding='utf-8')
+    print(f"verwijzingen.json: {verw_pad.stat().st_size/1024:.0f} KB ({len(verwijzingen)} wetten)")
 
 
 if __name__ == "__main__":

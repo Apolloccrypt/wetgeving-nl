@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Verwijzingen-graaf — vrijewetgeving.nl</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
 <style>
@@ -12,101 +13,120 @@
   --donker:#0a0a0f; --grijs:#f5f5f1; --tekst:#1a1a2e; --zacht:#6b7280; --rand:#e8e8e3;
 }
 * { margin:0; padding:0; box-sizing:border-box; }
-body { font-family:'Syne',sans-serif; background:var(--grijs); color:var(--tekst); min-height:100vh; }
+body { font-family:'Syne',sans-serif; background:var(--donker); color:var(--wit); min-height:100vh; overflow:hidden; }
 
-header { background:var(--donker); color:var(--wit); padding:1.5rem 2rem; position:relative; }
+header { background:var(--donker); color:var(--wit); padding:1.5rem 2rem; position:relative; z-index:50; }
 header::before { content:''; position:absolute; top:0; left:0; right:0; height:10px;
   background:linear-gradient(180deg,var(--rood) 33%,var(--wit) 33%,var(--wit) 66%,var(--blauw) 66%); }
 header::after { content:''; position:absolute; bottom:0; left:0; right:0; height:10px;
   background:linear-gradient(180deg,var(--rood) 33%,var(--wit) 33%,var(--wit) 66%,var(--blauw) 66%); }
-.header-inner { max-width:1200px; margin:0 auto; display:flex; justify-content:space-between; align-items:center; }
+.header-inner { max-width:100%; display:flex; justify-content:space-between; align-items:center; }
 .logo { font-size:1.4rem; font-weight:800; text-decoration:none; color:var(--wit); }
 .logo span { color:var(--oranje); }
 
-.nav-bar { background:var(--donker); border-top:1px solid rgba(255,255,255,0.06); padding:0 2rem; }
-.nav-inner { max-width:1200px; margin:0 auto; display:flex; gap:0; overflow-x:auto; }
+.nav-bar { background:var(--donker); border-top:1px solid rgba(255,255,255,0.06); padding:0 2rem; position:relative; z-index:50; }
+.nav-inner { max-width:100%; display:flex; gap:0; overflow-x:auto; }
 .nav-btn { font-family:'JetBrains Mono',monospace; font-size:0.72rem; padding:0.7rem 1.1rem;
   color:rgba(255,255,255,0.45); text-decoration:none; white-space:nowrap;
   border-bottom:2px solid transparent; transition:all 0.15s; }
 .nav-btn:hover { color:var(--wit); }
 .nav-btn.actief { color:var(--oranje); border-bottom-color:var(--oranje); }
 
-footer { text-align:center; padding:1.5rem; font-family:'JetBrains Mono',monospace;
-  font-size:0.68rem; color:var(--zacht); border-top:1px solid var(--rand); background:var(--wit); margin-top:4rem; }
-footer a { color:var(--blauw); text-decoration:none; }
-
-
-
-
-
-
-
-
-.
-.logo { font-size:1.4rem; font-weight:800; text-decoration:none; color:var(--wit); }
-.logo span { color:var(--oranje); }
-
-
-
-
-
-
-
-.controls {
-  background:var(--wit); border-bottom:1px solid var(--rand);
-  padding:1rem 2rem;
+.toolbar {
+  position:absolute; top:140px; left:0; right:0; z-index:40;
+  padding:0.75rem 1.5rem;
+  display:flex; gap:0.75rem; align-items:center;
+  background:rgba(10,10,15,0.85); backdrop-filter:blur(8px);
+  border-bottom:1px solid rgba(255,255,255,0.08);
 }
-.controls-inner { max-width:1200px; margin:0 auto; display:flex; gap:1rem; align-items:center; flex-wrap:wrap; }
 .zoek-input {
-  flex:1; min-width:200px; padding:0.6rem 0.9rem;
+  flex:1; max-width:380px; padding:0.55rem 0.9rem;
   font-family:'Syne',sans-serif; font-size:0.9rem;
-  border:2px solid var(--rand); border-radius:6px; outline:none;
+  background:rgba(255,255,255,0.08); border:1.5px solid rgba(255,255,255,0.15);
+  border-radius:6px; color:var(--wit); outline:none;
+  transition:border-color 0.15s;
 }
+.zoek-input::placeholder { color:rgba(255,255,255,0.3); }
 .zoek-input:focus { border-color:var(--oranje); }
-.ctrl-btn {
-  padding:0.6rem 1rem; font-family:'JetBrains Mono',monospace; font-size:0.72rem;
-  border:1.5px solid var(--rand); border-radius:5px; background:var(--grijs);
-  cursor:pointer; color:var(--tekst); transition:all 0.12s; white-space:nowrap;
+.toolbar-label { font-family:'JetBrains Mono',monospace; font-size:0.68rem; color:rgba(255,255,255,0.4); }
+.d-btn {
+  width:32px; height:32px; border-radius:5px;
+  font-family:'JetBrains Mono',monospace; font-size:0.75rem;
+  background:rgba(255,255,255,0.08); border:1.5px solid rgba(255,255,255,0.15);
+  color:rgba(255,255,255,0.6); cursor:pointer; transition:all 0.12s;
 }
-.ctrl-btn:hover { border-color:var(--oranje); color:var(--oranje); }
-.ctrl-btn.actief { background:var(--oranje); border-color:var(--oranje); color:var(--wit); }
-.diepte-label { font-family:'JetBrains Mono',monospace; font-size:0.72rem; color:var(--zacht); }
+.d-btn:hover { border-color:var(--oranje); color:var(--oranje); }
+.d-btn.actief { background:var(--oranje); border-color:var(--oranje); color:var(--wit); }
+.reset-btn {
+  padding:0.4rem 0.9rem; border-radius:5px;
+  font-family:'JetBrains Mono',monospace; font-size:0.68rem;
+  background:transparent; border:1.5px solid rgba(255,255,255,0.2);
+  color:rgba(255,255,255,0.5); cursor:pointer; transition:all 0.12s;
+}
+.reset-btn:hover { border-color:rgba(255,255,255,0.5); color:var(--wit); }
+.telling { font-family:'JetBrains Mono',monospace; font-size:0.68rem; color:rgba(255,255,255,0.35); margin-left:auto; }
 
-.graaf-container { position:relative; width:100%; height:calc(100vh - 200px); min-height:500px; }
+.graaf-wrap { position:absolute; top:185px; left:0; right:0; bottom:0; }
 #graaf { width:100%; height:100%; }
 
 .tooltip {
-  position:absolute; background:var(--donker); color:var(--wit);
-  padding:0.6rem 0.9rem; border-radius:6px; font-family:'JetBrains Mono',monospace;
-  font-size:0.72rem; pointer-events:none; opacity:0; transition:opacity 0.15s;
-  max-width:280px; line-height:1.5; z-index:100;
+  position:fixed; background:rgba(10,10,15,0.95);
+  border:1px solid rgba(255,255,255,0.15);
+  color:var(--wit); padding:0.7rem 1rem; border-radius:8px;
+  font-family:'JetBrains Mono',monospace; font-size:0.72rem;
+  pointer-events:none; opacity:0; transition:opacity 0.1s;
+  max-width:300px; line-height:1.6; z-index:200;
+  backdrop-filter:blur(8px);
 }
 
 .info-paneel {
-  position:absolute; right:1rem; top:1rem;
-  background:var(--wit); border:1px solid var(--rand); border-radius:8px;
-  padding:1rem; max-width:280px; font-size:0.8rem;
-  box-shadow:0 4px 16px rgba(0,0,0,0.08); display:none;
+  position:absolute; right:1.5rem; top:1rem; z-index:100;
+  background:rgba(10,10,15,0.95); border:1px solid rgba(255,255,255,0.15);
+  border-radius:10px; padding:1.2rem; width:280px;
+  backdrop-filter:blur(8px); display:none;
 }
 .info-paneel.open { display:block; }
-.info-titel { font-weight:700; margin-bottom:0.4rem; font-size:0.88rem; }
-.info-ident { font-family:'JetBrains Mono',monospace; font-size:0.68rem; color:var(--zacht); margin-bottom:0.6rem; }
-.info-links a { display:block; font-family:'JetBrains Mono',monospace; font-size:0.68rem;
-  color:var(--blauw); text-decoration:none; margin-top:0.3rem; }
-.info-links a:hover { text-decoration:underline; }
-.info-sluiten { position:absolute; right:0.7rem; top:0.7rem; cursor:pointer;
-  font-size:1rem; color:var(--zacht); background:none; border:none; }
-
-.laden { display:flex; align-items:center; justify-content:center; height:400px;
-  font-family:'JetBrains Mono',monospace; font-size:0.85rem; color:var(--zacht); }
+.info-sluiten { position:absolute; right:0.8rem; top:0.8rem;
+  background:none; border:none; color:rgba(255,255,255,0.4);
+  cursor:pointer; font-size:1rem; }
+.info-sluiten:hover { color:var(--wit); }
+.info-titel { font-size:0.88rem; font-weight:700; margin-bottom:0.3rem; line-height:1.4; }
+.info-ident { font-family:'JetBrains Mono',monospace; font-size:0.65rem; color:rgba(255,255,255,0.4); margin-bottom:0.8rem; }
+.info-stat { font-family:'JetBrains Mono',monospace; font-size:0.68rem; color:rgba(255,255,255,0.5); margin-bottom:0.5rem; }
+.info-stat span { color:var(--oranje); font-weight:600; }
+.info-links { display:flex; flex-direction:column; gap:0.4rem; margin-top:0.8rem; }
+.info-link {
+  font-family:'JetBrains Mono',monospace; font-size:0.65rem;
+  padding:0.35rem 0.7rem; border-radius:4px; text-decoration:none;
+  border:1px solid rgba(255,255,255,0.15); color:rgba(255,255,255,0.6);
+  text-align:center; transition:all 0.12s; cursor:pointer; background:none;
+}
+.info-link:hover { border-color:var(--oranje); color:var(--oranje); }
+.info-link.primair { background:var(--oranje); border-color:var(--oranje); color:var(--wit); }
+.info-link.primair:hover { background:#e05500; }
 
 .legenda {
-  position:absolute; left:1rem; bottom:1rem;
-  background:rgba(255,255,255,0.9); border:1px solid var(--rand);
-  border-radius:6px; padding:0.7rem; font-family:'JetBrains Mono',monospace; font-size:0.65rem;
+  position:absolute; left:1.5rem; bottom:1.5rem; z-index:100;
+  background:rgba(10,10,15,0.8); border:1px solid rgba(255,255,255,0.1);
+  border-radius:8px; padding:0.8rem; font-family:'JetBrains Mono',monospace; font-size:0.65rem;
 }
-.leg-item { display:flex; align-items:center; gap:0.4rem; margin-bottom:0.3rem; }
+.leg-item { display:flex; align-items:center; gap:0.5rem; margin-bottom:0.4rem; color:rgba(255,255,255,0.5); }
+.leg-item:last-child { margin-bottom:0; }
 .leg-dot { width:10px; height:10px; border-radius:50%; flex-shrink:0; }
+
+.hint {
+  position:absolute; bottom:1.5rem; left:50%; transform:translateX(-50%);
+  font-family:'JetBrains Mono',monospace; font-size:0.65rem;
+  color:rgba(255,255,255,0.25); pointer-events:none; z-index:50;
+  white-space:nowrap;
+}
+
+.laden-overlay {
+  position:absolute; top:185px; left:0; right:0; bottom:0;
+  display:flex; align-items:center; justify-content:center;
+  background:var(--donker); z-index:90;
+}
+.laden-tekst { font-family:'JetBrains Mono',monospace; font-size:0.85rem; color:rgba(255,255,255,0.4); }
 </style>
 </head>
 <body>
@@ -116,6 +136,7 @@ footer a { color:var(--blauw); text-decoration:none; }
     <a class="logo" href="index.html">vrije<span>wetgeving.nl</span></a>
   </div>
 </header>
+
 <nav class="nav-bar">
   <div class="nav-inner">
     <a class="nav-btn" href="index.html">Alle wetten</a>
@@ -128,235 +149,256 @@ footer a { color:var(--blauw); text-decoration:none; }
   </div>
 </nav>
 
-<div class="controls">
-  <div class="controls-inner">
-    <input class="zoek-input" id="zoek" type="search" placeholder="Zoek een wet (bijv. AVG, Strafrecht, Burgerlijk Wetboek)..." oninput="filterNaam()">
-    <span class="diepte-label">Diepte:</span>
-    <button class="ctrl-btn actief" id="d1" onclick="setDiepte(1)">1</button>
-    <button class="ctrl-btn" id="d2" onclick="setDiepte(2)">2</button>
-    <button class="ctrl-btn" id="d3" onclick="setDiepte(3)">3</button>
-    <button class="ctrl-btn" onclick="resetGraaf()">Reset</button>
-  </div>
+<div class="toolbar">
+  <input class="zoek-input" id="zoek" type="search"
+    placeholder="Zoek een wet... (bijv. huurrecht, strafrecht, AVG)"
+    oninput="zoekWet()">
+  <span class="toolbar-label">Diepte:</span>
+  <button class="d-btn actief" id="d1" onclick="setDiepte(1)">1</button>
+  <button class="d-btn" id="d2" onclick="setDiepte(2)">2</button>
+  <button class="d-btn" id="d3" onclick="setDiepte(3)">3</button>
+  <button class="reset-btn" onclick="resetNaarStart()">Reset</button>
+  <span class="telling" id="telling"></span>
 </div>
 
-<div class="graaf-container">
-  <div class="laden" id="laden">Verwijzingen laden...</div>
+<div class="graaf-wrap">
+  <div class="laden-overlay" id="laden">
+    <span class="laden-tekst">Verwijzingen laden...</span>
+  </div>
   <svg id="graaf"></svg>
   <div class="tooltip" id="tooltip"></div>
-  <div class="info-paneel" id="info-paneel">
-    <button class="info-sluiten" onclick="sluitInfo()">x</button>
-    <div class="info-titel" id="info-titel"></div>
-    <div class="info-ident" id="info-ident"></div>
-    <div class="info-links" id="info-links"></div>
-  </div>
+  <div class="info-paneel" id="info"></div>
   <div class="legenda">
-    <div class="leg-item"><div class="leg-dot" style="background:#FF6B00"></div> Geselecteerde wet</div>
-    <div class="leg-item"><div class="leg-dot" style="background:#21468B"></div> Verwijst naar</div>
-    <div class="leg-item"><div class="leg-dot" style="background:#16a34a"></div> Wordt verwezen door</div>
+    <div class="leg-item"><div class="leg-dot" style="background:var(--oranje)"></div>Geselecteerde wet</div>
+    <div class="leg-item"><div class="leg-dot" style="background:#60a5fa"></div>Direct verwezen</div>
+    <div class="leg-item"><div class="leg-dot" style="background:#4ade80"></div>Indirect verwezen</div>
+    <div class="leg-item"><div class="leg-dot" style="background:#a78bfa"></div>Verwijst terug</div>
   </div>
+  <div class="hint">Scroll om in te zoomen · Sleep nodes · Klik voor details</div>
 </div>
 
 <script>
-const GITHUB_BASE = 'https://github.com/Apolloccrypt/wetgeving-nl/blob/main/';
+const GITHUB = 'https://github.com/Apolloccrypt/wetgeving-nl/blob/main/';
+
 let indexData = [];
+let verwData  = {};
+let bwbrMap   = {};
 let huidigeDiepte = 1;
-let geselecteerd = null;
+let huidigeCentrum = null;
 let simulatie = null;
 
-async function laadData() {
-  try {
-    const r = await fetch('index.json');
-    indexData = await r.json();
+async function laadAlles() {
+  const [idx, verw] = await Promise.all([
+    fetch('index.json').then(r => r.json()),
+    fetch('verwijzingen.json').then(r => r.json()).catch(() => ({})),
+  ]);
+  indexData = idx;
+  verwData  = verw;
+  indexData.forEach((w, i) => { if (w.identifier) bwbrMap[w.identifier] = i; });
 
-    // Bouw verwijzingen-map uit identifiers in de titels en pads
-    // Gebruik de BWBR nummers als lookup
-    bwbrNaarWet = {};
-    indexData.forEach(w => {
-      if (w.identifier) bwbrNaarWet[w.identifier] = w;
-    });
+  document.getElementById('laden').style.display = 'none';
 
-    document.getElementById('laden').style.display = 'none';
-    toonStartscherm();
-  } catch(e) {
-    document.getElementById('laden').textContent = 'Fout bij laden. Vernieuw de pagina.';
+  // Start met meest verwezen wet
+  const populair = Object.entries(verwData)
+    .sort((a, b) => b[1].length - a[1].length)[0];
+  if (populair) {
+    const wet = indexData[bwbrMap[populair[0]]];
+    if (wet) toonGraaf(wet);
   }
 }
 
-let bwbrNaarWet = {};
-
-function toonStartscherm() {
-  // Toon top-20 meest verwezen wetten als startpunt
-  const bekende = [
-    'BWBR0005537', // Awb
-    'BWBR0001854', // Strafrecht
-    'BWBR0002656', // BW Boek 1
-    'BWBR0040940', // AVG uitvoering
-    'BWBR0006229', // Gemeentewet
-  ];
-  const startWet = bwbrNaarWet[bekende[0]];
-  if (startWet) toonGraaf(startWet);
-}
-
-function filterNaam() {
+function zoekWet() {
   const q = document.getElementById('zoek').value.toLowerCase().trim();
   if (q.length < 2) return;
   const gevonden = indexData.find(w =>
-    w.titel.toLowerCase().includes(q) || (w.identifier||'').toLowerCase().includes(q)
+    (w.titel||'').toLowerCase().includes(q) ||
+    (w.identifier||'').toLowerCase().includes(q)
   );
   if (gevonden) toonGraaf(gevonden);
 }
 
 function setDiepte(d) {
   huidigeDiepte = d;
-  document.querySelectorAll('[id^="d"]').forEach(b => b.classList.remove('actief'));
+  document.querySelectorAll('.d-btn').forEach(b => b.classList.remove('actief'));
   document.getElementById('d' + d).classList.add('actief');
-  if (geselecteerd) toonGraaf(geselecteerd);
+  if (huidigeCentrum) toonGraaf(huidigeCentrum);
 }
 
-function resetGraaf() {
-  geselecteerd = null;
-  toonStartscherm();
+function resetNaarStart() {
+  document.getElementById('zoek').value = '';
+  const populair = Object.entries(verwData).sort((a,b) => b[1].length - a[1].length)[0];
+  if (populair) {
+    const wet = indexData[bwbrMap[populair[0]]];
+    if (wet) toonGraaf(wet);
+  }
 }
 
-function vindVerwijzingen(wet, diepte, bezocht = new Set()) {
-  const nodes = [];
+function bouwGraaf(centrumWet, diepte) {
+  const nodes = new Map();
   const links = [];
+  const bezocht = new Set();
 
-  function verwerk(w, huidigDiepte) {
-    if (bezocht.has(w.identifier) || huidigDiepte > diepte) return;
-    bezocht.add(w.identifier);
-
-    nodes.push({
-      id: w.identifier,
-      label: w.titel,
-      categorie: w.categorie,
-      pad: w.pad,
-      diepte: huidigDiepte,
-    });
-
-    // Zoek verwijzingen: wetten die deze wet noemen in hun pad/identifier
-    const verwezen = indexData.filter(w2 =>
-      w2.identifier !== w.identifier &&
-      !bezocht.has(w2.identifier) &&
-      (
-        (w2.kamerstukken||[]).some(k => k.titel && k.titel.includes(w.identifier)) ||
-        // Simpele heuristiek: zoek gerelateerde wetten via categorie
-        (w2.categorie === w.categorie && huidigDiepte === 1)
-      )
-    ).slice(0, 8);
-
-    verwezen.forEach(v => {
-      links.push({ source: w.identifier, target: v.identifier, richting: 'naar' });
-      if (huidigDiepte < diepte) verwerk(v, huidigDiepte + 1);
-      else if (!bezocht.has(v.identifier)) {
-        bezocht.add(v.identifier);
-        nodes.push({ id: v.identifier, label: v.titel, categorie: v.categorie, pad: v.pad, diepte: huidigDiepte + 1 });
-      }
-    });
+  function voegToe(id, niveau) {
+    if (nodes.has(id)) return;
+    const idx = bwbrMap[id];
+    if (idx === undefined) return;
+    const wet = indexData[idx];
+    nodes.set(id, { id, titel: wet.titel, categorie: wet.categorie, pad: wet.pad, niveau });
   }
 
-  verwerk(wet, 0);
-  return { nodes, links };
+  function verwerk(id, niveau) {
+    if (bezocht.has(id) || niveau > diepte) return;
+    bezocht.add(id);
+    voegToe(id, niveau);
+
+    const refs = verwData[id] || [];
+    refs.slice(0, 12).forEach(refId => {
+      voegToe(refId, niveau + 1);
+      if (!links.find(l => l.source === id && l.target === refId)) {
+        links.push({ source: id, target: refId, type: 'naar' });
+      }
+      if (niveau < diepte) verwerk(refId, niveau + 1);
+    });
+
+    // Ook: wie verwijst naar dit?
+    if (niveau === 0) {
+      Object.entries(verwData).forEach(([fromId, toIds]) => {
+        if (toIds.includes(id) && !nodes.has(fromId)) {
+          voegToe(fromId, 1);
+          links.push({ source: fromId, target: id, type: 'vanuit' });
+        }
+      });
+    }
+  }
+
+  verwerk(centrumWet.identifier, 0);
+  return { nodes: Array.from(nodes.values()), links };
 }
 
-const CATEGORIE_KLEUR = {
-  'Strafrecht':'#7f1d1d','Burgerlijk recht':'#1e3a5f','Bestuursrecht':'#374151',
-  'Belastingrecht':'#78350f','Arbeidsrecht':'#064e3b','Sociaal recht':'#1e40af',
-  'Gezondheidszorg':'#4c1d95','Onderwijs':'#0c4a6e','Milieu':'#14532d',
-  'Verkeer':'#7c2d12','Digitaal en privacy':'#1e1b4b','Staatsinrichting en bestuur':'#1f2937',
+const KLEUREN = {
+  0: '#FF6B00',
+  1: '#60a5fa',
+  2: '#4ade80',
+  vanuit: '#a78bfa',
 };
 
 function toonGraaf(wet) {
-  geselecteerd = wet;
-  const { nodes, links } = vindVerwijzingen(wet, huidigeDiepte);
+  huidigeCentrum = wet;
+  const { nodes, links } = bouwGraaf(wet, huidigeDiepte);
+
+  document.getElementById('telling').textContent =
+    `${nodes.length} wetten · ${links.length} verwijzingen`;
 
   const svg = d3.select('#graaf');
   svg.selectAll('*').remove();
 
-  const breedte = document.getElementById('graaf').clientWidth;
-  const hoogte  = document.getElementById('graaf').clientHeight;
+  const wrap = document.querySelector('.graaf-wrap');
+  const W = wrap.clientWidth;
+  const H = wrap.clientHeight;
 
   const g = svg.append('g');
+  svg.call(d3.zoom().scaleExtent([0.2, 4]).on('zoom', e => g.attr('transform', e.transform)));
 
-  // Zoom
-  svg.call(d3.zoom().scaleExtent([0.3, 3]).on('zoom', e => g.attr('transform', e.transform)));
+  svg.append('defs').selectAll('marker').data(['naar','vanuit']).join('marker')
+    .attr('id', d => `pijl-${d}`)
+    .attr('viewBox', '0 -4 8 8').attr('refX', 22).attr('refY', 0)
+    .attr('markerWidth', 5).attr('markerHeight', 5).attr('orient', 'auto')
+    .append('path').attr('d', 'M0,-4L8,0L0,4')
+    .attr('fill', d => d === 'naar' ? '#60a5fa40' : '#a78bfa40');
 
-  // Pijlen
-  svg.append('defs').append('marker')
-    .attr('id', 'pijl').attr('viewBox', '0 -4 8 8').attr('refX', 18).attr('refY', 0)
-    .attr('markerWidth', 6).attr('markerHeight', 6).attr('orient', 'auto')
-    .append('path').attr('d', 'M0,-4L8,0L0,4').attr('fill', '#94a3b8');
-
-  simulatie = d3.forceSimulation(nodes)
-    .force('link', d3.forceLink(links).id(d => d.id).distance(120))
-    .force('charge', d3.forceManyBody().strength(-400))
-    .force('center', d3.forceCenter(breedte / 2, hoogte / 2))
-    .force('collision', d3.forceCollide(50));
+  const sim = d3.forceSimulation(nodes)
+    .force('link', d3.forceLink(links).id(d => d.id).distance(d => d.source.niveau === 0 ? 130 : 90))
+    .force('charge', d3.forceManyBody().strength(-350))
+    .force('center', d3.forceCenter(W/2, H/2))
+    .force('collision', d3.forceCollide(45));
+  simulatie = sim;
 
   const link = g.append('g').selectAll('line').data(links).join('line')
-    .attr('stroke', '#cbd5e1').attr('stroke-width', 1.5)
-    .attr('marker-end', 'url(#pijl)');
+    .attr('stroke', d => d.type === 'vanuit' ? '#a78bfa30' : '#60a5fa30')
+    .attr('stroke-width', 1.5)
+    .attr('marker-end', d => `url(#pijl-${d.type})`);
 
   const node = g.append('g').selectAll('g').data(nodes).join('g')
     .style('cursor', 'pointer')
     .call(d3.drag()
-      .on('start', (e, d) => { if (!e.active) simulatie.alphaTarget(0.3).restart(); d.fx = d.x; d.fy = d.y; })
-      .on('drag',  (e, d) => { d.fx = e.x; d.fy = e.y; })
-      .on('end',   (e, d) => { if (!e.active) simulatie.alphaTarget(0); d.fx = null; d.fy = null; })
+      .on('start', (e,d) => { if (!e.active) sim.alphaTarget(0.3).restart(); d.fx=d.x; d.fy=d.y; })
+      .on('drag',  (e,d) => { d.fx=e.x; d.fy=e.y; })
+      .on('end',   (e,d) => { if (!e.active) sim.alphaTarget(0); d.fx=null; d.fy=null; })
     )
-    .on('click', (e, d) => {
-      const w = bwbrNaarWet[d.id];
-      if (w) toonInfo(w);
+    .on('click', (e,d) => {
+      const w = indexData[bwbrMap[d.id]];
+      if (w) toonInfo(w, nodes, links);
     })
-    .on('mouseover', (e, d) => {
+    .on('mouseover', (e,d) => {
+      const verw = (verwData[d.id]||[]).length;
       const tt = document.getElementById('tooltip');
-      tt.innerHTML = `<strong>${d.label}</strong><br><span style="opacity:0.6">${d.id}</span>`;
+      tt.innerHTML = `<strong>${d.titel}</strong><br><span style="opacity:0.5">${d.id}</span><br><span style="color:var(--oranje)">${verw} verwijzingen</span>`;
       tt.style.opacity = '1';
     })
     .on('mousemove', e => {
       const tt = document.getElementById('tooltip');
-      tt.style.left = (e.offsetX + 12) + 'px';
-      tt.style.top  = (e.offsetY - 30) + 'px';
+      tt.style.left = (e.clientX + 14) + 'px';
+      tt.style.top  = (e.clientY - 35) + 'px';
     })
-    .on('mouseout', () => { document.getElementById('tooltip').style.opacity = '0'; });
+    .on('mouseout', () => document.getElementById('tooltip').style.opacity = '0');
 
   node.append('circle')
-    .attr('r', d => d.id === wet.identifier ? 18 : d.diepte === 1 ? 12 : 8)
-    .attr('fill', d => d.id === wet.identifier ? '#FF6B00' : CATEGORIE_KLEUR[d.categorie] || '#6b7280')
-    .attr('stroke', '#fff').attr('stroke-width', 2);
+    .attr('r', d => d.niveau === 0 ? 20 : d.niveau === 1 ? 12 : 8)
+    .attr('fill', d => {
+      if (d.niveau === 0) return '#FF6B00';
+      const l = links.find(l => l.target === d.id || l.target.id === d.id);
+      return l?.type === 'vanuit' ? '#a78bfa' : d.niveau === 1 ? '#60a5fa' : '#4ade80';
+    })
+    .attr('fill-opacity', d => d.niveau === 0 ? 1 : 0.7)
+    .attr('stroke', d => d.niveau === 0 ? '#fff' : 'none')
+    .attr('stroke-width', 2);
 
   node.append('text')
-    .attr('text-anchor', 'middle').attr('dy', '2.8em')
-    .attr('font-size', d => d.id === wet.identifier ? '11px' : '9px')
+    .attr('text-anchor', 'middle')
+    .attr('dy', d => (d.niveau === 0 ? 34 : d.niveau === 1 ? 24 : 18))
+    .attr('font-size', d => d.niveau === 0 ? '11px' : '9px')
     .attr('font-family', 'JetBrains Mono, monospace')
-    .attr('fill', '#374151')
-    .text(d => d.label.length > 30 ? d.label.substring(0, 28) + '...' : d.label);
+    .attr('fill', 'rgba(255,255,255,0.6)')
+    .text(d => {
+      const max = d.niveau === 0 ? 35 : 28;
+      return d.titel.length > max ? d.titel.substring(0, max-2) + '…' : d.titel;
+    });
 
-  simulatie.on('tick', () => {
+  sim.on('tick', () => {
     link.attr('x1', d => d.source.x).attr('y1', d => d.source.y)
         .attr('x2', d => d.target.x).attr('y2', d => d.target.y);
     node.attr('transform', d => `translate(${d.x},${d.y})`);
   });
 
-  toonInfo(wet);
+  toonInfo(wet, nodes, links);
 }
 
-function toonInfo(wet) {
-  document.getElementById('info-titel').textContent = wet.titel;
-  document.getElementById('info-ident').textContent = wet.identifier + ' · ' + wet.categorie;
-  document.getElementById('info-links').innerHTML = `
-    <a href="${GITHUB_BASE}${wet.pad}" target="_blank">Bekijk wet op GitHub</a>
-    <a href="https://wetten.overheid.nl/${wet.identifier}" target="_blank">wetten.overheid.nl</a>
-    <a href="#" onclick="event.preventDefault(); toonGraaf(bwbrNaarWet['${wet.identifier}'])">Centreer in graaf</a>
-  `;
-  document.getElementById('info-paneel').classList.add('open');
+function toonInfo(wet, nodes, links) {
+  const aantalVerw = (verwData[wet.identifier]||[]).length;
+  const aantalVanuit = links.filter(l =>
+    (l.target === wet.identifier || l.target?.id === wet.identifier) && l.type === 'vanuit'
+  ).length;
+
+  const paneel = document.getElementById('info');
+  paneel.className = 'info-paneel open';
+  paneel.innerHTML = `
+    <button class="info-sluiten" onclick="this.parentElement.classList.remove('open')">×</button>
+    <div class="info-titel">${wet.titel}</div>
+    <div class="info-ident">${wet.identifier} · ${wet.categorie}</div>
+    <div class="info-stat">Verwijst naar: <span>${aantalVerw} wetten</span></div>
+    <div class="info-stat">Wordt verwezen door: <span>${aantalVanuit} wetten</span></div>
+    <div class="info-links">
+      <button class="info-link" onclick="toonGraaf(indexData[bwbrMap['${wet.identifier}']])">Centreer in graaf</button>
+      <a class="info-link primair" href="${GITHUB}${wet.pad}" target="_blank">Bekijk wet</a>
+      <a class="info-link" href="https://wetten.overheid.nl/${wet.identifier}" target="_blank">wetten.overheid.nl</a>
+    </div>`;
 }
 
-function sluitInfo() {
-  document.getElementById('info-paneel').classList.remove('open');
-}
+laadAlles();
 
-laadData();
+document.getElementById('zoek').addEventListener('keydown', e => {
+  if (e.key === 'Enter') zoekWet();
+});
 </script>
 </body>
 </html>
