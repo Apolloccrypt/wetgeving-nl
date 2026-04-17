@@ -202,19 +202,7 @@ footer a { color:var(--blauw); text-decoration:none; }
 .meer-btn:hover { background:#2a2a3f; }
 .meer-info { font-family:'JetBrains Mono',monospace; font-size:0.7rem; color:var(--zacht); margin-top:0.5rem; }
 
-/* ── Floating CTA ── */
-.floating-cta {
-  position:fixed; bottom:2rem; right:2rem; z-index:200;
-  background:var(--oranje); color:var(--wit);
-  padding:0.8rem 1.4rem;
-  border-radius:50px;
-  font-weight:700; font-size:0.85rem;
-  text-decoration:none;
-  box-shadow:0 4px 20px rgba(224,112,32,0.4);
-  transition:transform 0.15s, box-shadow 0.15s;
-  display:flex; align-items:center; gap:0.5rem;
-}
-.floating-cta:hover { transform:translateY(-2px); box-shadow:0 6px 24px rgba(224,112,32,0.5); }
+
 
 /* ── Leeg / Laden ── */
 .leeg, .laden {
@@ -239,7 +227,7 @@ footer a:hover { text-decoration:underline; }
   .filter-rij { flex-wrap:wrap; overflow-x:visible; }
   .resultaten-sectie { padding:1rem 1rem 5rem; }
   .wet-grid { grid-template-columns:1fr; }
-  .floating-cta { bottom:1rem; right:1rem; font-size:0.78rem; padding:0.7rem 1.1rem; }
+  
   .stat-getal { font-size:1.4rem; }
   .zoek-inner { flex-direction:column; align-items:stretch; }
   .wis-btn { align-self:flex-start; }
@@ -310,11 +298,7 @@ footer a:hover { text-decoration:underline; }
   Data: wetten.overheid.nl (CC0)
 </footer>
 
-<a class="floating-cta"
-  href="https://github.com/Apolloccrypt/wetgeving-nl/issues/new?template=wetsvoorstel-idee.md"
-  target="_blank">
-  &#9998; Wetsvoorstel indienen
-</a>
+
 
 <script>
 const GITHUB_API = 'https://api.github.com/repos/Apolloccrypt/wetgeving-nl/git/trees/main?recursive=1';
