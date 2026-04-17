@@ -7,247 +7,87 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
-:root {
-  --rood:#AE1C28; --wit:#ffffff; --blauw:#21468B; --oranje:#FF6B00;
-  --donker:#0a0a0f; --grijs:#f5f5f1; --tekst:#1a1a2e; --zacht:#6b7280; --rand:#e8e8e3;
-}
-* { margin:0; padding:0; box-sizing:border-box; }
-body { font-family:'Syne',sans-serif; background:var(--grijs); color:var(--tekst); min-height:100vh; }
-header { background:var(--donker); color:var(--wit); padding:1.5rem 2rem; position:relative; }
-header::before { content:''; position:absolute; top:0; left:0; right:0; height:10px;
-  background:linear-gradient(180deg,var(--rood) 33%,var(--wit) 33%,var(--wit) 66%,var(--blauw) 66%); }
-header::after { content:''; position:absolute; bottom:0; left:0; right:0; height:10px;
-  background:linear-gradient(180deg,var(--rood) 33%,var(--wit) 33%,var(--wit) 66%,var(--blauw) 66%); }
-.header-inner { max-width:1200px; margin:0 auto; display:flex; justify-content:space-between; align-items:center; }
-.logo { font-size:1.4rem; font-weight:800; text-decoration:none; color:var(--wit); }
-.logo span { color:var(--oranje); }
-.nav-bar { background:var(--donker); border-top:1px solid rgba(255,255,255,0.06); padding:0 2rem; }
-.nav-inner { max-width:1200px; margin:0 auto; display:flex; gap:0; overflow-x:auto; }
-.nav-btn { font-family:'JetBrains Mono',monospace; font-size:0.72rem; padding:0.7rem 1.1rem;
-  color:rgba(255,255,255,0.45); text-decoration:none; white-space:nowrap;
-  border-bottom:2px solid transparent; transition:all 0.15s; }
-.nav-btn:hover { color:var(--wit); }
-.nav-btn.actief { color:var(--oranje); border-bottom-color:var(--oranje); }
-.nav-spacer { flex:1; }
-.nav-dropdown-wrap { position:relative; display:flex; align-items:center; margin:0 0.5rem; }
-.nav-dropdown-btn {
-  font-family:'JetBrains Mono',monospace; font-size:0.7rem;
-  padding:0.4rem 0.8rem; border-radius:4px;
-  background:rgba(255,255,255,0.07); border:1px solid rgba(255,255,255,0.12);
-  color:rgba(255,255,255,0.5); cursor:pointer; transition:all 0.15s; white-space:nowrap;
-  display:flex; align-items:center; gap:0.3rem;
-}
-.nav-dropdown-btn:hover { background:rgba(255,255,255,0.11); color:var(--wit); border-color:rgba(255,255,255,0.25); }
-.nav-dropdown {
-  position:absolute; right:0; top:calc(100% + 6px);
-  background:#0e0e14; border:1px solid rgba(255,255,255,0.12);
-  border-radius:8px; padding:0.35rem; min-width:210px; z-index:500;
-  display:none; box-shadow:0 8px 24px rgba(0,0,0,0.5);
-}
-/* dropdown via JS */
-.nav-dropdown a {
-  display:flex; align-items:center; gap:0.5rem;
-  padding:0.5rem 0.75rem; border-radius:5px;
-  font-family:'JetBrains Mono',monospace; font-size:0.68rem;
-  color:rgba(255,255,255,0.55); text-decoration:none; transition:all 0.1s;
-}
-.nav-dropdown a:hover { background:rgba(255,107,0,0.1); color:var(--wit); }
-.nav-dropdown-sep { height:1px; background:rgba(255,255,255,0.07); margin:0.25rem 0; }
+:root{--rood:#AE1C28;--wit:#fff;--blauw:#21468B;--oranje:#FF6B00;--donker:#0a0a0f;--grijs:#f5f5f1;--tekst:#1a1a2e;--zacht:#6b7280;--rand:#e8e8e3;}
+*{margin:0;padding:0;box-sizing:border-box;}
+body{font-family:'Syne',sans-serif;background:var(--grijs);color:var(--tekst);min-height:100vh;}
+header{background:var(--donker);color:var(--wit);padding:1.5rem 2rem;position:relative;}
+header::before{content:'';position:absolute;top:0;left:0;right:0;height:10px;background:linear-gradient(180deg,var(--rood) 33%,var(--wit) 33%,var(--wit) 66%,var(--blauw) 66%);}
+header::after{content:'';position:absolute;bottom:0;left:0;right:0;height:10px;background:linear-gradient(180deg,var(--rood) 33%,var(--wit) 33%,var(--wit) 66%,var(--blauw) 66%);}
+.header-inner{max-width:1100px;margin:0 auto;display:flex;justify-content:space-between;align-items:center;}
+.logo{font-size:1.4rem;font-weight:800;text-decoration:none;color:var(--wit);}
+.logo span{color:var(--oranje);}
+.nav-bar{background:var(--donker);border-top:1px solid rgba(255,255,255,0.06);padding:0 2rem;}
+.nav-inner{max-width:1100px;margin:0 auto;display:flex;gap:0;overflow-x:auto;align-items:center;}
+.nav-btn{font-family:'JetBrains Mono',monospace;font-size:0.72rem;padding:0.7rem 1.1rem;color:rgba(255,255,255,0.45);text-decoration:none;white-space:nowrap;border-bottom:2px solid transparent;transition:all 0.15s;}
+.nav-btn:hover{color:var(--wit);}
+.nav-btn.actief{color:var(--oranje);border-bottom-color:var(--oranje);}
+.nav-spacer{flex:1;}
+.nav-dropdown-wrap{position:relative;display:flex;align-items:center;margin:0 0.5rem;}
+.nav-dropdown-btn{font-family:'JetBrains Mono',monospace;font-size:0.7rem;padding:0.4rem 0.8rem;border-radius:4px;background:rgba(255,255,255,0.07);border:1px solid rgba(255,255,255,0.12);color:rgba(255,255,255,0.5);cursor:pointer;transition:all 0.15s;display:flex;align-items:center;gap:0.3rem;}
+.nav-dropdown-btn:hover{background:rgba(255,255,255,0.11);color:var(--wit);}
+.nav-dropdown{position:absolute;right:0;top:calc(100% + 6px);background:#0e0e14;border:1px solid rgba(255,255,255,0.12);border-radius:8px;padding:0.35rem;min-width:210px;z-index:500;display:none;box-shadow:0 8px 24px rgba(0,0,0,0.5);}
+.nav-dropdown a{display:flex;align-items:center;gap:0.5rem;padding:0.5rem 0.75rem;border-radius:5px;font-family:'JetBrains Mono',monospace;font-size:0.68rem;color:rgba(255,255,255,0.55);text-decoration:none;transition:all 0.1s;}
+.nav-dropdown a:hover{background:rgba(255,107,0,0.1);color:var(--wit);}
+.nav-dropdown-sep{height:1px;background:rgba(255,255,255,0.07);margin:0.25rem 0;}
+.disclaimer{background:#fff8e1;border-top:2px solid #f59e0b;padding:0.65rem 2rem;font-family:'JetBrains Mono',monospace;font-size:0.68rem;color:#78350f;text-align:center;line-height:1.6;}
+.disclaimer strong{font-weight:700;}
 
-footer { text-align:center; padding:1.5rem; font-family:'JetBrains Mono',monospace;
-  font-size:0.68rem; color:var(--zacht); border-top:1px solid var(--rand); background:var(--wit); margin-top:2rem; }
-footer a { color:var(--blauw); text-decoration:none; }
+/* Hero */
+.hero{background:var(--donker);color:var(--wit);padding:2.5rem 2rem 3.5rem;text-align:center;}
+.hero h1{font-size:2.2rem;font-weight:800;margin-bottom:0.5rem;}
+.hero h1 span{color:var(--oranje);}
+.hero-sub{font-size:0.85rem;color:rgba(255,255,255,0.4);font-family:'JetBrains Mono',monospace;margin-bottom:1.8rem;}
+.stats{display:flex;justify-content:center;gap:2.5rem;flex-wrap:wrap;}
+.stat{text-align:center;}
+.stat-n{font-size:1.6rem;font-weight:800;color:var(--wit);}
+.stat-l{font-family:'JetBrains Mono',monospace;font-size:0.62rem;color:rgba(255,255,255,0.35);text-transform:uppercase;letter-spacing:0.06em;margin-top:0.1rem;}
 
+/* Sticky zoekbalk */
+.zoek-sectie{position:sticky;top:0;z-index:100;background:var(--grijs);padding:0.85rem 2rem;border-bottom:1px solid var(--rand);box-shadow:0 2px 8px rgba(0,0,0,0.06);}
+.zoek-inner{max-width:1100px;margin:0 auto;display:flex;gap:0.75rem;align-items:center;flex-wrap:wrap;}
+.zoek-wrap{flex:1;min-width:240px;position:relative;}
+.zoek-input{width:100%;padding:0.65rem 2.2rem 0.65rem 0.9rem;font-family:'JetBrains Mono',monospace;font-size:0.88rem;border:2px solid var(--rand);border-radius:7px;background:var(--wit);outline:none;transition:border-color 0.15s;}
+.zoek-input:focus{border-color:var(--oranje);}
+.zoek-hint{position:absolute;right:0.7rem;top:50%;transform:translateY(-50%);font-family:'JetBrains Mono',monospace;font-size:0.6rem;color:var(--zacht);background:var(--grijs);padding:0.1rem 0.35rem;border-radius:3px;border:1px solid var(--rand);pointer-events:none;}
+.filter-rij{display:flex;gap:0.4rem;flex-wrap:wrap;}
+.filter-btn{padding:0.38rem 0.8rem;font-family:'JetBrains Mono',monospace;font-size:0.68rem;border:1.5px solid var(--rand);border-radius:5px;background:var(--wit);cursor:pointer;color:var(--zacht);transition:all 0.12s;white-space:nowrap;}
+.filter-btn:hover{border-color:var(--oranje);color:var(--oranje);}
+.filter-btn.actief{background:var(--oranje);border-color:var(--oranje);color:var(--wit);}
+.sorteer-rij{display:flex;gap:0.3rem;}
+.sort-btn{padding:0.38rem 0.7rem;font-family:'JetBrains Mono',monospace;font-size:0.68rem;border:1.5px solid var(--rand);border-radius:5px;background:var(--wit);cursor:pointer;color:var(--zacht);transition:all 0.12s;}
+.sort-btn:hover{border-color:var(--oranje);color:var(--oranje);}
+.sort-btn.actief{background:var(--donker);border-color:var(--donker);color:var(--wit);}
 
+/* Resultaten */
+.resultaten-sectie{max-width:1100px;margin:0 auto;padding:1.2rem 2rem 4rem;}
+.resultaten-info{font-family:'JetBrains Mono',monospace;font-size:0.72rem;color:var(--zacht);margin-bottom:0.85rem;display:flex;justify-content:space-between;align-items:center;}
+.wet-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:1px;background:var(--rand);border:1px solid var(--rand);border-radius:10px;overflow:hidden;}
+.wet-kaart{background:var(--wit);padding:1.1rem 1.3rem;text-decoration:none;color:inherit;display:flex;flex-direction:column;gap:0.45rem;transition:background 0.1s;}
+.wet-kaart:hover{background:#fafaf6;}
+.wet-kaart:hover .wet-titel{color:var(--oranje);}
+.wet-titel{font-size:0.87rem;font-weight:600;line-height:1.4;transition:color 0.1s;}
+.wet-sub{display:flex;gap:0.5rem;align-items:center;flex-wrap:wrap;font-family:'JetBrains Mono',monospace;font-size:0.62rem;color:var(--zacht);}
+.wet-cat{padding:0.1rem 0.45rem;border-radius:3px;background:var(--grijs);border:1px solid var(--rand);font-size:0.6rem;}
+.wet-status-geldig{color:#16a34a;}
+.wet-status-ingetrokken{color:var(--rood);}
+.meer-btn{display:block;margin:1.5rem auto 0;padding:0.75rem 2rem;font-family:'Syne',sans-serif;font-weight:700;font-size:0.9rem;background:var(--donker);color:var(--wit);border:none;border-radius:8px;cursor:pointer;transition:background 0.15s;}
+.meer-btn:hover{background:#2a2a3f;}
+.meer-info{text-align:center;font-family:'JetBrains Mono',monospace;font-size:0.7rem;color:var(--zacht);margin-top:0.5rem;}
+.laden{padding:4rem 2rem;text-align:center;font-family:'JetBrains Mono',monospace;font-size:0.82rem;color:var(--zacht);}
 
-/* ── Sticky zoekbalk ── */
-.zoek-sectie {
-  position:sticky; top:0; z-index:100;
-  background:var(--grijs);
-  padding:1rem 2rem;
-  border-bottom:1px solid var(--rand);
-  box-shadow:0 2px 8px rgba(0,0,0,0.06);
-  max-height:60vh;
-  overflow-y:auto;
-}
-.zoek-inner { max-width:1200px; margin:0 auto; display:flex; gap:1rem; align-items:center; flex-wrap:wrap; }
-.zoek-wrapper { flex:1; min-width:260px; position:relative; }
-.zoek-icoon { position:absolute; left:0.9rem; top:50%; transform:translateY(-50%); color:var(--zacht); font-size:0.9rem; pointer-events:none; }
-.zoek-veld {
-  width:100%;
-  padding:0.75rem 3rem 0.75rem 2.4rem;
-  font-family:'Syne',sans-serif;
-  font-size:0.95rem;
-  border:2px solid var(--rand);
-  border-radius:8px;
-  background:var(--wit);
-  outline:none;
-  transition:border-color 0.15s, box-shadow 0.15s;
-}
-.zoek-veld:focus { border-color:var(--oranje); box-shadow:0 0 0 3px rgba(255,107,0,0.12); }
-.zoek-hint {
-  position:absolute; right:0.9rem; top:50%; transform:translateY(-50%);
-  font-family:'JetBrains Mono',monospace; font-size:0.62rem;
-  color:var(--zacht); background:var(--grijs); padding:0.15rem 0.4rem;
-  border-radius:3px; border:1px solid var(--rand); pointer-events:none;
-}
-.filter-rij { display:flex; gap:0.4rem; flex-wrap:wrap; align-items:center; }
-.filter-btn {
-  padding:0.4rem 0.85rem;
-  font-family:'JetBrains Mono',monospace; font-size:0.68rem;
-  border:1.5px solid var(--rand); border-radius:5px;
-  background:var(--wit); cursor:pointer;
-  transition:all 0.12s; color:var(--zacht); white-space:nowrap;
-}
-.filter-btn:hover { border-color:var(--oranje); color:var(--oranje); }
-.filter-btn.actief { background:var(--oranje); border-color:var(--oranje); color:var(--wit); }
-.wis-btn {
-  padding:0.4rem 0.7rem;
-  font-family:'JetBrains Mono',monospace; font-size:0.68rem;
-  border:1.5px dashed var(--rand); border-radius:5px;
-  background:transparent; cursor:pointer; color:var(--zacht);
-  transition:all 0.12s;
-}
-.wis-btn:hover { color:var(--rood); border-color:var(--rood); }
-.sorteer-rij { display:flex; gap:0.3rem; }
-.sorteer-btn {
-  padding:0.4rem 0.7rem;
-  font-family:'JetBrains Mono',monospace; font-size:0.68rem;
-  border:1.5px solid var(--rand); border-radius:5px;
-  background:var(--wit); cursor:pointer; color:var(--zacht);
-  transition:all 0.12s;
-}
-.sorteer-btn:hover { border-color:var(--oranje); color:var(--oranje); }
-.sorteer-btn.actief { background:var(--donker); border-color:var(--donker); color:var(--wit); }
+footer{text-align:center;padding:1.5rem;font-family:'JetBrains Mono',monospace;font-size:0.68rem;color:var(--zacht);border-top:1px solid var(--rand);background:var(--wit);margin-top:2rem;}
+footer a{color:var(--blauw);text-decoration:none;}
 
-/* ── Resultaten ── */
-.resultaten-sectie { max-width:1200px; margin:0 auto; padding:1.2rem 2rem 6rem; }
-.resultaten-info {
-  font-family:'JetBrains Mono',monospace; font-size:0.72rem;
-  color:var(--zacht); margin-bottom:1rem;
-  display:flex; justify-content:space-between; align-items:center;
+@media(max-width:640px){
+  .hero h1{font-size:1.6rem;}
+  .zoek-sectie{padding:0.75rem 1rem;}
+  .resultaten-sectie{padding:1rem 1rem 3rem;}
+  .wet-grid{grid-template-columns:1fr;}
+  .stats{gap:1.5rem;}
 }
-.wet-grid {
-  display:grid;
-  grid-template-columns:repeat(auto-fill, minmax(340px, 1fr));
-  gap:1px; background:var(--rand);
-  border:1px solid var(--rand); border-radius:10px; overflow:hidden;
-}
-.wet-kaart {
-  background:var(--wit); padding:1.2rem 1.4rem;
-  text-decoration:none; color:inherit;
-  transition:background 0.1s, transform 0.1s;
-  display:flex; flex-direction:column; gap:0.5rem;
-  position:relative;
-}
-.wet-kaart:hover { background:var(--kaart-hover); }
-.wet-kaart:hover .wet-titel { color:var(--oranje); }
-.wet-titel { font-size:0.88rem; font-weight:600; line-height:1.4; transition:color 0.1s; word-break:break-word; white-space:normal; overflow:visible; }
-.wet-sub {
-  display:flex; gap:0.5rem; align-items:center; flex-wrap:wrap;
-  font-family:'JetBrains Mono',monospace; font-size:0.65rem; color:var(--zacht);
-}
-.wet-id { opacity:0.7; }
-.wet-datum::before { content:'•'; margin-right:0.4rem; opacity:0.4; }
-.wet-cat {
-  font-family:'JetBrains Mono',monospace; font-size:0.62rem;
-  padding:0.12rem 0.5rem; border-radius:3px;
-  background:var(--grijs); border:1px solid var(--rand);
-}
-.wet-status {
-  font-family:'JetBrains Mono',monospace; font-size:0.6rem;
-  padding:0.1rem 0.4rem; border-radius:3px;
-}
-.status-geldig { background:#dcfce7; color:#166534; border:1px solid #bbf7d0; }
-.status-ingetrokken { background:#fee2e2; color:#991b1b; border:1px solid #fecaca; }
-.wet-kamer-btn {
-  position:absolute; right:5.5rem; top:50%; transform:translateY(-50%);
-  font-family:'JetBrains Mono',monospace; font-size:0.6rem;
-  padding:0.2rem 0.5rem; border-radius:3px;
-  background:transparent; border:1px solid #dbeafe;
-  color:#3b82f6; opacity:0; transition:opacity 0.15s;
-  text-decoration:none;
-}
-.wet-kaart:hover .wet-kamer-btn { opacity:1; }
-.wet-voorstel-btn {
-  position:absolute; right:1rem; top:50%; transform:translateY(-50%);
-  font-family:'JetBrains Mono',monospace; font-size:0.6rem;
-  padding:0.2rem 0.5rem; border-radius:3px;
-  background:transparent; border:1px solid var(--rand);
-  color:var(--zacht); opacity:0; transition:opacity 0.15s;
-  text-decoration:none;
-}
-.wet-kaart:hover .wet-kamer-btn {
-  position:absolute; right:5.5rem; top:50%; transform:translateY(-50%);
-  font-family:'JetBrains Mono',monospace; font-size:0.6rem;
-  padding:0.2rem 0.5rem; border-radius:3px;
-  background:transparent; border:1px solid #dbeafe;
-  color:#3b82f6; opacity:0; transition:opacity 0.15s;
-  text-decoration:none;
-}
-.wet-kaart:hover .wet-kamer-btn { opacity:1; }
-.wet-voorstel-btn { opacity:1; }
-
-/* ── Meer laden ── */
-.meer-laden {
-  margin-top:1.5rem; text-align:center;
-}
-.meer-btn {
-  padding:0.75rem 2rem;
-  font-family:'Syne',sans-serif; font-weight:600; font-size:0.9rem;
-  background:var(--donker); color:var(--wit);
-  border:none; border-radius:8px; cursor:pointer;
-  transition:background 0.15s;
-}
-.meer-btn:hover { background:#2a2a3f; }
-.meer-info { font-family:'JetBrains Mono',monospace; font-size:0.7rem; color:var(--zacht); margin-top:0.5rem; }
-
-
-
-/* ── Leeg / Laden ── */
-.leeg, .laden {
-  padding:4rem 2rem; text-align:center;
-  font-family:'JetBrains Mono',monospace; font-size:0.82rem; color:var(--zacht);
-}
-
-/* ── Footer ── */
-
-footer a:hover { text-decoration:underline; }
-
-/* ── Mobile ── */
-@media (max-width: 640px) {
-  
-  
-  .zoek-sectie {
-    position:relative;
-    padding:0.8rem 1rem;
-    max-height:none;
-    overflow-y:visible;
-  }
-  .filter-rij { flex-wrap:wrap; overflow-x:visible; }
-  .resultaten-sectie { padding:1rem 1rem 5rem; }
-  .wet-grid { grid-template-columns:1fr; }
-  
-  .stat-getal { font-size:1.4rem; }
-  .zoek-inner { flex-direction:column; align-items:stretch; }
-  .wis-btn { align-self:flex-start; }
-}
-
-.disclaimer {
-  background:#fff8e1;
-  border-top:2px solid #f59e0b;
-  padding:0.65rem 2rem;
-  font-family:'JetBrains Mono',monospace;
-  font-size:0.68rem;
-  color:#78350f;
-  text-align:center;
-  line-height:1.6;
-}
-.disclaimer strong { font-weight:700; }
 </style>
 </head>
 <body>
-
 <header>
   <div class="header-inner">
     <a class="logo" href="index.html">vrije<span>wetgeving.nl</span></a>
@@ -256,11 +96,11 @@ footer a:hover { text-decoration:underline; }
 <nav class="nav-bar">
   <div class="nav-inner">
     <a class="nav-btn actief" href="index.html">Alle wetten</a>
-    <a class="nav-btn " href="bevoegdheden.html">Bevoegdhedencheck</a>
-    <a class="nav-btn " href="bevoegdhedenketen.html">Bevoegdhedenketen</a>
-    <a class="nav-btn " href="rechten.html">Mijn rechten</a>
+    <a class="nav-btn" href="bevoegdheden.html">Bevoegdhedencheck</a>
+    <a class="nav-btn" href="bevoegdhedenketen.html">Bevoegdhedenketen</a>
+    <a class="nav-btn" href="rechten.html">Mijn rechten</a>
     <div class="nav-spacer"></div>
-    <div class="nav-dropdown-wrap" id="gh-wrap">
+    <div class="nav-dropdown-wrap">
       <button class="nav-dropdown-btn" onclick="toggleGH(event)">
         <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.477 2 2 6.477 2 12c0 4.418 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.009-.868-.013-1.703-2.782.604-3.369-1.341-3.369-1.341-.454-1.154-1.11-1.462-1.11-1.462-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0 1 12 6.836a9.59 9.59 0 0 1 2.504.337c1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.203 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.743 0 .267.18.578.688.48C19.138 20.163 22 16.418 22 12c0-5.523-4.477-10-10-10z"/></svg>
         GitHub
@@ -275,30 +115,38 @@ footer a:hover { text-decoration:underline; }
     </div>
   </div>
 </nav>
+<div class="disclaimer"><strong>Let op:</strong> vrijewetgeving.nl is een hulptool om wetgeving te zoeken. Dit is geen juridisch advies. Raadpleeg een jurist of advocaat voor uw specifieke situatie.</div>
+
+<div class="hero">
+  <h1>vrije<span>wetgeving.nl</span></h1>
+  <div class="hero-sub">// elke wet een bestand — elke wijziging een commit — iedereen een bijdrager</div>
+  <div class="stats">
+    <div class="stat"><div class="stat-n" id="stat-n">—</div><div class="stat-l">wetten</div></div>
+    <div class="stat"><div class="stat-n">dagelijks</div><div class="stat-l">bijgewerkt</div></div>
+    <div class="stat"><div class="stat-n">CC0</div><div class="stat-l">open data</div></div>
+  </div>
+</div>
+
 <div class="zoek-sectie">
   <div class="zoek-inner">
-    <div class="zoek-wrapper">
-      <span class="zoek-icoon">&#9906;</span>
-      <input class="zoek-veld" type="search" id="zoek"
-        placeholder="Zoek op naam of BWBR-nummer..." autocomplete="off">
+    <div class="zoek-wrap">
+      <input class="zoek-input" type="search" id="zoek"
+        placeholder="Zoek op naam of BWBR-nummer..." autocomplete="off"
+        oninput="zoekBijwerken()">
       <span class="zoek-hint">/ zoek</span>
-      <span id="zoek-status" style="position:absolute;right:4.5rem;top:50%;transform:translateY(-50%);font-family:'JetBrains Mono',monospace;font-size:0.62rem;color:var(--oranje)"></span>
     </div>
     <div class="filter-rij" id="filters"></div>
-    <button class="wis-btn" id="wis-btn" onclick="wisFilters()" style="display:none">wis filters</button>
     <div class="sorteer-rij">
-      <button class="sorteer-btn actief" id="sort-naam" onclick="toggleSort('naam')">naam A-Z</button>
-      <button class="sorteer-btn" id="sort-datum" onclick="toggleSort('datum')">nieuwste</button>
+      <button class="sort-btn actief" id="sort-az" onclick="setSort('az',this)">A-Z</button>
+      <button class="sort-btn" id="sort-nieuw" onclick="setSort('nieuw',this)">nieuwste</button>
     </div>
   </div>
 </div>
 
 <div class="resultaten-sectie">
-  <div class="resultaten-info">
-    <span id="info">Laden...</span>
-  </div>
-  <div id="resultaten"><div class="laden">Wetten ophalen van GitHub...</div></div>
-  <div class="meer-laden" id="meer-laden" style="display:none">
+  <div class="resultaten-info"><span id="info">Laden...</span></div>
+  <div id="resultaten"><div class="laden">Wetten laden...</div></div>
+  <div id="meer-wrap" style="display:none">
     <button class="meer-btn" onclick="laadMeer()">Toon meer wetten</button>
     <div class="meer-info" id="meer-info"></div>
   </div>
@@ -310,23 +158,16 @@ footer a:hover { text-decoration:underline; }
   Data: wetten.overheid.nl (CC0)
 </footer>
 
-
-
 <script>
-const GITHUB_API = 'https://api.github.com/repos/Apolloccrypt/wetgeving-nl/git/trees/main?recursive=1';
-const PROPOSALS_URL = 'https://github.com/Apolloccrypt/wetgeving-nl/issues/new?template=wetsvoorstel-idee.md';
+const GITHUB = 'https://github.com/Apolloccrypt/wetgeving-nl/blob/main/';
 const BATCH = 100;
-
 let alleWetten = [];
-let gefilterdeWetten = [];
-let getoondTot = BATCH;
-let actieveFilter = 'alles';
-let zoekindexData = null;
-let zoekindexLaadt = false;
-let zoekindexGeladen = false;
-let actieveSorteer = 'az';
+let gefilterd  = [];
+let getoond    = BATCH;
+let actieveCat = 'alles';
+let actieveSort = 'az';
 
-const CATEGORIE_KLEUR = {
+const CAT_KLEUR = {
   'strafrecht':'#7f1d1d','burgerlijk-recht':'#1e3a5f','bestuursrecht':'#374151',
   'belastingrecht':'#78350f','arbeidsrecht':'#064e3b','sociaal-recht':'#1e3a5f',
   'gezondheidszorg':'#4c1d95','onderwijs':'#0c4a6e','milieu':'#14532d',
@@ -334,206 +175,138 @@ const CATEGORIE_KLEUR = {
   'staatsinrichting':'#1f2937','financieel-recht':'#713f12','overig':'#6b7280',
 };
 
-function esc(t) {
-  return t.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+function catKleur(c) {
+  const slug = c.toLowerCase().replace(/ /g,'-').replace(/[^a-z0-9-]/g,'');
+  return CAT_KLEUR[slug] || '#6b7280';
 }
 
-function categorieKleur(cat) {
-  return CATEGORIE_KLEUR[cat] || '#6b7280';
-}
+async function init() {
+  const r = await fetch('index.json');
+  const data = await r.json();
+  alleWetten = data.map(w => ({
+    titel:      w.titel || '',
+    identifier: w.identifier || '',
+    categorie:  w.categorie || 'Overig',
+    datum:      w.datum || '',
+    status:     w.status || 'geldig',
+    pad:        w.pad || '',
+  }));
 
-async function laadZoekindex() {
-  if (zoekindexGeladen || zoekindexLaadt) return;
-  zoekindexLaadt = true;
-  document.getElementById('zoek-status').textContent = 'Volledige tekst laden...';
-  try {
-    const r = await fetch('zoekindex.json');
-    zoekindexData = await r.json();
-    zoekindexGeladen = true;
-    document.getElementById('zoek-status').textContent = '';
-    filterEnToon();
-  } catch(e) {
-    zoekindexLaadt = false;
-    document.getElementById('zoek-status').textContent = '';
-  }
-}
-
-async function laadWetten() {
-  try {
-    const r = await fetch('index.json');
-    const data = await r.json();
-    alleWetten = data.map(w => ({
-      pad: w.pad,
-      naam: w.titel,
-      categorie: w.categorie.toLowerCase().replace(/ /g,'-').replace(/[^a-z0-9-]/g,''),
-      categorieNaam: w.categorie,
-      bwbr: w.identifier,
-      datum: w.datum ? w.datum.substring(0,7) : '',
-      status: w.status,
-      url: `https://github.com/Apolloccrypt/wetgeving-nl/blob/main/${w.pad}`,
-      voorstelUrl: PROPOSALS_URL,
-      kamerstukken: w.kamerstukken || [],
-    }));
-
-    animeerGetal('stat-wetten', alleWetten.length);
-    bouwFilters();
-    filterEnToon();
-  } catch(e) {
-    document.getElementById('resultaten').innerHTML =
-      '<div class="leeg">Kon wetten niet laden. Vernieuw de pagina.</div>';
-  }
-}
-
-function animeerGetal(id, eindwaarde) {
-  const el = document.getElementById(id);
-  let huidig = 0;
-  const stap = Math.ceil(eindwaarde / 60);
-  const interval = setInterval(() => {
-    huidig = Math.min(huidig + stap, eindwaarde);
-    el.textContent = huidig.toLocaleString('nl-NL');
-    if (huidig >= eindwaarde) clearInterval(interval);
-  }, 20);
-}
-
-function bouwFilters() {
-  const tellingen = {};
-  alleWetten.forEach(w => { tellingen[w.categorie] = (tellingen[w.categorie]||0)+1; });
-  const gesorteerd = Object.entries(tellingen).sort((a,b) => b[1]-a[1]);
-
-  const container = document.getElementById('filters');
-  container.innerHTML =
-    `<button class="filter-btn ${actieveFilter==='alles'?'actief':''}" onclick="setFilter('alles')">alle (${alleWetten.length.toLocaleString('nl-NL')})</button>` +
-    gesorteerd.map(([cat, n]) =>
-      `<button class="filter-btn ${actieveFilter===cat?'actief':''}" onclick="setFilter('${cat}')">${cat} (${n.toLocaleString('nl-NL')})</button>`
-    ).join('');
-}
-
-function setFilter(cat) {
-  actieveFilter = cat;
-  getoondTot = BATCH;
-  document.getElementById('wis-btn').style.display =
-    cat !== 'alles' ? 'block' : 'none';
+  // Stat
+  animeer('stat-n', alleWetten.length);
   bouwFilters();
   filterEnToon();
 }
 
-const sortState = { naam: 'az', datum: 'nieuw' };
+function animeer(id, eindwaarde) {
+  const el = document.getElementById(id);
+  let n = 0;
+  const stap = Math.ceil(eindwaarde / 60);
+  const iv = setInterval(() => {
+    n = Math.min(n + stap, eindwaarde);
+    el.textContent = n.toLocaleString('nl-NL');
+    if (n >= eindwaarde) clearInterval(iv);
+  }, 20);
+}
 
-function toggleSort(type) {
-  // Deactiveer andere knop
-  document.querySelectorAll('.sorteer-btn').forEach(b => b.classList.remove('actief'));
-  const btn = document.getElementById('sort-' + type);
+function bouwFilters() {
+  const telling = {};
+  alleWetten.forEach(w => { telling[w.categorie] = (telling[w.categorie]||0)+1; });
+  const gesorteerd = Object.entries(telling).sort((a,b) => b[1]-a[1]);
+  document.getElementById('filters').innerHTML =
+    `<button class="filter-btn ${actieveCat==='alles'?'actief':''}" onclick="setCat('alles',this)">alle</button>` +
+    gesorteerd.map(([cat,n]) =>
+      `<button class="filter-btn ${actieveCat===cat?'actief':''}" onclick="setCat('${cat}',this)">${cat} (${n.toLocaleString('nl-NL')})</button>`
+    ).join('');
+}
+
+function setCat(cat, btn) {
+  actieveCat = cat;
+  getoond = BATCH;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('actief'));
   btn.classList.add('actief');
-
-  if (type === 'naam') {
-    sortState.naam = sortState.naam === 'az' ? 'za' : 'az';
-    btn.textContent = sortState.naam === 'az' ? 'naam A-Z' : 'naam Z-A';
-    actieveSorteer = 'naam-' + sortState.naam;
-  } else {
-    sortState.datum = sortState.datum === 'nieuw' ? 'oud' : 'nieuw';
-    btn.textContent = sortState.datum === 'nieuw' ? 'nieuwste' : 'oudste';
-    actieveSorteer = 'datum-' + sortState.datum;
-  }
-  getoondTot = BATCH;
   filterEnToon();
 }
 
-function wisFilters() {
-  setFilter('alles');
-  document.getElementById('zoek').value = '';
+function setSort(s, btn) {
+  actieveSort = s;
+  getoond = BATCH;
+  document.querySelectorAll('.sort-btn').forEach(b => b.classList.remove('actief'));
+  btn.classList.add('actief');
+  filterEnToon();
 }
+
+function zoekBijwerken() { getoond = BATCH; filterEnToon(); }
 
 function filterEnToon() {
-  const zoekterm = document.getElementById('zoek').value.toLowerCase().trim();
-  gefilterdeWetten = alleWetten.filter((w, i) => {
-    const filterOk = actieveFilter === 'alles' || w.categorie === actieveFilter;
-    if (!zoekterm) return filterOk;
-    const titelOk = w.naam.toLowerCase().includes(zoekterm) ||
-      w.bwbr.toLowerCase().includes(zoekterm);
-    const bodyOk = zoekindexGeladen && zoekindexData && zoekindexData[i] &&
-      (zoekindexData[i].b||'').toLowerCase().includes(zoekterm);
-    return filterOk && (titelOk || bodyOk);
+  const q = document.getElementById('zoek').value.toLowerCase().trim();
+  gefilterd = alleWetten.filter(w => {
+    const catOk = actieveCat === 'alles' || w.categorie === actieveCat;
+    const zoekOk = !q || w.titel.toLowerCase().includes(q) || w.identifier.toLowerCase().includes(q);
+    return catOk && zoekOk;
   });
 
-  if (actieveSorteer === 'datum-nieuw') {
-    gefilterdeWetten.sort((a,b) => (b.datum||'').localeCompare(a.datum||''));
-  } else if (actieveSorteer === 'datum-oud') {
-    gefilterdeWetten.sort((a,b) => (a.datum||'').localeCompare(b.datum||''));
-  } else if (actieveSorteer === 'naam-za') {
-    gefilterdeWetten.sort((a,b) => b.naam.localeCompare(a.naam, 'nl'));
+  if (actieveSort === 'nieuw') {
+    gefilterd.sort((a,b) => (b.datum||'').localeCompare(a.datum||''));
   } else {
-    gefilterdeWetten.sort((a,b) => a.naam.localeCompare(b.naam, 'nl'));
+    gefilterd.sort((a,b) => a.titel.localeCompare(b.titel,'nl'));
   }
 
-  toonResultaten();
+  renderResultaten();
 }
 
-function toonResultaten() {
-  const totaal = gefilterdeWetten.length;
-  const getoond = gefilterdeWetten.slice(0, getoondTot);
+function esc(t){return(t||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+
+function renderResultaten() {
+  const totaal = gefilterd.length;
+  const slice  = gefilterd.slice(0, getoond);
 
   document.getElementById('info').textContent =
-    `${totaal.toLocaleString('nl-NL')} wetten${totaal < alleWetten.length ? ` van ${alleWetten.length.toLocaleString('nl-NL')}` : ''}`;
+    `${totaal.toLocaleString('nl-NL')} wetten${actieveCat!=='alles'?' in '+actieveCat:''}`;
 
-  if (totaal === 0) {
-    document.getElementById('resultaten').innerHTML = '<div class="leeg">Geen wetten gevonden.</div>';
-    document.getElementById('meer-laden').style.display = 'none';
+  if (!totaal) {
+    document.getElementById('resultaten').innerHTML = '<div class="laden">Geen wetten gevonden.</div>';
+    document.getElementById('meer-wrap').style.display = 'none';
     return;
   }
 
   document.getElementById('resultaten').innerHTML = `
     <div class="wet-grid">
-      ${getoond.map(w => `
-        <a class="wet-kaart" href="${w.url}" target="_blank" rel="noopener">
-          <div class="wet-titel">${esc(w.naam)}</div>
+      ${slice.map(w => `
+        <a class="wet-kaart" href="${GITHUB}${w.pad}" target="_blank" rel="noopener">
+          <div class="wet-titel">${esc(w.titel)}</div>
           <div class="wet-sub">
-            ${w.bwbr ? `<span class="wet-id">${w.bwbr}</span>` : ''}
-            ${w.datum ? `<span class="wet-datum">${w.datum}</span>` : ''}
-            <span class="wet-cat" style="color:${categorieKleur(w.categorie)};border-color:${categorieKleur(w.categorie)}30">${w.categorieNaam || w.categorie}</span>
-            <span class="wet-status ${w.status === 'ingetrokken' ? 'status-ingetrokken' : 'status-geldig'}">${w.status}</span>
+            <span style="opacity:.6">${w.identifier}</span>
+            ${w.datum ? `<span>· ${w.datum.substring(0,7)}</span>` : ''}
+            <span class="wet-cat" style="color:${catKleur(w.categorie)};border-color:${catKleur(w.categorie)}25">${esc(w.categorie)}</span>
+            <span class="wet-status-${w.status==='ingetrokken'?'ingetrokken':'geldig'}">${w.status}</span>
           </div>
-          ${w.kamerstukken && w.kamerstukken.length > 0 ? `
-            <a class="wet-kamer-btn" href="${w.kamerstukken[0].url}" target="_blank" onclick="event.stopPropagation()" title="${esc(w.kamerstukken[0].titel)}">Kamerstukken</a>
-          ` : ''}
-          <a class="wet-voorstel-btn" href="${w.voorstelUrl}" target="_blank" onclick="event.stopPropagation()">+ voorstel</a>
-        </a>
-      `).join('')}
+        </a>`).join('')}
     </div>`;
 
-  const restant = totaal - getoondTot;
-  const meerLaden = document.getElementById('meer-laden');
+  const restant = totaal - getoond;
+  const mw = document.getElementById('meer-wrap');
   if (restant > 0) {
-    meerLaden.style.display = 'block';
-    document.getElementById('meer-info').textContent =
-      `${restant.toLocaleString('nl-NL')} wetten nog verborgen`;
+    mw.style.display = 'block';
+    document.getElementById('meer-info').textContent = `${restant.toLocaleString('nl-NL')} wetten nog verborgen`;
   } else {
-    meerLaden.style.display = 'none';
+    mw.style.display = 'none';
   }
 }
 
-function laadMeer() {
-  getoondTot += BATCH;
-  toonResultaten();
-}
+function laadMeer() { getoond += BATCH; renderResultaten(); }
 
 // Toetsenbord shortcut
 document.addEventListener('keydown', e => {
   if (e.key === '/' && document.activeElement.tagName !== 'INPUT') {
-    e.preventDefault();
-    document.getElementById('zoek').focus();
+    e.preventDefault(); document.getElementById('zoek').focus();
   }
 });
 
-document.getElementById('zoek').addEventListener('input', () => {
-  getoondTot = BATCH;
-  const q = document.getElementById('zoek').value.trim();
-  if (q.length > 2 && !zoekindexGeladen) {
-    laadZoekindex();
-  }
-  filterEnToon();
-});
+function toggleGH(e){e.stopPropagation();const m=document.getElementById('gh-menu');m.style.display=m.style.display==='block'?'none':'block';}
+document.addEventListener('click',()=>{document.getElementById('gh-menu').style.display='none';});
 
-laadWetten();
+init();
 </script>
 </body>
 </html>
