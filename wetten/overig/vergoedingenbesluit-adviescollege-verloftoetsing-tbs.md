@@ -1,0 +1,51 @@
+---
+title: "Vergoedingenbesluit Adviescollege Verloftoetsing tbs"
+identifier: "BWBR0038097"
+categorie: "Overig"
+publicatiedatum: 2020-01-01
+laatste_update: 2020-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0038097"
+---
+
+# Besluit van de Staatssecretaris van Veiligheid en Justitie van 17 juni 2016, nr. 769903, houdende toekenning van een vaste vergoeding per maand aan de leden van Adviescollege Verloftoetsing tbs (Vergoedingenbesluit Adviescollege Verloftoetsing tbs)
+
+Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en [artikel 4 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=4);
+
+Besluit:
+
+#### Artikel 1
+
+In dit besluit wordt verstaan onder:
+
+- a. **BBRA 1984:** [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630);
+
+- b. **Avt:** Adviescollege Verloftoetsing tbs.
+
+#### Artikel 2
+
+1. De voorzitter van het Avt ontvangt een vergoeding per maand op basis van een arbeidsduurfactor van 0,4 en het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
+
+2. De overige leden van het Avt ontvangen een vergoeding per maand op basis van een arbeidsduurfactor van 0,3 en het maximum van salarisschaal 17 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
+
+3. De leden van het Avt die op grond van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) zijn uitgesloten van een vergoeding, ontvangen geen vergoeding.
+
+4. Plaatsvervangende leden van het Avt ontvangen een vergoeding per vergadering van 3% van het maximum van salarisschaal 17 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
+
+5. Plaatsvervangende leden van het Avt die optreden als voorzitter van het Avt ontvangen een vergoeding per vergadering van 130% van de vergoeding bedoeld in het vierde lid.
+
+6. In afwijking van het tweede lid ontvangt de wetenschappelijk adviseur een vergoeding per maand op basis van een arbeidsduurfactor van 0,1 en het maximum van salarisschaal 17 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
+
+#### Artikel 3
+
+Het [vergoedingsbesluit voorzitter Adviescollege Verloftoetsing tbs](https://wetten.overheid.nl/jci1.3:c:BWBR0035830) (Stcrt. 2014, 33969) wordt ingetrokken.
+
+#### Artikel 4
+
+Dit besluit treedt in werking met ingang van 1 juli 2016.
+
+#### Artikel 5
+
+Dit besluit wordt aangehaald als: Vergoedingenbesluit Adviescollege Verloftoetsing tbs.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

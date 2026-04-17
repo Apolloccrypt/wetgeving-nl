@@ -1,0 +1,4793 @@
+---
+title: "Gemeentewet"
+identifier: "BWBR0005416"
+categorie: "Bestuursrecht"
+publicatiedatum: 2026-03-21
+laatste_update: 2026-03-21
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0005416"
+---
+
+# Gemeentewet
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is nieuwe bepalingen vast te stellen met betrekking tot de inrichting van gemeenten, alsmede de samenstelling en bevoegdheid van hun besturen;
+
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+## Titel I. Begripsbepalingen
+
+#### Artikel 1
+
+1. In deze wet wordt verstaan onder het aantal inwoners van een gemeente: het aantal inwoners volgens de door het Centraal Bureau voor de Statistiek openbaar gemaakte bevolkingscijfers per 1 januari.
+
+2. Voor de vaststelling van het inwonertal, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=8&z=2026-03-21&g=2026-03-21), geldt als peildatum 1 januari van het jaar voorafgaand aan het jaar van de verkiezing van de raad. Het Centraal Bureau voor de Statistiek kan op schriftelijk verzoek van de raad het inwonertal per de eerste dag van de vierde maand voorafgaande aan de maand van de kandidaatstelling vaststellen, indien aannemelijk is dat een in dat artikel genoemd inwonertal op genoemde datum is overschreden. In dat geval geldt dit tijdstip als peildatum.
+
+#### Artikel 2
+
+In deze wet wordt verstaan onder ingezetenen: zij die hun werkelijke woonplaats in de gemeente hebben.
+
+#### Artikel 3
+
+Zij die als ingezetene met een adres in een gemeente zijn ingeschreven in de basisregistratie personen, worden voor de toepassing van deze wet, behoudens bewijs van het tegendeel, geacht werkelijke woonplaats te hebben in die gemeente.
+
+#### Artikel 4
+
+Vervallen
+
+#### Artikel 5
+
+In deze wet wordt verstaan onder:
+
+- a. gemeentebestuur: ieder bevoegd orgaan van de gemeente;
+
+- b. Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+
+- c. college: college van burgemeester en wethouders.
+
+## Titel II. De inrichting en samenstelling van het gemeentebestuur
+
+### Hoofdstuk I. Algemene bepaling
+
+#### Artikel 6
+
+In elke gemeente is een raad, een college en een burgemeester.
+
+### Hoofdstuk II. De raad
+
+#### Artikel 7
+
+De raad vertegenwoordigt de gehele bevolking van de gemeente.
+
+#### Artikel 8
+
+1. De raad bestaat uit:
+
+9 leden in een gemeente beneden de 3 001 inwoners;
+
+11 leden in een gemeente van 3 001- 6 000 inwoners;
+
+13 leden in een gemeente van 6 001- 10 000 inwoners;
+
+15 leden in een gemeente van 10 001- 15 000 inwoners;
+
+17 leden in een gemeente van 15 001- 20 000 inwoners;
+
+19 leden in een gemeente van 20 001- 25 000 inwoners;
+
+21 leden in een gemeente van 25 001- 30 000 inwoners;
+
+23 leden in een gemeente van 30 001- 35 000 inwoners;
+
+25 leden in een gemeente van 35 001- 40 000 inwoners;
+
+27 leden in een gemeente van 40 001- 45 000 inwoners;
+
+29 leden in een gemeente van 45 001- 50 000 inwoners;
+
+31 leden in een gemeente van 50 001- 60 000 inwoners;
+
+33 leden in een gemeente van 60 001- 70 000 inwoners;
+
+35 leden in een gemeente van 70 001- 80 000 inwoners;
+
+37 leden in een gemeente van 80 001-100 000 inwoners;
+
+39 leden in een gemeente van 100 001-200 000 inwoners;
+
+45 leden in een gemeente boven de 200 000 inwoners.
+
+2. Vermeerdering of vermindering van het aantal leden van de raad, voortvloeiende uit wijziging van het aantal inwoners van de gemeente, treedt eerst in bij de eerstvolgende periodieke verkiezing van de raad.
+
+#### Artikel 9
+
+De burgemeester is voorzitter van de raad.
+
+#### Artikel 10
+
+1. Voor het lidmaatschap van de raad is vereist dat men ingezetene van de gemeente is, de leeftijd van achttien jaar heeft bereikt en niet is uitgesloten van het kiesrecht.
+
+2. Zij die geen onderdaan van een lidstaat van de Europese Unie zijn, dienen tevens te voldoen aan de vereisten dat:
+
+- a. zij rechtmatig in Nederland verblijven op grond van [artikel 8, onder a, b, c, d, e of l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) of op grond van een verdrag tussen een internationale organisatie en de Staat der Nederlanden inzake de zetel van deze organisatie in Nederland, en
+
+- b. zij onmiddellijk voorafgaand aan de dag waarop de gemeenteraad beslist over de toelating als lid tot de gemeenteraad gedurende een onafgebroken periode van ten minste vijf jaren ingezetene van Nederland waren en beschikten over een verblijfsrecht als bedoeld onder a, dan wel rechtmatig in Nederland verbleven op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=3) of [artikel 6 van de Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=6).
+
+3. Geen lid van de raad kunnen zijn zij die geen Nederlander zijn, en als door andere staten uitgezonden leden van diplomatieke of consulaire vertegenwoordigingen, in Nederland werkzaam zijn, alsmede hun niet-Nederlandse echtgenoten, geregistreerde partners of levensgezellen en kinderen, voor zover dezen met hen een gemeenschappelijke huishouding voeren.
+
+#### Artikel 11
+
+Ter vervulling van een tussentijds opengevallen plaats is niet benoembaar tot lid van de raad hij die na de laatstgehouden periodieke verkiezing van de leden van de raad wegens handelen in strijd met [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=15&z=2026-03-21&g=2026-03-21) van het lidmaatschap van de raad is vervallen verklaard.
+
+#### Artikel 12
+
+1. De leden van de raad maken openbaar welke andere functies dan het lidmaatschap van de raad zij vervullen.
+
+2. De openbaarmaking vindt plaats terstond na benoeming tot raadslid of aanvaarding van een functie en geschiedt zowel op elektronische wijze als door terinzagelegging op het gemeentehuis.
+
+#### Artikel 13
+
+1. Een lid van de raad is niet tevens:
+
+- a. minister;
+
+- b. staatssecretaris;
+
+- c. lid van de Raad van State;
+
+- d. lid van de Algemene Rekenkamer;
+
+- e. Nationale ombudsman;
+
+- f. substituut-ombudsman als bedoeld in [artikel 9, eerste lid, van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=9);
+
+- g. commissaris van de Koning;
+
+- h. gedeputeerde;
+
+- i. secretaris van de provincie;
+
+- j. griffier van de provincie;
+
+- k. burgemeester;
+
+- l. wethouder;
+
+- m. lid van de rekenkamer;
+
+- n. ombudsman of lid van de ombudscommissie als bedoeld in [artikel 81p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IVc&paragraaf=1&artikel=81p&z=2026-03-21&g=2026-03-21);
+
+- o. ambtenaar of ambtenaar van politie, in dienst van die gemeente of uit anderen hoofde aan het gemeentebestuur ondergeschikt of werkzaam ten behoeve van die gemeente.
+
+2. In afwijking van het eerste lid, aanhef en onder l, kan een lid van de raad tevens wethouder zijn van de gemeente waar hij lid van de raad is gedurende het tijdvak dat:
+
+- a. aanvangt op de dag van de stemming voor de verkiezing van de leden van de raad en eindigt op het tijdstip waarop de wethouders ingevolge [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=42&z=2026-03-21&g=2026-03-21), aftreden, of
+
+- b. aanvangt op het tijdstip van zijn benoeming tot wethouder en eindigt op het tijdstip waarop de goedkeuring van de geloofsbrief van zijn opvolger als lid van de raad onherroepelijk is geworden of waarop het centraal stembureau heeft beslist dat geen opvolger kan worden benoemd. Hij wordt geacht ontslag te nemen als lid van de raad met ingang van het tijdstip waarop hij zijn benoeming tot wethouder aanvaardt. [Artikel X 6 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_6) is van overeenkomstige toepassing.
+
+3. In afwijking van het eerste lid, aanhef en onder o, kan een lid van de raad tevens zijn:
+
+- a. ambtenaar van de burgerlijke stand;
+
+- b. vrijwilliger of ander persoon die uit hoofde van een wettelijke verplichting niet bij wijze van beroep hulpdiensten verricht.
+
+#### Artikel 14
+
+1. Alvorens hun functie te kunnen uitoefenen, leggen de leden van de raad in de vergadering, in handen van de voorzitter, de volgende eed (verklaring en belofte) af:
+
+"Ik zweer (verklaar) dat ik, om tot lid van de raad benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd.
+
+Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen.
+
+Ik zweer (beloof) dat ik getrouw zal zijn aan de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840), dat ik de wetten zal nakomen en dat ik mijn plichten als lid van de raad naar eer en geweten zal vervullen.
+
+Zo waarlijk helpe mij God Almachtig!"
+
+(Dat verklaar en beloof ik!")
+
+2. Wanneer de eed (verklaring en belofte), bedoeld in het eerste lid, in de Friese taal wordt afgelegd, luidt de tekst van de eed (verklaring en belofte) als volgt:
+
+«Ik swar (ferklearje) dat ik, om ta lid fan 'e rie beneamd te wurden, streekrjocht noch midlik, ûnder wat namme of wat ferlechje ek, hokker jefte of geunst dan ek jûn of ûnthjitten haw.
+
+Ik swar (ferklearje en ûnthjit) dat ik, om eat yn dit amt te dwaan of te litten, streekrjocht noch midlik hokker geskink of hokker ûnthjit dan ek oannommen haw of oannimme sil.
+
+Ik swar (ûnthjit) dat ik trou wêze sil oan 'e [Grûnwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840), dat ik de wetten neikomme sil en dat ik myn plichten as lid fan 'e rie yn alle oprjochtens ferfolje sil.
+
+Sa wier helpe my God Almachtich!»
+
+(«Dat ferklearje en ûnthjit ik!»).
+
+#### Artikel 15
+
+1. Een lid van de raad mag niet:
+
+- a. als advocaat of adviseur in geschillen werkzaam zijn ten behoeve van de gemeente of het gemeentebestuur dan wel ten behoeve van de wederpartij van de gemeente of het gemeentebestuur;
+
+- b. als gemachtigde in geschillen werkzaam zijn ten behoeve van de wederpartij van de gemeente of het gemeentebestuur;
+
+- c. als vertegenwoordiger of adviseur werkzaam zijn ten behoeve van derden tot het met de gemeente aangaan van:
+
+- 1e. overeenkomsten als bedoeld in onderdeel d;
+
+- 2e. overeenkomsten tot het leveren van onroerende zaken aan de gemeente;
+
+- d. rechtstreeks of middellijk een overeenkomst aangaan betreffende:
+
+- 1e. het aannemen van werk ten behoeve van de gemeente;
+
+- 2e. het buiten dienstbetrekking tegen beloning verrichten van werkzaamheden ten behoeve van de gemeente;
+
+- 3e. het leveren van roerende zaken anders dan om niet aan de gemeente;
+
+- 4e. het verhuren van roerende zaken aan de gemeente;
+
+- 5e. het verwerven van betwiste vorderingen ten laste van de gemeente;
+
+- 6e. het van de gemeente onderhands verwerven van onroerende zaken of beperkte rechten waaraan deze zijn onderworpen;
+
+- 7e. het onderhands huren of pachten van de gemeente.
+
+2. Van het eerste lid, aanhef en onder **d**, kunnen gedeputeerde staten ontheffing verlenen.
+
+3. De raad stelt voor zijn leden een gedragscode vast.
+
+#### Artikel 16
+
+De raad stelt een reglement van orde voor zijn vergaderingen en andere werkzaamheden vast.
+
+#### Artikel 17
+
+1. De raad vergadert zo vaak als hij daartoe heeft besloten.
+
+2. Voorts vergadert de raad indien de burgemeester het nodig oordeelt of indien ten minste een vijfde van het aantal leden waaruit de raad bestaat schriftelijk, met opgave van redenen, daarom verzoekt.
+
+#### Artikel 18
+
+De raad vergadert na de periodieke verkiezing van zijn leden voor de eerste maal in nieuwe samenstelling op de dag met ingang waarvan de leden van de raad in oude samenstelling aftreden.
+
+#### Artikel 19
+
+1. De burgemeester roept de leden schriftelijk tot de vergadering op.
+
+2. Tegelijkertijd met de oproeping brengt de burgemeester dag, tijdstip en plaats van de vergadering ter openbare kennis. De agenda en de daarbij behorende voorstellen met uitzondering van de informatie waarop een verplichting tot geheimhouding rust worden tegelijkertijd met de oproeping en op een bij de openbare kennisgeving aan te geven wijze ter inzage gelegd.
+
+#### Artikel 20
+
+1. De vergadering van de raad wordt niet geopend voordat blijkens de presentielijst meer dan de helft van het aantal zitting hebbende leden tegenwoordig is.
+
+2. Indien ingevolge het eerste lid de vergadering niet kan worden geopend, belegt de burgemeester, onder verwijzing naar dit artikel, opnieuw een vergadering tegen een tijdstip dat ten minste vierentwintig uur na het bezorgen van de oproeping is gelegen.
+
+3. Op de vergadering, bedoeld in het tweede lid, is het eerste lid niet van toepassing. De raad kan echter over andere aangelegenheden dan die waarvoor de ingevolge het eerste lid niet geopende vergadering was belegd alleen beraadslagen of besluiten, indien blijkens de presentielijst meer dan de helft van het aantal zitting hebbende leden tegenwoordig is.
+
+#### Artikel 21
+
+1. De burgemeester heeft het recht in de vergadering aan de beraadslaging deel te nemen.
+
+2. Een wethouder heeft toegang tot de vergaderingen en kan aan de beraadslaging deelnemen.
+
+3. Een wethouder kan door de raad worden uitgenodigd om ter vergadering aanwezig te zijn.
+
+#### Artikel 22
+
+De leden van het gemeentebestuur en andere personen die deelnemen aan de beraadslaging kunnen niet in rechte worden vervolgd of aangesproken voor dan wel worden verplicht getuigenis af te leggen als bedoeld in [artikel 165, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=165) over hetgeen zij in de vergadering van de raad hebben gezegd of aan de raad schriftelijk hebben overgelegd.
+
+#### Artikel 23
+
+1. De vergadering van de raad wordt in het openbaar gehouden.
+
+2. De deuren worden gesloten, wanneer ten minste een vijfde van het aantal leden dat de presentielijst heeft getekend daarom verzoekt of de voorzitter het nodig oordeelt.
+
+3. De raad beslist vervolgens of met gesloten deuren zal worden vergaderd.
+
+4. Indien met gesloten deuren wordt vergaderd, geldt een verplichting tot geheimhouding omtrent informatie die in die vergadering ter kennis van de aanwezigen komt. De verplichting duurt voort, totdat de raad haar opheft.
+
+5. Van een vergadering met gesloten deuren wordt een afzonderlijk verslag opgemaakt, dat niet openbaar wordt gemaakt tenzij de raad besluit de verplichting, bedoeld in het vierde lid, op te heffen.
+
+6. De raad maakt de besluitenlijst van zijn vergaderingen op de in de gemeente gebruikelijke wijze openbaar. De raad laat de openbaarmaking achterwege in de gevallen waarin een verplichting tot geheimhouding geldt of wanneer openbaarmaking in strijd is met het openbaar belang.
+
+#### Artikel 24
+
+In een besloten vergadering kan niet worden beraadslaagd of besloten over:
+
+- a. de toelating van nieuw benoemde leden;
+
+- b. de vaststelling en wijziging van de begroting en de vaststelling van de jaarrekening;
+
+- c. de invoering, wijziging en afschaffing van gemeentelijke belastingen, en
+
+- d. de benoeming en het ontslag van wethouders.
+
+#### Artikel 25
+
+Vervallen
+
+#### Artikel 26
+
+1. De voorzitter zorgt voor de handhaving van de orde in de vergadering en is bevoegd, wanneer die orde op enigerlei wijze door toehoorders wordt verstoord, deze en zo nodig andere toehoorders te doen vertrekken.
+
+2. Hij is bevoegd toehoorders die bij herhaling de orde in de vergadering verstoren voor ten hoogste drie maanden de toegang tot de vergadering te ontzeggen.
+
+3. Hij kan de raad voorstellen aan een lid dat door zijn gedragingen de geregelde gang van zaken belemmert, het verdere verblijf in de vergadering te ontzeggen. Over het voorstel wordt niet beraadslaagd. Na aanneming daarvan verlaat het lid de vergadering onmiddellijk. Zo nodig doet de voorzitter hem verwijderen. Bij herhaling van zijn gedrag kan het lid bovendien voor ten hoogste drie maanden de toegang tot de vergadering worden ontzegd.
+
+#### Artikel 27
+
+De leden van de raad stemmen zonder last.
+
+#### Artikel 28
+
+1. Een lid van de raad neemt niet deel aan de beraadslaging en stemming over:
+
+- a. een aangelegenheid die hem rechtstreeks of middellijk persoonlijk aangaat of waarbij hij als vertegenwoordiger is betrokken;
+
+- b. de vaststelling of goedkeuring der rekening van een lichaam waaraan hij rekenplichtig is of tot welks bestuur hij behoort.
+
+2. Op de beraadslaging en stemming, bedoeld in het eerste lid, is [artikel 2:4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:4) niet van toepassing.
+
+3. Bij een schriftelijke stemming wordt onder het deelnemen aan de stemming verstaan het inleveren van een stembriefje.
+
+4. Een benoeming gaat iemand persoonlijk aan, wanneer hij behoort tot de personen tot wie de keuze door een voordracht of bij een herstemming is beperkt.
+
+5. Het eerste lid is niet van toepassing bij het besluit betreffende de toelating van de na periodieke verkiezing benoemde leden.
+
+#### Artikel 29
+
+1. Een stemming is alleen geldig, indien meer dan de helft van het aantal leden dat zitting heeft en zich niet van deelneming aan de stemming moet onthouden, daaraan heeft deelgenomen.
+
+2. Het eerste lid is niet van toepassing:
+
+- a. ingeval opnieuw wordt gestemd over een voorstel of over een benoeming, voordracht of aanbeveling van een of meer personen ten aanzien van wie in een vorige vergadering een stemming op grond van dat lid niet geldig was;
+
+- b. in een vergadering als bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=20&z=2026-03-21&g=2026-03-21), voor zover het betreft onderwerpen die in de daaraan voorafgaande, ingevolge [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=20&z=2026-03-21&g=2026-03-21), niet geopende vergadering aan de orde waren gesteld.
+
+#### Artikel 30
+
+1. Voor het tot stand komen van een beslissing bij stemming wordt de volstrekte meerderheid vereist van hen die een stem hebben uitgebracht.
+
+2. Bij een schriftelijke stemming wordt onder het uitbrengen van een stem verstaan het inleveren van een behoorlijk ingevuld stembriefje.
+
+#### Artikel 31
+
+1. De stemming over personen voor het doen van benoemingen, voordrachten of aanbevelingen is geheim.
+
+2. Indien de stemmen staken over personen tot wie de keuze door een voordracht of bij een herstemming is beperkt, wordt in dezelfde vergadering een herstemming gehouden.
+
+3. Staken bij deze stemming de stemmen opnieuw, dan beslist terstond het lot.
+
+#### Artikel 32
+
+1. De overige stemmingen geschieden bij hoofdelijke oproeping, indien de voorzitter of een van de leden dat verlangt. In dat geval geschieden zij mondeling.
+
+2. Bij hoofdelijke oproeping is ieder ter vergadering aanwezig lid dat zich niet van deelneming aan de stemming moet onthouden verplicht zijn stem voor of tegen uit te brengen.
+
+3. Indien over een voorstel geen stemming wordt gevraagd, is het aangenomen.
+
+4. Tenzij de vergadering voltallig is, wordt bij staking van stemmen het nemen van een beslissing uitgesteld tot een volgende vergadering, waarin de beraadslagingen kunnen worden heropend.
+
+5. Indien de stemmen staken in een voltallige vergadering of in een ingevolge het vierde lid opnieuw belegde vergadering, is het voorstel niet aangenomen.
+
+6. Onder een voltallige vergadering wordt verstaan een vergadering waarin alle leden waaruit de raad bestaat, voor zover zij zich niet van deelneming aan de stemming moesten onthouden, een stem hebben uitgebracht.
+
+#### Artikel 33
+
+1. De raad en elk van zijn leden hebben recht op ambtelijke bijstand.
+
+2. De in de raad vertegenwoordigde groeperingen hebben recht op ondersteuning.
+
+3. De raad stelt met betrekking tot de ambtelijke bijstand en de ondersteuning van de in de raad vertegenwoordigde groeperingen een verordening vast. De verordening bevat ten aanzien van de ondersteuning regels over de besteding en de verantwoording.
+
+### Hoofdstuk III. Het college van burgemeester en wethouders
+
+#### Artikel 34
+
+1. De burgemeester en de wethouders vormen te zamen het college van burgemeester en wethouders.
+
+2. De burgemeester is voorzitter van het college.
+
+#### Artikel 35
+
+1. De raad benoemt de wethouders. [Artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=31&z=2026-03-21&g=2026-03-21) is van toepassing op de stemming inzake de benoeming.
+
+2. De burgemeester wordt geïnformeerd over de uitkomsten van de college-onderhandelingen. Hij wordt alsdan in de gelegenheid gesteld zijn opvattingen over voorstellen ten behoeve van het collegeprogramma kenbaar te maken.
+
+#### Artikel 36
+
+1. Het aantal wethouders bedraagt ten hoogste twintig procent van het aantal raadsleden, met dien verstande dat er niet minder dan twee wethouders zullen zijn.
+
+2. De raad kan besluiten dat het wethouderschap in deeltijd wordt uitgeoefend.
+
+3. Indien het tweede lid toepassing vindt bedraagt, in afwijking van het eerste lid, het aantal wethouders ten hoogste vijfentwintig procent van het aantal raadsleden, met dien verstande dat de tijdsbestedingsnorm van de wethouders gezamenlijk ten hoogste tien procent meer bedraagt dan de tijdsbestedingsnorm van de wethouders gezamenlijk zou hebben bedragen indien het tweede lid geen toepassing had gevonden.
+
+4. De raad stelt bij de benoeming van de wethouders de tijdsbestedingsnorm van elke wethouder vast.
+
+5. Bij de berekening van het maximale aantal wethouders, bedoeld in het eerste en het derde lid, wordt afgerond tot het dichtstbijgelegen gehele getal.
+
+#### Artikel 36a
+
+1. Voor het wethouderschap gelden de vereisten voor het lidmaatschap van de raad, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=10&z=2026-03-21&g=2026-03-21), met dien verstande dat in [artikel 10, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=10&z=2026-03-21&g=2026-03-21), voor «de dag waarop de gemeenteraad beslist over de toelating als lid tot de gemeenteraad» gelezen wordt: de dag waarop zij tot wethouder worden benoemd.
+
+2. Bij de benoeming is de beoogde wethouder in het bezit van een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28), die niet ouder is dan drie maanden.
+
+3. De raad kan voor de duur van een jaar ontheffing verlenen van het vereiste van ingezetenschap. De ontheffing kan in bijzondere gevallen, telkens met een periode van maximaal een jaar, worden verlengd.
+
+4. Dezelfde persoon kan niet in meer dan één gemeente wethouder zijn.
+
+#### Artikel 36b
+
+1. Een wethouder is niet tevens:
+
+- a. minister;
+
+- b. staatssecretaris;
+
+- c. lid van de Raad van State;
+
+- d. lid van de Algemene Rekenkamer;
+
+- e. Nationale ombudsman;
+
+- f. substituut-ombudsman als bedoeld in [artikel 9, eerste lid, van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=9);
+
+- g. commissaris van de Koning;
+
+- h. gedeputeerde;
+
+- i. secretaris van de provincie;
+
+- j. griffier van de provincie;
+
+- k. lid van de rekenkamer van de provincie;
+
+- l. lid van de raad van een gemeente;
+
+- m. burgemeester;
+
+- n. lid van de rekenkamer;
+
+- o. ombudsman of lid van de ombudscommissie als bedoeld in [artikel 81p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IVc&paragraaf=1&artikel=81p&z=2026-03-21&g=2026-03-21);
+
+- p. ambtenaar, in dienst van die gemeente of uit anderen hoofde aan het gemeentebestuur ondergeschikt;
+
+- q. ambtenaar, in dienst van de Staat of de provincie, tot wiens taak behoort het verrichten van werkzaamheden in het kader van het toezicht op de gemeente;
+
+- r. functionaris die krachtens de wet of een algemene maatregel van bestuur het gemeentebestuur van advies dient.
+
+2. In afwijking van het eerste lid, aanhef en onder l, kan een wethouder tevens lid zijn van de raad van de gemeente waar hij wethouder is gedurende het tijdvak dat:
+
+- a. aanvangt op de dag van de stemming voor de verkiezing van de leden van de raad en eindigt op het tijdstip waarop de wethouders ingevolge [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=42&z=2026-03-21&g=2026-03-21), aftreden, of
+
+- b. aanvangt op het tijdstip van zijn benoeming tot wethouder en eindigt op het tijdstip waarop de goedkeuring van de geloofsbrief van zijn opvolger als lid van de raad onherroepelijk is geworden of waarop het centraal stembureau heeft beslist dat geen opvolger kan worden benoemd. Hij wordt geacht ontslag te nemen als lid van de raad met ingang van het tijdstip waarop hij zijn benoeming tot wethouder aanvaardt. [Artikel X 6 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_6) is van overeenkomstige toepassing.
+
+3. In afwijking van het eerste lid, aanhef en onder p, kan een wethouder tevens zijn:
+
+- a. ambtenaar van de burgerlijke stand;
+
+- b. vrijwilliger of ander persoon die uit hoofde van een wettelijke verplichting niet bij wijze van beroep hulpdiensten verricht.
+
+#### Artikel 37
+
+De benoeming van wethouders na de verkiezing van de leden van de raad vindt plaats in een vergadering van de raad in nieuwe samenstelling.
+
+#### Artikel 38
+
+In het geval van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=37&z=2026-03-21&g=2026-03-21) gaat de benoeming van degene die zijn benoeming tot wethouder heeft aangenomen, in op het tijdstip waarop ten minste de helft van het met inachtneming van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=36&z=2026-03-21&g=2026-03-21) bepaalde aantal wethouders zijn benoeming heeft aangenomen of, indien de aanneming van de benoeming op een later tijdstip plaatsvindt, op dat tijdstip.
+
+#### Artikel 39
+
+De benoeming ter vervulling van een plaats die tussentijds openvalt, geschiedt zo spoedig mogelijk, tenzij de raad besluit het aantal wethouders te verminderen.
+
+#### Artikel 40
+
+De benoemde wethouder deelt de raad uiterlijk op de tiende dag na de kennisgeving van zijn benoeming mee of hij de benoeming aanneemt. Indien deze termijn verstrijkt zonder mededeling, wordt de benoemde wethouder geacht de benoeming niet aan te nemen.
+
+#### Artikel 41
+
+Wanneer de benoeming niet is aangenomen, geschiedt zo spoedig mogelijk een nieuwe benoeming.
+
+#### Artikel 41a
+
+1. Alvorens hun functie te kunnen uitoefenen leggen de wethouders, in de vergadering van de raad, in handen van de voorzitter, de volgende eed (verklaring en belofte) af:
+
+«Ik zweer (verklaar) dat ik, om tot wethouder benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd.
+
+Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen.
+
+Ik zweer (beloof) dat ik getrouw zal zijn aan de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840), dat ik de wetten zal nakomen en dat ik mijn plichten als wethouder naar eer en geweten zal vervullen.
+
+Zo waarlijk helpe mij God Almachtig!»
+
+(«Dat verklaar en beloof ik!»)
+
+2. Wanneer de eed (verklaring en belofte), bedoeld in het eerste lid, in de Friese taal wordt afgelegd, luidt de tekst van de eed (verklaring en belofte) als volgt:
+
+«Ik swar (ferklearje) dat ik, om ta wethâlder beneamd te wurden, streekrjocht noch midlik, ûnder wat namme of wat ferlechje ek, hokker jefte of geunst dan ek jûn of ûnthjitten haw.
+
+Ik swar (ferklearje en ûnthjit) dat ik, om eat yn dit amt te dwaan of te litten, streekrjocht noch midlik hokker geskink of hokker ûnthjit dan ek oannommen haw of oannimme sil.
+
+Ik swar (ûnthjit) dat ik trou wêze sil oan 'e [Grûnwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840), dat ik de wetten neikomme sil en dat ik myn plichten as wethâlder yn alle oprjochtens ferfolje sil.
+
+Sa wier helpe my God Almachtich!»
+
+(«Dat ferklearje en ûnthjit ik!»).
+
+#### Artikel 41b
+
+1. Een wethouder vervult geen nevenfuncties waarvan de uitoefening ongewenst is met het oog op een goede vervulling van zijn wethouderschap.
+
+2. Een wethouder meldt zijn voornemen tot aanvaarding van een nevenfunctie aan de raad.
+
+3. Een wethouder maakt zijn nevenfuncties openbaar. De openbaarmaking vindt plaats terstond na benoeming tot wethouder of aanvaarding van een nevenfunctie en geschiedt zowel op elektronische wijze als door terinzagelegging op het gemeentehuis.
+
+4. Een wethouder die zijn ambt niet in deeltijd vervult, maakt tevens de inkomsten uit nevenfuncties openbaar. Openbaarmaking geschiedt zowel op elektronische wijze als door terinzagelegging op het gemeentehuis uiterlijk op 1 april na het kalenderjaar waarin de inkomsten zijn genoten.
+
+5. Onder inkomsten wordt verstaan: loon in de zin van [artikel 9 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=9), verminderd met de eindheffingsbestanddelen bedoeld in [artikel 31 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31).
+
+#### Artikel 41c
+
+1. [Artikel 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=15&z=2026-03-21&g=2026-03-21), is van overeenkomstige toepassing op de wethouders.
+
+2. De raad stelt voor de wethouders een gedragscode vast.
+
+#### Artikel 42
+
+1. Na de verkiezing van de leden van de raad treden de wethouders af op het moment dat de raad ten minste de helft van het met inachtneming van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=36&z=2026-03-21&g=2026-03-21) bepaalde aantal wethouders heeft benoemd en deze benoemingen zijn aangenomen.
+
+2. Indien zoveel wethouders hun ontslag indienen of worden ontslagen dat niet ten minste de helft van het met inachtneming van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=36&z=2026-03-21&g=2026-03-21) bepaalde aantal wethouders in functie is, treedt de burgemeester in de plaats van het college totdat dit wel het geval is.
+
+#### Artikel 43
+
+1. Een wethouder kan te allen tijde ontslag nemen. Hij doet daarvan schriftelijk mededeling aan de raad.
+
+2. Behoudens het geval dat de wethouder onmiddellijk ontslag neemt, gaat het ontslag in met ingang van de dag, gelegen een maand na de dag waarop hij zijn ontslag heeft genomen of zoveel eerder als zijn opvolger de benoeming heeft aangenomen.
+
+#### Artikel 44
+
+1. De wethouders genieten ten laste van de gemeente een bezoldiging, die bij of krachtens algemene maatregel van bestuur wordt geregeld.
+
+2. Daarbij kunnen tevens regels worden gesteld betreffende tegemoetkoming in of vergoeding van bijzondere kosten en betreffende andere voorzieningen die verband houden met de vervulling van het wethoudersambt.
+
+3. Buiten hetgeen hun bij of krachtens de wet is toegekend genieten de wethouders als zodanig geen inkomsten, in welke vorm ook, ten laste van de gemeente.
+
+4. De wethouders genieten geen vergoedingen, in welke vorm ook, voor werkzaamheden, verricht in nevenfuncties die zij vervullen uit hoofde van het wethoudersambt ongeacht of die vergoedingen ten laste van de gemeente komen of niet. Indien deze vergoedingen worden uitgekeerd, worden zij gestort in de gemeentekas.
+
+5. Tot vergoedingen als bedoeld in het vierde lid, behoren inkomsten, onder welke benaming ook, uit nevenfuncties die de wethouder neerlegt bij beëindiging van het ambt.
+
+6. Andere inkomsten dan die bedoeld in het vierde lid worden met de bezoldiging verrekend overeenkomstig [artikel 3 van de Wet schadeloosstelling leden Tweede Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&artikel=3). De rijksbelastingdienst verstrekt Onze Minister ten behoeve van de verrekening de benodigde gegevens.
+
+7. Ten aanzien van de wethouders die hun ambt in deeltijd vervullen, vindt onverminderd het vierde lid geen verrekening plaats van de inkomsten, bedoeld in het zesde lid.
+
+8. Bij algemene maatregel van bestuur worden regels gesteld over de wijze waarop de wethouder gegevens over de inkomsten, bedoeld in het zesde lid, verstrekt, en de gevolgen van het niet verstrekken van deze gegevens.
+
+#### Artikel 45
+
+1. Het college verleent aan een wethouder op diens verzoek verlof wegens zwangerschap en bevalling. Het verlof gaat in op de in het verzoek vermelde dag die ligt tussen ten hoogste zes en ten minste vier weken voor de vermoedelijke datum van de bevalling die blijkt uit een bij het verzoek gevoegde verklaring van een arts of verloskundige.
+
+2. Het college verleent aan een wethouder op diens verzoek verlof wegens ziekte, indien uit een bij het verzoek gevoegde verklaring van een arts blijkt dat niet aannemelijk is dat hij de uitoefening van zijn functie binnen acht weken zal kunnen hervatten.
+
+3. In het geval een wethouder vanwege zijn ziekte niet in staat is zelf het verzoek te doen, kan de burgemeester namens hem het verzoek doen indien de continuïteit van het gemeentelijk bestuur dringend vereist dat in vervanging van de wethouder wordt voorzien.
+
+4. Het verlof eindigt op de dag waarop zestien weken zijn verstreken sinds de dag waarop het verlof is ingegaan.
+
+5. Aan een wethouder wordt gedurende de zittingsperiode van de raad ten hoogste drie maal verlof verleend.
+
+#### Artikel 46
+
+1. Indien degene wiens benoeming tot wethouder is ingegaan, een functie bekleedt als bedoeld in [artikel 36b, eerste lid, en het tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=36b&z=2026-03-21&g=2026-03-21) van dat artikel niet van toepassing zijn, draagt hij er onverwijld zorg voor dat hij uit die functie wordt ontheven.
+
+2. De raad verleent hem ontslag indien hij dit nalaat.
+
+3. Het ontslag gaat in terstond na de bekendmaking van het ontslagbesluit.
+
+4. In het geval, bedoeld in het tweede lid, is [artikel 4:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) niet van toepassing.
+
+#### Artikel 47
+
+1. Indien een wethouder niet langer voldoet aan de vereisten voor het wethouderschap, bedoeld in [artikel 36a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=36a&z=2026-03-21&g=2026-03-21), eerste en tweede lid, of een functie gaat bekleden als bedoeld in [artikel 36b, eerste lid, en het tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=36b&z=2026-03-21&g=2026-03-21) van dat artikel niet van toepassing zijn, neemt hij onmiddellijk ontslag. Hij doet hiervan schriftelijk mededeling aan de raad.
+
+2. [Artikel 46, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=46&z=2026-03-21&g=2026-03-21), is van overeenkomstige toepassing.
+
+#### Artikel 48
+
+Vervallen
+
+#### Artikel 49
+
+Indien een uitspraak van de raad inhoudende de opzegging van zijn vertrouwen in een wethouder er niet toe leidt dat de betrokken wethouder onmiddellijk ontslag neemt, kan de raad besluiten tot ontslag. [Artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=31&z=2026-03-21&g=2026-03-21) is van toepassing op de stemming inzake het ontslag. Op het ontslagbesluit is [artikel 4:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) niet van toepassing.
+
+#### Artikel 50
+
+De rechter treedt niet in de beoordeling van de gronden waarop de raad tot ontslag van een wethouder heeft besloten.
+
+#### Artikel 51
+
+Vervallen
+
+#### Artikel 52
+
+Het college stelt een reglement van orde voor zijn vergaderingen en andere werkzaamheden vast, dat aan de raad wordt toegezonden.
+
+#### Artikel 53
+
+1. De burgemeester stelt, met inachtneming van hetgeen het college heeft bepaald, dag en plaats van de vergadering van het college en het tijdstip van de opening vast.
+
+2. De burgemeester maakt dag en plaats van te houden openbare vergaderingen en het tijdstip van de opening bekend.
+
+#### Artikel 53a
+
+1. De burgemeester bevordert de eenheid van het collegebeleid.
+
+2. De burgemeester kan onderwerpen aan de agenda voor een vergadering van het college toevoegen.
+
+3. De burgemeester kan ten aanzien van geagendeerde onderwerpen een eigen voorstel aan het college voorleggen.
+
+#### Artikel 54
+
+1. De vergaderingen van het college worden met gesloten deuren gehouden, voor zover het college niet anders heeft bepaald.
+
+2. Het reglement van orde voor de vergaderingen kan regels geven omtrent de openbaarheid van de vergaderingen van het college.
+
+#### Artikel 55
+
+Vervallen
+
+#### Artikel 56
+
+1. In de vergadering van het college kan slechts worden beraadslaagd of besloten, indien ten minste de helft van het aantal zitting hebbende leden tegenwoordig is.
+
+2. Indien het vereiste aantal leden niet tegenwoordig is, belegt de burgemeester, onder verwijzing naar dit artikel, opnieuw een vergadering.
+
+3. Op de vergadering, bedoeld in het tweede lid, is het eerste lid niet van toepassing. Het college kan echter over andere aangelegenheden dan die waarvoor de eerdere vergadering was belegd alleen beraadslagen of besluiten, indien ten minste de helft van het aantal zitting hebbende leden tegenwoordig is.
+
+#### Artikel 57
+
+De leden van het college en andere personen die deelnemen aan de beraadslaging kunnen niet in rechte worden vervolgd of aangesproken voor hetgeen zij in de vergadering van het college hebben gezegd of aan het college schriftelijk hebben overgelegd.
+
+#### Artikel 58
+
+De [artikelen 28, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=28&z=2026-03-21&g=2026-03-21), en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=30&z=2026-03-21&g=2026-03-21) zijn ten aanzien van de vergaderingen van het college van overeenkomstige toepassing.
+
+#### Artikel 59
+
+1. Indien bij een stemming, anders dan over personen voor het doen van benoemingen, voordrachten of aanbevelingen, de stemmen staken, wordt opnieuw gestemd.
+
+2. Staken de stemmen andermaal over hetzelfde voorstel, dan beslist de stem van de voorzitter.
+
+#### Artikel 60
+
+1. De raad kan regelen van welke beslissingen van het college aan de leden van de raad kennisgeving wordt gedaan. Daarbij kan de raad de gevallen bepalen waarin met terinzagelegging kan worden volstaan.
+
+2. Het college laat de kennisgeving of terinzagelegging achterwege voor zover deze in strijd is met het openbaar belang.
+
+3. Het college maakt de besluitenlijst van zijn vergaderingen op de in de gemeente gebruikelijke wijze openbaar. Het college laat de openbaarmaking achterwege in de gevallen waarin een verplichting tot geheimhouding geldt of wanneer openbaarmaking in strijd is met het openbaar belang.
+
+### Hoofdstuk IV. De burgemeester
+
+#### Artikel 61
+
+1. De burgemeester wordt bij koninklijk besluit op voordracht van Onze Minister benoemd voor de tijd van zes jaar.
+
+2. De commissaris van de Koning overlegt met de raad over de eisen die aan de te benoemen burgemeester worden gesteld met betrekking tot de vervulling van het ambt. Voorafgaand aan het overleg met de commissaris stelt de raad het college in de gelegenheid zijn wensen en bedenkingen ten aanzien van deze eisen kenbaar te maken.
+
+3. Na het overleg met de commissaris stelt de raad uit zijn midden een vertrouwenscommissie in, belast met de beoordeling van de kandidaten. De raad kan bepalen dat één of meer wethouders als adviseur aan de vertrouwenscommissie worden toegevoegd. De commissaris verschaft de vertrouwenscommissie een opgave van degenen die naar het ambt van burgemeester hebben gesolliciteerd, vergezeld van zijn oordeel over kandidaten die hij in beginsel geschikt acht voor benoeming. Als de vertrouwenscommissie besluit naast deze kandidaten ook andere kandidaten die gesolliciteerd hebben, bij haar beoordeling te betrekken, doet zij daarvan onverwijld mededeling aan de commissaris. Deze brengt zijn oordeel over laatstgenoemde kandidaten ter kennis van de vertrouwenscommissie.
+
+4. De vertrouwenscommissie verschaft zich door tussenkomst van de commissaris de door haar nodig geachte informatie over de kandidaten. Bestuursorganen zijn verplicht de gevraagde informatie te verstrekken. De vertrouwenscommissie brengt verslag uit van haar bevindingen aan de raad en aan de commissaris.
+
+5. De raad zendt Onze Minister binnen vier maanden nadat de gelegenheid tot sollicitatie voor de functie is gegeven een aanbeveling inzake de benoeming. Deze aanbeveling omvat twee personen.
+
+6. In een bijzonder, door de raad te motiveren geval, kan worden volstaan met een aanbeveling waarop één persoon vermeld staat. Onze Minister slaat geen acht op een enkelvoudige aanbeveling, indien naar zijn oordeel geen sprake is van een bijzonder geval.
+
+7. Onze Minister volgt in zijn voordracht in beginsel de aanbeveling, met inbegrip van de daarop gehanteerde volgorde, tenzij zwaarwegende gronden aanleiding tot afwijking geven. Een afwijking wordt gemotiveerd.
+
+8. De rijksbelastingdienst verstrekt Onze Minister de benodigde gegevens inzake bestuurlijke boeten als bedoeld in [hoofdstuk VIIIA van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIIIA) en inzake strafbeschikkingen als bedoeld in [artikel 76 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=76), voor zover deze boeten en beschikkingen zijn opgelegd dan wel hadden kunnen worden opgelegd ter zake van feiten die zijn gebleken na de termijn om deze op te leggen.
+
+#### Artikel 61a
+
+1. De burgemeester kan bij koninklijk besluit op voordracht van Onze Minister worden herbenoemd voor de tijd van zes jaar.
+
+2. De raad zendt een aanbeveling inzake de herbenoeming van de burgemeester tenminste vier maanden voor de eerste dag van de maand waarin de herbenoeming dient in te gaan, aan Onze Minister door tussenkomst van de commissaris van de Koning.
+
+3. Voordat de raad een aanbeveling opstelt, overlegt hij met de commissaris over het functioneren van de burgemeester.
+
+4. Na het overleg met de commissaris stelt de raad uit zijn midden een vertrouwenscommissie in, belast met de voorbereiding van de aanbeveling inzake de herbenoeming. De raad kan bepalen dat één of meer wethouders als adviseur aan de vertrouwenscommissie worden toegevoegd.
+
+5. De commissaris brengt advies uit aan Onze Minister over de aanbeveling van de raad.
+
+6. Onze Minister wijkt in zijn voordracht slechts af van de aanbeveling op gronden ontleend aan het advies van de commissaris dan wel op andere zwaarwegende gronden.
+
+#### Artikel 61b
+
+1. De burgemeester kan te allen tijde bij koninklijk besluit op voordracht van Onze Minister worden ontslagen.
+
+2. Indien sprake is van een verstoorde verhouding tussen de burgemeester en de raad, kan de raad, door tussenkomst van de commissaris van de Koning, een aanbeveling tot ontslag zenden aan Onze Minister.
+
+3. Voordat de raad verklaart dat van een verstoorde verhouding tussen de burgemeester en de raad sprake is, overlegt hij met de commissaris over de aanleiding tot die verklaring.
+
+4. Een aanbeveling vormt geen onderwerp van beraadslagingen en wordt niet vastgesteld dan nadat de raad tenminste twee weken en ten hoogste drie maanden tevoren heeft verklaard, dat tussen de burgemeester en de raad sprake is van een verstoorde verhouding.
+
+5. De oproeping tot de vergadering waarin over de aanbeveling wordt beraadslaagd of besloten, wordt tenminste achtenveertig uur voor de aanvang of zoveel eerder als de raad heeft bepaald, bij de leden van de raad bezorgd. Zij vermeldt het voorstel tot de aanbeveling.
+
+6. De commissaris brengt advies uit aan Onze Minister over de aanbeveling.
+
+7. Onze Minister wijkt in zijn voordracht slechts af van de aanbeveling op gronden ontleend aan het advies van de commissaris dan wel op andere zwaarwegende gronden.
+
+#### Artikel 61c
+
+1. De beraadslagingen, bedoeld in de [artikelen 61, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=61&z=2026-03-21&g=2026-03-21), [61a, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=61a&z=2026-03-21&g=2026-03-21), en [61b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=61b&z=2026-03-21&g=2026-03-21), vinden plaats met gesloten deuren. Van deze beraadslagingen wordt een afzonderlijk verslag opgemaakt dat niet openbaar wordt gemaakt.
+
+2. Ten aanzien van de beraadslagingen en de stukken die aan de raad worden gezonden dan wel die door de raad aan Onze Minister worden gezonden geldt een geheimhoudingsplicht.
+
+3. De aanbevelingen van de raad, bedoeld in [artikel 61, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=61&z=2026-03-21&g=2026-03-21), [61a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=61a&z=2026-03-21&g=2026-03-21), en [61b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=61b&z=2026-03-21&g=2026-03-21), zijn openbaar met dien verstande dat ten aanzien van de aanbeveling inzake de benoeming, bedoeld in [artikel 61, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=61&z=2026-03-21&g=2026-03-21), de openbaarheid uitsluitend de als eerste aanbevolen persoon geldt. [Artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=31&z=2026-03-21&g=2026-03-21) is van toepassing op de stemmingen inzake de aanbevelingen.
+
+#### Artikel 61d
+
+Vervallen
+
+#### Artikel 61e
+
+Vervallen
+
+#### Artikel 62
+
+1. De burgemeester kan bij koninklijk besluit worden geschorst.
+
+2. Onze Minister kan, in afwachting van een besluit omtrent schorsing, bepalen dat de burgemeester zijn functie niet uitoefent.
+
+3. Een besluit als bedoeld in het tweede lid vervalt, indien niet binnen een maand een besluit omtrent de schorsing is genomen.
+
+#### Artikel 63
+
+Voor de benoembaarheid tot burgemeester is het Nederlanderschap vereist.
+
+#### Artikel 64
+
+Dezelfde persoon kan in meer dan een gemeente tot burgemeester worden benoemd, mits op het tijdstip van benoeming het gezamenlijk aantal inwoners het getal van 10 000 niet te boven gaat.
+
+#### Artikel 65
+
+1. De burgemeester legt ten overstaan van de raad in handen van de commissaris van de Koning de volgende eed (verklaring en belofte) af:
+
+"Ik zweer (verklaar) dat ik, om tot burgemeester benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd.
+
+Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen.
+
+Ik zweer (beloof) dat ik getrouw zal zijn aan de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840), dat ik de wetten zal nakomen en dat ik mijn plichten als burgemeester naar eer en geweten zal vervullen.
+
+Zo waarlijk helpe mij God Almachtig!"
+
+(Dat verklaar en beloof ik!")
+
+2. Wanneer de eed (verklaring en belofte), bedoeld in het eerste lid, in de Friese taal wordt afgelegd, luidt de tekst van de eed (verklaring en belofte) als volgt:
+
+«Ik swar (ferklearje) dat ik, om ta boargemaster beneamd te wurden, streekrjocht noch midlik, ûnder wat namme of wat ferlechje ek, hokker jefte of geunst dan ek jûn of ûnthjitten haw.
+
+Ik swar (ferklearje en ûnthjit) dat ik, om eat yn dit amt te dwaan of te litten, streekrjocht noch midlik hokker geskink of hokker ûnthjit dan ek oannommen haw of oannimme sil.
+
+Ik swar (ûnthjit) dat ik trou wêze sil oan 'e [Grûnwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840), dat ik de wetten neikomme sil en dat ik myn plichten as boargemaster yn alle oprjochtens ferfolje sil.
+
+Sa wier helpe my God Almachtich!»
+
+(«Dat ferklearje en ûnthjit ik!»).
+
+#### Artikel 66
+
+1. De burgemeester geniet ten laste van de gemeente een bezoldiging, die bij of krachtens algemene maatregel van bestuur wordt geregeld.
+
+2. Daarbij kunnen tevens regels worden gesteld betreffende tegemoetkoming in of vergoeding van bijzondere kosten en betreffende andere voorzieningen die verband houden met de vervulling van het burgemeestersambt.
+
+3. Buiten hetgeen hem bij of krachtens de wet is toegekend, geniet de burgemeester als zodanig geen inkomsten, in welke vorm ook, ten laste van de gemeente.
+
+4. De burgemeester geniet geen vergoedingen, in welke vorm ook, voor werkzaamheden, verricht in nevenfuncties welke hij vervult uit hoofde van het burgemeestersambt, ongeacht of die vergoedingen ten laste van de gemeente komen of niet. Indien deze vergoedingen worden uitgekeerd, worden zij gestort in de gemeentekas.
+
+5. Tot vergoedingen als bedoeld in het vierde lid, behoren inkomsten, onder welke benaming ook, uit nevenfuncties die de burgemeester neerlegt bij beëindiging van het ambt.
+
+6. Andere inkomsten dan die bedoeld in het vierde lid worden met de bezoldiging verrekend overeenkomstig [artikel 3 van de Wet schadeloosstelling leden Tweede Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&artikel=3). De rijksbelastingdienst verstrekt Onze Minister ten behoeve van de verrekening de benodigde gegevens.
+
+7. Bij algemene maatregel van bestuur worden regels gesteld over de wijze waarop de burgemeester gegevens over de inkomsten, bedoeld in het zesde lid, verstrekt, en de gevolgen van het niet verstrekken van deze gegevens.
+
+8. De [artikelen 44a tot en met 44j](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=44a&z=2026-03-21&g=2026-03-21) zijn van overeenkomstige toepassing, met dien verstande dat voor «wethouder» wordt gelezen «burgemeester» en voor «[artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=44&z=2026-03-21&g=2026-03-21)» «artikel 66».
+
+#### Artikel 67
+
+1. De burgemeester vervult geen nevenfuncties waarvan de uitoefening ongewenst is met het oog op de goede vervulling van zijn burgemeestersambt of op de handhaving van zijn onpartijdigheid en onafhankelijkheid of van het vertrouwen daarin.
+
+2. De burgemeester meldt zijn voornemen tot aanvaarding van een nevenfunctie, anders dan uit hoofde van zijn burgemeestersambt, aan de raad.
+
+3. De burgemeester maakt nevenfuncties, anders dan uit hoofde van zijn burgemeestersambt, en de inkomsten uit die functies openbaar. De openbaarmaking van nevenfuncties vindt plaats terstond na benoeming tot burgemeester of aanvaarding van een nevenfunctie en geschiedt zowel op elektronische wijze als door terinzagelegging op het gemeentehuis. Openbaarmaking van de inkomsten geschiedt zowel op elektronische wijze als door terinzagelegging op het gemeentehuis uiterlijk op 1 april na het kalenderjaar waarin de inkomsten zijn genoten.
+
+4. Onder inkomsten wordt verstaan: loon in de zin van [artikel 9 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=9), verminderd met de eindheffingsbestanddelen bedoeld in [artikel 31 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31).
+
+#### Artikel 68
+
+1. De burgemeester is niet tevens:
+
+- a. minister;
+
+- b. staatssecretaris;
+
+- c. lid van de Raad van State;
+
+- d. lid van de Algemene Rekenkamer;
+
+- e. Nationale ombudsman;
+
+- f. substituut-ombudsman als bedoeld in [artikel 9, eerste lid, van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=9);
+
+- g. commissaris van de Koning;
+
+- h. gedeputeerde;
+
+- i. secretaris van de provincie;
+
+- j. griffier van de provincie;
+
+- k. lid van de rekenkamer van de provincie;
+
+- l. lid van de raad van een gemeente;
+
+- m. wethouder;
+
+- n. lid van de rekenkamer;
+
+- o. ombudsman of lid van de ombudscommissie als bedoeld in [artikel 81p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IVc&paragraaf=1&artikel=81p&z=2026-03-21&g=2026-03-21);
+
+- p. ambtenaar of ambtenaar van politie, in dienst van die gemeente of uit anderen hoofde daaraan ondergeschikt;
+
+- q. ambtenaar, in dienst van de Staat of de provincie, tot wiens taak behoort het verrichten van werkzaamheden in het kader van het toezicht op de gemeente;
+
+- r. functionaris die krachtens de wet of een algemene maatregel van bestuur het gemeentebestuur van advies dient.
+
+2. In afwijking van het eerste lid, aanhef en onder p, kan een burgemeester tevens ambtenaar van de burgerlijke stand zijn.
+
+#### Artikel 69
+
+1. [Artikel 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=15&z=2026-03-21&g=2026-03-21), is van overeenkomstige toepassing op de burgemeester met dien verstande dat de ontheffing, bedoeld in het tweede lid van dat artikel, wordt verleend door de commissaris van de Koning.
+
+2. De raad stelt voor de burgemeester een gedragscode vast.
+
+#### Artikel 70
+
+Het ambt van burgemeester ontheft van alle bij of krachtens de wet opgelegde verplichtingen tot het verrichten van persoonlijke diensten.
+
+#### Artikel 71
+
+1. De burgemeester heeft zijn werkelijke woonplaats in de gemeente of, indien hij burgemeester is van meer dan een gemeente, in een van die gemeenten.
+
+2. De raad kan voor ten hoogste een jaar ontheffing verlenen van de verplichting om de werkelijke woonplaats in de gemeente te hebben.
+
+3. De commissaris van de Koning kan de ontheffing in bijzondere gevallen tweemaal, telkens voor de duur van maximaal een jaar, verlengen. Alvorens daartoe over te gaan, hoort hij de raad.
+
+#### Artikel 72
+
+1. Indien de burgemeester langer dan zes weken buiten de gemeente wenst te verblijven, behoeft hij daartoe de toestemming van de commissaris. De toestemming mag alleen worden verleend, indien het belang van de gemeente zich daartegen niet verzet.
+
+2. De [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is niet van toepassing op de termijn genoemd in het eerste lid.
+
+#### Artikel 73
+
+1. Voor zover dit niet bij de wet is geschied, worden bij of krachtens algemene maatregel van bestuur ten aanzien van de burgemeester regels vastgesteld betreffende:
+
+- a. benoeming, herbenoeming, schorsing, tijdelijk niet uitoefenen van zijn functie en ontslag;
+
+- b. het onderzoek naar de geschiktheid en de bekwaamheid;
+
+- c. aanspraken in geval van ziekte;
+
+- d. bescherming bij de arbeid;
+
+- e. georganiseerd overleg over aangelegenheden zijn rechtspositie betreffende;
+
+- f. andere aangelegenheden, zijn rechtspositie betreffende, die regeling behoeven.
+
+2. Bij de regels betreffende de in het eerste lid bedoelde aangelegenheden kunnen financiële voorzieningen worden getroffen die ten laste van de gemeente komen.
+
+#### Artikel 74
+
+1. Alle aan de raad of aan het college gerichte stukken worden door of namens de burgemeester geopend.
+
+2. Van de ontvangst van aan de raad gerichte stukken die niet terstond in de vergadering van de raad aan de orde worden gesteld, doet hij in de eerstvolgende vergadering van de raad mededeling.
+
+#### Artikel 75
+
+Vervallen
+
+#### Artikel 76
+
+Bij koninklijk besluit wordt bepaald, welke de onderscheidingstekenen van de burgemeester zijn en bij welke gelegenheden hij deze zal dragen.
+
+#### Artikel 77
+
+1. Bij verhindering of ontstentenis van de burgemeester wordt zijn ambt waargenomen door een door het college aan te wijzen wethouder. Het voorzitterschap van de raad wordt in dat geval waargenomen door het langstzittende lid van de raad. Indien meer leden van de raad even lang zitting hebben, vindt de waarneming plaats door het oudste lid in jaren van hen. De raad kan een ander lid van de raad met de waarneming belasten.
+
+2. Bij verhindering of ontstentenis van alle wethouders wordt het ambt waargenomen door het langstzittende lid van de raad. Indien meer leden van de raad even lang zitting hebben, vindt de waarneming plaats door het oudste lid in jaren van hen. De raad kan een ander lid van de raad met de waarneming belasten.
+
+#### Artikel 78
+
+1. Indien de commissaris van de Koning het in het belang van de gemeente nodig oordeelt, voorziet hij in afwijking van [artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=77&z=2026-03-21&g=2026-03-21) in de waarneming. Alvorens daartoe over te gaan hoort hij de raad, tenzij gewichtige redenen zich daartegen verzetten.
+
+2. Hij die door de commissaris met de waarneming van het ambt van burgemeester is belast, legt in handen van de commissaris een overeenkomstig [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=65&z=2026-03-21&g=2026-03-21) luidende eed (verklaring en belofte) af.
+
+#### Artikel 79
+
+De toekenning van een vergoeding ten laste van de gemeente aan degene die met de waarneming van het ambt van burgemeester is belast, wordt geregeld bij of krachtens algemene maatregel van bestuur.
+
+#### Artikel 80
+
+Ten aanzien van degene die met de waarneming van het ambt van burgemeester is belast, zijn de [artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=63&z=2026-03-21&g=2026-03-21), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=67&z=2026-03-21&g=2026-03-21), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=68&z=2026-03-21&g=2026-03-21) en [69](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=69&z=2026-03-21&g=2026-03-21) van overeenkomstige toepassing.
+
+#### Artikel 81
+
+1. De raad kan regelen van welke beslissingen van de burgemeester aan de leden van de raad kennisgeving wordt gedaan. Daarbij kan de raad de gevallen bepalen waarin met terinzagelegging kan worden volstaan.
+
+2. De burgemeester laat de kennisgeving of terinzagelegging achterwege voor zover deze in strijd is met het openbaar belang.
+
+### Hoofdstuk IVa. De rekenkamer
+
+#### Paragraaf 1. De gemeentelijke rekenkamer
+
+#### Artikel 82
+
+1. De raad kan raadscommissies instellen die besluitvorming van de raad kunnen voorbereiden en met het college of de burgemeester kunnen overleggen. Hij regelt daarbij de taken, de bevoegdheden, de samenstelling en de werkwijze, daaronder begrepen de wijze waarop de leden van de raad inzage hebben in stukken waaromtrent door een raadscommissie geheimhouding is opgelegd. Deze inzage kan slechts worden geweigerd voor zover zij in strijd is met het openbaar belang.
+
+2. De burgemeester en de wethouders zijn geen lid van een raadscommissie.
+
+3. Bij de samenstelling van een raadscommissie zorgt de raad, voor zover het de benoeming betreft van leden van de raad, voor een evenwichtige vertegenwoordiging van de in de raad vertegenwoordigde groeperingen.
+
+4. Een lid van de raad is voorzitter van een raadscommissie.
+
+5. De [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=19&z=2026-03-21&g=2026-03-21) en [21 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=21&z=2026-03-21&g=2026-03-21) zijn van overeenkomstige toepassing op een vergadering van een raadscommissie, met dien verstande dat in artikel 19 voor «burgemeester» wordt gelezen «voorzitter van de raadscommissie».
+
+#### Artikel 83
+
+1. De raad, het college of de burgemeester kan bestuurscommissies instellen die bevoegdheden uitoefenen die hun door de raad, het college, onderscheidenlijk de burgemeester zijn overgedragen. Hij regelt daarbij de taken, de bevoegdheden, de samenstelling en de werkwijze, daaronder begrepen de wijze waarop hij inzage heeft in de stukken waaromtrent door een bestuurscommissie geheimhouding is opgelegd. Deze inzage kan slechts worden geweigerd voor zover zij in strijd is met het openbaar belang.
+
+2. De burgemeester en de wethouders zijn geen lid van een door de raad ingestelde bestuurscommissie. Leden van de raad zijn geen lid van een door het college of de burgemeester ingestelde bestuurscommissie.
+
+3. [Artikel 19 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=19) is van overeenkomstige toepassing op een besluit tot instelling van een bestuurscommissie.
+
+4. De [artikelen 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=19&z=2026-03-21&g=2026-03-21), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=22&z=2026-03-21&g=2026-03-21) en [23, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=23&z=2026-03-21&g=2026-03-21) zijn van overeenkomstige toepassing ten aanzien van de vergadering van een door de raad ingestelde bestuurscommissie, met dien verstande dat in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=19&z=2026-03-21&g=2026-03-21), voor «de burgemeester» wordt gelezen: de voorzitter van een bestuurscommissie.
+
+5. Voor zover zulks in verband met de aard en omvang van de overgedragen bevoegdheden nodig is, regelt het college of de burgemeester de openbaarheid van vergaderingen van een door hem ingestelde bestuurscommissie.
+
+#### Artikel 84
+
+1. De raad, het college of de burgemeester kan andere commissies dan bedoeld in de [artikelen 82, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&artikel=82&z=2026-03-21&g=2026-03-21), en [83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&artikel=83&z=2026-03-21&g=2026-03-21), instellen.
+
+2. [Artikel 83, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&artikel=83&z=2026-03-21&g=2026-03-21), is van overeenkomstige toepassing.
+
+3. De raad, het college onderscheidenlijk de burgemeester regelt ten aanzien van een door hem ingestelde andere commissie de openbaarheid van de vergaderingen. [Artikel 23, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=23&z=2026-03-21&g=2026-03-21), is van overeenkomstige toepassing op vergaderingen met gesloten deuren van een door de raad ingestelde andere commissie.
+
+4. [Artikel 19 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=19) is van overeenkomstige toepassing op een besluit tot instelling van een andere commissie.
+
+#### Artikel 85
+
+1. De raad, het college of de burgemeester regelt ten aanzien van een door hem ingestelde bestuurscommissie de verantwoording aan de raad, het college, onderscheidenlijk de burgemeester.
+
+2. De raad, het college of de burgemeester kan besluiten en andere, niet-schriftelijke beslissingen gericht op enig rechtsgevolg van een door hem ingestelde bestuurscommissie vernietigen. De raad kan zijn bevoegdheid tot schorsing overdragen aan het college. Ten aanzien van de vernietiging van niet-schriftelijke beslissingen gericht op enig rechtsgevolg zijn de [afdelingen 10.2.2.](onbekend) en [10.2.3. van de Algemene wet bestuursrecht](onbekend) van overeenkomstige toepassing.
+
+3. Voor zover zulks in verband met de aard en de omvang van de overgedragen bevoegdheden nodig is, regelt de raad, het college of de burgemeester het overige toezicht op de uitoefening van de bevoegdheden door een door hem ingestelde bestuurscommissie. Dit overige toezicht kan mede de goedkeuring omvatten van de beslissingen van een bestuurscommissie. De goedkeuring kan slechts worden onthouden wegens strijd met het recht of het algemeen belang. Ten aanzien van de goedkeuring van andere beslissingen dan besluiten is [afdeling 10.2.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.2.1) van overeenkomstige toepassing.
+
+#### Artikel 86
+
+Vervallen
+
+#### Paragraaf 2. Deelgemeenten
+
+#### Artikel 87
+
+De raad, het college, de burgemeester en een commissie als bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&z=2026-03-21&g=2026-03-21) kunnen op grond van een belang, genoemd in [artikel 5.1, eerste en tweede lid, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1), een verplichting tot geheimhouding opleggen ten aanzien van informatie die bij dat orgaan berust.
+
+#### Artikel 87a
+
+Vervallen
+
+#### Artikel 88
+
+1. De raad kan informatie ten aanzien waarvan krachtens [artikel 23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=23&z=2026-03-21&g=2026-03-21), een verplichting tot geheimhouding geldt of hij een verplichting tot geheimhouding heeft opgelegd, verstrekken aan het college, de burgemeester, de rekenkamer en een commissie als bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&z=2026-03-21&g=2026-03-21).
+
+2. Het college kan informatie ten aanzien waarvan hij een verplichting tot geheimhouding heeft opgelegd, verstrekken aan de raad, de rekenkamer en een commissie als bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&z=2026-03-21&g=2026-03-21).
+
+3. De burgemeester kan informatie ten aanzien waarvan hij een verplichting tot geheimhouding heeft opgelegd, verstrekken aan de raad, het college, de rekenkamer en een commissie als bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&z=2026-03-21&g=2026-03-21).
+
+4. Een commissie als bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&z=2026-03-21&g=2026-03-21) kan informatie ten aanzien waarvan zij een verplichting tot geheimhouding heeft opgelegd, verstrekken aan de raad, het college, de burgemeester en de rekenkamer.
+
+5. Indien het college of de burgemeester overeenkomstig het tweede of derde lid informatie verstrekt aan een commissie waarin leden van de raad zitting hebben, verstrekt het college of de burgemeester die informatie tevens aan de raad.
+
+6. Indien het college, de burgemeester of een commissie overeenkomstig het tweede, derde of vierde lid informatie verstrekt aan de raad, kan de raad die informatie verstrekken aan anderen. De raad kan regels stellen over het verstrekken van informatie ten aanzien waarvan een verplichting tot geheimhouding is opgelegd door het college, de burgemeester of een commissie en die tevens aan de raad is verstrekt.
+
+#### Artikel 89
+
+1. Een verplichting tot geheimhouding wordt vermeld op het stuk ten aanzien waarvan de geheimhouding geldt. Indien de geheimhouding geldt ten aanzien van informatie anders dan in schriftelijke vorm, wordt de verplichting op een passende wijze kenbaar gemaakt.
+
+2. Een verplichting tot geheimhouding wordt in acht genomen door allen die van de informatie kennis dragen.
+
+3. Een verplichting tot geheimhouding duurt voort totdat het orgaan dat de verplichting heeft opgelegd haar opheft. Indien de verplichting tot geheimhouding is opgelegd door een commissie, kan die verplichting tevens worden opgeheven door het orgaan dat de commissie heeft ingesteld.
+
+4. Indien informatie ten aanzien waarvan een verplichting tot geheimhouding geldt aan de raad is verstrekt, duurt die verplichting in afwijking van het derde lid voort totdat de raad haar opheft.
+
+5. Een lid van de raad of van een door de raad ingestelde commissie als bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&z=2026-03-21&g=2026-03-21) dat in strijd handelt met het tweede lid kan bij besluit van de raad ten hoogste drie maanden worden uitgesloten van het ontvangen van informatie ten aanzien waarvan een verplichting tot geheimhouding geldt.
+
+#### Artikel 90
+
+Vervallen
+
+#### Artikel 91
+
+Vervallen
+
+#### Artikel 92
+
+Vervallen
+
+#### Artikel 93
+
+Vervallen
+
+#### Artikel 94
+
+Vervallen
+
+### Hoofdstuk IVb. De rekenkamerfunctie
+
+#### Artikel 95
+
+1. De leden van de raad en de leden van de raad aan wie ingevolge [artikel X 10 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_10) ontslag is verleend wegens zwangerschap en bevalling of ziekte ontvangen een bij verordening van de raad vast te stellen vergoeding voor hun werkzaamheden en een tegemoetkoming in de kosten.
+
+2. De raad kan bij verordening regels stellen over de tegemoetkoming in of vergoeding van bijzondere kosten en over andere voorzieningen die verband houden met de vervulling van het lidmaatschap van de raad.
+
+3. Het eerste en tweede lid zijn niet van toepassing op een lid van de raad dat met inachtneming van [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=13&z=2026-03-21&g=2026-03-21), tevens wethouder is.
+
+4. De verordeningen, bedoeld in het eerste en tweede lid, worden vastgesteld overeenkomstig bij of krachtens algemene maatregel van bestuur te stellen regels.
+
+#### Artikel 96
+
+1. De leden van een door de raad, het college of de burgemeester ingestelde commissie ontvangen, voor zover zij geen lid zijn van de raad of het college, een bij verordening van de raad vastgestelde vergoeding:
+
+- a. voor het bijwonen van vergaderingen van een commissie en
+
+- b. van reis- en verblijfkosten.
+
+2. In bijzondere gevallen kan de raad bij verordening bepalen dat de leden van het dagelijks bestuur van een bestuurscommissie of een andere commissie als bedoeld in [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&artikel=84&z=2026-03-21&g=2026-03-21) een vaste vergoeding voor hun werkzaamheden en een tegemoetkoming in de kosten ontvangen.
+
+3. Ten aanzien van de vergoeding, bedoeld in het eerste lid, onderdeel a, wordt bij of krachtens algemene maatregel van bestuur nadere regels gesteld. Ten aanzien van de overige vergoedingen bedoeld in dit artikel kunnen bij of krachtens algemene maatregel van bestuur nadere regels worden gesteld.
+
+#### Artikel 97
+
+Vervallen
+
+#### Artikel 98
+
+De verordeningen bedoeld in de [artikelen 95 tot en met 97](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=VI&artikel=95&z=2026-03-21&g=2026-03-21) worden aan gedeputeerde staten gezonden.
+
+#### Artikel 99
+
+1. Buiten hetgeen hun bij of krachtens de wet is toegekend, ontvangen de leden van de raad, van een door de raad, het college of de burgemeester ingestelde commissie als zodanig geen andere vergoedingen en tegemoetkomingen ten laste van de gemeente.
+
+2. Voordelen ten laste van de gemeente, anders dan in de vorm van vergoedingen en tegemoetkomingen, genieten zij slechts voor zover dat is bepaald bij of krachtens de wet dan wel bij verordening van de raad. De verordening behoeft de goedkeuring van gedeputeerde staten.
+
+### Hoofdstuk IVb. De rekenkamerfunctie
+
+#### Artikel 100
+
+1. In iedere gemeente is een secretaris en een griffier.
+
+2. Een secretaris is niet tevens griffier.
+
+#### Artikel 101
+
+[Artikel 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=15&z=2026-03-21&g=2026-03-21), is van overeenkomstige toepassing op de secretaris en de griffier.
+
+#### Artikel 102
+
+Het college wijst de secretaris aan. De aanwijzing eindigt van rechtswege met ingang van de datum dat de uitoefening van de functie van secretaris geen onderdeel meer uitmaakt van de werkzaamheden van de betreffende ambtenaar.
+
+#### Artikel 103
+
+1. De secretaris staat het college, de burgemeester en de door hen ingestelde commissies bij de uitoefening van hun taak terzijde.
+
+2. Het college stelt in een instructie nadere regels over de taak en de bevoegdheden van de secretaris.
+
+#### Artikel 104
+
+De secretaris is in de vergadering van het college aanwezig.
+
+#### Artikel 105
+
+Vervallen
+
+#### Artikel 106
+
+1. Het college regelt de vervanging van de secretaris.
+
+2. De [artikelen 100, tweede lid, tot en met 104](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=VII&paragraaf=1&artikel=100&z=2026-03-21&g=2026-03-21) zijn van overeenkomstige toepassing op degene die de secretaris vervangt.
+
+#### Artikel 107
+
+1. De raad wijst de griffier aan. De aanwijzing eindigt van rechtswege met ingang van de datum dat de uitoefening van de functie van griffier geen onderdeel meer uitmaakt van de werkzaamheden van de betreffende ambtenaar.
+
+2. De raad is bevoegd te besluiten tot het aangaan, wijzigen en beëindigen van de arbeidsovereenkomst met de griffier.
+
+## Titel III. De bevoegdheid van het gemeentebestuur
+
+### Hoofdstuk IVb. De rekenkamerfunctie
+
+#### Paragraaf 3. De gemeentelijke ombudscommissie
+
+#### Artikel 108
+
+1. De bevoegdheid tot regeling en bestuur inzake de huishouding van de gemeente wordt aan het gemeentebestuur overgelaten.
+
+2. Regeling en bestuur kunnen van het gemeentebestuur worden gevorderd bij of krachtens een andere dan deze wet ter verzekering van de uitvoering daarvan, met dien verstande dat het geven van aanwijzingen aan het gemeentebestuur en het aan het gemeentebestuur opleggen of in zijn plaats vaststellen van beslissingen, slechts kan geschieden indien de bevoegdheid daartoe bij de wet of krachtens de wet bij provinciale verordening is toegekend.
+
+3. Onverminderd het bepaalde in de [artikelen 110, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=110&z=2026-03-21&g=2026-03-21), [119, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=2&artikel=119&z=2026-03-21&g=2026-03-21) en [120, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=2&artikel=120&z=2026-03-21&g=2026-03-21), worden de kosten, verbonden aan de uitvoering van het tweede lid, voor zover zij ten laste van de betrokken gemeenten blijven, door het Rijk aan hen vergoed.
+
+#### Artikel 109
+
+Bij of krachtens de wet kan zo nodig onderscheid worden gemaakt tussen gemeenten.
+
+#### Artikel 110
+
+1. In dit artikel wordt verstaan onder:
+
+- a. plan: een beslissing die een samenhangend geheel van op elkaar afgestemde keuzes bevat omtrent door het gemeentebestuur te nemen besluiten of te verrichten andere handelingen, ten einde een of meer doelstellingen te bereiken;
+
+- b. beleidsverslag: een schriftelijke rapportage betreffende het door het gemeentebestuur gevoerde beleid op een of meer beleidsterreinen dan wel op onderdelen daarvan en de samenhang daarbinnen of daartussen.
+
+2. Het vaststellen van een plan of een beleidsverslag en het ter voorbereiding daarvan volgen van een voorgeschreven procedure kan vanwege het Rijk van het gemeentebestuur slechts worden gevorderd in bij de wet te bepalen gevallen.
+
+3. Een verplichting als bedoeld in het tweede lid geldt voor ten hoogste vier jaren, tenzij de wet anders bepaalt.
+
+4. Het vaststellen van een plan of een beleidsverslag en het ter voorbereiding daarvan volgen van een voorgeschreven procedure kan vanwege het Rijk in andere dan bij de wet bepaalde gevallen voor een termijn van ten hoogste vier jaar van het gemeentebestuur worden gevraagd als onderdeel van de regeling van een tijdelijke specifieke uitkering als bedoeld in [artikel 17 van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17).
+
+5. Het vaststellen van een plan of een beleidsverslag en het ter voorbereiding daarvan volgen van de voorgeschreven procedure wordt van een gemeentebestuur niet gevorderd of gevraagd, dan nadat is aangegeven hoe de financiële gevolgen ervan voor de gemeente worden gecompenseerd.
+
+6. Dit artikel is niet van toepassing op de begroting, bedoeld in [artikel 190](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=190&z=2026-03-21&g=2026-03-21), en op de jaarrekening en het jaarverslag, bedoeld in [artikel 197](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=197&z=2026-03-21&g=2026-03-21).
+
+#### Artikel 111
+
+1. Het vaststellen van een plan of een beleidsverslag als bedoeld in [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=110&z=2026-03-21&g=2026-03-21) en het ter voorbereiding daarvan volgen van een voorgeschreven procedure wordt alleen gevorderd, indien:
+
+- a. dit noodzakelijk is uit een oogpunt van afstemming tussen gemeentelijk beleid en het beleid van de betrokken provincie of het Rijk, of
+
+- b. de ontwikkeling van beleid op een nieuw beleidsterrein dit noodzakelijk maakt.
+
+2. Het vaststellen van een plan of een beleidsverslag als bedoeld in [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=110&z=2026-03-21&g=2026-03-21) en het ter voorbereiding daarvan volgen van een voorgeschreven procedure wordt niet gevorderd, indien:
+
+- a. het gemeentebestuur daardoor ontoelaatbaar beperkt wordt in zijn inhoudelijke of financiële beleidsruimte;
+
+- b. de bestuurslasten niet in redelijke verhouding staan tot de te verwachten baten of een aanzienlijk beslag leggen op de voor het betrokken beleidsterrein beschikbare middelen;
+
+- c. integratie met een bestaand plan of een bestaand beleidsverslag dan wel met de begroting, bedoeld in [artikel 190](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=190&z=2026-03-21&g=2026-03-21), of de jaarrekening en het jaarverslag, bedoeld in [artikel 197](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=197&z=2026-03-21&g=2026-03-21), mogelijk is;
+
+- d. het bevorderen van de samenhang in het gemeentelijk beleid door onderlinge afstemming van onderdelen daarvan onmogelijk wordt;
+
+- e. het uitsluitend dient tot het verkrijgen van informatie.
+
+3. Indien in een voorstel van wet tot invoering of wijziging van bepalingen waarbij het vaststellen van een plan of een beleidsverslag als bedoeld in [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=110&z=2026-03-21&g=2026-03-21) en het ter voorbereiding daarvan volgen van een voorgeschreven procedure wordt gevorderd, wordt afgeweken van het bepaalde bij of krachtens [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=110&z=2026-03-21&g=2026-03-21) en dit artikel, wordt die afwijking gemotiveerd in de bij het voorstel behorende toelichting.
+
+#### Paragraaf 1. Commissies
+
+#### Artikel 112
+
+Onze Minister wie het aangaat en het provinciebestuur doen het college desgevraagd mededeling van hun standpunten en voornemens met betrekking tot aangelegenheden die voor de gemeente van belang zijn, tenzij het openbaar belang zich daartegen verzet.
+
+#### Artikel 113
+
+Onze Minister wie het aangaat en het provinciebestuur bieden het college desgevraagd de gelegenheid tot het plegen van overleg met betrekking tot aangelegenheden die voor de gemeente van belang zijn, tenzij het openbaar belang zich daartegen verzet.
+
+#### Artikel 114
+
+1. Onze Minister wie het aangaat, onderscheidenlijk het provinciebestuur, stelt de betrokken colleges of een instantie die voor deze representatief kan worden geacht, zo nodig binnen een te stellen termijn, in de gelegenheid hun oordeel te geven omtrent voorstellen van wet, ontwerpen van algemene maatregel van bestuur, ontwerpen van ministeriële regeling, of ontwerpen van provinciale verordening waarbij:
+
+- a. van de gemeentebesturen regeling of bestuur wordt gevorderd, of
+
+- b. in betekenende mate wijziging wordt gebracht in de taken en bevoegdheden van de gemeentebesturen.
+
+2. Voorstellen als bedoeld in het eerste lid bevatten in de bijbehorende toelichting een weergave van de gevolgen voor de inrichting en werking van de gemeenten en een weergave van het in het eerste lid bedoelde oordeel van de betrokken colleges of representatieve instantie.
+
+3. Onze Minister wie het aangaat, onderscheidenlijk het provinciebestuur, is niet verplicht vooraf het in het eerste lid bedoelde oordeel in te winnen indien zulks ten gevolge van dringende omstandigheden niet mogelijk is. In dat geval wordt het oordeel zo spoedig mogelijk ingewonnen en openbaar gemaakt.
+
+#### Artikel 115
+
+1. Een wet waarbij van gemeentebesturen regeling of bestuur wordt gevorderd of waarbij in betekenende mate wijziging wordt gebracht in taken en bevoegdheden van gemeentebesturen, wijkt van het bepaalde in deze wet niet af dan wanneer dat bijzonder aangewezen moet worden geacht voor de behartiging van het daarmee te dienen openbaar belang.
+
+2. Het voorstel voor een wet als bedoeld in het eerste lid bevat in de bijbehorende toelichting de gronden voor de voorgestelde afwijking.
+
+#### Artikel 116
+
+1. Onze Minister is belast met de coördinatie van het rijksbeleid dat de gemeenten raakt. Hij bevordert voorts de beleidsvrijheid van het gemeentebestuur.
+
+2. Over maatregelen en voornemens die van betekenis zijn voor het rijksbeleid inzake de gemeenten treden Onze Ministers onder wier verantwoordelijkheid die maatregelen en voornemens tot stand komen in een vroegtijdig stadium in overleg met Onze Minister.
+
+3. Onze Minister maakt bedenkingen kenbaar tegen een maatregel of een voornemen voor zover hem die maatregel of dat voornemen met het oog op het door de regering gevoerde decentralisatiebeleid niet toelaatbaar voorkomt.
+
+#### Artikel 117
+
+1. Onze Minister bevordert de decentralisatie ten behoeve van de gemeenten.
+
+2. Voorstellen van maatregelen waarbij bepaalde aangelegenheden tot rijks- of provinciaal beleid worden gerekend, worden slechts gedaan indien het onderwerp van zorg niet op doelmatige en doeltreffende wijze door de gemeentebesturen kan worden behartigd.
+
+#### Artikel 118
+
+Over al hetgeen de gemeente betreft dient het college Onze Ministers en het provinciebestuur desgevraagd van bericht en raad, tenzij dit uitdrukkelijk van de burgemeester wordt verlangd.
+
+#### Artikel 119
+
+1. Bij de wet of krachtens de wet bij algemene maatregel van bestuur worden de gevallen geregeld waarin het college verplicht is tot het verstrekken van systematische informatie aan Onze Ministers wie het aangaat. Daarbij kan worden bepaald dat bij ministeriële regeling nadere voorschriften worden gegeven ten behoeve van de toepassing van de wet of de algemene maatregel van bestuur.
+
+2. Bij algemene maatregel van bestuur op voordracht van Onze Minister van Economische Zaken, na overleg met Onze Minister, kan worden bepaald dat in die maatregel te omschrijven gegevens ten behoeve van statistische doeleinden aan het Centraal Bureau voor de Statistiek worden verstrekt.
+
+3. Omtrent de in het eerste en tweede lid bedoelde verstrekking van informatie en de inwinning daarvan worden bij algemene maatregel van bestuur nadere algemene regels gesteld.
+
+4. Omtrent de in het eerste en tweede lid bedoelde verstrekking van informatie en de inwinning daarvan, alsmede omtrent de verstrekking en inwinning van incidentele informatie, wordt, voorzover dat niet bij wet geschiedt, bij algemene maatregel van bestuur aangegeven hoe de financiële gevolgen van de verplichting tot informatieverstrekking worden gecompenseerd.
+
+5. De voordrachten voor de algemene maatregelen van bestuur, bedoeld in het derde en het vierde lid, worden gedaan door Onze Minister.
+
+#### Artikel 120
+
+1. Bij de wet of krachtens de wet bij algemene maatregel van bestuur of bij provinciale verordening worden de gevallen geregeld waarin het college verplicht is tot het verstrekken van systematische informatie aan het provinciaal bestuur. Daarbij kan worden bepaald dat bij ministeriële regeling of bij besluit van gedeputeerde staten nadere voorschriften worden gegeven ten behoeve van de toepassing van de wet, de algemene maatregel van bestuur of de provinciale verordening.
+
+2. In de regelingen, bedoeld in de eerste volzin van het eerste lid, wordt tevens aangegeven hoe de financiële gevolgen van de informatieverstrekking voor de gemeente worden gecompenseerd.
+
+3. Het provinciebestuur doet mededeling aan Onze Minister van de inwinning van systematische informatie ingevolge een provinciale verordening.
+
+#### Artikel 121
+
+De bevoegdheid tot het maken van gemeentelijke verordeningen blijft ten aanzien van het onderwerp waarin door wetten, algemene maatregelen van bestuur of provinciale verordeningen is voorzien, gehandhaafd, voor zover de verordeningen met die wetten, algemene maatregelen van bestuur en provinciale verordeningen niet in strijd zijn.
+
+#### Artikel 122
+
+De bepalingen van gemeentelijke verordeningen in wier onderwerp door een wet, een algemene maatregel van bestuur of een provinciale verordening wordt voorzien, zijn van rechtswege vervallen.
+
+#### Paragraaf 2. De secretaris
+
+#### Artikel 123
+
+1. Wanneer aan een bestuurscommissie bevoegdheden van de raad zijn overgedragen en deze commissie een bij of krachtens een andere dan deze wet gevorderde beslissing niet of niet naar behoren neemt, voorziet de raad daarin.
+
+2. Wanneer aan een bestuurscommissie bevoegdheden van het college zijn overgedragen en deze commissie een bij of krachtens een andere dan deze wet gevorderde beslissing niet of niet naar behoren neemt, voorziet het college daarin.
+
+3. Wanneer aan een bestuurscommissie bevoegdheden van de burgemeester zijn overgedragen en die commissie bij of krachtens een andere dan deze wet gevorderde beslissingen niet of niet naar behoren neemt, voorziet de burgemeester daarin.
+
+#### Artikel 124
+
+1. Wanneer de raad, het college of de burgemeester een bij of krachtens een andere dan deze wet gevorderde beslissing niet of niet naar behoren neemt dan wel bij of krachtens een andere dan deze wet gevorderde handeling niet of niet naar behoren verricht, of anderszins een bij of krachtens een andere dan deze wet gevorderd resultaat niet, niet tijdig of niet naar behoren tot stand brengt, besluiten gedeputeerde staten onderscheidenlijk de commissaris van de Koning als het de burgemeester betreft daarin namens de raad, het college of de burgemeester te voorzien ten laste van de gemeente.
+
+2. Spoedeisende gevallen uitgezonderd, voeren gedeputeerde staten of de commissaris van de Koning het besluit tot indeplaatsstelling niet uit dan nadat een in het besluit genoemde termijn is verstreken, waarbinnen de raad, het college of de burgemeester de gelegenheid heeft alsnog te voorzien in hetgeen het besluit vordert. Indien de situatie dermate spoedeisend is dat gedeputeerde staten of de commissaris van de Koning de beslissing om over te gaan tot indeplaatsstelling niet tevoren op schrift kan stellen, zorgen zij alsnog zo spoedig mogelijk voor de opschriftstelling en voor de bekendmaking.
+
+3. Indien het besluit tot indeplaatsstelling een bij of krachtens een andere dan deze wet gevorderd resultaat betreft dat niet tijdig tot stand zal worden gebracht, geven gedeputeerde staten of de commissaris van de Koning in het besluit tot indeplaatsstelling aan welke beslissingen, handelingen of resultaten moeten zijn uitgevoerd binnen de in het tweede lid bedoelde termijn. Gedeputeerde staten of de commissaris van de Koning kunnen voor verschillende beslissingen, handelingen of resultaten een verschillende termijn stellen. Indien de raad, het college onderscheidenlijk de burgemeester niet binnen die termijn heeft voorzien in hetgeen het besluit van hem vordert, voorzien gedeputeerde staten of de commissaris van de Koning verder in het tot stand brengen van het gevorderde resultaat.
+
+4. Van een besluit tot indeplaatsstelling, alsmede van het voornemen tot het nemen van een dergelijk besluit, wordt mededeling gedaan in het gemeenteblad. Een afschrift van het besluit en van het voornemen wordt gezonden aan de raad.
+
+#### Paragraaf 3. De griffier
+
+#### Artikel 125
+
+1. Het gemeentebestuur is bevoegd tot oplegging van een last onder bestuursdwang.
+
+2. De bevoegdheid tot oplegging van een last onder bestuursdwang wordt uitgeoefend door het college, indien de last dient tot handhaving van regels welke het gemeentebestuur uitvoert.
+
+3. De bevoegdheid tot oplegging van een last onder bestuursdwang wordt uitgeoefend door de burgemeester, indien de last dient tot handhaving van regels welke hij uitvoert.
+
+4. Een bestuurscommissie bezit de bevoegdheid tot oplegging van een last onder bestuursdwang en de bevoegdheid tot het geven van een machtiging tot binnentreden van een woning slechts indien ook die bevoegdheid uitdrukkelijk is overgedragen.
+
+#### Artikel 126
+
+Vervallen
+
+#### Artikel 127
+
+Vervallen
+
+#### Artikel 128
+
+Vervallen
+
+#### Artikel 129
+
+Vervallen
+
+#### Artikel 130
+
+Vervallen
+
+#### Artikel 131
+
+Vervallen
+
+#### Artikel 132
+
+Vervallen
+
+#### Artikel 133
+
+Vervallen
+
+#### Artikel 134
+
+Vervallen
+
+#### Artikel 135
+
+Vervallen
+
+#### Artikel 136
+
+Vervallen
+
+#### Artikel 137
+
+Vervallen
+
+#### Artikel 138
+
+Vervallen
+
+#### § 5. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
+
+#### Artikel 139
+
+Vervallen
+
+#### Artikel 140
+
+Vervallen
+
+#### Artikel 141
+
+Vervallen
+
+#### Artikel 142
+
+Vervallen
+
+#### Artikel 143
+
+Vervallen
+
+#### Artikel 144
+
+Vervallen
+
+#### Paragraaf 2. De secretaris
+
+#### Artikel 145
+
+Op termijnen gesteld in een gemeentelijke verordening zijn de [artikelen 1 tot en met 4 van de Algemene Termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=1) van overeenkomstige toepassing, tenzij in de verordening anders is bepaald.
+
+#### Artikel 146
+
+Vervallen
+
+### Hoofdstuk IX. De bevoegdheid van de raad
+
+#### Artikel 147
+
+1. Gemeentelijke verordeningen worden door de raad vastgesteld voor zover de bevoegdheid daartoe niet bij de wet of door de raad krachtens de wet aan het college of de burgemeester is toegekend.
+
+2. De overige bevoegdheden, bedoeld in artikel 108, eerste lid, berusten bij de raad.
+
+3. De overige bevoegdheden, bedoeld in artikel 108, tweede lid, berusten bij het college, voor zover deze niet bij of krachtens de wet aan de raad of de burgemeester zijn toegekend.
+
+#### Artikel 147a
+
+1. Een lid van de raad kan een voorstel voor een verordening of een ander voorstel ter behandeling in de raad indienen.
+
+2. De raad regelt op welke wijze een voorstel voor een verordening wordt ingediend en behandeld.
+
+3. De raad regelt op welke wijze en onder welke voorwaarden een ander voorstel wordt ingediend en behandeld.
+
+4. De raad neemt geen besluit over een voorstel dan nadat het college in de gelegenheid is gesteld zijn wensen en bedenkingen ter kennis van de raad te brengen.
+
+#### Artikel 147b
+
+1. Een lid van de raad kan een voorstel tot wijziging van een voor de vergadering van de raad geagendeerde ontwerp-verordening of ontwerp-beslissing indienen.
+
+2. Het [tweede lid van artikel 147a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=147a&z=2026-03-21&g=2026-03-21) is van overeenkomstige toepassing.
+
+#### Artikel 148
+
+Vervallen
+
+#### Artikel 149
+
+De raad maakt de verordeningen die hij in het belang van de gemeente nodig oordeelt.
+
+#### Artikel 149a
+
+Indien het toezicht op de naleving of de opsporing van een overtreding van een voorschrift van een verordening, dat strekt tot handhaving van de openbare orde of veiligheid of tot bescherming van het leven of de gezondheid van personen vereist dat de met het toezicht op de naleving of de opsporing belaste personen bevoegd zijn binnen te treden in een woning zonder toestemming van de bewoner, kan de raad deze bevoegdheid bij verordening verlenen.
+
+#### Artikel 150
+
+1. De raad stelt een verordening vast waarin regels worden gesteld met betrekking tot de wijze waarop ingezetenen en belanghebbenden bij de voorbereiding, uitvoering en evaluatie van gemeentelijk beleid worden betrokken.
+
+2. Indien de raad de in het eerste lid bedoelde betrokkenheid regelt in de vorm van inspraak, dan wordt deze verleend door toepassing van [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4), tenzij in de verordening anders is bepaald.
+
+3. In de verordening worden voorwaarden bepaald waaronder ingezetenen en maatschappelijke partijen de volgende taken kunnen uitvoeren:
+
+- a. taken inzake de huishouding van de gemeente waarvan de raad de uitvoering aan het gemeentebestuur heeft opgedragen;
+
+- b. taken waarvan de uitvoering bij of krachtens een andere dan deze wet van het gemeentebestuur is gevorderd, voor zover de uitvoering van de taak door een ander dan het gemeentebestuur met het bij of krachtens die wet bepaalde niet in strijd is.
+
+#### Artikel 151
+
+Vervallen
+
+#### Artikel 151a
+
+1. De raad kan een verordening vaststellen waarin voorschriften worden gesteld met betrekking tot het bedrijfsmatig geven van gelegenheid tot het verrichten van seksuele handelingen met of voor een derde tegen betaling.
+
+2. Bij de uitoefening van het toezicht op de naleving van de in het eerste lid bedoelde voorschriften geldt de in [artikel 2 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=2) bedoelde verplichting ook voor een persoon die de leeftijd van veertien jaar nog niet heeft bereikt. Deze toonplicht betreft een identiteitsbewijs als bedoeld in [artikel 1, onderdelen 1° tot en met 3°, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1).
+
+3. Het tweede lid is van overeenkomstige toepassing op de uitoefening van het toezicht op de naleving van gemeentelijke voorschriften met betrekking tot het, door handelingen, houding, woord, gebaar of op andere wijze, passanten tot prostitutie bewegen, uitnodigen dan wel aanlokken.
+
+#### Artikel 152
+
+Vervallen
+
+#### Artikel 153
+
+Vervallen
+
+#### Artikel 154
+
+1. De raad kan op overtreding van zijn verordeningen en van die van organen waaraan ingevolge [artikel 156](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=156&z=2026-03-21&g=2026-03-21) verordenende bevoegdheid is gedelegeerd, straf stellen maar geen andere of zwaardere dan hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie, al dan niet met openbaarmaking van de rechterlijke uitspraak.
+
+2. Op de krachtens het eerste lid strafbaar gestelde overtreding van voorschriften met betrekking tot het plaatsen of laten staan van motorrijtuigen op parkeerterreinen of weggedeelten bedoeld in [artikel 225](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=225&z=2026-03-21&g=2026-03-21) zijn de [artikelen 181](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=181) en [182 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=182) van overeenkomstige toepassing.
+
+3. De in het eerste lid bedoelde strafbare feiten zijn overtredingen.
+
+#### Artikel 154a
+
+1. De raad kan bij verordening de burgemeester de bevoegdheid verlenen om door de burgemeester aangewezen groepen van personen, op een door de burgemeester aangegeven plaats tijdelijk te doen ophouden. De ophouding kan mede omvatten, indien nodig, het overbrengen naar die plaats.
+
+2. De burgemeester oefent de bevoegdheid, bedoeld in het eerste lid, slechts uit:
+
+- a. jegens personen die een door de raad bij verordening vastgesteld en daartoe aangewezen specifiek voorschrift dat strekt tot handhaving van de openbare orde of beperking van gevaar in omstandigheden als bedoeld in [artikel 175](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=175&z=2026-03-21&g=2026-03-21), groepsgewijs niet naleven, en
+
+- b. indien het ophouden noodzakelijk is ter voorkoming van voortzetting of herhaling van de niet-naleving en de naleving redelijkerwijs niet op andere geschikte wijze kan worden verzekerd.
+
+3. De beslissing tot ophouding wordt op schrift gesteld. De schriftelijke beslissing is een beschikking. Indien de situatie dermate spoedeisend is dat de burgemeester de beslissing tot ophouding niet tevoren op schrift kan stellen, zorgt hij alsnog zo spoedig mogelijk voor de opschriftstelling en voor de bekendmaking.
+
+4. De beschikking vermeldt welk voorschrift niet wordt nageleefd.
+
+5. De burgemeester laat tot ophouding als bedoeld in het eerste lid niet overgaan dan nadat de personen uit de in het eerste lid bedoelde groep in de gelegenheid zijn gesteld de tenuitvoerlegging van de beschikking tot ophouding te voorkomen, door alsnog het voorschrift, bedoeld in het vierde lid, na te leven.
+
+6. De burgemeester draagt er zorg voor dat zo spoedig mogelijk een verslag van de bevindingen inzake de tenuitvoerlegging van de ophouding wordt opgesteld.
+
+7. De ophouding mag niet langer duren dan de tijd die nodig is ter voorkoming van voortzetting of herhaling van de niet-naleving, met een maximum van twaalf uren.
+
+8. De plaats van ophouding dient geschikt te zijn voor de opvang van de op te houden personen. Bij algemene maatregel van bestuur kunnen nadere regels hieromtrent worden gesteld.
+
+9. De burgemeester draagt er voor zover mogelijk zorg voor dat de opgehouden personen in de gelegenheid worden gesteld door een daartoe door hem aangewezen ambtenaar hun gegevens te laten vastleggen ten bewijze dat zij zijn opgehouden.
+
+10. Indien tegen de beschikking tot ophouding een verzoek om een voorlopige voorziening als bedoeld in [artikel 8:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:81) wordt gedaan:
+
+- a. wordt, in afwijking van [artikel 8:83, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:83), de verzoeker die is opgehouden zo mogelijk nog tijdens zijn ophouding door de voorzieningenrechter gehoord;
+
+- b. doet de voorzieningenrechter in afwijking van [artikel 8:84, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:84) onmiddellijk na het horen van partijen uitspraak, en
+
+- c. wordt, in afwijking van [artikel 8:82, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:82), geen griffierecht geheven.
+
+11. Bij de beoordeling van het verzoek betrekt de voorzieningenrechter tevens de rechtmatigheid van de tenuitvoerlegging van de beschikking tot ophouding jegens verzoeker.
+
+12. Indien de voorzieningenrechter een of meer verzoeken toewijst op de grond dat de beschikking tot ophouding naar zijn voorlopig oordeel onrechtmatig is, kan hij bepalen dat alle personen die op basis van de betrokken beschikking zijn opgehouden, onverwijld in vrijheid worden gesteld.
+
+13. Het elfde lid is van overeenkomstige toepassing op de beoordeling van een beroep tegen de beschikking tot ophouding als bedoeld in [artikel 8:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:1).
+
+#### Artikel 155
+
+1. Een lid van de raad kan het college of de burgemeester mondeling of schriftelijk vragen stellen.
+
+2. Een lid van de raad kan de raad verlof vragen tot het houden van een interpellatie over een onderwerp dat niet staat vermeld op de agenda, bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=19&z=2026-03-21&g=2026-03-21), om het college of de burgemeester hierover inlichtingen te vragen. De raad stelt hierover nadere regels.
+
+#### Artikel 155a
+
+1. De raad kan op voorstel van een of meer van zijn leden een onderzoek naar het door het college of de burgemeester gevoerde bestuur instellen.
+
+2. Het besluit tot het instellen van een onderzoek omvat een omschrijving van het onderwerp van onderzoek alsmede een toelichting. Deze omschrijving kan hangende het onderzoek door de raad worden gewijzigd.
+
+3. Het onderzoek wordt uitgevoerd door een door de raad in te stellen onderzoekscommissie. De commissie heeft ten minste drie leden en bestaat uitsluitend uit leden van de raad.
+
+4. De [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=22&z=2026-03-21&g=2026-03-21), [23, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=23&z=2026-03-21&g=2026-03-21), [82, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&artikel=82&z=2026-03-21&g=2026-03-21), [87](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=Va&artikel=87&z=2026-03-21&g=2026-03-21) en [89](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=Va&artikel=89&z=2026-03-21&g=2026-03-21) zijn van overeenkomstige toepassing op de onderzoekscommissie.
+
+5. De onderzoekscommissie kan de bij deze wet verleende bevoegdheden uitsluitend uitoefenen, indien ten minste drie van haar leden aanwezig zijn.
+
+6. De bevoegdheden en werkzaamheden van een onderzoekscommissie worden niet geschorst door het aftreden van de raad.
+
+7. Op het besluit tot instelling van een onderzoek en tot instelling van een onderzoekscommissie, alsmede het besluit tot wijziging van de omschrijving van het onderwerp van een onderzoek is [artikel 19 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=19) van overeenkomstige toepassing.
+
+8. Alvorens de raad besluit tot een onderzoek, stelt hij bij verordening nadere regels met betrekking tot deze onderzoeken. In elk geval worden daarin regels opgenomen over de wijze waarop ambtelijke bijstand wordt verleend aan de commissie.
+
+#### Artikel 155b
+
+1. Leden en gewezen leden van de raad, de burgemeester en gewezen burgemeesters, wethouders en gewezen wethouders, leden en gewezen leden van de door de raad ingestelde rekenkamer, leden en gewezen leden van een door de raad, het college of de burgemeester ingestelde commissie, ambtenaren en gewezen ambtenaren onderscheidenlijk ambtenaren van politie en gewezen ambtenaren van politie, in dienst van de gemeente of uit anderen hoofde aan het gemeentebestuur ondergeschikt, zijn verplicht te voldoen aan een vordering van de onderzoekscommissie tot het verschaffen van inzage in, het nemen van afschrift van of het anderszins laten kennisnemen van alle bescheiden waarover zij beschikken en waarvan naar het redelijk oordeel van de onderzoekscommissie inzage, afschrift of kennisneming anderszins voor het doen van een onderzoek als bedoeld in [artikel 155a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=155a&z=2026-03-21&g=2026-03-21) nodig is.
+
+2. Indien een vordering als bedoeld in het eerste lid betrekking heeft op bescheiden die afkomstig zijn van een instelling van de Europese Unie of van het Rijk en kennisneming van die bescheiden door de onderzoekscommissie het belang van de Europese Unie of de Staat kan schaden, wordt niet dan met toestemming van Onze Minister aan de vordering voldaan.
+
+3. Ambtenaren, door of vanwege het gemeentebestuur aangesteld of daaraan ondergeschikt, zijn gehouden om aan een onderzoek als bedoeld in [artikel 155a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=155a&z=2026-03-21&g=2026-03-21) alle door de onderzoekscommissie gevorderde medewerking te verlenen.
+
+#### Artikel 155c
+
+1. Personen als bedoeld in [artikel 155b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=155b&z=2026-03-21&g=2026-03-21), zijn verplicht te voldoen aan een oproep van de onderzoekscommissie om als getuige of deskundige te worden gehoord.
+
+2. Een getuige of deskundige die door de onderzoekscommissie wordt gehoord, is niet tevens lid van de onderzoekscommissie.
+
+3. De getuigen zijn verplicht getuigenis af te leggen.
+
+4. De deskundigen zijn verplicht hun diensten onpartijdig en naar beste weten als zodanig te verlenen.
+
+5. De onderzoekscommissie kan besluiten dat getuigen uitsluitend worden verhoord na het afleggen van een eed of belofte. Zij leggen dan in de vergadering van de onderzoekscommissie, in handen van de voorzitter, de eed of belofte af dat zij de gehele waarheid en niets dan de waarheid zullen zeggen.
+
+6. De getuigen en deskundigen worden in een openbare zitting van de onderzoekscommissie gehoord. Plaats en tijd van de openbare zitting worden door de voorzitter tijdig ter openbare kennis gebracht.
+
+7. De onderzoekscommissie kan om gewichtige redenen besluiten een verhoor of een gedeelte daarvan niet in het openbaar af te nemen. De leden en plaatsvervangende leden van de commissie bewaren geheimhouding over hetgeen hun tijdens een besloten zitting ter kennis komt.
+
+8. Een getuige is gerechtigd zich tijdens het verhoor te laten bijstaan. Om gewichtige redenen kan de commissie besluiten, dat een getuige zonder bijstand wordt gehoord.
+
+9. Verklaringen die zijn afgelegd voor de onderzoekscommissie kunnen, behalve in het geval van [artikel 207, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=207), niet als bewijs in rechte gelden.
+
+#### Artikel 155d
+
+1. Getuigen en deskundigen worden schriftelijk opgeroepen. De brief, houdende de oproep, wordt aangetekend verzonden of tegen gedagtekend ontvangstbewijs uitgereikt.
+
+2. De onderzoekscommissie kan bevelen dat getuigen en deskundigen die, hoewel opgeroepen in overeenstemming met het eerste lid, niet zijn verschenen, door de openbare macht voor hen worden gebracht om aan hun verplichting te voldoen. De onderzoekscommissie stelt de getuige of deskundige hiervan schriftelijk in kennis op de wijze, bedoeld in het eerste lid. In de beschikking wordt een termijn gesteld waarbinnen de belanghebbende de tenuitvoerlegging kan voorkomen door alsnog aan zijn verplichting te voldoen.
+
+#### Artikel 155e
+
+1. Niemand kan genoodzaakt worden aan de onderzoekscommissie geheimen te openbaren, voor zover daardoor onevenredige schade zou worden toegebracht aan het belang van de uitoefening van zijn beroep, dan wel aan het belang van zijn onderneming of de onderneming waarbij hij werkzaam is of is geweest.
+
+2. Zij die uit hoofde van hun ambt, beroep of betrekking tot geheimhouding verplicht zijn, kunnen zich verschonen getuigenis af te leggen, doch uitsluitend met betrekking tot hetgeen waarvan de wetenschap aan hen als zodanig is toevertrouwd. Zij kunnen inzage, afschrift of kennisneming anderszins weigeren van bescheiden of gedeelten daarvan tot welke hun plicht tot geheimhouding zich uitstrekt.
+
+3. De burgemeester en gewezen burgemeesters, wethouders en gewezen wethouders, leden en gewezen leden van een door het college of de burgemeester ingestelde commissie, ambtenaren en gewezen ambtenaren, onderscheidenlijk ambtenaren van politie en gewezen ambtenaren van politie, in dienst van de gemeente of uit anderen hoofde aan het gemeentebestuur ondergeschikt, zijn niet verplicht aan [artikel 155b, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=155b&z=2026-03-21&g=2026-03-21), en [artikel 155c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=155c&z=2026-03-21&g=2026-03-21), te voldoen, indien het verstrekken van de inlichtingen in strijd is met het openbaar belang.
+
+4. De onderzoekscommissie kan verlangen dat een beroep als bedoeld in het derde lid op strijd met het openbaar belang wordt bevestigd door het college, of, voor zover de inlichtingen betrekking hebben op het door de burgemeester gevoerde bestuur, door de burgemeester.
+
+#### Artikel 155f
+
+Het college neemt de door de raad geraamde kosten voor een onderzoek in een bepaald jaar op in de ontwerp-begroting.
+
+#### Artikel 156
+
+1. De raad kan aan het college en aan een door hem ingestelde bestuurscommissie bevoegdheden overdragen, tenzij de aard van de bevoegdheid zich daartegen verzet.
+
+2. De raad kan in ieder geval niet overdragen de bevoegdheid tot:
+
+- a. de instelling van een rekenkamer, bedoeld in [artikel 81a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IVa&paragraaf=1&artikel=81a&z=2026-03-21&g=2026-03-21);
+
+- b. de instelling van een onderzoek, bedoeld in [artikel 155a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=155a&z=2026-03-21&g=2026-03-21), of [artikel 155g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=155g&z=2026-03-21&g=2026-03-21);
+
+- c. de vaststelling of wijziging van de begroting, bedoeld in [artikel 189](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=189&z=2026-03-21&g=2026-03-21);
+
+- d. de vaststelling van de jaarrekening, bedoeld in [artikel 198](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=198&z=2026-03-21&g=2026-03-21);
+
+- e. het stellen van straf op overtreding van de gemeentelijke verordeningen;
+
+- f. de vaststelling van de verordeningen, bedoeld in de [artikelen 212, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIV&artikel=212&z=2026-03-21&g=2026-03-21), [213, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIV&artikel=213&z=2026-03-21&g=2026-03-21), en [213a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIV&artikel=213a&z=2026-03-21&g=2026-03-21);
+
+- g. de aanwijzing van een of meer accountants, bedoeld in [artikel 213, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIV&artikel=213&z=2026-03-21&g=2026-03-21);
+
+- h. de heffing van andere belastingen dan de belastingen, genoemd in [artikel 225](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=225&z=2026-03-21&g=2026-03-21), de precariobelasting, de rioolheffing, bedoeld in [artikel 228a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=228a&z=2026-03-21&g=2026-03-21), de rechten, genoemd in [artikel 229](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=229&z=2026-03-21&g=2026-03-21), de rechten waarvan de heffing geschiedt krachtens andere wetten dan deze wet en de heffing, bedoeld in [artikel 15.33 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.33).
+
+3. De bevoegdheid tot het vaststellen van verordeningen, door strafbepaling of bestuursdwang te handhaven, kan de raad slechts overdragen voor zover het betreft de vaststelling van nadere regels met betrekking tot bepaalde door hem in zijn verordeningen aangewezen onderwerpen.
+
+4. [Artikel 19 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=19) is van overeenkomstige toepassing op een besluit dat wordt genomen op grond van het eerste lid.
+
+#### Artikel 157
+
+1. De voorschriften met betrekking tot de bevoegdheid van de raad, de uitoefening daarvan en het toezicht daarop zijn ten aanzien van de ingevolge [artikel 156](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=156&z=2026-03-21&g=2026-03-21) overgedragen bevoegdheden van overeenkomstige toepassing.
+
+2. Onder de in het eerste lid bedoelde voorschriften zijn niet begrepen die betreffende vergaderingen.
+
+#### Artikel 158
+
+1. De raad kan de naam van de gemeente wijzigen.
+
+2. Het besluit van de raad wordt ter kennis gebracht van Onze Minister en het provinciebestuur.
+
+3. Het besluit vermeldt de datum van ingang, die is gelegen ten minste een jaar na de datum van het besluit.
+
+#### Artikel 159
+
+Vervallen
+
+### Hoofdstuk X. De bevoegdheid van het college van burgemeester en wethouders
+
+#### Artikel 160
+
+1. Het college is in ieder geval bevoegd:
+
+- a. het dagelijks bestuur van de gemeente te voeren, voor zover niet bij of krachtens de wet de raad of de burgemeester hiermee is belast;
+
+- b. beslissingen van de raad voor te bereiden en uit te voeren, tenzij bij of krachtens de wet de burgemeester hiermee is belast;
+
+- c. regels vast te stellen over de ambtelijke organisatie van de gemeente, met uitzondering van de organisatie van de griffie;
+
+- d. tot privaatrechtelijke rechtshandelingen van de gemeente te besluiten;
+
+- e. te besluiten namens de gemeente, het college of de raad rechtsgedingen, bezwaarprocedures of administratief beroepsprocedures te voeren of handelingen ter voorbereiding daarop te verrichten, tenzij de raad, voor zover het de raad aangaat, in voorkomende gevallen anders beslist;
+
+- f. ten aanzien van de voorbereiding van de civiele verdediging;
+
+- g. jaarmarkten of gewone marktdagen in te stellen, af te schaffen of te veranderen.
+
+2. Het college besluit slechts tot de oprichting van en de deelneming in stichtingen, maatschappen, vennootschappen, verenigingen, coöperaties en onderlinge waarborgmaatschappijen, indien dat in het bijzonder aangewezen moet worden geacht voor de behartiging van het daarmee te dienen openbaar belang. Het besluit wordt niet genomen dan nadat de raad een ontwerp-besluit is toegezonden en in de gelegenheid is gesteld zijn wensen en bedenkingen ter kennis van het college te brengen.
+
+3. Het college neemt, ook alvorens is besloten tot het voeren van een rechtsgeding, alle conservatoire maatregelen en doet wat nodig is ter voorkoming van verjaring of verlies van recht of bezit.
+
+#### Artikel 161
+
+Vervallen
+
+#### Artikel 162
+
+Vervallen
+
+#### Artikel 163
+
+Vervallen
+
+#### Artikel 164
+
+Vervallen
+
+#### Artikel 165
+
+1. Het college kan aan een door hem ingestelde bestuurscommissie bevoegdheden overdragen, tenzij de aard van de bevoegdheid zich daartegen verzet.
+
+2. [Artikel 19 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=19) is van overeenkomstige toepassing op een besluit dat wordt genomen op grond van het eerste lid.
+
+3. Het college neemt geen besluit op grond van het eerste lid dan nadat de raad een ontwerp-besluit is toegezonden en in de gelegenheid is gesteld zijn wensen en bedenkingen ter kennis van het college te brengen.
+
+#### Artikel 166
+
+Het college kan een in de gemeente dienstdoende ambtenaar van politie machtigen in zijn naam besluiten te nemen of andere handelingen te verrichten.
+
+#### Artikel 167
+
+1. De voorschriften met betrekking tot de bevoegdheid van het college, de uitoefening daarvan en het toezicht daarop, zijn ten aanzien van de ingevolge [artikel 165](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=X&artikel=165&z=2026-03-21&g=2026-03-21) overgedragen bevoegdheden van overeenkomstige toepassing.
+
+2. Onder de in het eerste lid bedoelde voorschriften zijn niet begrepen die betreffende vergaderingen.
+
+#### Artikel 168
+
+1. Het college kan een of meer leden van het college machtigen tot uitoefening van een of meer van zijn bevoegdheden, tenzij de regeling waarop de bevoegdheid steunt zich daartegen verzet.
+
+2. Een krachtens machtiging uitgeoefende bevoegdheid wordt uit naam en onder verantwoordelijkheid van het college uitgeoefend.
+
+3. Het college kan te dien aanzien alle aanwijzingen geven die het nodig acht.
+
+#### Artikel 169
+
+1. Het college en elk van zijn leden afzonderlijk zijn aan de raad verantwoording schuldig over het door het college gevoerde bestuur.
+
+2. Zij geven de raad alle inlichtingen die de raad voor de uitoefening van zijn taak nodig heeft.
+
+3. Zij geven de raad mondeling of schriftelijk de door een of meer leden gevraagde inlichtingen, tenzij het verstrekken ervan in strijd is met het openbaar belang.
+
+4. Zij geven de raad vooraf inlichtingen over de uitoefening van de bevoegdheden, bedoeld in [artikel 160, eerste lid, onder d, e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=X&artikel=160&z=2026-03-21&g=2026-03-21), indien de raad daarom verzoekt of indien de uitoefening ingrijpende gevolgen kan hebben voor de gemeente. In het laatste geval neemt het college geen besluit dan nadat de raad in de gelegenheid is gesteld zijn wensen en bedenkingen ter kennis van het college te brengen.
+
+5. Indien de uitoefening van de bevoegdheid, bedoeld in [artikel 160, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=X&artikel=160&z=2026-03-21&g=2026-03-21), geen uitstel kan lijden, geven zij in afwijking van het vierde lid de raad zo spoedig mogelijk inlichtingen over de uitoefening van deze bevoegdheid en het terzake genomen besluit.
+
+### Hoofdstuk XI. De bevoegdheid van de burgemeester
+
+#### Artikel 170
+
+1. De burgemeester ziet toe op:
+
+- a. een tijdige voorbereiding, vaststelling, uitvoering en evaluatie van het gemeentelijk beleid en van de daaruit voortvloeiende besluiten, alsmede op een goede afstemming tussen degenen die bij die voorbereiding, vaststelling, uitvoering en evaluatie zijn betrokken;
+
+- b. een goede samenwerking van de gemeente met andere gemeenten en andere overheden;
+
+- c. de kwaliteit van procedures op het vlak van burgerparticipatie;
+
+- d. een zorgvuldige behandeling van bezwaarschriften;
+
+- e. een zorgvuldige behandeling van klachten door het gemeentebestuur.
+
+2. De burgemeester bevordert de bestuurlijke integriteit van de gemeente.
+
+3. De burgemeester bevordert overigens een goede behartiging van de gemeentelijke aangelegenheden.
+
+#### Artikel 171
+
+1. De burgemeester vertegenwoordigt de gemeente in en buiten rechte.
+
+2. De burgemeester kan de in het eerste lid bedoelde vertegenwoordiging opdragen aan een door hem aan te wijzen persoon.
+
+#### Artikel 172
+
+1. De burgemeester is belast met de handhaving van de openbare orde.
+
+2. De burgemeester is bevoegd overtredingen van wettelijke voorschriften die betrekking hebben op de openbare orde, te beletten of te beëindigen. Hij bedient zich daarbij van de onder zijn gezag staande politie.
+
+3. De burgemeester is bevoegd bij verstoring van de openbare orde of bij ernstige vrees voor het ontstaan daarvan, de bevelen te geven die noodzakelijk te achten zijn voor de handhaving van de openbare orde.
+
+4. De commissaris van de Koning geeft, indien een ordeverstoring van meer dan plaatselijke betekenis dan wel ernstige vrees voor het ontstaan van zodanige ordeverstoring zulks noodzakelijk maakt, de burgemeesters in de provincie zoveel mogelijk na overleg met hen, de nodige aanwijzingen met betrekking tot het door hen ter handhaving van de openbare orde te voeren beleid. De aanwijzingen worden zo enigszins mogelijk schriftelijk gegeven.
+
+#### Artikel 173
+
+Vervallen
+
+#### Artikel 174
+
+1. De burgemeester is belast met het toezicht op de openbare samenkomsten en vermakelijkheden alsmede op de voor het publiek openstaande gebouwen en daarbij behorende erven.
+
+2. De burgemeester is bevoegd bij de uitoefening van het toezicht, bedoeld in het eerste lid, de bevelen te geven die met het oog op de bescherming van veiligheid en gezondheid nodig zijn.
+
+3. De burgemeester is belast met de uitvoering van verordeningen voor zover deze betrekking hebben op het in het eerste lid bedoelde toezicht.
+
+#### Artikel 174a
+
+1. De burgemeester kan besluiten een woning, een niet voor het publiek toegankelijk lokaal of een bij die woning of dat lokaal behorend erf te sluiten, indien:
+
+- a. door gedragingen in de woning of het lokaal of op het erf de openbare orde rond de woning, het lokaal of het erf ernstig wordt verstoord;
+
+- b. door ernstig geweld, of bedreiging daarmee, in of in de onmiddellijke nabijheid van de woning of het lokaal of op het erf of in de onmiddellijke nabijheid van het erf, de openbare orde rond de woning, het lokaal of het erf ernstig wordt verstoord of ernstige vrees bestaat voor het ontstaan van een zodanige verstoring;
+
+- c. door het aantreffen in de woning of het lokaal of op het erf van een wapen als bedoeld in [artikel 2 van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=2) de openbare orde rond de woning, het lokaal of het erf ernstig wordt verstoord of ernstige vrees bestaat voor het ontstaan van een zodanige verstoring.
+
+2. De in het eerste lid, aanhef, genoemde bevoegdheid komt de burgemeester eveneens toe in geval van ernstige vrees voor verstoring van de openbare orde op de grond dat de rechthebbende op de woning, het lokaal of het erf eerder een woning, een niet voor het publiek toegankelijk lokaal of een bij die woning of dat lokaal behorend erf op een zodanige wijze heeft gebruikt of doen gebruiken dat die woning, dat lokaal of dat erf op grond van het eerste lid, onderdeel a, is gesloten, en er aanwijzingen zijn dat betrokkene de woning, het lokaal of het erf ten aanzien waarvan hij rechthebbende is eveneens op een zodanige wijze zal gebruiken of doen gebruiken.
+
+3. De burgemeester bepaalt in het besluit de duur van de sluiting. In geval van ernstige vrees voor herhaling of het ontstaan van de ernstige verstoring van de openbare orde kan hij besluiten de duur van de sluiting tot een door hem te bepalen tijdstip te verlengen.
+
+4. Bij de bekendmaking van het besluit worden belanghebbenden in de gelegenheid gesteld binnen een te stellen termijn maatregelen te treffen waardoor de ernstige verstoring van de openbare orde wordt beëindigd of voorkomen. De eerste volzin is niet van toepassing, indien voorafgaande bekendmaking in spoedeisende gevallen niet mogelijk is.
+
+5. De [artikelen 5:25 tot en met 5:28 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:25) zijn van overeenkomstige toepassing. De burgemeester kan van de overtreder de ingevolge [artikel 5:25 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:25) verschuldigde kosten invorderen bij dwangbevel.
+
+#### Artikel 175
+
+1. In geval van oproerige beweging, van andere ernstige wanordelijkheden of van rampen, dan wel van ernstige vrees voor het ontstaan daarvan, is de burgemeester bevoegd alle bevelen te geven die hij ter handhaving van de openbare orde of ter beperking van gevaar nodig acht. Daarbij kan van andere dan bij de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) gestelde voorschriften worden afgeweken.
+
+2. De burgemeester laat tot maatregelen van geweld niet overgaan dan na het doen van de nodige waarschuwing.
+
+#### Artikel 176
+
+1. Wanneer een omstandigheid als bedoeld in [artikel 175, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=175&z=2026-03-21&g=2026-03-21), zich voordoet, kan de burgemeester algemeen verbindende voorschriften geven die ter handhaving van de openbare orde of ter beperking van gevaar nodig zijn. Daarbij kan van andere dan bij de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) gestelde voorschriften worden afgeweken. Hij maakt deze voorschriften bekend op een door hem te bepalen wijze. Indien bekendmaking van deze voorschriften geschiedt op andere wijze dan door plaatsing in het gemeenteblad, wordt van deze voorschriften zo spoedig mogelijk na bekendmaking mededeling gedaan in het gemeenteblad.
+
+2. De burgemeester brengt de voorschriften zo spoedig mogelijk ter kennis van de raad, van de commissaris van de Koning en van het hoofd van het arrondissementsparket.
+
+3. De voorschriften vervallen, indien zij niet door de raad in zijn eerstvolgende vergadering die blijkens de presentielijst door meer dan de helft van het aantal zitting hebbende leden is bezocht, worden bekrachtigd.
+
+4. Indien de raad de voorschriften niet bekrachtigt, kan de burgemeester binnen vierentwintig uren administratief beroep instellen bij de commissaris van de Koning. Deze beslist binnen twee dagen. Gedurende de beroepstermijn en de behandeling van het administratief beroep blijven de voorschriften van kracht.
+
+5. [Hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6) en [afdeling 7.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=7.3) zijn niet van toepassing op het administratief beroep, bedoeld in het vierde lid.
+
+6. De commissaris kan de werking van de voorschriften opschorten zolang zij niet bekrachtigd zijn. Het opschorten stuit onmiddellijk de werking van de voorschriften.
+
+7. Zodra een omstandigheid als bedoeld in [artikel 175, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=175&z=2026-03-21&g=2026-03-21), zich niet langer voordoet, trekt de burgemeester de voorschriften in. Het tweede lid is van overeenkomstige toepassing.
+
+#### Artikel 176a
+
+1. De burgemeester is bevoegd door hem aangewezen groepen van personen op een door hem aangegeven plaats tijdelijk te doen ophouden. De ophouding kan mede omvatten, indien nodig, het overbrengen naar die plaats.
+
+2. De burgemeester oefent de bevoegdheid, bedoeld in het eerste lid, slechts uit:
+
+- a. jegens personen die door hem daartoe aangewezen specifieke onderdelen van een bevel als bedoeld in [artikel 175](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=175&z=2026-03-21&g=2026-03-21) of van een algemeen verbindend voorschrift als bedoeld in [artikel 176](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=176&z=2026-03-21&g=2026-03-21), groepsgewijs niet naleven, en
+
+- b. indien het ophouden noodzakelijk is ter voorkoming van voortzetting of herhaling van de niet-naleving en de naleving redelijkerwijs niet op andere geschikte wijze kan worden verzekerd.
+
+3. [Artikel 154a, derde tot en met veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=154a&z=2026-03-21&g=2026-03-21), is van overeenkomstige toepassing.
+
+#### Artikel 177
+
+1. De burgemeester kan een in de gemeente dienstdoende ambtenaar van politie machtigen in zijn naam besluiten te nemen of andere handelingen te verrichten.
+
+2. Geen machtiging wordt verleend tot het nemen van besluiten ingevolge de [artikelen 151b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=151b&z=2026-03-21&g=2026-03-21), [154a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=154a&z=2026-03-21&g=2026-03-21), [172](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=172&z=2026-03-21&g=2026-03-21), [172a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=172a&z=2026-03-21&g=2026-03-21), [172b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=172b&z=2026-03-21&g=2026-03-21), [174, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=174&z=2026-03-21&g=2026-03-21), en [174a tot en met 176a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=175&z=2026-03-21&g=2026-03-21).
+
+#### Artikel 178
+
+1. De burgemeester kan aan een door hem ingestelde bestuurscommissie bevoegdheden overdragen, tenzij de aard van de bevoegdheid zich tegen overdracht verzet.
+
+2. De bevoegdheden, bedoeld in de [artikelen 151b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=151b&z=2026-03-21&g=2026-03-21), [154a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=154a&z=2026-03-21&g=2026-03-21) en [172 tot en met 176a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=172&z=2026-03-21&g=2026-03-21), kunnen in ieder geval niet worden overgedragen.
+
+3. Ten aanzien van een besluit dat wordt genomen op grond van het eerste lid is [artikel 19 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=19) van overeenkomstige toepassing.
+
+4. De burgemeester neemt geen besluit op grond van het eerste lid dan nadat de raad een ontwerp-besluit is toegezonden en in de gelegenheid is gesteld zijn wensen en bedenkingen ter kennis van de burgemeester te brengen.
+
+#### Artikel 179
+
+De voorschriften met betrekking tot de bevoegdheid van de burgemeester, de uitoefening daarvan en het toezicht daarop zijn ten aanzien van de ingevolge [artikel 178](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=178&z=2026-03-21&g=2026-03-21) overgedragen bevoegdheden van overeenkomstige toepassing.
+
+#### Artikel 180
+
+1. De burgemeester is aan de raad verantwoording schuldig over het door hem gevoerde bestuur.
+
+2. Hij geeft de raad alle inlichtingen die de raad voor de uitoefening van zijn taak nodig heeft.
+
+3. Hij geeft de raad mondeling of schriftelijk de door een of meer leden gevraagde inlichtingen, tenzij het verstrekken ervan in strijd is met het openbaar belang.
+
+#### Artikel 181
+
+Vervallen
+
+## Titel IV. De financiën van de gemeente
+
+### Hoofdstuk XII. Algemene bepalingen
+
+#### Artikel 182
+
+1. De rekenkamer onderzoekt de doelmatigheid, de doeltreffendheid en de rechtmatigheid van het door het gemeentebestuur gevoerde beleid. Een door de rekenkamer ingesteld onderzoek naar de rechtmatigheid van het door het gemeentebestuur gevoerde beleid bevat geen controle van de jaarrekening als bedoeld in [artikel 213, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIV&artikel=213&z=2026-03-21&g=2026-03-21).
+
+2. Op verzoek van de raad kan de rekenkamer een onderzoek instellen.
+
+3. Bij het uitvoeren van haar taken kan de rekenkamer gebruik maken van de resultaten van door anderen verrichte controles, onverminderd haar bevoegdheid tot het verrichten van onderzoek.
+
+#### Artikel 183
+
+1. De rekenkamer is bevoegd alle documenten die berusten bij het gemeentebestuur te onderzoeken voor zover zij dat ter vervulling van haar taak nodig acht.
+
+2. Het gemeentebestuur verstrekt desgevraagd alle inlichtingen die de rekenkamer ter vervulling van haar taak nodig acht.
+
+3. Indien de zorg voor een administratie aan een derde is uitbesteed, is het eerste lid van overeenkomstige toepassing op de administratie van de betrokken derde dan wel van degene die de administratie in opdracht van die derde voert.
+
+#### Artikel 184
+
+1. De rekenkamer heeft de in de volgende leden vermelde bevoegdheden ten aanzien van de volgende instellingen en over de volgende periode:
+
+- a. openbare lichamen, bedrijfsvoeringsorganisaties en gemeenschappelijke organen ingesteld krachtens de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740), waaraan de gemeente deelneemt, over de jaren dat de gemeente deelneemt in de regeling;
+
+- b. naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid waarvan de gemeente meer dan 50% van het geplaatste aandelenkapitaal houdt en naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid, waarin de eerstgenoemde naamloze en besloten vennootschappen middellijk of onmiddellijk meer dan 50% van het geplaatste aandelenkapitaal houden, over de jaren dat de gemeente het geplaatste aandelenkapitaal houdt;
+
+- c. naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid waarvan de gemeente samen met een of meer andere gemeenten, een of meer provincies, een of meer waterschappen of de Staat meer dan 50% van het geplaatste aandelenkapitaal houdt en naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid, waarin de eerstgenoemde naamloze en besloten vennootschappen middellijk of onmiddellijk meer dan 50% van het geplaatste aandelenkapitaal houden, over de jaren dat de gemeente het geplaatste aandelenkapitaal houdt;
+
+- d. rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen die een beroep of bedrijf uitoefenen waaraan de gemeente of een of meer derden voor rekening en risico van de gemeente rechtstreeks of middellijk een subsidie, lening of garantie heeft verstrekt ten laste van de gemeentebegroting, over de jaren waarop deze subsidie, lening of garantie betrekking heeft;
+
+- e. rechtspersonen, commanditaire vennootschappen, vennootschappen onder firma en natuurlijke personen die een beroep of bedrijf uitoefenen die goederen en diensten leveren die betrekking hebben op de uitvoering van een publieke taak waarvan de betaling ten laste van de gemeentebegroting komt en waarbij de gemeente zich het recht heeft voorbehouden bij de betreffende rechtspersoon, vennootschap of natuurlijke persoon controles uit te voeren ten aanzien van de geleverde goederen of diensten, over de jaren waarin de betaling ten laste komt van de gemeentebegroting.
+
+2. De rekenkamer maakt bij het onderzoek ten aanzien van de in het eerste lid genoemde instellingen zoveel mogelijk gebruik van door anderen verrichte controles.
+
+3. De rekenkamer is bevoegd bij de betrokken instelling nadere inlichtingen in te winnen over de jaarrekeningen, daarop betrekking hebbende rapporten van hen die deze jaarrekeningen hebben gecontroleerd en overige documenten met betrekking tot die instelling die bij het gemeentebestuur berusten. Indien een of meer documenten ontbreken, kan de rekenkamer van de betrokken instelling de overlegging daarvan vorderen.
+
+4. De rekenkamer kan, indien de documenten, bedoeld in het derde lid, daartoe aanleiding geven, bij de betrokken instelling dan wel bij de derde die de administratie in opdracht van de instelling voert, een onderzoek instellen, waaronder een onderzoek naar het gevoerde beleid van de instelling, bedoeld in het eerste lid, onderdeel a. De rekenkamer stelt de raad, het college en indien een onderzoek wordt ingesteld naar het gevoerde beleid van een instelling als bedoeld in het eerste lid, onderdeel a, de rekenkamers van de deelnemende gemeenten, provincies en waterschappen aan deze instelling van haar voornemen een dergelijk onderzoek in te stellen in kennis.
+
+5. Indien de rekenkamer voornemens is onderzoek in te stellen bij een in het eerste lid, onderdeel c genoemde instelling, stelt zij, onverminderd het vierde lid, de colleges van de andere deelnemende gemeenten, de gedeputeerde staten van de deelnemende provincies, het dagelijks bestuur van de deelnemende waterschappen of Onze Minister die het aangaat in het geval van deelneming van de Staat van haar voornemen een dergelijk onderzoek in te stellen in kennis.
+
+6. Dit artikel is niet van toepassing op financiële ondernemingen en elektronischgeldinstellingen als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
+
+#### Artikel 185
+
+1. De rekenkamer legt haar bevindingen en haar oordeel vast in rapporten, met dien verstande dat hierin niet worden opgenomen gegevens en bevindingen die naar hun aard vertrouwelijk zijn.
+
+2. Voordat de rekenkamer een rapport, bedoeld in het eerste lid, vaststelt, stelt zij in elk geval het onderzochte orgaan in de gelegenheid binnen redelijke termijn te reageren op haar bevindingen en voorlopige conclusies.
+
+3. Na de vaststelling van het rapport, deelt de rekenkamer aan de raad, aan het college en, indien van toepassing, aan de betrokken instelling, de opmerkingen en bedenkingen mee die zij naar aanleiding van haar bevindingen van belang acht. Aan de raad of het college kan zij ter zake voorstellen doen. Mededelingen aan de raad, die gegevens of bevindingen bevatten die naar hun aard vertrouwelijk zijn, kan de rekenkamer ter vertrouwelijke kennisneming verstrekken.
+
+4. De rekenkamer stelt elk jaar voor 1 april een verslag op van haar werkzaamheden over het voorgaande jaar.
+
+5. De rekenkamer zendt een afschrift van haar rapporten en haar verslag aan de raad en het college. Indien zij met toepassing van [artikel 184](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XIa&artikel=184&z=2026-03-21&g=2026-03-21) een onderzoek heeft ingesteld, zendt de rekenkamer tevens een afschrift van het rapport aan de betrokken instelling. Indien de rekenkamer een onderzoek heeft ingesteld bij een vennootschap als bedoeld in artikel 184, eerste lid, onderdeel c, zendt zij tevens een afschrift ter kennisneming van het rapport aan de colleges van de andere deelnemende gemeenten, de gedeputeerde staten van de deelnemende provincies, de dagelijks besturen van de deelnemende waterschappen of Onze Minister die het aangaat in het geval van deelneming van de Staat.
+
+6. De rapporten en de verslagen van de rekenkamer zijn openbaar.
+
+#### Artikel 186
+
+1. De begroting, de begrotingswijzigingen, de meerjarenraming, de jaarrekening en het jaarverslag worden ingericht overeenkomstig bij of krachtens algemene maatregel van bestuur te geven regels.
+
+2. Bij of krachtens de algemene maatregel van bestuur, bedoeld in het eerste lid, kunnen tevens regels gesteld worden ten aanzien van:
+
+- a. door het college vast te stellen documenten ten behoeve van de uitvoering van de begroting en de jaarrekening;
+
+- b. door het college aan derden te verstrekken informatie op basis van de begroting en de jaarrekening en de controle van deze informatie.
+
+3. Bij of krachtens de algemene maatregel van bestuur, bedoeld in het eerste lid, kunnen nadere regels worden gesteld ten aanzien van het periodiek verstrekken van informatie voor derden. In overeenstemming met Onze Minister van Economische Zaken kan worden bepaald dat de informatie voor derden wordt gezonden aan het Centraal Bureau voor de Statistiek.
+
+4. De informatie voor derden, bedoeld in het tweede lid, onderdeel b, wordt gezonden aan Onze Minister binnen de termijnen, bedoeld in de [artikelen 191, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=191&z=2026-03-21&g=2026-03-21), en [200](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=200&z=2026-03-21&g=2026-03-21). [Artikel 17a, vierde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) is van overeenkomstige toepassing.
+
+5. Indien Onze Minister vaststelt dat de informatie, bedoeld in het tweede lid, onder b, of de informatie, bedoeld in het derde lid, voor zover die verstrekt moet worden aan Onze Minister, niet of niet tijdig wordt verstrekt, dan wel de kwaliteit van die informatie tekort schiet, doet hij daarvan mededeling aan het betrokken college.
+
+6. Het college kan tot twee weken voor het verstrijken van de termijnen, bedoeld in het vierde lid, schriftelijk en met redenen omkleed, aan Onze Minister verzoeken om uitstel voor de toezending van de informatie. Onze Minister beslist binnen twee weken op dat verzoek.
+
+7. Indien de informatie, bedoeld in het tweede lid, onder b, of de informatie, bedoeld in het derde lid, voor zover die verstrekt moet worden aan Onze Minister, niet of niet tijdig wordt verstrekt, dan wel de kwaliteit van die informatie tekort schiet, geeft Onze Minister een aanwijzing aan het college om binnen tien werkdagen alsnog informatie van voldoende kwaliteit te leveren.
+
+8. Indien het college nalaat de aanwijzing, bedoeld in het zevende lid, op te volgen, kunnen Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Financiën besluiten de betalingen op grond van [artikel 15, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=15) aan de betreffende gemeente geheel of gedeeltelijk op te schorten gedurende ten hoogste zesentwintig weken. [Artikel 17b, vierde, vijfde en zesde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17b) is van overeenkomstige toepassing.
+
+#### Artikel 187
+
+Aan de gemeenten kunnen slechts bij of krachtens de wet uitgaven worden opgelegd.
+
+#### Artikel 188
+
+Vervallen
+
+### Hoofdstuk XIII. De begroting en de jaarrekening
+
+#### § 1. De begroting
+
+#### Artikel 189
+
+1. Voor alle taken en activiteiten brengt de raad jaarlijks op de begroting de bedragen die hij daarvoor beschikbaar stelt, alsmede de financiële middelen die hij naar verwachting kan aanwenden.
+
+2. De raad ziet erop toe dat de begroting structureel en reëel in evenwicht is. Hiervan kan hij afwijken indien aannemelijk is dat het structureel en reëel evenwicht in de begroting in de eerstvolgende jaren tot stand zal worden gebracht.
+
+3. Behoudens het bepaalde in de [artikelen 208](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=3&artikel=208&z=2026-03-21&g=2026-03-21) en [209](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=3&artikel=209&z=2026-03-21&g=2026-03-21) kunnen ten laste van de gemeente slechts lasten en daarmee overeenstemmende balansmutaties worden genomen tot de bedragen die hiervoor op de begroting zijn gebracht.
+
+4. Het begrotingsjaar is het kalenderjaar.
+
+#### Artikel 190
+
+1. Het college biedt jaarlijks, tijdig voor de in [artikel 191, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=191&z=2026-03-21&g=2026-03-21), bedoelde vaststelling, de raad een ontwerp aan voor de begroting met toelichting van de gemeente en een meerjarenraming met toelichting voor ten minste drie op het begrotingsjaar volgende jaren.
+
+2. De ontwerp-begroting en de overige in het eerste lid bedoelde stukken liggen, zodra zij aan de raad zijn aangeboden, voor een ieder ter inzage en zijn algemeen verkrijgbaar. Van de terinzagelegging en de verkrijgbaarstelling wordt openbaar kennis gegeven.
+
+3. De raad beraadslaagt over de ontwerp-begroting niet eerder dan twee weken na de openbare kennisgeving.
+
+#### Artikel 191
+
+1. De raad stelt de begroting vast in het jaar voorafgaande aan dat waarvoor zij dient.
+
+2. Het college zendt de door de raad vastgestelde begroting vergezeld van de in [artikel 190, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=190&z=2026-03-21&g=2026-03-21), bedoelde stukken, binnen twee weken na de vaststelling, doch in ieder geval vóór 15 november van het jaar voorafgaande aan dat waarvoor de begroting dient, aan gedeputeerde staten.
+
+#### Artikel 192
+
+1. Besluiten tot wijziging van de begroting kunnen tot uiterlijk het eind van het desbetreffende begrotingsjaar worden genomen.
+
+2. De [artikelen 190, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=190&z=2026-03-21&g=2026-03-21), en [191, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=191&z=2026-03-21&g=2026-03-21), alsmede, behoudens in gevallen van dringende spoed, het bepaalde in [artikel 190, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=190&z=2026-03-21&g=2026-03-21), zijn van overeenkomstige toepassing.
+
+#### Artikel 193
+
+Verplichte uitgaven van de gemeente zijn:
+
+- a. de renten en aflossingen van de door de gemeente aangegane geldleningen en alle overige opeisbare schulden;
+
+- b. de uitgaven die bij of krachtens de wet aan de gemeente zijn opgelegd;
+
+- c. de uitgaven die voortvloeien uit de van het gemeentebestuur gevorderde medewerking tot uitvoering van wetten en algemene maatregelen van bestuur, voor zover die uitgaven niet ten laste van anderen zijn gebracht.
+
+#### Artikel 194
+
+1. Indien de raad weigert verplichte uitgaven op de begroting te brengen, doen gedeputeerde staten dit.
+
+2. Indien de raad bovendien weigert in voldoende dekking van in het eerste lid bedoelde uitgaven te voorzien, verminderen gedeputeerde staten daartoe hetzij het bedrag voor onvoorziene uitgaven, hetzij indien dit bedrag niet toereikend is, overige niet-verplichte uitgaven.
+
+#### Artikel 195
+
+Gedeputeerde staten dragen zo nodig aan de bevoegde gemeenteambtenaar de betaling op ten laste van de gemeente van hetgeen als verplichte uitgaaf op de begroting is gebracht.
+
+#### Artikel 196
+
+Vervallen
+
+#### Paragraaf 2. De jaarrekening
+
+#### Artikel 197
+
+1. Het college legt aan de raad over elk begrotingsjaar verantwoording af over het door hem gevoerde bestuur, onder overlegging van de jaarrekening en het jaarverslag.
+
+2. Het college voegt daarbij de verslagen, bedoeld in [artikel 213a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIV&artikel=213a&z=2026-03-21&g=2026-03-21).
+
+3. De raad legt de in het eerste en tweede lid, alsmede de in [artikel 213, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIV&artikel=213&z=2026-03-21&g=2026-03-21), bedoelde stukken, wanneer de bespreking daarvan geagendeerd is op de in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=19&z=2026-03-21&g=2026-03-21), bedoelde wijze, voor een ieder ter inzage en stelt ze algemeen verkrijgbaar. Van de terinzagelegging en de verkrijgbaarstelling wordt openbaar kennis gegeven. De raad beraadslaagt over de jaarrekening en het jaarverslag niet eerder dan twee weken na de openbare kennisgeving.
+
+#### Artikel 198
+
+1. De raad stelt de jaarrekening en het jaarverslag vast in het jaar volgend op het begrotingsjaar. De jaarrekening betreft alle baten en lasten van de gemeente.
+
+2. Indien de raad tot het standpunt komt dat in de jaarrekening opgenomen baten, lasten of balansmutaties, die niet rechtmatig tot stand zijn gekomen, aan de vaststelling van de jaarrekening in de weg staan, brengt hij dit terstond ter kennis van het college met vermelding van de gerezen bedenkingen.
+
+3. Het college zendt de raad binnen twee maanden na ontvangst van het standpunt, bedoeld in het tweede lid, een voorstel voor een indemniteitsbesluit, vergezeld van een reactie op de bij de raad gerezen bedenkingen.
+
+4. Indien het college een voorstel voor een indemniteitsbesluit heeft gedaan, stelt de raad de jaarrekening niet vast dan nadat hij heeft besloten over het voorstel.
+
+#### Artikel 199
+
+Behoudens later in rechte gebleken onregelmatigheden, ontlast de vaststelling van de jaarrekening de leden van het college ten aanzien van het daarin verantwoorde financieel beheer.
+
+#### Artikel 200
+
+Het college zendt de vastgestelde jaarrekening en het jaarverslag, vergezeld van de overige in [artikel 197](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=197&z=2026-03-21&g=2026-03-21) bedoelde stukken binnen twee weken na vaststelling, maar in ieder geval vóór 15 juli van het jaar, volgend op het begrotingsjaar, aan gedeputeerde staten. Het college voegt daarbij, indien van toepassing, het besluit van de raad over een voorstel voor een indemniteitsbesluit met de reactie, bedoeld in [artikel 198, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=198&z=2026-03-21&g=2026-03-21).
+
+#### Artikel 201
+
+Indien de raad de jaarrekening dan wel een indemniteitsbesluit niet of niet naar behoren vaststelt, zendt het college de jaarrekening, vergezeld van de overige in [artikel 197](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=197&z=2026-03-21&g=2026-03-21) bedoelde stukken, respectievelijk het indemniteitsbesluit ter vaststelling aan gedeputeerde staten.
+
+#### Artikel 202
+
+Vervallen
+
+#### § 3. Goedkeuring van de begroting
+
+#### Artikel 203
+
+1. De begroting, bedoeld in [artikel 189](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=189&z=2026-03-21&g=2026-03-21), van het eerstvolgende begrotingsjaar alsmede de daarop betrekking hebbende begrotingswijzigingen behoeven de goedkeuring van gedeputeerde staten, indien naar hun oordeel de begroting, bedoeld in [artikel 189](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=189&z=2026-03-21&g=2026-03-21), niet structureel en reëel in evenwicht is en blijkens de meerjarenraming, bedoeld in [artikel 190](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=190&z=2026-03-21&g=2026-03-21), niet aannemelijk is dat in de eerstvolgende jaren een structureel en reëel evenwicht tot stand zal worden gebracht. Gedeputeerde staten doen hiervan vóór de aanvang van het begrotingsjaar mededeling aan het gemeentebestuur.
+
+2. Gedeputeerde staten kunnen bepalen dat de begroting, bedoeld in [artikel 189](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=189&z=2026-03-21&g=2026-03-21), van het eerstvolgende begrotingsjaar alsmede de daarop betrekking hebbende begrotingswijzigingen hun goedkeuring behoeven, indien:
+
+- a. de begroting, bedoeld in [artikel 189](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=189&z=2026-03-21&g=2026-03-21), niet tijdig is ingezonden aan gedeputeerde staten overeenkomstig het bepaalde in [artikel 191](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=1&artikel=191&z=2026-03-21&g=2026-03-21), of
+
+- b. de jaarrekening, bedoeld in [artikel 197, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=197&z=2026-03-21&g=2026-03-21), van het tweede aan het begrotingsjaar voorafgaande jaar niet tijdig is ingezonden aan gedeputeerde staten overeenkomstig het bepaalde in [artikel 200, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=200&z=2026-03-21&g=2026-03-21).
+
+3. Gedeputeerde staten maken een besluit als bedoeld in het tweede lid vóór de aanvang van het begrotingsjaar aan het gemeentebestuur bekend.
+
+4. De begroting behoeft geen goedkeuring indien gedeputeerde staten geen mededeling doen als bedoeld in het eerste lid of geen besluit bekendmaken als bedoeld in het tweede lid binnen de in het eerste respectievelijk derde lid genoemde termijn.
+
+5. Gedeputeerde staten kunnen het besluit, bedoeld in het eerste lid, gedurende het lopende begrotingsjaar intrekken.
+
+#### Artikel 204
+
+Vervallen
+
+#### Artikel 205
+
+1. Gedeputeerde staten stellen Onze Minister uiterlijk een maand na de aanvang van het begrotingsjaar schriftelijk en gemotiveerd in kennis van de mededelingen en besluiten, bedoeld in [artikel 203, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=3&artikel=203&z=2026-03-21&g=2026-03-21).
+
+2. Gedeputeerde staten maken bij de aanvang van het desbetreffende begrotingsjaar door publicatie in de **Staatscourant** bekend van welke gemeenten de begrotingen en begrotingswijzigingen hun goedkeuring behoeven.
+
+#### Artikel 206
+
+De goedkeuring kan slechts worden onthouden wegens strijd met het recht of met het algemene financiële belang.
+
+#### Artikel 207
+
+1. Indien een besluit is genomen als bedoeld in [artikel 203, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=3&artikel=203&z=2026-03-21&g=2026-03-21), vangt de termijn, bedoeld in [artikel 10:31, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:31), voor de al ingezonden begroting aan op de dag waarop dat besluit is genomen.
+
+2. Indien op de dag waarop een besluit tot wijziging van de begroting aan gedeputeerde staten wordt aangeboden, de begroting nog niet is goedgekeurd, vangt de in [artikel 10:31, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:31) bedoelde termijn aan op de dag van de goedkeuring van de begroting.
+
+3. Gedeputeerde staten kunnen bij hun besluit omtrent goedkeuring van de begroting ten aanzien van door hen aan te geven soorten van wijzigingen daarvan bepalen dat die hun goedkeuring niet behoeven.
+
+#### Artikel 208
+
+1. Indien de begroting of een besluit tot wijziging daarvan niet is goedgekeurd, behoeft het gemeentebestuur tot het aangaan van verplichtingen de toestemming van gedeputeerde staten.
+
+2. Een aanvraag van het gemeentebestuur om toepassing van het eerste lid kan door gedeputeerde staten slechts worden afgewezen wegens strijd met het recht of met het algemene financiële belang.
+
+3. Gedeputeerde staten beslissen op de aanvraag binnen twee maanden na de verzending van de aanvraag, bedoeld in het tweede lid. De toestemming wordt geacht te zijn verleend indien binnen deze termijn geen besluit aan het gemeentebestuur is verzonden.
+
+4. Gedeputeerde staten kunnen aan de toestemming voorschriften verbinden.
+
+5. Gedeputeerde staten kunnen bepalen voor welke posten en tot welk bedrag het gemeentebestuur de toestemming, bedoeld in het eerste lid, niet behoeft.
+
+#### Artikel 209
+
+1. In gevallen van dringende spoed kan, indien de raad daartoe besluit, verplichting worden aangegaan voordat de desbetreffende begroting of begrotingswijziging is goedgekeurd. Het besluit wordt gedeputeerde staten terstond toegezonden. Is de aangegane verplichting geraamd bij een begrotingswijziging welke nog niet ter goedkeuring is ingezonden, dan wordt deze begrotingswijziging te zamen met het besluit toegezonden.
+
+2. Over het in het eerste lid bedoelde besluit stemt de raad bij hoofdelijke oproeping.
+
+#### Artikel 210
+
+1. Indien de raad [artikel 209](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=3&artikel=209&z=2026-03-21&g=2026-03-21) heeft toegepast en gedeputeerde staten hun goedkeuring aan de desbetreffende begroting of begrotingswijziging onthouden, kunnen zij binnen een maand nadat hun besluit onherroepelijk is geworden, de leden van de raad die hun stem vóór het in [artikel 209](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=3&artikel=209&z=2026-03-21&g=2026-03-21) bedoelde besluit hebben uitgebracht, ieder voor een gelijk deel, persoonlijk voor deze verplichting aansprakelijk stellen tegenover de gemeente.
+
+2. De werking van het besluit tot aansprakelijkstelling wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.
+
+3. De commissaris van de Koning stelt zo nodig namens en ten laste van de gemeente een rechtsvordering in tot betaling van de krachtens het besluit tot aansprakelijkstelling verschuldigde gelden.
+
+#### Artikel 211
+
+Indien de begroting van een gemeente ingevolge [artikel 203, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=3&artikel=203&z=2026-03-21&g=2026-03-21), is onderworpen aan goedkeuring, kunnen gedeputeerde staten bepalen dat door hen aan te wijzen beslissingen van het gemeentebestuur die financiële gevolgen voor de gemeente hebben of kunnen hebben, door het college binnen twee weken aan gedeputeerde staten worden toegezonden.
+
+### Hoofdstuk X. De bevoegdheid van het college van burgemeester en wethouders
+
+#### Artikel 212
+
+1. De raad stelt bij verordening de uitgangspunten voor het financiële beleid, alsmede voor het financiële beheer en voor de inrichting van de financiële organisatie vast. Deze verordening waarborgt dat aan de eisen van rechtmatigheid, verantwoording en controle wordt voldaan.
+
+2. De verordening bevat in ieder geval:
+
+- a. regels voor waardering en afschrijving van activa;
+
+- b. grondslagen voor de berekening van de door het gemeentebestuur in rekening te brengen prijzen en van tarieven voor rechten als bedoeld in [artikel 229b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=229b&z=2026-03-21&g=2026-03-21), alsmede, voor zover deze wordt geheven, voor de heffing bedoeld in [artikel 15.33 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.33);
+
+- c. regels inzake de algemene doelstellingen en de te hanteren richtlijnen en limieten van de financieringsfunctie.
+
+#### Artikel 213
+
+1. De raad stelt bij verordening regels vast voor de controle op het financiële beheer en op de inrichting van de financiële organisatie. Deze verordening waarborgt dat de rechtmatigheid van het financiële beheer en van de inrichting van de financiële organisatie wordt getoetst.
+
+2. De raad wijst een of meer accountants aan als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), belast met de controle van de in [artikel 197](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIII&paragraaf=2&artikel=197&z=2026-03-21&g=2026-03-21) bedoelde jaarrekening en het daarbij verstrekken van een accountantsverklaring en het uitbrengen van een verslag van bevindingen.
+
+3. De accountantsverklaring geeft op grond van de uitgevoerde controle aan of:
+
+- a. de jaarrekening een getrouw beeld geeft van zowel de baten en lasten als de grootte en samenstelling van het vermogen;
+
+- b. de baten en lasten, alsmede de balansmutaties met betrekking tot specifieke uitkeringen als bedoeld in [artikel 17 van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17) rechtmatig tot stand zijn gekomen;
+
+- c. de jaarrekening is opgesteld in overeenstemming met de bij of krachtens algemene maatregel van bestuur te stellen regels, bedoeld in [artikel 186](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XII&artikel=186&z=2026-03-21&g=2026-03-21) en
+
+- d. het jaarverslag met de jaarrekening verenigbaar is.
+
+4. Het verslag van bevindingen bevat in ieder geval bevindingen over:
+
+- a. de vraag of de inrichting van het financiële beheer en van de financiële organisatie een getrouwe en rechtmatige verantwoording mogelijk maken en
+
+- b. de tabel van fouten en onzekerheden voor de specifieke uitkeringen.
+
+5. De accountant zendt de accountantsverklaring en het verslag van bevindingen aan de raad en een afschrift daarvan aan het college.
+
+6. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de reikwijdte van en de verslaglegging omtrent de accountantscontrole, bedoeld in het tweede lid.
+
+7. Accountants als bedoeld in het tweede lid kunnen in gemeentelijke dienst worden genomen. In dat geval besluit de raad tot het aangaan, wijzigen en beëindigen van de arbeidsovereenkomst.
+
+8. Indien de raad op grond van het tweede lid accountants heeft aangewezen die in gemeentelijke dienst zijn genomen, is:
+
+- a. het bepaalde bij en krachtens de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=25), [25a](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=25a) en [27 van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=27) van overeenkomstige toepassing op deze accountants;
+
+- b. het bepaalde bij en krachtens de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=14), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=20) en [21 van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=21) van overeenkomstige toepassing op de gemeente; en
+
+- c. het bepaalde bij en krachtens de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=15) en [16 van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=16) van overeenkomstige toepassing op de personen die de dagelijkse leiding hebben over het onderdeel van de gemeente waarbij de in de aanhef bedoelde accountants werkzaam zijn.
+
+9. Indien een gemeente wordt aangewezen als organisatie van openbaar belang als bedoeld in [artikel 1, eerste lid, onderdeel l, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1), zijn de [artikelen 22 tot en met 24 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=22) van overeenkomstige toepassing op deze gemeente.
+
+#### Artikel 213a
+
+1. Het college verricht periodiek onderzoek naar de doelmatigheid en de doeltreffendheid van het door hem gevoerde bestuur. De raad stelt bij verordening regels hierover.
+
+2. Het college brengt schriftelijk verslag uit aan de raad van de resultaten van de onderzoeken.
+
+3. Het college stelt de rekenkamer tijdig op de hoogte van de onderzoeken die hij doet instellen en zendt haar een afschrift van een verslag als bedoeld in het tweede lid.
+
+#### Artikel 214
+
+Het college zendt de verordeningen, bedoeld in de [artikelen 212](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIV&artikel=212&z=2026-03-21&g=2026-03-21), [213](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIV&artikel=213&z=2026-03-21&g=2026-03-21) en [213a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIV&artikel=213a&z=2026-03-21&g=2026-03-21), binnen twee weken na vaststelling door de raad aan gedeputeerde staten.
+
+#### Artikel 215
+
+Gedeputeerde staten kunnen te allen tijde een onderzoek instellen naar het beheer en de inrichting van de financiële organisatie, bedoeld in [artikel 212, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIV&artikel=212&z=2026-03-21&g=2026-03-21).
+
+### Hoofdstuk XV. De gemeentelijke belastingen
+
+#### § 1. Algemene bepalingen
+
+#### Artikel 216
+
+De raad besluit tot het invoeren, wijzigen of afschaffen van een gemeentelijke belasting door het vaststellen van een belastingverordening.
+
+#### Artikel 217
+
+Een belastingverordening vermeldt, in de daartoe leidende gevallen, de belastingplichtige, het voorwerp van de belasting, het belastbare feit, de heffingsmaatstaf, het tarief, het tijdstip van ingang van de heffing, het tijdstip van beëindiging van de heffing en hetgeen overigens voor de heffing en de invordering van belang is.
+
+#### Artikel 218
+
+Vervallen
+
+#### Artikel 218a
+
+Vervallen
+
+#### Artikel 218b
+
+Vervallen
+
+#### Artikel 219
+
+1. Behalve de gemeentelijke belastingen waarvan de heffing krachtens andere wetten dan deze geschiedt, worden geen andere belastingen geheven dan die bedoeld in de [tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&z=2026-03-21&g=2026-03-21) en [derde paragraaf van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&z=2026-03-21&g=2026-03-21).
+
+2. Behoudens het bepaalde in andere wetten dan deze en in de [tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&z=2026-03-21&g=2026-03-21) en [derde paragraaf van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&z=2026-03-21&g=2026-03-21) kunnen de gemeentelijke belastingen worden geheven naar in de belastingverordening te bepalen heffingsmaatstaven, met dien verstande dat het bedrag van een gemeentelijke belasting niet afhankelijk mag worden gesteld van het inkomen, de winst of het vermogen.
+
+#### Paragraaf 2. De jaarrekening
+
+#### Artikel 220
+
+Ter zake van binnen de gemeente gelegen onroerende zaken kunnen onder de naam onroerende-zaakbelastingen worden geheven:
+
+- a. een belasting van degenen die bij het begin van het kalenderjaar onroerende zaken die niet in hoofdzaak tot woning dienen, al dan niet krachtens eigendom, bezit, beperkt recht of persoonlijk recht, gebruiken;
+
+- b. een belasting van degenen die bij het begin van het kalenderjaar van onroerende zaken het genot hebben krachtens eigendom, bezit of beperkt recht.
+
+#### Artikel 220a
+
+1. Met betrekking tot de onroerende-zaakbelastingen wordt als onroerende zaak aangemerkt de onroerende zaak, bedoeld in [hoofdstuk III van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=III).
+
+2. Een onroerende zaak dient in hoofdzaak tot woning indien de waarde die op grond van [hoofdstuk IV van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV) is vastgesteld voor die onroerende zaak in hoofdzaak kan worden toegerekend aan delen van de onroerende zaak die dienen tot woning dan wel volledig dienstbaar zijn aan woondoeleinden.
+
+#### Artikel 220b
+
+1. Voor de toepassing van [artikel 220, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220&z=2026-03-21&g=2026-03-21), wordt:
+
+- a. gebruik door degene aan wie een deel van een onroerende zaak in gebruik is gegeven, aangemerkt als gebruik door degene die dat deel in gebruik heeft gegeven; degene die het deel in gebruik heeft gegeven is bevoegd de belasting als zodanig te verhalen op degene aan wie dat deel in gebruik is gegeven;
+
+- b. het ter beschikking stellen van een onroerende zaak voor volgtijdig gebruik aangemerkt als gebruik door degene die die onroerende zaak ter beschikking heeft gesteld; degene die de onroerende zaak ter beschikking heeft gesteld is bevoegd de belasting als zodanig te verhalen op degene aan wie die zaak ter beschikking is gesteld.
+
+2. Voor de toepassing van [artikel 220, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220&z=2026-03-21&g=2026-03-21), wordt als genothebbende krachtens eigendom, bezit of beperkt recht aangemerkt degene die bij het begin van het kalenderjaar als zodanig in de basisregistratie kadaster is vermeld, tenzij blijkt dat hij op dat tijdstip geen genothebbende krachtens eigendom, bezit of beperkt recht is.
+
+#### Artikel 220c
+
+De heffingsmaatstaf voor de onroerende-zaakbelastingen is de op de voet van [hoofdstuk IV van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV) voor de onroerende zaak vastgestelde waarde voor het kalenderjaar, bedoeld in [artikel 220](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220&z=2026-03-21&g=2026-03-21).
+
+#### Artikel 220d
+
+1. In afwijking in zoverre van [artikel 220c](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220c&z=2026-03-21&g=2026-03-21) wordt bij de bepaling van de heffingsmaatstaf voor de onroerende-zaakbelastingen buiten aanmerking gelaten, voor zover dit niet reeds is geschied bij de bepaling van de in dat artikel bedoelde waarde, de waarde van:
+
+- a. ten behoeve van de land- of bosbouw bedrijfsmatig geëxploiteerde cultuurgrond, daaronder mede begrepen de open grond, alsmede de ondergrond van glasopstanden, die bedrijfsmatig aangewend wordt voor de kweek of teelt van gewassen, zonder daarbij de ondergrond als voedingsbodem te gebruiken;
+
+- b. glasopstanden, die bedrijfsmatig worden aangewend voor de kweek of teelt van gewassen, voor zover de ondergrond daarvan bestaat uit de in onderdeel a bedoelde grond;
+
+- c. onroerende zaken die in hoofdzaak zijn bestemd voor de openbare eredienst of voor het houden van openbare bezinningssamenkomsten van levensbeschouwelijke aard, een en ander met uitzondering van delen van zodanige onroerende zaken die dienen als woning;
+
+- d. één of meer onroerende zaken die deel uitmaken van een op de voet van de [Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939) aangewezen landgoed dat voldoet aan bij of krachtens algemene maatregel van bestuur te stellen voorwaarden, met uitzondering van de daarop voorkomende gebouwde eigendommen;
+
+- e. natuurterreinen, waaronder mede worden verstaan duinen, heidevelden, zandverstuivingen, moerassen en plassen, die door rechtspersonen met volledige rechtsbevoegdheid welke zich uitsluitend of nagenoeg uitsluitend het behoud van natuurschoon ten doel stellen, beheerd worden;
+
+- f. openbare land- en waterwegen en banen voor openbaar vervoer per rail, een en ander met inbegrip van kunstwerken;
+
+- g. waterverdedigings- en waterbeheersingswerken die worden beheerd door organen, instellingen of diensten van publiekrechtelijke rechtspersonen, met uitzondering van de delen van zodanige werken die dienen als woning;
+
+- h. werken die zijn bestemd voor de zuivering van riool- en ander afvalwater en die worden beheerd door organen, instellingen of diensten van publiekrechtelijke rechtspersonen, met uitzondering van de delen van zodanige werken die dienen als woning;
+
+- i. een onroerende zaak of een deel daarvan waarvan de waarde ingevolge de gemeentelijke belastingverordening bij de bepaling van de heffingsmaatstaf buiten aanmerking blijft;
+
+- j. werktuigen die van een onroerende zaak kunnen worden afgescheiden zonder dat beschadiging van betekenis aan die werktuigen wordt toegebracht en die niet op zichzelf als gebouwde eigendommen zijn aan te merken.
+
+2. Voor de toepassing van het eerste lid, onderdelen a en b, wordt het begrip landbouw opgevat als in [artikel 312 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=312).
+
+3. Bij de toepassing van het eerste lid is het bepaalde bij of krachtens de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=18) en [20, tweede lid, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=20) van overeenkomstige toepassing.
+
+4. Indien met betrekking tot een onroerende zaak geen waarde is vastgesteld op de voet van [hoofdstuk IV van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV) wordt de heffingsmaatstaf van die onroerende zaak bepaald met toepassing van het eerste en het tweede lid, alsmede met overeenkomstige toepassing van het bepaalde bij of krachtens de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=18) en [20, tweede lid, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=20).
+
+#### Artikel 220e
+
+In afwijking van [artikel 220c](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220c&z=2026-03-21&g=2026-03-21) wordt bij de bepaling van de heffingsmaatstaf voor de onroerendezaakbelasting bedoeld in [artikel 220, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220&z=2026-03-21&g=2026-03-21), buiten aanmerking gelaten de waarde van gedeelten van de onroerende zaak die in hoofdzaak tot woning dienen dan wel in hoofdzaak dienstbaar zijn aan woondoeleinden.
+
+#### Artikel 220f
+
+1. De belasting bedraagt een percentage van de heffingsmaatstaf. Het percentage wordt gelijkelijk vastgesteld voor onderscheidenlijk:
+
+- a. de belasting, bedoeld in [artikel 220, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220&z=2026-03-21&g=2026-03-21);
+
+- b. de belasting, bedoeld in [artikel 220, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220&z=2026-03-21&g=2026-03-21), voor zover het onroerende zaken betreft die in hoofdzaak tot woning dienen;
+
+- c. de belasting, bedoeld in [artikel 220, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220&z=2026-03-21&g=2026-03-21), voor zover het onroerende zaken betreft die niet in hoofdzaak tot woning dienen.
+
+2. In plaats van de percentages, bedoeld in het eerste lid, onderdeel a of c, kan het percentage, bedoeld in het eerste lid, onderdeel b, worden toegepast voor sportaccommodaties of dorpshuizen, dan wel voor de onroerende zaken die in eigendom of bezit zijn van overige sociaal belang behartigende instellingen als bedoeld in [artikel 2, derde lid, onderdeel o, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2) of algemeen nut beogende instellingen als bedoeld in artikel 2, derde lid, onderdeel m, van die wet.
+
+#### Artikel 220g
+
+Vervallen
+
+#### Artikel 220h
+
+1. In de belastingverordening kan worden bepaald dat geen belasting wordt geheven indien de heffingsmaatstaf blijft beneden € 12 000 dan wel een in de belastingverordening te bepalen lager bedrag.
+
+2. In de belastingverordening kunnen belastingbedragen tot maximaal € 10 worden opgenomen waarvoor geen invordering zal plaatsvinden. Voor de toepassing van de vorige volzin kan in de belastingverordening worden bepaald dat het totaal van op één aanslagbiljet of kennisgeving verenigde verschuldigde bedragen wordt aangemerkt als één belastingbedrag.
+
+#### Artikel 220i
+
+Vervallen
+
+#### § 1. De begroting
+
+#### Artikel 221
+
+1. Ter zake van binnen de gemeente gelegen woon- en bedrijfsruimten, welke duurzaam aan een plaats gebonden zijn en dienen tot permanente bewoning of permanent gebruik, doch niet onroerend zijn, kunnen de volgende belastingen worden geheven, te weten:
+
+- a. een belasting van degenen die bij het begin van het kalenderjaar de ruimten die niet in hoofdzaak tot woning dienen, al dan niet krachtens eigendom, bezit, beperkt recht of persoonlijk recht, gebruiken;
+
+- b. een belasting van degenen die bij het begin van het kalenderjaar van de ruimten het genot hebben krachtens eigendom, bezit of beperkt recht.
+
+2. Bij de toepassing van het eerste lid zijn de [artikelen 220a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220a&z=2026-03-21&g=2026-03-21), [220b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220b&z=2026-03-21&g=2026-03-21), [220d tot en met 220f](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220d&z=2026-03-21&g=2026-03-21) en [220h](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220h&z=2026-03-21&g=2026-03-21) alsmede het bepaalde bij of krachtens de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=17) en [18 van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=18) van overeenkomstige toepassing.
+
+3. Het tarief van de in het eerste lid bedoelde belastingen is gelijk aan het binnen de gemeente geldende tarief voor de onroerendezaakbelastingen.
+
+#### Artikel 222
+
+1. Ter zake van de in een bepaald gedeelte van de gemeente gelegen onroerende zaak die gebaat is door voorzieningen die tot stand worden of zijn gebracht door of met medewerking van het gemeentebestuur, kan van degenen die van die onroerende zaak het genot hebben krachtens eigendom, bezit of beperkt recht, een baatbelasting worden geheven, waarbij de aan de voorzieningen verbonden lasten geheel of gedeeltelijk worden omgeslagen. Indien de aan de voorzieningen verbonden lasten ter zake van een onroerende zaak krachtens overeenkomst zijn of worden voldaan, of met toepassing van [artikel 13.18 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=13.18) zijn of behoren te worden voldaan, wordt de baatbelasting ter zake van die onroerende zaak niet geheven.
+
+2. Voordat met het treffen van voorzieningen wordt aangevangen, wordt door de raad besloten in welke mate de aan die voorzieningen verbonden lasten door middel van een baatbelasting zullen worden verhaald. Een besluit als bedoeld in de eerste volzin bevat een aanduiding van het gebied waarbinnen de gebate onroerende zaak is gelegen.
+
+3. Of een onroerende zaak is gebaat wordt beoordeeld naar de toestand op een in de belastingverordening te bepalen tijdstip, dat is gelegen uiterlijk een jaar nadat de voorzieningen geheel zijn voltooid.
+
+4. Tot invoering van de belasting wordt besloten uiterlijk twee jaren nadat de voorzieningen geheel zijn voltooid.
+
+5. De belasting wordt ineens geheven, met dien verstande dat de belasting op verzoek van de belastingplichtige in de vorm van een jaarlijkse belasting wordt geheven gedurende ten hoogste dertig jaren, een en ander volgens in de verordening vast te stellen regelen.
+
+#### Artikel 223
+
+1. Er kan een forensenbelasting worden geheven van de natuurlijke personen, die, zonder in de gemeente hoofdverblijf te hebben, er gedurende het belastingjaar meer dan negentig malen nachtverblijf houden, anders dan als verpleegde of verzorgde in een inrichting tot verpleging of verzorging van zieken, van gebrekkigen, van hulpbehoevenden of bejaarden, of er op meer dan negentig dagen van dat jaar voor zich of hun gezin een gemeubileerde woning beschikbaar houden.
+
+2. Degene die ter tijdelijke waarneming van een openbare betrekking of ter bijwoning van de vergaderingen van een algemeen vertegenwoordigend orgaan, waarvan hij het lidmaatschap bekleedt, dan wel ingevolge last of bevel van de overheid, buiten de gemeente van zijn hoofdverblijf vertoeft, is op die grond niet belastingplichtig.
+
+3. Of iemand in de gemeente hoofdverblijf heeft, wordt naar de omstandigheden beoordeeld.
+
+#### Artikel 224
+
+1. Ter zake van het houden van verblijf binnen de gemeente door personen die niet als ingezetene met een adres in de gemeente in de basisregistratie personen zijn ingeschreven, kan een toeristenbelasting worden geheven.
+
+2. Voor zover de belasting wordt geheven van degene die gelegenheid tot verblijf biedt, is deze bevoegd de belasting als zodanig te verhalen op degene ter zake van wiens verblijf de belasting verschuldigd wordt.
+
+#### Artikel 225
+
+1. In het kader van de parkeerregulering kunnen de volgende belastingen worden geheven:
+
+- a. een belasting ter zake van het parkeren van een voertuig op een bij de belastingverordening dan wel krachtens de belastingverordening in de daarin aangewezen gevallen door het college te bepalen plaats, tijdstip en wijze;
+
+- b. een belasting ter zake van een van gemeentewege verleende vergunning voor het parkeren van een voertuig op de in die vergunning aangegeven plaats en wijze.
+
+2. Voor de toepassing van het eerste lid wordt onder parkeren verstaan het gedurende een aaneengesloten periode doen of laten staan van een voertuig, anders dan gedurende de tijd die nodig is voor en gebruikt wordt tot het onmiddellijk in- en uitstappen van personen dan wel het onmiddellijk laden of lossen van zaken, op de binnen de gemeente gelegen voor het openbaar verkeer openstaande terreinen of weggedeelten, waarop dit doen of laten staan niet ingevolge een wettelijk voorschrift is verboden.
+
+3. De belasting, bedoeld in het eerste lid, onderdeel **a**, wordt geheven van degene die het voertuig heeft geparkeerd.
+
+4. Als degene die het voertuig heeft geparkeerd wordt mede aangemerkt degene die de belasting voldoet dan wel te kennen geeft of heeft gegeven de belasting te willen voldoen.
+
+5. Zolang geen voldoening van de in het eerste lid, onderdeel **a**, bedoelde belasting heeft plaatsgevonden wordt de houder van het voertuig aangemerkt als degene die het voertuig heeft geparkeerd. Met betrekking tot een motorrijtuig dat is ingeschreven in het kentekenregister, bedoeld in de [Wegenverkeerswet 1994](onbekend), wordt als houder aangemerkt degene op wiens naam het motorrijtuig ten tijde van het parkeren in het register was ingeschreven. De tweede volzin vindt geen toepassing indien:
+
+- a. blijkt dat het motorrijtuig ten tijde van het parkeren op de naam van een ander in het kentekenregister had moeten staan ingeschreven, in welk geval die ander wordt aangemerkt als degene die het motorrijtuig heeft geparkeerd;
+
+- b. een voor ten hoogste drie maanden aangegane huurovereenkomst wordt overgelegd waaruit blijkt wie ten tijde van het parkeren ingevolge deze overeenkomst de huurder van het motorrijtuig was, in welk geval de huurder wordt aangemerkt als degene die het motorrijtuig heeft geparkeerd.
+
+6. De belasting wordt niet geheven van degene die ingevolge het vijfde lid is aangemerkt als degene die het voertuig heeft geparkeerd, indien deze aannemelijk maakt dat ten tijde van het parkeren een ander tegen zijn wil van het voertuig gebruik heeft gemaakt en dat hij dit gebruik redelijkerwijs niet heeft kunnen voorkomen.
+
+7. De belasting, bedoeld in het eerste lid, onderdeel **b**, wordt geheven van degene die de vergunning heeft aangevraagd.
+
+8. Het tarief van de in het eerste lid bedoelde belastingen kan afhankelijk worden gesteld van de parkeerduur, van de parkeertijd, van de ingenomen oppervlakte en van de ligging van de terreinen of weggedeelten.
+
+#### Artikel 226
+
+1. Ter zake van het houden van een hond kan van de houder een hondenbelasting worden geheven.
+
+2. De belasting wordt geheven naar het aantal honden dat wordt gehouden.
+
+3. Voor de toepassing van het eerste lid wordt het houden van een hond door een lid van een huishouden aangemerkt als het houden van een hond door een door de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2026-03-21&g=2026-03-21), bedoelde gemeenteambtenaar aan te wijzen lid van dat huishouden.
+
+#### Artikel 227
+
+Ter zake van openbare aankondigingen zichtbaar vanaf de openbare weg kan een reclamebelasting worden geheven.
+
+#### Artikel 227a
+
+Vervallen
+
+#### Artikel 228
+
+1. Ter zake van het hebben van voorwerpen onder, op of boven voor de openbare dienst bestemde gemeentegrond, kan een precariobelasting worden geheven.
+
+2. Geen belasting wordt geheven ter zake van:
+
+- a. de infrastructuur nodig voor de productie en distributie van drinkwater als bedoeld in [artikel 7, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=7), in samenhang met [artikel 1, eerste lid, van de Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=1);
+
+- b. een systeem dat wordt beheerd door een transmissie- of distributiesysteembeheerder als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1); of
+
+- c. werken als bedoeld in [artikel 38 van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=38).
+
+#### Artikel 229
+
+1. Rechten kunnen worden geheven ter zake van:
+
+- a. het gebruik overeenkomstig de bestemming van voor de openbare dienst bestemde gemeentebezittingen of van voor de openbare dienst bestemde werken of inrichtingen die bij de gemeente in beheer of in onderhoud zijn;
+
+- b. het genot van door of vanwege het gemeentebestuur verstrekte diensten;
+
+- c. het geven van vermakelijkheden waarbij gebruik wordt gemaakt van door of met medewerking van het gemeentebestuur tot stand gebrachte of in stand gehouden voorzieningen of waarbij een bijzondere voorziening in de vorm van toezicht of anderszins van de zijde van het gemeentebestuur getroffen wordt.
+
+2. Geen rechten kunnen worden geheven ter zake van het gebruik van voorzieningen en het genot van diensten waarvan de kosten kunnen worden bestreden door het heffen van een belasting als bedoeld in [artikel 228a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=228a&z=2026-03-21&g=2026-03-21), zulks met uitzondering van het aanbrengen van een aansluiting op een voorziening voor de inzameling en het transport van stedelijk afvalwater als bedoeld in [artikel 2.16, eerste lid, onder a, onder 3°, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.16) of op een ander passend systeem als bedoeld in artikel 2.16, derde lid, van de Omgevingswet.
+
+3. Voor de toepassing van deze paragraaf en de eerste en vierde paragraaf van dit hoofdstuk worden de in het eerste lid bedoelde rechten aangemerkt als gemeentelijke belastingen.
+
+#### Artikel 229a
+
+De rechten, bedoeld in [artikel 229, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=229&z=2026-03-21&g=2026-03-21), kunnen worden geheven door de gemeente die het gebruik van de bezittingen, werken of inrichtingen toestaat of de diensten verleent, ongeacht of het belastbare feit zich binnen of buiten het grondgebied van de gemeente voordoet.
+
+#### Artikel 229b
+
+1. In verordeningen op grond waarvan rechten als bedoeld in [artikel 229, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=229&z=2026-03-21&g=2026-03-21), worden geheven, worden de tarieven zodanig vastgesteld dat de geraamde baten van de rechten niet uitgaan boven de geraamde lasten ter zake.
+
+2. Onder de in het eerste lid bedoelde lasten worden mede verstaan:
+
+- a. bijdragen aan bestemmingsreserves en voorzieningen voor noodzakelijke vervanging van de betrokken activa;
+
+- b. de omzetbelasting die ingevolge de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) recht geeft op een bijdrage uit het fonds.
+
+#### Artikel 229c
+
+Bij of krachtens algemene maatregel van bestuur kunnen inzake de belastingen, bedoeld in de [tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&z=2026-03-21&g=2026-03-21) en [derde paragraaf van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&z=2026-03-21&g=2026-03-21), nadere regels worden gegeven.
+
+#### Artikel 229d
+
+Vervallen
+
+#### § 1. De begroting
+
+#### Artikel 230
+
+In deze paragraaf wordt verstaan onder:
+
+- a. Algemene wet: [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320);
+
+- b. heffing op andere wijze: heffing op andere wijze dan bij wege van aanslag of bij wege van voldoening op aangifte.
+
+#### Artikel 231
+
+1. Onverminderd het overigens in deze paragraaf bepaalde geschieden de heffing en de invordering van gemeentelijke belastingen met toepassing van de [Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320), de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) en de [Kostenwet invordering rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002645) als waren die belastingen rijksbelastingen.
+
+2. Onverminderd het overigens in deze paragraaf bepaalde gelden de bevoegdheden en de verplichtingen van de hierna vermelde, in de [Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320), de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) en de [Kostenwet invordering rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002645) genoemde functionarissen, met betrekking tot de gemeentelijke belastingen voor de daarachter genoemde colleges of functionarissen:
+
+- a. Onze Minister van Financiën, het bestuur van ’s Rijksbelastingen en de directeur: het college;
+
+- b. de inspecteur: de gemeenteambtenaar, belast met de heffing van gemeentelijke belastingen;
+
+- c. de ontvanger of een inzake rijksbelastingen bevoegde ontvanger: de gemeenteambtenaar belast met de invordering van gemeentelijke belastingen;
+
+- d. de ambtenaren van de rijksbelastingdienst: de gemeenteambtenaren belast met de heffing of de invordering van gemeentelijke belastingen;
+
+- e. de belastingdeurwaarder: de daartoe aangewezen gemeenteambtenaar;
+
+- f. de Tweede Kamer der Staten-Generaal of de Tweede Kamer: de raad.
+
+3. Onverminderd het overigens in deze paragraaf bepaalde wordt met betrekking tot gemeentelijke belastingen in de [Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) en in de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) voor «algemene maatregel van bestuur» en voor «ministeriële regeling» gelezen: besluit van het college.
+
+4. Met betrekking tot gemeentelijke belastingen wordt in [artikel 24 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=24) voor «de Staat» gelezen: de gemeente.
+
+5. Indien een Commissiebesluit als bedoeld in [artikel 1 van de Wet terugvordering staatssteun](https://wetten.overheid.nl/jci1.3:c:BWBR0040718&artikel=1) verplicht tot terugvordering van staatssteun en die staatssteun voortvloeit uit een gemeentelijke belasting als bedoeld in dit hoofdstuk, wordt deze staatssteun op dezelfde wijze teruggevorderd als staatssteun die voortvloeit uit de toepassing van een belastingwet als bedoeld in [artikel 20a van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=20a).
+
+#### Artikel 232
+
+1. Het college kan bepalen dat voor de toezending of uitreiking van aanslagbiljetten ingevolge [artikel 8, eerste lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=8) voor de in [artikel 231, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2026-03-21&g=2026-03-21), bedoelde ambtenaar een andere gemeenteambtenaar in de plaats treedt.
+
+2. De colleges van twee of meer gemeenten kunnen met betrekking tot een of meer gemeentelijke belastingen bepalen dat ambtenaren van een van die gemeenten worden aangewezen als:
+
+- a. de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2026-03-21&g=2026-03-21), bedoelde ambtenaar van die gemeenten voor de uitvoering van enige wettelijke bepaling betreffende de heffing van gemeentelijke belastingen;
+
+- b. de in [artikel 231, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2026-03-21&g=2026-03-21), bedoelde ambtenaar van die gemeenten voor de uitvoering van enige wettelijke bepaling betreffende de invordering van gemeentelijke belastingen;
+
+- c. de in [artikel 231, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2026-03-21&g=2026-03-21), bedoelde ambtenaren van die gemeenten voor de uitvoering van enige wettelijke bepaling betreffende de heffing of de invordering van gemeentelijke belastingen;
+
+- d. de in [artikel 231, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2026-03-21&g=2026-03-21), bedoelde ambtenaar van die gemeenten, voor de uitvoering van enige wettelijke bepaling betreffende de invordering van gemeentelijke belastingen.
+
+3. Het eerste lid is van overeenkomstige toepassing ten aanzien van het college van de gemeente waarvan de ambtenaar, belast met de invordering van gemeentelijke belastingen op grond van het tweede lid, onderdeel **b**, wordt aangewezen.
+
+4. Indien voor de heffing of de invordering van gemeentelijke belastingen een gemeenschappelijke regeling is getroffen en bij die regeling een openbaar lichaam of een bedrijfsvoeringsorganisatie is ingesteld, kan bij of krachtens die regeling worden bepaald dat een daartoe aangewezen ambtenaar van dat openbare lichaam of die bedrijfsvoeringsorganisatie wordt aangewezen als:
+
+- a. de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2026-03-21&g=2026-03-21), bedoelde ambtenaar van de gemeente voor de uitvoering van enige wettelijke bepaling betreffende de heffing van gemeentelijke belastingen;
+
+- b. de in [artikel 231, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2026-03-21&g=2026-03-21), bedoelde ambtenaar van de gemeente voor de uitvoering van enige wettelijke bepaling betreffende de invordering van gemeentelijke belastingen;
+
+- c. de in [artikel 231, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2026-03-21&g=2026-03-21), bedoelde ambtenaren van de gemeente voor de uitvoering van enige wettelijke bepaling betreffende de heffing of de invordering van gemeentelijke belastingen;
+
+- d. de in [artikel 231, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2026-03-21&g=2026-03-21), bedoelde ambtenaar van de gemeente voor de uitvoering van enige wettelijke bepaling betreffende de invordering van gemeentelijke belastingen.
+
+5. Het eerste lid is van overeenkomstige toepassing ten aanzien van het dagelijks bestuur van het openbaar lichaam of het bestuur van de bedrijfsvoeringsorganisatie waarvan een ambtenaar op grond van het vierde lid, onderdeel b, wordt aangewezen.
+
+#### Artikel 233
+
+Gemeentelijke belastingen kunnen worden geheven bij wege van aanslag, bij wege van voldoening op aangifte of op andere wijze, doch niet bij wege van afdracht op aangifte.
+
+#### Artikel 233a
+
+1. Indien de gemeentelijke belastingen op andere wijze worden geheven, bepaalt de belastingverordening op welke wijze deze worden geheven en de wijze waarop de belastingschuld aan de belastingplichtige wordt bekendgemaakt. De belastingverordening kan daarnaast bepalen dat het college omtrent de uitvoering van een en ander nadere regels geeft.
+
+2. De op andere wijze geheven belastingen worden voor de toepassing van de [Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) en de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) aangemerkt als bij wege van aanslag geheven belastingen, met dien verstande dat wordt verstaan onder:
+
+- a. de aanslag, de voorlopige aanslag, de navorderingsaanslag: het gevorderde, onderscheidenlijk het voorlopig gevorderde, het nagevorderde bedrag;
+
+- b. het aanslagbiljet: de kennisgeving van het in onderdeel **a** bedoelde bedrag;
+
+- c. de dagtekening van het aanslagbiljet: de dagtekening van de schriftelijke kennisgeving van het in onderdeel **a** bedoelde bedrag, of bij gebreke van een schriftelijke kennisgeving, de datum waarop het bedrag op andere wijze ter kennis van de belastingplichtige is gebracht.
+
+#### Artikel 234
+
+1. De belasting, bedoeld in [artikel 225, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=225&z=2026-03-21&g=2026-03-21), wordt geheven bij wege van voldoening op aangifte dan wel op andere wijze.
+
+2. Als voldoening op aangifte wordt uitsluitend aangemerkt:
+
+- a. het bij de aanvang van het parkeren in werking stellen van een parkeermeter of een parkeerautomaat op de daartoe bestemde wijze en met inachtneming van de door het college gestelde voorschriften;
+
+- b. indien ingevolge [artikel 235, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=235&z=2026-03-21&g=2026-03-21), een wielklem is aangebracht, de voldoening op aangifte op de door het college bepaalde wijze.
+
+3. Ingeval een naheffingsaanslag wordt opgelegd, wordt deze berekend over een parkeerduur van een uur, tenzij aannemelijk is dat het voertuig langer dan een uur zonder betaling geparkeerd heeft gestaan.
+
+4. De [artikelen 67b](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67b), [67c](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67c) en [67f van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67f) blijven buiten toepassing.
+
+5. Ter zake van het opleggen van een naheffingsaanslag worden kosten in rekening gebracht. Deze kosten maken onderdeel uit van de naheffingsaanslag en worden afzonderlijk op het aanslagbiljet vermeld. Ten aanzien van hetzelfde voertuig worden per aaneengesloten periode de kosten niet vaker dan eenmaal per kalenderdag in rekening gebracht.
+
+6. Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de wijze van berekening en de maximale hoogte van de in het vijfde lid bedoelde kosten. In de belastingverordening wordt het bedrag van de in rekening te brengen kosten bepaald.
+
+7. Overeenkomstig [artikel 8, eerste lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=8) wordt het aanslagbiljet bekendgemaakt door toezending of uitreiking. In afwijking daarvan kan het aanslagbiljet ook worden aangebracht op of aan het voertuig. Alsdan vermeldt het aanslagbiljet niet de naam van de belastingschuldige maar het kenteken van het voertuig. Bij gebreke van een kenteken vermeldt het aanslagbiljet een of meer gegevens die kenmerkend zijn voor het geparkeerde voertuig.
+
+8. De naheffingsaanslag is dadelijk en ineens invorderbaar.
+
+#### Artikel 234a
+
+Vervallen
+
+#### Artikel 234b
+
+Vervallen
+
+#### Artikel 235
+
+1. Bij de belastingverordening, bedoeld in [artikel 225, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=3&artikel=225&z=2026-03-21&g=2026-03-21), kan worden bepaald dat terstond nadat het aanslagbiljet aan de belastingschuldige is uitgereikt dan wel terstond nadat het aanslagbiljet, overeenkomstig [artikel 234, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=234&z=2026-03-21&g=2026-03-21), aan het voertuig is aangebracht, de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2026-03-21&g=2026-03-21), bedoelde gemeenteambtenaar bevoegd is tot zekerheid van de betaling van de naheffingsaanslag, bedoeld in artikel 234, derde lid, aan het voertuig een mechanisch hulpmiddel, hierna te noemen: wielklem, te doen aanbrengen, waardoor wordt verhinderd dat het voertuig wordt weggereden.
+
+2. Bij de belastingverordening dan wel krachtens de belastingverordening in de daarin aangewezen gevallen door het college worden de terreinen of weggedeelten aangewezen waar de wielklem wordt toegepast.
+
+3. Ter zake van het aanbrengen alsmede van het verwijderen van de wielklem worden kosten in rekening gebracht.
+
+4. De wielklem wordt niet verwijderd dan nadat de naheffingsaanslag alsmede de kosten van het aanbrengen en van het verwijderen van de wielklem zijn voldaan. Na deze voldoening vindt de verwijdering van de wielklem zo spoedig mogelijk plaats.
+
+5. Na afloop van een in de belastingverordening te bepalen termijn, die ten minste 24 uren bedraagt na aanbrenging van de wielklem, is de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2026-03-21&g=2026-03-21), bedoelde gemeenteambtenaar bevoegd het voertuig naar een door hem aangewezen plaats te doen overbrengen en in bewaring te doen stellen. Ter zake van de in de eerste volzin bedoelde overbrenging en bewaring wordt procesverbaal opgemaakt en worden kosten in rekening gebracht.
+
+6. De in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2026-03-21&g=2026-03-21), bedoelde gemeenteambtenaar draagt er zorg voor dat in een daartoe aangelegd register aantekening wordt gemaakt van de gevallen waarin de in het vijfde lid bedoelde bevoegdheid wordt uitgeoefend.
+
+7. De in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2026-03-21&g=2026-03-21), bedoelde gemeenteambtenaar draagt zorg voor de bewaring van de ingevolge het vijfde lid in bewaring gestelde voertuigen.
+
+8. De in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2026-03-21&g=2026-03-21), bedoelde gemeenteambtenaar geeft het voertuig terug aan de rechthebbende, nadat de naheffingsaanslag, de kosten van het aanbrengen en verwijderen van de wielklem en de kosten van overbrenging en bewaring zijn voldaan.
+
+9. Wanneer het voertuig binnen 48 uren na het in bewaring stellen niet is afgehaald, geeft de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2026-03-21&g=2026-03-21), bedoelde gemeenteambtenaar zo mogelijk binnen zeven dagen van de overbrenging en bewaring kennis:
+
+- a. indien het voertuig een motorrijtuig is, dat een kenteken voert als bedoeld in [artikel 36, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36), aan degene aan wie dat kenteken is opgegeven;
+
+- b. indien blijkt dat ter zake van het voertuig aangifte van vermissing is gedaan, aan degene die aangifte heeft gedaan;
+
+- c. in nader door Onze Minister te bepalen gevallen op de daarbij aangegeven wijze.
+
+10. De kosten van opsporing van degene aan wie de kennisgeving wordt gezonden en die van het doen van de kennisgeving worden voor de toepassing van dit artikel gerekend tot de kosten van overbrenging en bewaring.
+
+11. Wanneer het voertuig binnen drie maanden na het in bewaring stellen niet is afgehaald, is de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2026-03-21&g=2026-03-21), bedoelde gemeenteambtenaar bevoegd het te verkopen of, indien verkoop naar hun oordeel niet mogelijk is, het voertuig om niet aan een derde in eigendom over te dragen of te laten vernietigen. Gelijke bevoegdheid heeft de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2026-03-21&g=2026-03-21), bedoelde gemeenteambtenaar ook binnen die termijn, zodra het gezamenlijke bedrag van de naheffingsaanslag, de kosten van het aanbrengen en verwijderen van de wielklem en de kosten van overbrenging en bewaring, vermeerderd met de voor de verkoop, de eigendomsoverdracht om niet of de vernietiging geraamde kosten, in verhouding tot de waarde van het voertuig naar zijn mening onevenredig hoog zou worden. Verkoop, eigendomsoverdracht om niet of vernietiging vindt niet plaats binnen twee weken nadat de kennisgeving als bedoeld in het negende lid is uitgegaan. Voor de toepassing van de volgende leden worden de kosten van verkoop, eigendomsoverdracht om niet of vernietiging gerekend tot de kosten van overbrenging en bewaring.
+
+12. Gedurende drie jaren na het tijdstip van de verkoop heeft degene, die op dat tijdstip eigenaar was, recht op de opbrengst van het voertuig, met dien verstande dat eerst de kosten van het aanbrengen en verwijderen van de wielklem en van het overbrengen en bewaren van het voertuig en vervolgens de naheffingsaanslag met die opbrengst worden verrekend. Na het verstrijken van die termijn vervalt het eventueel batige saldo aan de gemeente.
+
+13. Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de wijze van berekening van de kosten van het aanbrengen en verwijderen van de wielklem en van het overbrengen en bewaren van het voertuig. In de belastingverordening wordt bepaald tot welke bedragen de kosten in rekening worden gebracht.
+
+14. De in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2026-03-21&g=2026-03-21), bedoelde gemeenteambtenaar stelt het bedrag van de in rekening te brengen kosten vast bij voor bezwaar vatbare beschikking.
+
+15. Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de overbrenging, bewaring, verkoop, eigendomsoverdracht om niet en vernietiging, het inrichten en aanhouden van het in het zesde lid bedoelde register, alsmede omtrent hetgeen verder voor de uitvoering van dit artikel noodzakelijk is.
+
+16. Indien aantoonbaar is dat door het aanbrengen of het verwijderen van de wielklem dan wel tijdens de overbrenging en bewaring schade aan het voertuig is toegebracht, is de gemeente gehouden deze schade te vergoeden.
+
+#### Artikel 236
+
+1. Bij de heffing van gemeentelijke belastingen blijven de [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=3), [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=3a), [37 tot en met 39](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=37), [47a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=47a), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=48), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=53), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=54), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=55), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=62), [66a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=66a), [66b](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=66b), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=71), [76](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=76), [80, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=80), [82](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=82), [84](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=84), [86](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=86), [87](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=87) en [90 tot en met 95 van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=90) buiten toepassing. Bij de heffing van gemeentelijke belastingen die op andere wijze worden geheven, blijven bovendien de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5), [6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=6), [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=11), en [12 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=12) buiten toepassing.
+
+2. Op een bezwaarschrift dat niet is ingediend in de laatste zes weken van een kalenderjaar, doet de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2026-03-21&g=2026-03-21), bedoelde gemeenteambtenaar, in afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10), uitspraak in het kalenderjaar waarin het bezwaarschrift is ontvangen.
+
+#### Artikel 237
+
+1. Het uitnodigen tot het doen van aangifte, bedoeld in [artikel 6 van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=6), geschiedt door het uitreiken van een aangiftebiljet.
+
+2. Het doen van aangifte, bedoeld in [artikel 8 van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=8), geschiedt door het inleveren of toezenden van het uitgereikte aangiftebiljet met de daarbij gevraagde bescheiden.
+
+3. In afwijking in zoverre van de vorige leden kan de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2026-03-21&g=2026-03-21), bedoelde gemeenteambtenaar vorderen dat een verplichting tot het doen van aangifte of tot het indienen van een verzoek om uitreiking van een aangiftebiljet wordt nagekomen door het mondeling doen van aangifte. Daarbij:
+
+- a. worden de door de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2026-03-21&g=2026-03-21), bedoelde gemeenteambtenaar gevraagde bescheiden overgelegd;
+
+- b. kan de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2026-03-21&g=2026-03-21), bedoelde gemeenteambtenaar vorderen dat een van de mondelinge aangifte opgemaakt relaas door de aangever wordt ondertekend, bij gebreke waarvan de aangifte geacht wordt niet te zijn gedaan.
+
+4. Indien het derde lid toepassing vindt, kan de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2026-03-21&g=2026-03-21), bedoelde gemeenteambtenaar voor de termijnen, genoemd in [artikel 9, eerste lid en derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=9), [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10), en [artikel 19, eerste, derde en vierde lid, van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19) of voor de kortere termijn, bedoeld in [artikel 238, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=238&z=2026-03-21&g=2026-03-21), kortere termijnen in de plaats stellen en is [artikel 12 van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=12) niet van toepassing.
+
+5. Bij de belastingverordening kan van het eerste en tweede lid worden afgeweken.
+
+#### Artikel 238
+
+1. Met betrekking tot de bij wege van aanslag geheven gemeentelijke belastingen kan in de belastingverordening voor de in [artikel 9, eerste en derde lid, van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=9) genoemde termijn van ten minste een maand een kortere termijn in de plaats worden gesteld.
+
+2. Met betrekking tot de bij wege van voldoening op aangifte geheven gemeentelijke belastingen kan in de belastingverordening voor de termijn van een maand, genoemd in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10), en [artikel 19, eerste, derde en vierde lid, van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19), een kortere termijn in de plaats worden gesteld.
+
+#### Artikel 239
+
+1. De in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2026-03-21&g=2026-03-21), bedoelde gemeenteambtenaar is bevoegd voor eenzelfde belastingplichtige bestemde belastingaanslagen van dezelfde soort die betrekking kunnen hebben op verschillende belastingen, op één aanslagbiljet te verenigen.
+
+2. Het eerste lid vindt overeenkomstige toepassing ingeval de belasting op andere wijze wordt geheven.
+
+#### Artikel 240
+
+Vervallen
+
+#### Artikel 241
+
+Vervallen
+
+#### Artikel 242
+
+1. Degene die ingevolge de belastingverordening aanspraak kan maken op een gehele of gedeeltelijke vrijstelling, vermindering, ontheffing of teruggaaf, kan binnen zes weken nadat de omstandigheid welke die aanspraak deed ontstaan, zich heeft voorgedaan, of, voor zover het een belasting betreft die bij wege van aanslag wordt geheven en op dat tijdstip nog geen aanslagbiljet is uitgereikt of is toegezonden, binnen zes weken na de dagtekening van het aanslagbiljet, een aanvraag tot het verkrijgen van vrijstelling, vermindering, ontheffing of teruggaaf indienen bij de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2026-03-21&g=2026-03-21), bedoelde gemeenteambtenaar.
+
+2. Het eerste lid vindt overeenkomstige toepassing ingeval de belasting op andere wijze wordt geheven.
+
+3. De in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2026-03-21&g=2026-03-21), bedoelde gemeenteambtenaar beslist op de aanvraag bij voor bezwaar vatbare beschikking.
+
+#### Artikel 243
+
+In de gevallen waarin het volkenrecht dan wel, naar het oordeel van Onze Minister en Onze Minister van Financiën, het internationale gebruik daartoe noodzaakt, wordt vrijstelling van gemeentelijke belastingen verleend. Onze genoemde Ministers kunnen gezamenlijk ter zake nadere regels stellen.
+
+#### Artikel 244
+
+Naast een in de belastingverordening voorziene vermindering, ontheffing of teruggaaf kan de in [artikel 231, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2026-03-21&g=2026-03-21), bedoelde gemeenteambtenaar ook een in de belastingverordening voorziene vrijstelling ambtshalve verlenen.
+
+#### Artikel 245
+
+Vervallen
+
+#### Artikel 246
+
+Vervallen
+
+#### Artikel 246a
+
+1. Met betrekking tot gemeentelijke belastingen kunnen bij algemene maatregel van bestuur:
+
+- a. regels worden gesteld waarbij de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=48), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52), [53, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=53), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=54) of [55 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=55), alsmede de [artikelen 59](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=59) of [62 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=62) geheel of gedeeltelijk van toepassing worden verklaard, dan wel
+
+- b. regels worden gesteld die overeenkomen met die in de in onderdeel **a** genoemde artikelen.
+
+2. De in het eerste lid bedoelde regels bevatten in elk geval een omschrijving van degene op wie de verplichting rust, alsmede van de belasting ten behoeve waarvan de verplichting geldt. Voorts vermelden deze regels naar gelang de aard van de verplichting een omschrijving van de aard van de te verstrekken gegevens en inlichtingen, van de aard van de gegevens welke uit de administratie dienen te blijken of van het doel waarvoor het voor raadpleging beschikbaar stellen van gegevensdragers kan geschieden.
+
+#### Artikel 247
+
+Vervallen
+
+#### Artikel 248
+
+Vervallen
+
+#### Artikel 249
+
+Bij de invordering van gemeentelijke belastingen blijven van de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) buiten toepassing de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=5), [7c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=7c), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=21)[59](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=59), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=62) en [69](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=69). Bij de invordering van gemeentelijke belastingen die op andere wijze worden geheven, blijft bovendien [artikel 8, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=8) buiten toepassing.
+
+#### Artikel 250
+
+1. De belastingverordening kan van [artikel 9 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=9) afwijkende voorschriften inhouden.
+
+2. De belastingverordening kan bepalen dat het verschuldigde bedrag moet worden betaald gelijktijdig met en op dezelfde wijze als de voldoening van een andere vordering aan de schuldeiser van die andere vordering.
+
+#### Artikel 250a
+
+Vervallen
+
+#### Artikel 251
+
+Met betrekking tot het doen van een vordering als bedoeld in [artikel 19, eerste en vierde lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=19) zijn de krachtens het elfde lid van dat artikel door Onze Minister van Financiën gestelde regels van overeenkomstige toepassing.
+
+#### Artikel 251a
+
+Vervallen
+
+#### Artikel 252
+
+De verrekening van aan de belastingschuldige uit te betalen en van hem te innen bedragen ter zake van gemeentelijke belastingen op de voet van [artikel 24 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=24) is ook mogelijk ingeval de in [artikel 9 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=9) gestelde termijn, dan wel de krachtens [artikel 250, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=250&z=2026-03-21&g=2026-03-21), gestelde termijn nog niet is verstreken.
+
+#### Artikel 253
+
+1. Indien ter zake van hetzelfde voorwerp van de belasting of hetzelfde belastbare feit twee of meer personen belastingplichtig zijn, kan de belastingaanslag ten name van een van hen worden gesteld.
+
+2. Indien de belastingplicht, bedoeld in het eerste lid, voortvloeit uit het genot van een onroerende zaak krachtens eigendom, bezit of beperkt recht en de aanslag ten name van één van de belastingplichtigen is gesteld, kan de met de invordering van gemeentelijke belastingen belaste gemeenteambtenaar de belastingaanslag op de gehele onroerende zaak verhalen ten name van degene te wiens name de aanslag is gesteld, zonder rekening te houden met de rechten van de overige belastingplichtigen.
+
+3. De belastingschuldige die de belastingaanslag heeft voldaan kan hetgeen hij meer heeft voldaan dan overeenkomt met zijn belastingplicht verhalen op de overige belastingplichtigen naar evenredigheid van ieders belastingplicht.
+
+4. Tegen een met toepassing van het eerste lid vastgestelde belastingaanslag kan mede beroep bij de rechtbank worden ingesteld door de belastingplichtige wiens naam niet op het aanslagbiljet staat vermeld. [Artikel 26a, derde lid, van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=26a) is van overeenkomstige toepassing.
+
+5. Van het derde lid kan bij overeenkomst worden afgeweken.
+
+#### Artikel 254
+
+Voor de toepassing van [artikel 66 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=66) met betrekking tot gemeentelijke belastingen blijven de [artikelen 76](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=76), [80, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=80), [82](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=82), [84](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=84), [86](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=86) en [87 van de Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=87) buiten toepassing.
+
+#### Artikel 255
+
+1. De in de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=26) en [26a van de Invorderingswet 1990](onbekend) bedoelde kwijtschelding wordt met betrekking tot gemeentelijke belastingen verleend door de in [artikel 231, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=4&artikel=231&z=2026-03-21&g=2026-03-21), bedoelde gemeenteambtenaar.
+
+2. Met betrekking tot het verlenen van gehele of gedeeltelijke kwijtschelding zijn de krachtens [artikel 26 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=26) door Onze Minister van Financiën bij ministeriële regeling gestelde regels van toepassing.
+
+3. De raad kan bepalen dat, in afwijking van de in het tweede lid bedoelde regels, in het geheel geen dan wel gedeeltelijk kwijtschelding wordt verleend.
+
+4. Met inachtneming van door Onze Minister, in overeenstemming met Onze Minister van Financiën, te stellen regels kan de raad met betrekking tot de wijze waarop de kosten van bestaan en de wijze waarop het vermogen in aanmerking worden genomen afwijkende regels stellen die er toe leiden dat in ruimere mate kwijtschelding wordt verleend.
+
+5. Het college kan de belasting geheel of gedeeltelijk oninbaar verklaren. Het daartoe strekkende besluit ontheft de gemeenteambtenaar belast met de invordering van gemeentelijke belastingen van de verplichting verdere pogingen tot invordering te doen.
+
+#### Artikel 255a
+
+Vervallen
+
+#### Artikel 256
+
+Indien ter zake van een gemeentelijke belasting exploot moet worden gedaan, een akte van vervolging betekend of een dwangbevel ten uitvoer gelegd in een van de openbare lichamen Bonaire, Sint Eustatius en Saba, dan wel in een andere gemeente dan die waaraan belasting verschuldigd is, is daartoe naast de belastingdeurwaarder van laatstbedoelde gemeente mede de belastingdeurwaarder van eerstbedoelde gemeente respectievelijk van het desbetreffende openbaar lichaam bevoegd en desgevraagd verplicht.
+
+#### Artikel 257
+
+Bij of krachtens algemene maatregel van bestuur kunnen inzake de belastingen, bedoeld in [artikel 220](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XV&paragraaf=2&artikel=220&z=2026-03-21&g=2026-03-21), nadere regels worden gegeven inzake de heffing en de invordering, alsmede inzake alle gemeentelijke belastingen andere in het kader van deze paragraaf passende nadere regels ter aanvulling van de in deze paragraaf geregelde onderwerpen.
+
+#### Artikel 258
+
+Vervallen
+
+## Titel V. Aanvullende bepalingen inzake het toezicht op het gemeentebestuur
+
+### Hoofdstuk XIV. De administratie en de controle
+
+#### Artikel 259
+
+1. Beslissingen van gemeentebesturen kunnen slechts aan goedkeuring worden onderworpen in bij de wet of krachtens de wet bij provinciale verordening bepaalde gevallen.
+
+2. Ten aanzien van de goedkeuring van andere beslissingen dan besluiten zijn [artikel 266](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=V&hoofdstuk=XVI&artikel=266&z=2026-03-21&g=2026-03-21) alsmede [afdeling 10.2.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.2.1) van overeenkomstige toepassing.
+
+#### Artikel 260
+
+Vervallen
+
+#### Artikel 261
+
+Vervallen
+
+#### Artikel 262
+
+Vervallen
+
+#### Artikel 263
+
+Vervallen
+
+#### Artikel 264
+
+Vervallen
+
+#### Artikel 265
+
+Vervallen
+
+#### Artikel 266
+
+1. Een beslissing die aan goedkeuring bij koninklijk besluit is onderworpen, wordt toegezonden aan Onze Minister wie het aangaat.
+
+2. Een voordracht tot onthouding van goedkeuring wordt gedaan door of mede door Onze Minister.
+
+3. Onthouding van goedkeuring geschiedt niet, dan nadat de Raad van State is gehoord. De toepassing van [artikel 10:30, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:31) vindt in dat geval plaats voordat het ontwerp-besluit bij de Raad van State ter overweging wordt gebracht. [Artikel 27d van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=27d) is van overeenkomstige toepassing.
+
+#### Artikel 267
+
+Vervallen
+
+### Hoofdstuk XIV. De administratie en de controle
+
+#### Artikel 268
+
+1. Een besluit dan wel een niet-schriftelijke beslissing gericht op enig rechtsgevolg van het gemeentebestuur kan bij koninklijk besluit worden vernietigd.
+
+2. Ten aanzien van de vernietiging van een niet-schriftelijke beslissing gericht op enig rechtsgevolg zijn de [artikelen 273 tot en met 281a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=V&hoofdstuk=XVII&artikel=273&z=2026-03-21&g=2026-03-21) alsmede de [afdelingen 10.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.2.2) en [10.2.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.2.3) van overeenkomstige toepassing.
+
+#### Artikel 269
+
+Vervallen
+
+#### Artikel 270
+
+Vervallen
+
+#### Artikel 271
+
+Vervallen
+
+#### Artikel 272
+
+Vervallen
+
+#### Artikel 273
+
+1. Indien een besluit naar het oordeel van de burgemeester voor vernietiging in aanmerking komt, doet hij daarvan binnen twee dagen nadat het te zijner kennis is gekomen, door tussenkomst van gedeputeerde staten, mededeling aan Onze Minister wie het aangaat. Hij geeft hiervan tegelijkertijd kennis aan het orgaan dat het besluit nam, en zo nodig aan het orgaan dat met de uitvoering van het besluit is belast.
+
+2. Gedeputeerde staten zenden de stukken, vergezeld van hun advies, binnen een week na de dagtekening van de mededeling van de burgemeester toe aan Onze Minister wie het aangaat.
+
+3. Het besluit ten aanzien waarvan het eerste lid toepassing heeft gevonden, wordt niet of niet verder uitgevoerd, voordat van Onze Minister wie het aangaat de mededeling is ontvangen, dat voor schorsing of vernietiging geen redenen bestaan. Indien het besluit niet binnen vier weken na de dagtekening van de mededeling van de burgemeester is geschorst of vernietigd, wordt het uitgevoerd.
+
+#### Artikel 274
+
+1. Een voordracht tot schorsing wordt gedaan door Onze Minister wie het aangaat.
+
+2. Over de voordracht pleegt Onze Minister wie het aangaat overleg met Onze Minister, tenzij schorsing onverwijld plaats dient te vinden. In de voordracht wordt het achterwege blijven van overleg gemotiveerd.
+
+#### Artikel 275
+
+In het koninklijk besluit kan voor de duur van de schorsing een voorziening worden getroffen.
+
+#### Artikel 276
+
+Vervallen
+
+#### Artikel 277
+
+Indien een bekendgemaakt besluit niet is vernietigd binnen de tijd waarvoor het is geschorst, wordt hiervan door het gemeentebestuur kennisgegeven in het gemeenteblad.
+
+#### Artikel 278
+
+1. De voordracht tot vernietiging wordt gedaan door of mede door Onze Minister.
+
+2. [Artikel 17, derde lid, van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=17) is niet van toepassing.
+
+#### Artikel 279
+
+Het koninklijk besluit tot schorsing, opheffing of verlenging van de schorsing of tot vernietiging wordt in de Staatscourant geplaatst.
+
+#### Artikel 280
+
+Vervallen
+
+#### Artikel 281
+
+1. Het gemeentebestuur neemt opnieuw een besluit omtrent het onderwerp van het vernietigde besluit, waarbij met het koninklijk besluit wordt rekening gehouden, tenzij in het koninklijk besluit toepassing is gegeven aan [artikel 278a, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=V&hoofdstuk=XVII&artikel=278a&z=2026-03-21&g=2026-03-21).
+
+2. In het koninklijk besluit kan een termijn worden gesteld waarbinnen toepassing wordt gegeven aan het eerste lid. De [artikelen 124 tot en met 124h](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=3&artikel=124&z=2026-03-21&g=2026-03-21) zijn van overeenkomstige toepassing ingeval niet binnen de termijn toepassing is gegeven aan het eerste lid.
+
+#### Artikel 281a
+
+In afwijking van [artikel 8:4, eerste lid, onderdeel d, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:4) kan een belanghebbende tegen een koninklijk besluit als bedoeld in [artikel 268, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=V&hoofdstuk=XVII&artikel=268&z=2026-03-21&g=2026-03-21), dan wel tegen een vernietigingsbesluit als bedoeld in [artikel 85, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&artikel=85&z=2026-03-21&g=2026-03-21), beroep instellen.
+
+## Titel VI
+
+#### Artikel 282
+
+Vervallen
+
+#### Artikel 283
+
+Vervallen
+
+#### Artikel 284
+
+Vervallen
+
+#### Artikel 285
+
+Vervallen
+
+#### Artikel 286
+
+Vervallen
+
+#### Artikel 287
+
+Vervallen
+
+#### Artikel 288
+
+Vervallen
+
+#### Artikel 288a
+
+Vervallen
+
+## Titel VII. Overgangs- en slotbepalingen
+
+#### Artikel 289
+
+Vervallen
+
+#### Artikel 290
+
+1. De intrekking van de gemeentewet heeft geen gevolgen voor de geldigheid van de op de dag voor de inwerkingtreding van deze wet geldende besluiten.
+
+2. Besluiten als bedoeld in het eerste lid die algemeen verbindende voorschriften bevatten waarvan de inhoud in strijd is met deze wet, worden binnen twee jaar na de datum van inwerkingtreding van deze wet daarmee in overeenstemming gebracht of ingetrokken. De besluiten, of onderdelen daarvan, die bij het verstrijken van de in de vorige volzin genoemde termijn niet met deze wet in overeenstemming zijn gebracht of zijn ingetrokken, zijn van rechtswege vervallen.
+
+3. Besluiten van gedeputeerde staten, bedoeld in [artikel 100, eerste lid van de gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=VII&paragraaf=1&artikel=100&z=2026-03-21&g=2026-03-21) vervallen van rechtswege op de dag waarop deze wet in werking treedt.
+
+4. Niettemin blijven gedeputeerde staten na de inwerkingtreding van deze wet bevoegd de jaarwedde van wethouders over de periode voorafgaand aan de inwerkingtreding van deze wet vast te stellen overeenkomstig [artikel 100, eerste lid, van de gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=VII&paragraaf=1&artikel=100&z=2026-03-21&g=2026-03-21).
+
+5. Het derde en het vierde lid zijn van overeenkomstige toepassing op jaarwedden van gemeentesecretarissen, bedoeld in [artikel 111, eerste lid, van de gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=111&z=2026-03-21&g=2026-03-21).
+
+#### Artikel 291
+
+[Artikel 44, vijfde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=44&z=2026-03-21&g=2026-03-21), onderscheidenlijk [artikel 66, vijfde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=66&z=2026-03-21&g=2026-03-21), is niet van toepassing op de bij inwerkingtreding van die bepalingen zittende wethouder onderscheidenlijk burgemeester, zolang deze zonder onderbreking zijn ambt vervult in dezelfde gemeente.
+
+#### Artikel 292
+
+[Artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&artikel=86&z=2026-03-21&g=2026-03-21) zoals dat artikel luidde voor inwerkingtreding van [Artikel I van de Wet bevorderen integriteit en functioneren decentraal bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0047451&artikel=I) blijft van toepassing op stukken waarop voor die datum geheimhouding is opgelegd op grond van dat artikel.
+
+#### Artikel 293
+
+Vervallen
+
+#### Artikel 294
+
+Vervallen
+
+#### Artikel 295
+
+Vervallen
+
+#### Artikel 296
+
+Vervallen
+
+#### Artikel 297
+
+Vervallen
+
+#### Artikel 298
+
+Vervallen
+
+#### Artikel 299
+
+Vervallen
+
+#### Artikel 299a
+
+Vervallen
+
+#### Artikel 299b
+
+Vervallen
+
+#### Artikel 300
+
+Vervallen
+
+#### Artikel 300a
+
+Vervallen
+
+#### Artikel 300b
+
+Vervallen
+
+#### Artikel 301
+
+Vervallen
+
+#### Artikel 302
+
+Vervallen
+
+#### Artikel 303
+
+Vervallen
+
+#### Artikel 304
+
+Vervallen
+
+#### Artikel 305
+
+Vervallen
+
+#### Artikel 305a
+
+Vervallen
+
+#### Artikel 306
+
+Vervallen
+
+#### Artikel 307
+
+Vervallen
+
+#### Artikel 308
+
+Vervallen
+
+#### Artikel 309
+
+Vervallen
+
+#### Artikel 310
+
+Deze wet kan worden aangehaald als: Gemeentewet.
+
+## Bijlage. bedoeld in [artikel 299, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=VII&artikel=299&z=2002-03-07&g=2002-03-07), van de Gemeentewet
+
+### Ministerie van Verkeer en Waterstaat
+
+Wet Waterhuishouding (TK, 1986-1987, 17 367, nr. 8)
+
+### Ministerie van Volksgezondheid, Welzijn en Sport
+
+### Ministerie van Volksgezondheid, Welzijn en Sport
+
+### Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+
+Alle verplichtingen, zoals bedoeld in [artikel 111, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=111&z=2002-03-07&g=2002-03-07), die voorkomen in de volgende wetten:
+
+### Ministerie van Binnenlandse Zaken
+
+[Wet rampen en zware ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0003765), [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=3) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=7)
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### Artikel 151b
+
+1. De raad kan bij verordening de burgemeester de bevoegdheid verlenen om bij verstoring van de openbare orde door de aanwezigheid van wapens, dan wel bij ernstige vrees voor het ontstaan daarvan, een gebied, met inbegrip van de daarin gelegen voor het publiek openstaande gebouwen en daarbij behorende erven, aan te wijzen als veiligheidsrisicogebied. In een veiligheidsrisicogebied kan de officier van justitie de bevoegdheden, bedoeld in de [artikelen 50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=50), [51, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=51), en [52, derde lid, van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=52) toepassen.
+
+2. De burgemeester gaat niet over tot aanwijzing als veiligheidsrisicogebied dan na overleg met de officier van justitie in het overleg, bedoeld in [artikel 13, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=13).
+
+3. De aanwijzing als veiligheidsrisicogebied wordt gegeven voor een bepaalde duur die niet langer is en voor een gebied dat niet groter is dan strikt noodzakelijk voor de handhaving van de openbare orde.
+
+4. De beslissing tot gebiedsaanwijzing wordt op schrift gesteld en bevat een omschrijving van het gebied waarop deze van toepassing is alsmede de geldigheidsduur.
+
+5. De burgemeester brengt de gebiedsaanwijzing zo spoedig mogelijk ter kennis van de raad en van de officier van justitie, bedoeld in het tweede lid.
+
+6. Zodra de verstoring van de openbare orde door de aanwezigheid van wapens, dan wel de ernstige vrees voor het ontstaan daarvan, bedoeld in het eerste lid, is geweken, trekt de burgemeester de gebiedsaanwijzing in. Het vijfde lid is van overeenkomstige toepassing.
+
+### Hoofdstuk X. De bevoegdheid van het college van burgemeester en wethouders
+
+### Hoofdstuk XI. De bevoegdheid van de burgemeester
+
+## Titel IV. De financiën van de gemeente
+
+### Hoofdstuk X. De bevoegdheid van het college van burgemeester en wethouders
+
+### Hoofdstuk XIII. De begroting en de jaarrekening
+
+#### § 1. De begroting
+
+#### Paragraaf 2. De jaarrekening
+
+#### § 3. Goedkeuring van de begroting
+
+### Hoofdstuk XIV. De administratie en de controle
+
+### Hoofdstuk XV. De gemeentelijke belastingen
+
+#### § 1. Algemene bepalingen
+
+#### § 2. Bijzondere bepalingen omtrent de onroerende-zaakbelastingen
+
+#### § 3. Bijzondere bepalingen omtrent de andere belastingen dan de onroerende-zaakbelastingen
+
+#### § 3. Goedkeuring van de begroting
+
+## Titel V. Aanvullende bepalingen inzake het toezicht op het gemeentebestuur
+
+### Hoofdstuk XVI. Goedkeuring
+
+### Hoofdstuk XVII. Schorsing en vernietiging
+
+## Titel VI
+
+## Titel VII. Overgangs- en slotbepalingen
+
+## Bijlage. bedoeld in [artikel 299, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=VII&artikel=299&z=2002-10-01&g=2002-10-01), van de Gemeentewet
+
+### Ministerie van Verkeer en Waterstaat
+
+Wet Waterhuishouding (TK, 1986-1987, 17 367, nr. 8)
+
+### Ministerie van Onderwijs en Wetenschappen
+
+Alle verplichtingen, zoals bedoeld in [artikel 111, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=111&z=2002-10-01&g=2002-10-01), die voorkomen in de volgende wetten:
+
+### Ministerie van Binnenlandse Zaken
+
+[Wet rampen en zware ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0003765), [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=3) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=7)
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### Artikel 81a
+
+De raad stelt een rekenkamer in.
+
+#### Artikel 81b
+
+De raad stelt het aantal leden van de rekenkamer vast.
+
+#### Artikel 81c
+
+1. De raad benoemt de leden van de rekenkamer voor de duur van zes jaar.
+
+2. Indien de rekenkamer uit twee of meer leden bestaat, benoemt de raad uit de leden de voorzitter.
+
+3. De raad kan plaatsvervangende leden benoemen. Indien de rekenkamer uit één lid bestaat, benoemt de raad in ieder geval een plaatsvervangend lid. Deze paragraaf is op plaatsvervangende leden van overeenkomstige toepassing.
+
+4. De raad kan een lid herbenoemen.
+
+5. Voorafgaand aan de benoemingen, bedoeld in het eerste tot en met het vierde lid, pleegt de raad overleg met de rekenkamer.
+
+6. Een lid van de rekenkamer wordt door de raad ontslagen:
+
+- a. op eigen verzoek;
+
+- b. bij de aanvaarding van een functie die onverenigbaar is met het lidmaatschap;
+
+- c. indien hij bij onherroepelijk geworden rechterlijke uitspraak wegens misdrijf is veroordeeld, dan wel hem bij zulk een uitspraak een maatregel is opgelegd die vrijheidsbeneming tot gevolg heeft;
+
+- d. indien hij bij onherroepelijk geworden rechterlijke uitspraak onder curatele is gesteld, in staat van faillissement is verklaard, surséance van betaling heeft verkregen of wegens schulden is gegijzeld;
+
+- e. indien hij naar het oordeel van de raad ernstig nadeel toebrengt aan het in hem gestelde vertrouwen.
+
+7. Een lid van de rekenkamer kan door de raad worden ontslagen:
+
+- a. indien hij door ziekte of gebreken blijvend ongeschikt is zijn functie te vervullen;
+
+- b. indien hij handelt in strijd met [artikel 81h](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IVa&paragraaf=1&artikel=81h&z=2026-03-21&g=2026-03-21).
+
+#### Artikel 81d
+
+1. De raad stelt een lid van de rekenkamer op non-activiteit indien:
+
+- a. hij zich in voorlopige hechtenis bevindt;
+
+- b. hij bij een nog niet onherroepelijk geworden rechterlijke uitspraak wegens misdrijf is veroordeeld, dan wel hem bij zulk een uitspraak een maatregel is opgelegd die vrijheidsbeneming tot gevolg heeft;
+
+- c. hij onder curatele is gesteld, in staat van faillissement is verklaard, surséance van betaling heeft verkregen of wegens schulden is gegijzeld ingevolge een nog niet onherroepelijk geworden rechterlijke uitspraak.
+
+2. De raad kan een lid van de rekenkamer op non-activiteit stellen, indien tegen hem een gerechtelijk onderzoek ter zake van een misdrijf wordt ingesteld of indien er een ander ernstig vermoeden is van het bestaan van feiten en omstandigheden die tot ontslag, anders dan op gronden vermeld in [artikel 81c, zesde lid, onder a, en zevende lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IVa&paragraaf=1&artikel=81c&z=2026-03-21&g=2026-03-21), zouden kunnen leiden.
+
+3. De raad beëindigt de non-activiteit zodra de grond voor de maatregel is vervallen, met dien verstande dat in een geval als bedoeld in het tweede lid de non-activiteit in ieder geval eindigt na zes maanden. In dat geval kan de raad de maatregel telkens voor ten hoogste drie maanden verlengen.
+
+#### Artikel 81e
+
+[Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=12&z=2026-03-21&g=2026-03-21) is van overeenkomstige toepassing op de leden van de rekenkamer.
+
+#### Artikel 81f
+
+1. Een lid van de rekenkamer is niet tevens:
+
+- a. minister;
+
+- b. staatssecretaris;
+
+- c. lid van de Raad van State;
+
+- d. lid van de Algemene Rekenkamer;
+
+- e. Nationale ombudsman;
+
+- f. substituut-ombudsman als bedoeld in [artikel 9, eerste lid, van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=9);
+
+- g. commissaris van de Koning van de provincie;
+
+- h. gedeputeerde van de provincie;
+
+- i. secretaris van de provincie;
+
+- j. griffier van de provincie;
+
+- k. lid van de raad;
+
+- l. burgemeester van de gemeente;
+
+- m. wethouder van de gemeente;
+
+- n. ombudsman of lid van de ombudscommissie als bedoeld in [artikel 81p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IVc&paragraaf=1&artikel=81p&z=2026-03-21&g=2026-03-21);
+
+- o. lid van een commissie van de gemeente;
+
+- p. ambtenaar of ambtenaar van politie, in dienst van die gemeente of uit anderen hoofde daaraan ondergeschikt;
+
+- q. ambtenaar, in dienst van de Staat of de provincie, tot wiens taak behoort het verrichten van werkzaamheden in het kader van het toezicht op de gemeente;
+
+- r. functionaris die krachtens de wet of een algemene maatregel van bestuur het gemeentebestuur van advies dient.
+
+2. In afwijking van het eerste lid, aanhef en onder p, kan een lid van de rekenkamer tevens zijn:
+
+- a. ambtenaar van de burgerlijke stand;
+
+- b. vrijwilliger of ander persoon die uit hoofde van een wettelijke verplichting niet bij wijze van beroep hulpdiensten verricht.
+
+#### Artikel 81g
+
+1. Alvorens hun functie te kunnen uitoefenen, leggen de leden van de rekenkamer in de vergadering van de raad, in handen van de voorzitter, de volgende eed (verklaring en belofte) af:
+
+«Ik zweer (verklaar) dat ik, om tot lid van de rekenkamer benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd.
+
+Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen.
+
+Ik zweer (beloof) dat ik getrouw zal zijn aan de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840), dat ik de wetten zal nakomen en dat ik mijn plichten als lid van de rekenkamer naar eer en geweten zal vervullen.
+
+Zo waarlijk helpe mij God Almachtig!»
+
+(«Dat verklaar en beloof ik!»)
+
+2. Wanneer de eed (verklaring en belofte), bedoeld in het eerste lid, in de Friese taal wordt afgelegd, luidt de tekst van de eed (verklaring en belofte) als volgt:
+
+«Ik swar (ferklearje) dat ik, om ta lid fan 'e rekkenkeamer beneamd te wurden, streekrjocht noch midlik, ûnder wat namme of wat ferlechje ek, hokker jefte of geunst dan ek jûn of ûnthjitten haw.
+
+Ik swar (ferklearje en ûnthjit) dat ik, om eat yn dit amt te dwaan of te litten, streekrjocht noch midlik hokker geskink of hokker ûnthjit dan ek oannommen haw of oannimme sil.
+
+Ik swar (ûnthjit) dat ik trou wêze sil oan 'e [Grûnwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840), dat ik de wetten neikomme sil en dat ik myn plichten as lid fan 'e rekkenkeamer yn alle oprjochtens ferfolje sil.
+
+Sa wier helpe my God Almachtich!»
+
+(«Dat ferklearje en ûnthjit ik!»).
+
+#### Artikel 81h
+
+[Artikel 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=15&z=2026-03-21&g=2026-03-21), is van overeenkomstige toepassing op de leden van de rekenkamer.
+
+#### Artikel 81i
+
+1. De rekenkamer stelt een reglement van orde voor haar werkzaamheden vast en, indien zij uit twee of meer personen bestaat, tevens voor haar vergaderingen.
+
+2. De rekenkamer zendt het reglement ter kennisneming aan de raad.
+
+#### Artikel 81j
+
+1. De raad stelt, na overleg met de rekenkamer, de rekenkamer de nodige middelen ter beschikking voor een goede uitoefening van haar werkzaamheden.
+
+2. Op voordracht van de voorzitter of het enige lid van de rekenkamer besluit het college tot het aangaan van arbeidsovereenkomsten met zoveel ambtenaren van de rekenkamer als nodig zijn voor een goede uitoefening van haar werkzaamheden. Indien de voordracht een op de griffie werkzame ambtenaar betreft, besluit de raad tot het aangaan van de arbeidsovereenkomst.
+
+3. De ambtenaren die werkzaamheden verrichten voor de rekenkamer, verrichten niet tevens werkzaamheden voor een ander orgaan van de gemeente, met uitzondering van de op de griffie werkzame ambtenaren.
+
+4. De ambtenaren die werkzaamheden verrichten voor de rekenkamer, zijn ter zake van die werkzaamheden uitsluitend verantwoording schuldig aan de rekenkamer.
+
+#### Artikel 81k
+
+De leden van de rekenkamer ontvangen een bij verordening van de raad vastgestelde vergoeding voor hun werkzaamheden en een tegemoetkoming in de kosten.
+
+#### Paragraaf 2. De gemeenschappelijke rekenkamer
+
+#### Artikel 81l
+
+In afwijking van [artikel 81a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IVa&paragraaf=1&artikel=81a&z=2026-03-21&g=2026-03-21) kan de raad met de raad of de raden van een of meer andere gemeenten met toepassing van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=1), en [8, tweede lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8) of met provinciale staten van één of meer provincies of met het algemeen bestuur of de algemene besturen van een of meer waterschappen, al dan niet met de raad of de raden van een of meer andere gemeenten tezamen, met toepassing van [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=51) en [52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=52), juncto [artikel 8, tweede lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8), een gemeenschappelijke rekenkamer instellen. De [artikelen 10, tweede, derde en vijfde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=10), [10a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=10a), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=11), [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=11a), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=17), [20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=21), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=22), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=23), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=30) en [54 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=54) zijn niet van toepassing.
+
+#### Artikel 81m
+
+1. De [artikelen 81b tot en met 81f](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IVa&paragraaf=1&artikel=81b&z=2026-03-21&g=2026-03-21), [81h](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IVa&paragraaf=1&artikel=81h&z=2026-03-21&g=2026-03-21), [81i](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IVa&paragraaf=1&artikel=81i&z=2026-03-21&g=2026-03-21) en [81j, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IVa&paragraaf=1&artikel=81j&z=2026-03-21&g=2026-03-21), zijn van overeenkomstige toepassing op de gemeenschappelijke rekenkamer, met dien verstande dat in de [artikelen 81b tot en met 81d](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IVa&paragraaf=1&artikel=81b&z=2026-03-21&g=2026-03-21), [81i, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IVa&paragraaf=1&artikel=81i&z=2026-03-21&g=2026-03-21), en [81j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IVa&paragraaf=1&artikel=81j&z=2026-03-21&g=2026-03-21), voor «de raad» telkens wordt gelezen «de raden van de deelnemende gemeenten gezamenlijk» of, indien de rekenkamer mede is ingesteld door provincies of waterschappen, «provinciale staten, de raden en de algemene besturen van de deelnemende provincies, gemeenten en waterschappen gezamenlijk».
+
+2. [Artikel 81g](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IVa&paragraaf=1&artikel=81g&z=2026-03-21&g=2026-03-21) is op de gemeenschappelijke rekenkamer van toepassing, met dien verstande dat voor «de raad» wordt gelezen «de raad van de gemeente die daartoe in de regeling waarbij de gemeenschappelijke rekenkamer is ingesteld, is aangewezen» of, indien de rekenkamer mede is ingesteld door provincies of waterschappen, «provinciale staten van de provincie, de raad van de gemeente of het algemeen bestuur van het waterschap dat daartoe in de regeling waarbij de gemeenschappelijke regeling is ingesteld zijn of is aangewezen».
+
+#### Artikel 81n
+
+Indien de raad of de raden van een of meer gemeenten met provinciale staten van een of meer provincies of het algemeen bestuur van een of meer waterschappen een gemeenschappelijke rekenkamer instellen, is, onverminderd [artikel 81m, eerste lid, juncto artikel 81f](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IVa&paragraaf=2&artikel=81m&z=2026-03-21&g=2026-03-21), een lid van de rekenkamer niet tevens:
+
+- a. lid van provinciale staten van een deelnemende provincie of het algemeen bestuur van een deelnemend waterschap;
+
+- b. ambtenaar, in dienst van een deelnemende provincie of een deelnemend waterschap of uit anderen hoofde aan het bestuur van een deelnemende provincie of een deelnemend waterschap ondergeschikt;
+
+- c. ambtenaar, in dienst van de Staat, tot wiens taak het behoort het verrichten van werkzaamheden in het kader van het toezicht op de provincie of op het waterschap;
+
+- d. functionaris, krachtens de wet of algemene maatregel van bestuur geroepen om het provinciebestuur of het bestuur van het waterschap van advies te dienen.
+
+#### Artikel 81o
+
+In de regeling waarbij de gemeenschappelijke rekenkamer wordt ingesteld, worden ten minste regels gesteld over:
+
+- a. het op verzoek van de voorzitter of het enige lid van de rekenkamer in dienst nemen van de ambtenaren die nodig zijn voor een goede uitoefening van de werkzaamheden van de rekenkamer;
+
+- b. de vergoeding die de leden van de rekenkamer voor hun werkzaamheden ontvangen en de tegemoetkoming in de kosten.
+
+### Hoofdstuk V. De commissies
+
+#### Paragraaf 1. Commissies
+
+#### Paragraaf 1. Algemene bepaling
+
+### Hoofdstuk VI. Geldelijke voorzieningen ten behoeve van de leden van de raad en de commissies
+
+### Hoofdstuk VII. De secretaris en de griffier
+
+#### Paragraaf 1. Algemene bepalingen
+
+#### Paragraaf 2. De secretaris
+
+#### Paragraaf 3. De griffier
+
+#### Artikel 107a
+
+1. De griffier staat de raad en de door de raad ingestelde commissies bij de uitoefening van hun taak terzijde.
+
+2. De raad stelt in een instructie nadere regels over de taak en de bevoegdheden van de griffier.
+
+#### Artikel 107b
+
+De griffier is in de vergadering van de raad aanwezig.
+
+#### Artikel 107c
+
+Vervallen
+
+#### Artikel 107d
+
+1. De raad regelt de vervanging van de griffier.
+
+2. De [artikelen 100, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=VII&paragraaf=1&artikel=100&z=2026-03-21&g=2026-03-21), [101](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=VII&paragraaf=1&artikel=101&z=2026-03-21&g=2026-03-21) en [107 tot en met 107b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=VII&paragraaf=3&artikel=107&z=2026-03-21&g=2026-03-21) zijn van overeenkomstige toepassing op degene die de griffier vervangt.
+
+#### Artikel 107e
+
+1. De raad kan regels stellen over de organisatie van de griffie.
+
+2. De raad besluit tot het aangaan, wijzigen en beëindigen van arbeidsovereenkomsten met de op de griffie werkzame ambtenaren.
+
+## Titel III. De bevoegdheid van het gemeentebestuur
+
+### Hoofdstuk VIII. Algemene bepalingen
+
+#### § 1. Inleidende bepalingen
+
+#### Paragraaf 2. De secretaris
+
+#### § 3. Bijzondere voorzieningen
+
+#### § 1. Inleidende bepalingen
+
+#### § 2. Verhouding tot de provincie en het Rijk
+
+#### § 4. Bestuursdwang
+
+### Hoofdstuk IX. De bevoegdheid van de raad
+
+### Hoofdstuk XI. De bevoegdheid van de burgemeester
+
+### Hoofdstuk XIa. De bevoegdheid van de rekenkamer
+
+## Titel IV. De financiën van de gemeente
+
+### Hoofdstuk XI. De bevoegdheid van de burgemeester
+
+### Hoofdstuk X. De bevoegdheid van het college van burgemeester en wethouders
+
+#### § 1. De begroting
+
+#### Paragraaf 2. De jaarrekening
+
+#### § 3. Goedkeuring van de begroting
+
+### Hoofdstuk XIV. De administratie en de controle
+
+### Hoofdstuk XII. Algemene bepalingen
+
+#### § 1. Algemene bepalingen
+
+#### § 2. Bijzondere bepalingen omtrent de onroerende-zaakbelastingen
+
+#### § 3. Goedkeuring van de begroting
+
+#### § 4. Heffing en invordering
+
+## Titel V. Aanvullende bepalingen inzake het toezicht op het gemeentebestuur
+
+### Hoofdstuk XVI. Goedkeuring
+
+### Hoofdstuk XVII. Schorsing en vernietiging
+
+## Titel VI
+
+## Titel V. Aanvullende bepalingen inzake het toezicht op het gemeentebestuur
+
+## Bijlage. bedoeld in [artikel 299, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=VII&artikel=299&z=2003-01-01&g=2003-01-01), van de Gemeentewet
+
+### Ministerie van Verkeer en Waterstaat
+
+Wet Waterhuishouding (TK, 1986-1987, 17 367, nr. 8)
+
+### Ministerie van Verkeer en Waterstaat
+
+### Ministerie van Volksgezondheid, Welzijn en Sport
+
+### Ministerie van Volksgezondheid, Welzijn en Sport
+
+Alle verplichtingen, zoals bedoeld in [artikel 111, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=111&z=2003-01-01&g=2003-01-01), die voorkomen in de volgende wetten:
+
+### Ministerie van Verkeer en Waterstaat
+
+[Wet Waterhuishouding](https://wetten.overheid.nl/jci1.3:c:BWBR0004575) (TK, 1986-1987, 17 367, nr. 8)
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+### Hoofdstuk IVb. De rekenkamerfunctie
+
+#### Artikel 81o
+
+1. Als geen rekenkamer is ingesteld als bedoeld in [hoofdstuk IVa](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IVa&z=2005-02-05&g=2005-02-05), stelt de raad bij verordening regels vast voor de uitoefening van de rekenkamerfunctie.
+
+2. De [artikelen 182](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XIa&artikel=182&z=2005-02-05&g=2005-02-05) en [185](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XIa&artikel=185&z=2005-02-05&g=2005-02-05) zijn voor de uitoefening van de rekenkamerfunctie van overeenkomstige toepassing.
+
+3. Op personen die de rekenkamerfunctie uitoefenen, is [artikel 81f, behoudens het eerste lid, onder j en o](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IVa&paragraaf=1&artikel=81f&z=2005-02-05&g=2005-02-05), van overeenkomstige toepassing.
+
+### Hoofdstuk IVb. De rekenkamerfunctie
+
+#### Paragraaf 1. Commissies
+
+#### Paragraaf 2. De gemeentelijke ombudsman
+
+### Hoofdstuk VI. Geldelijke voorzieningen ten behoeve van de leden van de raad en de commissies
+
+### Hoofdstuk VII. De secretaris en de griffier
+
+#### Paragraaf 1. Algemene bepalingen
+
+#### Paragraaf 2. Deelgemeenten
+
+#### Paragraaf 3. De griffier
+
+## Titel III. De bevoegdheid van het gemeentebestuur
+
+### Hoofdstuk VIII. Algemene bepalingen
+
+#### § 1. Inleidende bepalingen
+
+#### Paragraaf 2. De secretaris
+
+#### § 3. Bijzondere voorzieningen
+
+#### Paragraaf 3. De griffier
+
+#### § 2. Verhouding tot de provincie en het Rijk
+
+#### § 6. Termijnen
+
+### Hoofdstuk IX. De bevoegdheid van de raad
+
+### Hoofdstuk X. De bevoegdheid van het college van burgemeester en wethouders
+
+### Hoofdstuk XI. De bevoegdheid van de burgemeester
+
+### Hoofdstuk XIa. De bevoegdheid van de rekenkamer
+
+## Titel IV. De financiën van de gemeente
+
+### Hoofdstuk XII. Algemene bepalingen
+
+### Hoofdstuk XIII. De begroting en de jaarrekening
+
+#### § 1. De begroting
+
+#### Paragraaf 2. De jaarrekening
+
+#### § 3. Goedkeuring van de begroting
+
+### Hoofdstuk XIa. De bevoegdheid van de rekenkamer
+
+### Hoofdstuk XV. De gemeentelijke belastingen
+
+#### § 1. Algemene bepalingen
+
+#### § 2. Bijzondere bepalingen omtrent de onroerende-zaakbelastingen
+
+#### § 3. Bijzondere bepalingen omtrent de andere belastingen dan de onroerende-zaakbelastingen
+
+#### § 4. Heffing en invordering
+
+## Titel V. Aanvullende bepalingen inzake het toezicht op het gemeentebestuur
+
+### Hoofdstuk XVI. Goedkeuring
+
+### Hoofdstuk XVII. Schorsing en vernietiging
+
+## Titel VI
+
+## Titel VII. Overgangs- en slotbepalingen
+
+## Bijlage. bedoeld in [artikel 299, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=VII&artikel=299&z=2005-01-01&g=2005-01-01), van de Gemeentewet
+
+### Ministerie van Verkeer en Waterstaat
+
+[Wet Waterhuishouding](https://wetten.overheid.nl/jci1.3:c:BWBR0004575) (TK, 1986-1987, 17 367, nr. 8)
+
+### Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+
+Alle verplichtingen, zoals bedoeld in [artikel 111, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=111&z=2005-01-01&g=2005-01-01), die voorkomen in de volgende wetten:
+
+### Ministerie van Binnenlandse Zaken
+
+[Wet rampen en zware ongevallen, artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=3) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=4) en [Brandweerwet 1985, artikel 4, eerste lid, onderdeel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003764&artikel=4).
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+### Hoofdstuk V. De commissies
+
+#### Paragraaf 1. Commissies
+
+#### Paragraaf 2. De gemeenschappelijke rekenkamer
+
+### Hoofdstuk V. De commissies
+
+### Hoofdstuk VII. De secretaris en de griffier
+
+#### Paragraaf 3. De gemeentelijke ombudscommissie
+
+#### Paragraaf 4. De gezamenlijke ombudsman en de gezamenlijke ombudscommissie
+
+## Titel III. De bevoegdheid van het gemeentebestuur
+
+### Hoofdstuk VII. De secretaris en de griffier
+
+#### Paragraaf 1. Algemene bepalingen
+
+#### Paragraaf 2. De secretaris
+
+#### § 3. Bijzondere voorzieningen
+
+#### Paragraaf 3. De griffier
+
+#### § 3. Bijzondere voorzieningen
+
+#### § 6. Termijnen
+
+### Hoofdstuk IX. De bevoegdheid van de raad
+
+### Hoofdstuk X. De bevoegdheid van het college van burgemeester en wethouders
+
+### Hoofdstuk IX. De bevoegdheid van de raad
+
+### Hoofdstuk XIa. De bevoegdheid van de rekenkamer
+
+## Titel IV. De financiën van de gemeente
+
+### Hoofdstuk XII. Algemene bepalingen
+
+#### § 1. De begroting
+
+#### § 3. Goedkeuring van de begroting
+
+### Hoofdstuk XIV. De administratie en de controle
+
+### Hoofdstuk XIa. De bevoegdheid van de rekenkamer
+
+#### § 1. De begroting
+
+#### § 2. Bijzondere bepalingen omtrent de onroerende-zaakbelastingen
+
+#### § 3. Goedkeuring van de begroting
+
+#### Paragraaf 2. De jaarrekening
+
+## Titel V. Aanvullende bepalingen inzake het toezicht op het gemeentebestuur
+
+### Hoofdstuk XVI. Goedkeuring
+
+### Hoofdstuk XVII. Schorsing en vernietiging
+
+## Titel VI
+
+## Titel V. Aanvullende bepalingen inzake het toezicht op het gemeentebestuur
+
+## Bijlage. bedoeld in [artikel 299, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=VII&artikel=299&z=2005-02-05&g=2005-02-05), van de Gemeentewet
+
+[Wet Waterhuishouding](https://wetten.overheid.nl/jci1.3:c:BWBR0004575) (TK, 1986-1987, 17 367, nr. 8)
+
+### Ministerie van Volksgezondheid, Welzijn en Sport
+
+[Wet rampen en zware ongevallen, artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=3) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=4) en [Brandweerwet 1985, artikel 4, eerste lid, onderdeel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003764&artikel=4).
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### Artikel 32a
+
+1. De stukken die van de raad uitgaan, worden door de burgemeester ondertekend en door de griffier medeondertekend. Bij verhindering of ontstentenis van de burgemeester worden de stukken die van de raad uitgaan ondertekend door degene die krachtens [artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=77&z=2026-03-21&g=2026-03-21) de burgemeester als voorzitter van de raad vervangt.
+
+2. De raad kan de burgemeester toestaan de ondertekening op te dragen aan de griffier of aan een of meer andere bij de griffie werkzame ambtenaren. In dat geval blijft medeondertekening achterwege.
+
+### Hoofdstuk III. Het college van burgemeester en wethouders
+
+#### Artikel 59a
+
+1. De stukken die van het college uitgaan, worden door de burgemeester ondertekend en door de secretaris medeondertekend.
+
+2. Het college van burgemeester en wethouders kan hem toestaan de ondertekening op te dragen aan een ander lid van het college, aan de secretaris of aan een of meer andere gemeenteambtenaren.
+
+3. De medeondertekening door de secretaris is niet van toepassing indien de ondertekening van stukken die van het college uitgaan ingevolge het tweede lid is opgedragen aan de secretaris of een of meer andere gemeenteambtenaren.
+
+### Hoofdstuk IV. De burgemeester
+
+### Hoofdstuk IVa. De rekenkamer
+
+#### Paragraaf 1. De gemeentelijke rekenkamer
+
+#### Paragraaf 2. De gemeenschappelijke rekenkamer
+
+#### Artikel 81oa
+
+Vervallen
+
+### Hoofdstuk IVb. De rekenkamerfunctie
+
+#### Paragraaf 1. Commissies
+
+#### Paragraaf 2. Deelgemeenten
+
+#### Artikel 89a
+
+Vervallen
+
+### Hoofdstuk V. De commissies
+
+### Hoofdstuk VII. De secretaris en de griffier
+
+#### Paragraaf 3. De griffier
+
+## Titel III. De bevoegdheid van het gemeentebestuur
+
+### Hoofdstuk VIII. Algemene bepalingen
+
+#### § 2. Verhouding tot de provincie en het Rijk
+
+#### § 2. Verhouding tot de provincie en het Rijk
+
+#### § 4. Bestuursdwang
+
+#### § 3. Bijzondere voorzieningen
+
+### Hoofdstuk IX. De bevoegdheid van de raad
+
+#### Artikel 151c
+
+1. De raad kan bij verordening de burgemeester de bevoegdheid verlenen om, indien dat in het belang van de handhaving van de openbare orde noodzakelijk is, te besluiten om voor een bepaalde duur camera’s in te zetten ten behoeve van het toezicht op een openbare plaats als bedoeld in [artikel 1 van de Wet openbare manifestaties](https://wetten.overheid.nl/jci1.3:c:BWBR0004318&artikel=1) en andere bij verordening aan te wijzen plaatsen die voor een ieder toegankelijk zijn.
+
+2. De burgemeester besluit met inachtneming van het in de verordening van de raad bepaalde:
+
+- a. binnen welk gebied, bestaande uit openbare plaatsen of andere voor een ieder toegankelijke plaatsen als bedoeld in het eerste lid, camera’s worden ingezet;
+
+- b. voor welke duur de gebiedsaanwijzing plaatsvindt.
+
+3. De burgemeester stelt, na overleg met de officier van justitie in het overleg, bedoeld in [artikel 13, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=13), de periode vast waarin in het belang van de handhaving van de openbare orde daadwerkelijk gebruik van de camera’s plaatsvindt en de met de camera’s gemaakte beelden in elk geval rechtstreeks worden bekeken.
+
+4. De burgemeester bedient zich bij de uitvoering van het in het eerste lid bedoelde besluit van de onder zijn gezag staande politie.
+
+5. De burgemeester trekt het besluit, bedoeld in het eerste lid, in zodra de inzet van camera’s niet langer noodzakelijk is in het belang van de handhaving van de openbare orde.
+
+6. De aanwezigheid van camera’s als bedoeld in het eerste lid is op duidelijke wijze kenbaar voor een ieder die het gebied, bedoeld in het tweede lid, onder a, betreedt.
+
+7. Met de camera’s worden uitsluitend beelden gemaakt van een openbare plaats als bedoeld in [artikel 1 van de Wet openbare manifestaties](https://wetten.overheid.nl/jci1.3:c:BWBR0004318&artikel=1) en andere bij verordening aan te wijzen plaatsen die voor een ieder toegankelijk zijn.
+
+8. Ten behoeve van de handhaving van de openbare orde worden in het kader van het toezicht, bedoeld in het eerste lid, gegevens verwerkt.
+
+9. De verwerking van de gegevens, bedoeld in het achtste lid, is een verwerking als bedoeld in de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463), met dien verstande dat, in afwijking van het bepaalde in [artikel 8 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8), de vastgelegde beelden na ten hoogste vier weken worden vernietigd en de gegevens, bedoeld in het achtste lid, indien er concrete aanleiding bestaat te vermoeden dat die gegevens noodzakelijk zijn voor de opsporing van een strafbaar feit, ten behoeve van de opsporing van dat strafbare feit kunnen worden verwerkt.
+
+10. Bij of krachtens algemene maatregel van bestuur kunnen met het oog op de goede uitvoering van het toezicht, bedoeld in het eerste lid, regels worden gesteld omtrent:
+
+- a. de camera’s en andere technische hulpmiddelen benodigd voor het toezicht, bedoeld in het eerste lid, en de wijze waarop deze hulpmiddelen worden aangebracht;
+
+- b. de personen belast met of anderszins direct betrokken bij de uitvoering van het toezicht; en
+
+- c. de ruimten waarin de waarneming of verwerking van door het toezicht vastgelegde beelden plaatsvindt.
+
+### Hoofdstuk X. De bevoegdheid van het college van burgemeester en wethouders
+
+### Hoofdstuk XI. De bevoegdheid van de burgemeester
+
+## Titel IV. De financiën van de gemeente
+
+### Hoofdstuk XIII. De begroting en de jaarrekening
+
+#### § 1. De begroting
+
+#### Paragraaf 2. De jaarrekening
+
+### Hoofdstuk XIII. De begroting en de jaarrekening
+
+#### § 1. De begroting
+
+#### § 1. De begroting
+
+#### Paragraaf 2. De jaarrekening
+
+#### § 1. Algemene bepalingen
+
+## Titel V. Aanvullende bepalingen inzake het toezicht op het gemeentebestuur
+
+### Hoofdstuk XVI. Goedkeuring
+
+### Hoofdstuk XVII. Schorsing en vernietiging
+
+## Titel VI
+
+## Titel VII. Overgangs- en slotbepalingen
+
+## Bijlage. bedoeld in [artikel 299, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=VII&artikel=299&z=2005-11-02&g=2005-11-02), van de Gemeentewet
+
+### Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+
+### Ministerie van Onderwijs en Wetenschappen
+
+Alle verplichtingen, zoals bedoeld in [artikel 111, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=111&z=2005-11-02&g=2005-11-02), die voorkomen in de volgende wetten:
+
+### Ministerie van Binnenlandse Zaken
+
+[Wet rampen en zware ongevallen, artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=3) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=4) en [Brandweerwet 1985, artikel 4, eerste lid, onderdeel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003764&artikel=4).
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### Paragraaf 1. Algemene bepaling
+
+#### Artikel 81p
+
+1. Met inachtneming van het bepaalde in dit hoofdstuk kan de raad de behandeling van verzoekschriften als bedoeld in [artikel 9:18, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:18), opdragen aan een gemeentelijke ombudsman of ombudscommissie, dan wel een gezamenlijke ombudsman of ombudscommissie.
+
+2. Een ombudsman of ombudscommissie als bedoeld in het eerste lid kan slechts per 1 januari van enig jaar worden ingesteld. Indien de raad hiertoe besluit, zendt hij het besluit tot instelling aan de Nationale ombudsman voor 1 juli van het jaar voorafgaand aan het jaar waarin de instelling ingaat.
+
+3. De instelling van een ombudsman of ombudscommissie als bedoeld in het eerste lid kan slechts per 1 januari van enig jaar worden beëindigd. Indien de raad hiertoe besluit, zendt hij het besluit tot beëindiging van de instelling aan de Nationale ombudsman voor 1 juli van het jaar voorafgaand aan het jaar waarin de instelling eindigt.
+
+#### Paragraaf 1. Algemene bepaling
+
+#### Artikel 81q
+
+1. Indien de raad de behandeling van verzoekschriften opdraagt aan een gemeentelijke ombudsman, benoemt hij deze voor de duur van zes jaar.
+
+2. De raad benoemt een plaatsvervangend ombudsman. Deze paragraaf is op de plaatsvervangend ombudsman van overeenkomstige toepassing.
+
+3. De ombudsman wordt door de raad ontslagen:
+
+- a. op eigen verzoek;
+
+- b. wanneer hij door ziekte of gebreken blijvend ongeschikt is zijn functie te vervullen;
+
+- c. bij de aanvaarding van een betrekking als bedoeld in [artikel 81r, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IVc&paragraaf=2&artikel=81r&z=2026-03-21&g=2026-03-21);
+
+- d. wanneer hij bij onherroepelijk geworden rechterlijke uitspraak wegens misdrijf is veroordeeld, dan wel hem bij zulk een uitspraak een maatregel is opgelegd die vrijheidsbeneming tot gevolg heeft;
+
+- e. indien hij bij onherroepelijk geworden rechterlijke uitspraak onder curatele is gesteld, in staat van faillissement is verklaard, ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, hij surseance van betaling heeft verkregen of wegens schulden is gegijzeld;
+
+- f. indien hij naar het oordeel van de raad ernstig nadeel toebrengt aan het in hem gestelde vertrouwen.
+
+4. De raad stelt de ombudsman op non-activiteit indien hij:
+
+- a. zich in voorlopige hechtenis bevindt;
+
+- b. bij een nog niet onherroepelijk geworden rechterlijke uitspraak wegens misdrijf is veroordeeld, dan wel hem bij zulk een uitspraak een maatregel is opgelegd die vrijheidsbeneming tot gevolg heeft;
+
+- c. onder curatele is gesteld, in staat van faillissement is verklaard, ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, hij surseance van betaling heeft verkregen of wegens schulden is gegijzeld ingevolge een nog niet onherroepelijk geworden rechterlijke uitspraak.
+
+#### Artikel 81r
+
+1. De ombudsman vervult geen betrekkingen waarvan de uitoefening ongewenst is met het oog op een goede vervulling van zijn ambt of op de handhaving van zijn onpartijdigheid en onafhankelijkheid of van het vertrouwen daarin.
+
+2. [Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=12&z=2026-03-21&g=2026-03-21) is van overeenkomstige toepassing op de ombudsman.
+
+#### Artikel 81s
+
+1. Alvorens zijn functie te kunnen uitoefenen, legt de ombudsman in de vergadering van de raad, in handen van de voorzitter, de volgende eed (verklaring en belofte) af: «Ik zweer (verklaar) dat ik, om tot ombudsman benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd.
+
+Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen.
+
+Ik zweer (verklaar en beloof) dat ik getrouw zal zijn aan de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840), dat ik de wetten zal nakomen en dat ik mijn plichten als ombudsman naar eer en geweten zal vervullen.
+
+Zo waarlijk helpe mij God almachtig!»
+
+(«Dat verklaar en beloof ik!»)
+
+2. Wanneer de eed (verklaring en belofte), bedoeld in het eerste lid, in de Friese taal wordt afgelegd, luidt de tekst van de eed (verklaring en belofte) als volgt: «Ik swar (ferklearje) dat ik, om ta ombudsman beneamd te wurden, streekrjocht noch midlik, ûnder wat namme of wat ferlechje ek, hokker jefte of geunst dan ek jûn of ûnthjitten haw. Ik swar (ferklearje en ûnthjit) dat ik, om eat yn dit amt te dwaan of te litten, streekrjocht noch midlik hokker geskink of hokker ûnthjit dan ek oannommen haw of oannimme sil. Ik swar (ûnthjit) dat ik trou wêze sil oan 'e [Grûnwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840), dat ik de wetten neikomme sil en dat ik myn plichten as ombudsman yn alle oprjochtens ferfolje sil. Sa wier helpe my God Almachtich!» («Dat ferklearje en ûnthjit ik!»).
+
+#### Artikel 81t
+
+1. Op voordracht van de ombudsman besluit het college tot het aangaan van arbeidsovereenkomsten met het personeel van de ombudsman dat nodig is voor een goede uitoefening van zijn werkzaamheden.
+
+2. De ombudsman ontvangt ter zake van de uitoefening van zijn werkzaamheden geen instructies, noch in het algemeen, noch voor een enkel geval.
+
+3. Het personeel van de ombudsman verricht geen werkzaamheden voor een bestuursorgaan naar wiens gedraging de ombudsman een onderzoek kan instellen.
+
+4. Het personeel van de ombudsman is ter zake van de werkzaamheden die het voor de ombudsman verricht, uitsluitend aan hem verantwoording schuldig.
+
+#### Artikel 81u
+
+De ombudsman zendt jaarlijks een verslag van zijn werkzaamheden aan de raad.
+
+#### Artikel 81v
+
+De ombudsman ontvangt een bij verordening van de raad vastgestelde vergoeding voor zijn werkzaamheden en een tegemoetkoming in de kosten.
+
+#### Paragraaf 3. De gemeentelijke ombudscommissie
+
+#### Artikel 81w
+
+1. Indien de raad de behandeling van verzoekschriften opdraagt aan een gemeentelijke ombudscommissie, stelt de raad het aantal leden van de ombudscommissie vast.
+
+2. De raad benoemt de leden van de ombudscommissie voor de duur van zes jaar.
+
+3. De raad benoemt uit de leden de voorzitter en de plaatsvervangend voorzitter van de ombudscommissie.
+
+#### Artikel 81x
+
+1. De ombudscommissie zendt jaarlijks een verslag van zijn werkzaamheden aan de raad.
+
+2. Op de ombudscommissie en op ieder lid afzonderlijk zijn de [artikelen 81q, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IVc&paragraaf=2&artikel=81q&z=2026-03-21&g=2026-03-21), [81r](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IVc&paragraaf=2&artikel=81r&z=2026-03-21&g=2026-03-21), [81s](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IVc&paragraaf=2&artikel=81s&z=2026-03-21&g=2026-03-21), [81t](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IVc&paragraaf=2&artikel=81t&z=2026-03-21&g=2026-03-21) en [81v](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IVc&paragraaf=2&artikel=81v&z=2026-03-21&g=2026-03-21) van overeenkomstige toepassing.
+
+#### Paragraaf 3. De gemeentelijke ombudscommissie
+
+#### Artikel 81y
+
+1. De raad kan voor de behandeling van verzoekschriften een gezamenlijke ombudsman of een gezamenlijke ombudscommissie instellen met de raad of raden van een of meer andere gemeenten, dan wel met provinciale staten van een of meer provincies, dan wel met het algemeen bestuur van een of meer waterschappen, dan wel met het algemeen bestuur van een of meer openbare lichamen of gemeenschappelijke organen ingesteld bij gemeenschappelijke regeling.
+
+2. De ombudsman of de ombudscommissie zendt jaarlijks een verslag van zijn werkzaamheden aan de vertegenwoordigende organen van de deelnemende rechtspersonen.
+
+3. Op de ombudsman en op ieder afzonderlijk lid van de ombudscommissie zijn de [artikelen 81q tot en met 81t](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IVc&paragraaf=2&artikel=81q&z=2026-03-21&g=2026-03-21), [81v](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IVc&paragraaf=2&artikel=81v&z=2026-03-21&g=2026-03-21) en [81w](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IVc&paragraaf=3&artikel=81w&z=2026-03-21&g=2026-03-21) van overeenkomstige toepassing.
+
+#### Artikel 81z
+
+Indien de raad een ombudsman of een ombudscommissie instelt met toepassing van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740), zijn de in die wet ten aanzien van gemeenschappelijke organen opgenomen bepalingen slechts van toepassing voor zover de aard van de aan de ombudsman of de ombudscommissie opgedragen taken zich daartegen niet verzet.
+
+### Hoofdstuk VI. Geldelijke voorzieningen ten behoeve van de leden van de raad en de commissies
+
+#### Paragraaf 3. De griffier
+
+## Titel III. De bevoegdheid van het gemeentebestuur
+
+### Hoofdstuk VIII. Algemene bepalingen
+
+#### § 5. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
+
+#### § 6. Termijnen
+
+### Hoofdstuk IX. De bevoegdheid van de raad
+
+### Hoofdstuk X. De bevoegdheid van het college van burgemeester en wethouders
+
+### Hoofdstuk XI. De bevoegdheid van de burgemeester
+
+## Titel IV. De financiën van de gemeente
+
+### Hoofdstuk XII. Algemene bepalingen
+
+### Hoofdstuk X. De bevoegdheid van het college van burgemeester en wethouders
+
+#### § 1. De begroting
+
+#### Paragraaf 2. De jaarrekening
+
+### Hoofdstuk XIa. De bevoegdheid van de rekenkamer
+
+### Hoofdstuk XV. De gemeentelijke belastingen
+
+#### § 1. Algemene bepalingen
+
+#### § 1. De begroting
+
+#### § 2. Bijzondere bepalingen omtrent de onroerende-zaakbelastingen
+
+## Titel V. Aanvullende bepalingen inzake het toezicht op het gemeentebestuur
+
+### Hoofdstuk XVI. Goedkeuring
+
+### Hoofdstuk XVII. Schorsing en vernietiging
+
+## Titel V. Aanvullende bepalingen inzake het toezicht op het gemeentebestuur
+
+## Titel VII. Overgangs- en slotbepalingen
+
+## Bijlage. bedoeld in [artikel 299, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=VII&artikel=299&z=2006-07-01&g=2006-07-01), van de Gemeentewet
+
+### Ministerie van Verkeer en Waterstaat
+
+[Wet Waterhuishouding](https://wetten.overheid.nl/jci1.3:c:BWBR0004575) (TK, 1986-1987, 17 367, nr. 8)
+
+### Ministerie van Verkeer en Waterstaat
+
+### Ministerie van Volksgezondheid, Welzijn en Sport
+
+### Ministerie van Volksgezondheid, Welzijn en Sport
+
+Alle verplichtingen, zoals bedoeld in [artikel 111, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=111&z=2006-07-01&g=2006-07-01), die voorkomen in de volgende wetten:
+
+### Ministerie van Onderwijs en Wetenschappen
+
+Alle verplichtingen, zoals bedoeld in [artikel 111, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=111&z=2007-09-01&g=2007-09-01), die voorkomen in de volgende wetten:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### Artikel 184a
+
+De rekenkamer is belast met het toezicht op de naleving van [artikel 213, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=IV&hoofdstuk=XIV&artikel=213&z=2026-03-21&g=2026-03-21).
+
+## Titel IV. De financiën van de gemeente
+
+### Hoofdstuk XI. De bevoegdheid van de burgemeester
+
+### Hoofdstuk XIII. De begroting en de jaarrekening
+
+#### Paragraaf 2. De jaarrekening
+
+### Hoofdstuk XIa. De bevoegdheid van de rekenkamer
+
+### Hoofdstuk XII. Algemene bepalingen
+
+#### Paragraaf 2. De jaarrekening
+
+#### § 1. De begroting
+
+#### § 3. Bijzondere bepalingen omtrent de andere belastingen dan de onroerende-zaakbelastingen
+
+#### § 2. Bijzondere bepalingen omtrent de onroerende-zaakbelastingen
+
+## Titel V. Aanvullende bepalingen inzake het toezicht op het gemeentebestuur
+
+### Hoofdstuk XVI. Goedkeuring
+
+### Hoofdstuk XVII. Schorsing en vernietiging
+
+## Titel V. Aanvullende bepalingen inzake het toezicht op het gemeentebestuur
+
+## Titel VII. Overgangs- en slotbepalingen
+
+## Bijlage. bedoeld in [artikel 299, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=VII&artikel=299&z=2007-06-01&g=2007-06-01), van de Gemeentewet
+
+### Ministerie van Verkeer en Waterstaat
+
+[Wet Waterhuishouding](https://wetten.overheid.nl/jci1.3:c:BWBR0004575) (TK, 1986-1987, 17 367, nr. 8)
+
+### Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+
+Alle verplichtingen, zoals bedoeld in [artikel 111, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=111&z=2007-06-01&g=2007-06-01), die voorkomen in de volgende wetten:
+
+### Ministerie van Binnenlandse Zaken
+
+[Wet rampen en zware ongevallen, artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=3) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=4) en [Brandweerwet 1985, artikel 4, eerste lid, onderdeel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003764&artikel=4).
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### Artikel 228a
+
+1. Onder de naam rioolheffing kan een belasting worden geheven ter bestrijding van de kosten die voor de gemeente verbonden zijn aan:
+
+- a. de inzameling en het transport van huishoudelijk afvalwater en bedrijfsafvalwater, alsmede de zuivering van huishoudelijk afvalwater en
+
+- b. de inzameling van afvloeiend hemelwater en de verwerking van het ingezamelde hemelwater, alsmede het treffen van maatregelen teneinde structureel nadelige gevolgen van de grondwaterstand voor de aan de grond gegeven bestemming zoveel mogelijk te voorkomen of te beperken.
+
+2. Ter zake van de kosten, bedoeld in het eerste lid, onderdelen a en b, kunnen twee afzonderlijke belastingen worden geheven.
+
+3. Onder de kosten, bedoeld in het eerste lid, wordt mede verstaan de omzetbelasting die als gevolg van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) recht geeft op een bijdrage uit dat fonds.
+
+#### § 2. Bijzondere bepalingen omtrent de onroerende-zaakbelastingen
+
+## Titel V. Aanvullende bepalingen inzake het toezicht op het gemeentebestuur
+
+### Hoofdstuk XVI. Goedkeuring
+
+### Hoofdstuk XVII. Schorsing en vernietiging
+
+## Titel V. Aanvullende bepalingen inzake het toezicht op het gemeentebestuur
+
+## Titel VII. Overgangs- en slotbepalingen
+
+## Bijlage. bedoeld in [artikel 299, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=VII&artikel=299&z=2007-09-01&g=2007-09-01), van de Gemeentewet
+
+[Wet Waterhuishouding](https://wetten.overheid.nl/jci1.3:c:BWBR0004575) (TK, 1986-1987, 17 367, nr. 8)
+
+### Ministerie van Binnenlandse Zaken
+
+[Wet rampen en zware ongevallen, artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=3) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=4) en [Brandweerwet 1985, artikel 4, eerste lid, onderdeel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003764&artikel=4).
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### Artikel 154b
+
+1. De raad kan bij verordening bepalen dat een bestuurlijke boete kan worden opgelegd voor overtreding van:
+
+- a. voorschriften uit zijn verordeningen betreffende gedragingen die kunnen leiden tot overlast in de openbare ruimte en die tevens krachtens [artikel 154](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=154&z=2026-03-21&g=2026-03-21) strafbaar zijn gesteld, met uitzondering van de bij algemene maatregel van bestuur bepaalde voorschriften, en
+
+- b. de bij algemene maatregel van bestuur bepaalde voorschriften die op grond van de [artikelen 10.23 tot en met 10.26](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) en [10.28 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.28) zijn gesteld en die strafbaar zijn gesteld.
+
+De voordracht voor een krachtens dit lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+
+2. De verordening, bedoeld in het eerste lid, is van toepassing op alle overtredingen, genoemd in het eerste lid.
+
+3. Een besluit van de raad tot intrekking van de verordening, bedoeld in het eerste lid, treedt niet eerder in werking dan na twaalf maanden na de bekendmaking van het besluit.
+
+4. De bevoegdheid tot het opleggen van een bestuurlijke boete wordt uitgeoefend door het college. Deze bevoegdheid wordt uitgeoefend door de burgemeester, indien de toepassing van dit middel dient tot handhaving van regels welke hij uitvoert.
+
+5. In het overleg, bedoeld in [artikel 13, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=13), vindt afstemming plaats over de inzet en werkwijze met betrekking tot de aanpak van overlast in de openbare ruimte door de politie en de ondergeschikten, bedoeld in [artikel 154c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=154c&z=2026-03-21&g=2026-03-21).
+
+6. Bij algemene maatregel van bestuur worden de verschillende boetecategorieën en de hoogte van de bestuurlijke boete bepaald. Voor zover voor een voorschrift de boetecategorie en de hoogte van de boete niet bij algemene maatregel van bestuur zijn bepaald, stelt de raad deze vast in de verordening, bedoeld in het eerste lid. De bestuurlijke boete kan voor natuurlijke personen per gedraging niet hoger zijn dan het bedrag van de geldboete van de eerste categorie en voor rechtspersonen per gedraging niet hoger zijn dan € 2250.
+
+7. Een bestuurlijke boete kan slechts worden opgelegd aan personen die ten tijde van de overtreding 12 jaar of ouder waren. De bestuurlijke boete wordt voor personen die ten tijde van de overtreding nog geen zestien jaar oud waren, gehalveerd.
+
+#### Artikel 154c
+
+1. Zo mogelijk maakt het bestuursorgaan of de ondergeschikte, bedoeld in het tweede lid, terstond na constatering van de overtreding daarvan een rapport op en reikt een afschrift van dat rapport uit aan de overtreder.
+
+2. Tot het opmaken van een rapport kan slechts worden gemachtigd een ondergeschikte van het bestuursorgaan, die tevens buitengewoon opsporingsambtenaar is. Bij of krachtens algemene maatregel van bestuur kunnen nadere eisen gesteld worden aan de ondergeschikte.
+
+3. Onverminderd [artikel 5:48, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48), vermeldt het rapport het bestuursorgaan dat de bestuurlijke boete zal opleggen.
+
+#### Artikel 154d
+
+[Artikel 5:53 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:53) is niet van toepassing op een bestuurlijke boete als bedoeld in [artikel 154b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=154b&z=2026-03-21&g=2026-03-21).
+
+#### Artikel 154e
+
+De beschikking tot oplegging van de bestuurlijke boete wordt gezonden naar het adres dat de overtreder heeft opgegeven. Indien de beschikking onbestelbaar blijkt te zijn, wordt deze gezonden naar het adres waarop betrokkene in de basisregistratie personen is ingeschreven, tenzij dit hetzelfde is als het opgegeven adres. Indien de beschikking op het in de basisregistratie personen vermelde adres onbestelbaar blijkt te zijn, wordt de beschikking geacht aan de overtreder bekend te zijn.
+
+#### Artikel 154f
+
+Vervallen
+
+#### Artikel 154g
+
+Vervallen
+
+#### Artikel 154h
+
+Vervallen
+
+#### Artikel 154i
+
+Vervallen
+
+#### Artikel 154j
+
+Vervallen
+
+#### Artikel 154k
+
+1. Tegen een beschikking tot oplegging van een bestuurlijke boete als bedoeld in [artikel 154b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=154b&z=2026-03-21&g=2026-03-21), kan een belanghebbende beroep instellen bij de rechtbank. Het beroep wordt behandeld en beslist door de kantonrechter. [Hoofdstuk 8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8) is niet van toepassing.
+
+2. De [artikelen 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=6), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=10), [12 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=12) en [19 tot en met 20d van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=19) zijn van overeenkomstige toepassing, met uitzondering van [artikel 13a, tweede tot en met vierde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=13a) en met dien verstande dat telkens voor «officier van justitie» wordt gelezen: het bestuursorgaan.
+
+#### Artikel 154l
+
+De bestuurlijke boete wordt betaald aan het bestuursorgaan binnen zes weken nadat deze onherroepelijk is geworden.
+
+#### Artikel 154m
+
+1. De invordering vindt plaats met overeenkomstige toepassing van de wettelijke bepalingen inzake invordering van gemeentelijke belastingen.
+
+2. In afwijking van het eerste lid:
+
+- a. vindt kwijtschelding wegens onvermogen tot betalen niet plaats; en
+
+- b. verjaart de bevoegdheid tot invordering van de geldsom twee jaren nadat de bestuurlijke boete onherroepelijk is geworden.
+
+#### Artikel 154n
+
+1. De behandeling van het beroep vindt plaats binnen zes weken nadat de indiener zekerheid heeft gesteld voor de betaling van de sanctie, ter hoogte van het bedrag van de opgelegde bestuurlijke boete, dan wel nadat de termijn daarvoor is verstreken.
+
+2. Indien het bestuursorgaan geheel of gedeeltelijk aan de indiener van het beroepschrift is tegemoet gekomen, kan de in het eerste lid bedoelde termijn zonodig met vier weken worden verlengd.
+
+3. De zekerheid wordt door de indiener gesteld bij het bestuursorgaan dat de bestuurlijke boete heeft opgelegd, hetzij door middel van een aan betrokkene toegezonden acceptgiro, hetzij anderszins door storting op de rekening van de het bestuursorgaan. De griffie van de rechtbank wijst de indiener van het beroepschrift na de ontvangst ervan op de verplichting tot zekerheidsstelling en deelt hem mee dat de zekerheidsstelling dient te geschieden binnen twee weken na de dag van zijn mededeling. Indien de zekerheidsstelling niet binnen deze termijn is geschied, wordt het beroep door de kantonrechter niet-ontvankelijk verklaard, tenzij redelijkerwijs niet kan worden geoordeeld dat de indiener in verzuim is geweest.
+
+4. De verplichting tot zekerheidsstelling vervalt nadat ten aanzien van de opgelegde bestuurlijke boete een onherroepelijke beslissing is genomen.
+
+5. Indien de in het vierde lid bedoelde beslissing inhoudt dat de opgelegde bestuurlijke boete geheel of gedeeltelijk blijft gehandhaafd, wordt de verschuldigde bestuurlijke boete op de zekerheidsstelling verhaald.
+
+### Hoofdstuk X. De bevoegdheid van het college van burgemeester en wethouders
+
+### Hoofdstuk XIa. De bevoegdheid van de rekenkamer
+
+## Titel IV. De financiën van de gemeente
+
+### Hoofdstuk XI. De bevoegdheid van de burgemeester
+
+#### Paragraaf 2. De jaarrekening
+
+### Hoofdstuk XIII. De begroting en de jaarrekening
+
+### Hoofdstuk XV. De gemeentelijke belastingen
+
+#### § 3. Goedkeuring van de begroting
+
+#### § 2. Bijzondere bepalingen omtrent de onroerende-zaakbelastingen
+
+#### § 2. Bijzondere bepalingen omtrent de onroerende-zaakbelastingen
+
+### Hoofdstuk XVI. Goedkeuring
+
+### Hoofdstuk XVII. Schorsing en vernietiging
+
+## Titel V. Aanvullende bepalingen inzake het toezicht op het gemeentebestuur
+
+## Titel VII. Overgangs- en slotbepalingen
+
+## Bijlage. bedoeld in [artikel 299, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=VII&artikel=299&z=2010-04-01&g=2010-04-01), van de Gemeentewet
+
+### Ministerie van Verkeer en Waterstaat
+
+[Wet Waterhuishouding](https://wetten.overheid.nl/jci1.3:c:BWBR0004575) (TK, 1986-1987, 17 367, nr. 8)
+
+### Ministerie van Verkeer en Waterstaat
+
+### Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+
+### Ministerie van Volksgezondheid, Welzijn en Sport
+
+Alle verplichtingen, zoals bedoeld in [artikel 111, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=111&z=2010-04-01&g=2010-04-01), die voorkomen in de volgende wetten:
+
+### Ministerie van Onderwijs en Wetenschappen
+
+Alle verplichtingen, zoals bedoeld in [artikel 111, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=1&artikel=111&z=2011-01-01&g=2011-01-01), die voorkomen in de volgende wetten:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### Artikel 172a
+
+1. Onverminderd [artikel 172, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=172&z=2026-03-21&g=2026-03-21), en hetgeen bij gemeentelijke verordening is bepaald omtrent de bevoegdheid van de burgemeester om bevelen te geven ter handhaving van de openbare orde, kan de burgemeester aan een persoon die individueel of in groepsverband de openbare orde ernstig heeft verstoord of bij groepsgewijze ernstige verstoring van de openbare orde een leidende rol heeft gehad, dan wel herhaaldelijk individueel of in groepsverband de openbare orde heeft verstoord of bij groepsgewijze verstoring van de openbare orde een leidende rol heeft gehad, bij ernstige vrees voor verdere verstoring van de openbare orde een bevel geven:
+
+- a. zich niet te bevinden in of in de omgeving van een of meer bepaalde objecten binnen de gemeente, dan wel in een of meer bepaalde delen van de gemeente;
+
+- b. zich niet in een of meer bepaalde delen van de gemeente op een voor het publiek toegankelijke plaats zonder redelijk doel met meer dan drie andere personen in groepsverband op te houden, of
+
+- c. zich op bepaalde tijdstippen te melden op of vanaf bepaalde plaatsen, al dan niet in een andere gemeente.
+
+2. De burgemeester kan tevens een bevel geven aan een persoon aan wie door een private organisatie een sanctie is opgelegd, wegens gedrag dat bij de burgemeester de ernstige vrees doet ontstaan dat die persoon de openbare orde zal verstoren.
+
+3. De burgemeester van een andere gemeente kan een burgemeester verzoeken om een persoon tevens namens hem een overeenkomstig bevel te geven, indien de burgemeester die het bevel geeft, de ernstige vrees heeft dat die persoon ook in de andere gemeente de openbare orde zal verstoren. Het verzoek bevat een aanduiding van de objecten of gebieden waar de aanwezigheid van die persoon niet gewenst is en van de tijdstippen of perioden waarvoor het bevel geldt. De burgemeester zendt een afschrift van het bevel dat hij namens een andere burgemeester heeft gegeven, aan die burgemeester.
+
+4. Van een bevel zich te melden in een andere gemeente, wordt tijdig mededeling gedaan aan de burgemeester van die gemeente.
+
+5. Indien de officier van justitie een persoon als bedoeld in het eerste lid een gedragsaanwijzing heeft gegeven als bedoeld in [artikel 509hh, tweede lid, onderdeel a, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=509hh), geeft de burgemeester aan deze persoon niet een bevel als bedoeld in het eerste lid, onder a of b, voor hetzelfde gebied.
+
+6. Het bevel geldt voor:
+
+- a. een door de burgemeester vast te stellen periode van ten hoogste drie maanden, in welk geval het bevel ten hoogste driemaal kan worden verlengd met een door de burgemeester vast te stellen periode van telkens ten hoogste drie maanden, of
+
+- b. door de burgemeester vast te stellen tijdstippen of perioden, verspreid over ten hoogste negentig dagen binnen een tijdvak van ten hoogste vierentwintig maanden.
+
+7. Op grond van nieuwe feiten of omstandigheden kan de burgemeester het bevel wijzigen ten nadele van betrokkene.
+
+8. De burgemeester kan op aanvraag tijdelijk ontheffing verlenen van de verboden of geboden die voortvloeien uit het bevel, dan wel van een of meer onderdelen daarvan. Aan de ontheffing kunnen voorschriften worden verbonden.
+
+9. Indien nieuwe feiten of omstandigheden daartoe aanleiding geven, wijzigt de burgemeester het bevel ten gunste van betrokkene. Het bevel wordt ingetrokken zodra het niet langer nodig is ter voorkoming van verdere verstoringen van de openbare orde.
+
+#### Artikel 172b
+
+1. De burgemeester kan aan een persoon die het gezag uitoefent over een minderjarige die herhaaldelijk in groepsverband de openbare orde heeft verstoord en de leeftijd van twaalf jaren nog niet heeft bereikt, bij ernstige vrees voor verdere verstoring van de openbare orde een bevel geven zorg te dragen:
+
+- a. dat de minderjarige zich niet bevindt in of in de omgeving van een of meer bepaalde objecten binnen de gemeente, dan wel in een of meer bepaalde delen van de gemeente, tenzij de minderjarige wordt begeleid door een persoon die het gezag over hem uitoefent of door een andere meerderjarige als bedoeld in het derde lid; of
+
+- b. dat de minderjarige zich op bepaalde dagen gedurende een aangegeven tijdvak tussen 8 uur ’s avonds en 6 uur ’s ochtends niet bevindt op voor het publiek toegankelijke plaatsen, tenzij de minderjarige wordt begeleid door een persoon die het gezag over hem uitoefent of door een andere meerderjarige als bedoeld in het derde lid.
+
+2. Het bevel geldt voor een door de burgemeester vast te stellen periode van ten hoogste drie maanden.
+
+3. De burgemeester kan voor de toepassing van het eerste lid ten hoogste twee andere meerderjarigen naast de persoon of personen die het gezag uitoefenen over een minderjarige aanwijzen ter begeleiding van de minderjarige.
+
+4. [Artikel 172a, zevende, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=172a&z=2026-03-21&g=2026-03-21), is van overeenkomstige toepassing.
+
+### Hoofdstuk XIa. De bevoegdheid van de rekenkamer
+
+## Titel IV. De financiën van de gemeente
+
+### Hoofdstuk XIa. De bevoegdheid van de rekenkamer
+
+### Hoofdstuk XIV. De administratie en de controle
+
+### Hoofdstuk XV. De gemeentelijke belastingen
+
+#### Paragraaf 2. De jaarrekening
+
+#### § 3. Goedkeuring van de begroting
+
+#### § 4. Heffing en invordering
+
+### Hoofdstuk XVI. Goedkeuring
+
+### Hoofdstuk XVI. Goedkeuring
+
+## Titel VI
+
+## Titel VII. Overgangs- en slotbepalingen
+
+## Bijlage. bedoeld in artikel 299, tweede lid, van de Gemeentewet
+
+Vervallen
+
+[Wet Waterhuishouding](https://wetten.overheid.nl/jci1.3:c:BWBR0004575) (TK, 1986-1987, 17 367, nr. 8)
+
+### Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+
+### Ministerie van Binnenlandse Zaken
+
+[Wet rampen en zware ongevallen, artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=3) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=4) en [Brandweerwet 1985, artikel 4, eerste lid, onderdeel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003764&artikel=4).
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### Artikel 45a
+
+1. Het college beslist zo spoedig mogelijk op een verzoek tot verlof, doch uiterlijk op de veertiende dag na indiening van het verzoek.
+
+2. De beslissing geschiedt in overeenstemming met de verklaring van de arts of verloskundige en bevat de dag waarop het verlof ingaat.
+
+#### Artikel 45b
+
+1. De raad kan een vervanger benoemen voor de wethouder die met verlof is gegaan. [Artikel 36, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=36&z=2026-03-21&g=2026-03-21), is niet van toepassing.
+
+2. De vervanger is van rechtswege ontslagen met ingang van de dag waarop zestien weken zijn verstreken sinds de dag waarop het verlof is ingegaan.
+
+3. Indien de vervanger voor het einde van het verlof ontslag neemt of door de raad wordt ontslagen, kan de raad voor de resterende duur van het verlof een vervanger benoemen.
+
+### Hoofdstuk IV. De burgemeester
+
+### Hoofdstuk IVa. De rekenkamer
+
+#### Paragraaf 1. De gemeentelijke rekenkamer
+
+#### Paragraaf 2. De gemeenschappelijke rekenkamer
+
+### Hoofdstuk IVc. De ombudsman
+
+#### Paragraaf 4. De gezamenlijke ombudsman en de gezamenlijke ombudscommissie
+
+### Hoofdstuk V. De commissies
+
+#### Paragraaf 1. Commissies
+
+### Hoofdstuk VI. Geldelijke voorzieningen ten behoeve van de leden van de raad en de commissies
+
+### Hoofdstuk VII. De secretaris en de griffier
+
+#### Paragraaf 1. Algemene bepalingen
+
+#### Paragraaf 1. Algemene bepalingen
+
+## Titel III. De bevoegdheid van het gemeentebestuur
+
+### Hoofdstuk VIII. Algemene bepalingen
+
+#### § 2. Verhouding tot de provincie en het Rijk
+
+#### § 3. Bijzondere voorzieningen
+
+#### § 5. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
+
+#### § 5. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
+
+### Hoofdstuk IX. De bevoegdheid van de raad
+
+## Titel IV. De financiën van de gemeente
+
+#### § 1. De begroting
+
+### Hoofdstuk XIV. De administratie en de controle
+
+### Hoofdstuk XV. De gemeentelijke belastingen
+
+#### § 1. Algemene bepalingen
+
+#### § 3. Bijzondere bepalingen omtrent de andere belastingen dan de onroerende-zaakbelastingen
+
+#### § 4. Heffing en invordering
+
+## Titel V. Aanvullende bepalingen inzake het toezicht op het gemeentebestuur
+
+### Hoofdstuk XVI. Goedkeuring
+
+### Hoofdstuk XVI. Goedkeuring
+
+## Titel VI
+
+## Titel VI
+
+## Bijlage. bedoeld in artikel 299, tweede lid, van de Gemeentewet
+
+Vervallen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### Artikel 124a
+
+1. In overeenstemming met Onze Minister, kan Onze Minister wie het aangaat, indien hij van oordeel is dat toepassing van [artikel 124, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=3&artikel=124&z=2026-03-21&g=2026-03-21), uit oogpunt van een zwaarwegend algemeen belang gewenst is, gedeputeerde staten onderscheidenlijk de commissaris van de Koning verzoeken toepassing te geven aan artikel 124, eerste lid. Een afschrift van het verzoek wordt gezonden aan de raad en provinciale staten. Indien gedeputeerde staten onderscheidenlijk de commissaris van de Koning niet binnen een door Onze Minister wie het aangaat gestelde termijn toepassing hebben gegeven aan artikel 124, eerste lid, gaat de bevoegdheid van artikel 124, eerste lid, over op Onze Minister wie het aangaat.
+
+2. De [artikelen 124, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=3&artikel=124&z=2026-03-21&g=2026-03-21),[124c](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=3&artikel=124c&z=2026-03-21&g=2026-03-21), [124d](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=3&artikel=124d&z=2026-03-21&g=2026-03-21), en [124f](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=3&artikel=124f&z=2026-03-21&g=2026-03-21) zijn van overeenkomstige toepassing bij toepassing van artikel 124, eerste lid, door Onze Minister wie het aangaat.
+
+#### Artikel 124b
+
+1. Ter zake van de in de bijlage bij deze wet opgenomen wetten worden de bevoegdheden die in de [artikelen 124](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=3&artikel=124&z=2026-03-21&g=2026-03-21), [124c](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=3&artikel=124c&z=2026-03-21&g=2026-03-21), [124d](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=3&artikel=124d&z=2026-03-21&g=2026-03-21) en [artikel 124f](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=3&artikel=124f&z=2026-03-21&g=2026-03-21) aan gedeputeerde staten onderscheidenlijk de commissaris van de Koning zijn toegekend, in zoverre in afwijking van die artikelen uitgeoefend door Onze Minister wie het aangaat.
+
+2. Voorafgaand aan het nemen van een besluit tot indeplaatsstelling, informeert Onze Minister wie het aangaat gedeputeerde staten.
+
+#### Artikel 124c
+
+1. Bij de uitvoering van het besluit tot indeplaatsstelling beschikken gedeputeerde staten onderscheidenlijk de commissaris van de Koning over de bevoegdheden waarover de raad, het college of de burgemeester bij of krachtens deze wet of de andere wet, bedoeld in [artikel 124, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=3&artikel=124&z=2026-03-21&g=2026-03-21), beschikt. In afwijking van [artikel 171, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=XI&artikel=171&z=2026-03-21&g=2026-03-21), vertegenwoordigt de commissaris van de Koning de gemeente zonodig in en buiten rechte.
+
+2. Voor zover het gemeentebestuur, had hij de bevoegdheden, bedoeld in het eerste lid, zelf uitgeoefend, de kosten van de uitvoering in rekening kan brengen bij derden, heeft hij bij die derden verhaal voor de door gedeputeerde staten onderscheidenlijk de commissaris van de Koning ten laste van de gemeente gebrachte kosten. Het gemeentebestuur kan het bedrag invorderen bij dwangbevel.
+
+#### Artikel 124d
+
+Gedeputeerde staten onderscheidenlijk de commissaris van de Koning, kunnen een besluit tot indeplaatsstelling intrekken, indien de raad, het college of de burgemeester voldoende aannemelijk maakt dat hij zonder voorbehoud zal voorzien in hetgeen het besluit van hem vordert.
+
+#### Artikel 124e
+
+Gedeputeerde staten, de commissaris van de Koning onderscheidenlijk Onze Minister wie het aangaat, bedoeld in [artikel 124b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=3&artikel=124b&z=2026-03-21&g=2026-03-21), kunnen ambtenaren aanwijzen ten behoeve van het toezicht op de uitvoering van de aan het gemeentebestuur bij of krachtens andere wet dan deze opgedragen taken. Deze ambtenaren beschikken over de bevoegdheden van de [artikelen 5:15 tot en met 5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15). De [artikelen 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), [5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13) en [5:20, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zijn van overeenkomstige toepassing.
+
+#### Artikel 124f
+
+1. Indien gedeputeerde staten onderscheidenlijk de commissaris van de Koning bij de uitvoering van het besluit tot indeplaatsstelling namens de raad, het college of de burgemeester een besluit nemen, kan voor de toepassing van [artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) bezwaar worden gemaakt bij gedeputeerde staten onderscheidenlijk de commissaris van de Koning. Gedeputeerde staten beslissen onderscheidenlijk de commissaris van de Koning beslist op het bezwaar.
+
+2. Gedeputeerde staten zijn onderscheidenlijk de commissaris van de Koning is de verwerende partij inzake een beroep tegen een namens de raad, het college of de burgemeester genomen besluit als bedoeld in het eerste lid.
+
+3. Het gemeentebestuur kan geen beroep instellen tegen een besluit als bedoeld in het eerste lid.
+
+#### Artikel 124g
+
+1. Het gemeentebestuur werkt mee met de uitvoering van een besluit tot indeplaatsstelling. Gedeputeerde staten, de commissaris van de Koning onderscheidenlijk Onze Minister wie het aangaat kunnen ter zake van de uitvoering van het besluit aanwijzingen geven. Het gemeentebestuur stelt op eerste vordering van gedeputeerde staten onderscheidenlijk de commissaris van de Koning, de voor de uitvoering van het besluit benodigde gemeenteambtenaren ter beschikking en verschaft op eerste vordering van gedeputeerde staten onderscheidenlijk de commissaris van de Koning, alle informatie die nodig is voor de uitvoering van het besluit tot indeplaatsstelling.
+
+2. Gedeputeerde staten, de commissaris van de Koning onderscheidenlijk Onze Minister wie het aangaat kunnen ambtenaren aanwijzen die ten behoeve van de uitvoering van een besluit tot indeplaatsstelling beschikken over de bevoegdheden van de [artikelen 5:15 tot en met 5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15). De [artikelen 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), [5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13) en [5:20, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zijn van overeenkomstige toepassing. Het gemeentebestuur verschaft de aangewezen ambtenaren desgevraagd de faciliteiten die zij nodig hebben.
+
+#### Artikel 124h
+
+Bij algemene maatregel van bestuur, op voordracht van Onze Minister, kunnen regels worden gesteld over de verstrekking van systematische informatie aan het provinciebestuur of, in het geval [artikel 124b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=3&artikel=124b&z=2026-03-21&g=2026-03-21), van toepassing is, Onze Minister wie het aangaat, betreffende de uitvoering door het gemeentebestuur van de andere wet, bedoeld in [artikel 124, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=3&artikel=124&z=2026-03-21&g=2026-03-21). Bij ministeriële regeling of bij provinciale verordening kunnen nadere regels worden gesteld omtrent de toepassing.
+
+#### Artikel 124i
+
+Vervallen
+
+#### § 4. Bestuursdwang
+
+#### § 5. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
+
+#### § 6. Termijnen
+
+### Hoofdstuk IX. De bevoegdheid van de raad
+
+### Hoofdstuk X. De bevoegdheid van het college van burgemeester en wethouders
+
+## Titel IV. De financiën van de gemeente
+
+### Hoofdstuk XII. Algemene bepalingen
+
+#### § 3. Goedkeuring van de begroting
+
+### Hoofdstuk XIV. De administratie en de controle
+
+### Hoofdstuk XV. De gemeentelijke belastingen
+
+#### § 1. Algemene bepalingen
+
+#### § 2. Bijzondere bepalingen omtrent de onroerende-zaakbelastingen
+
+#### § 4. Heffing en invordering
+
+### Hoofdstuk XVI. Goedkeuring
+
+### Hoofdstuk XVII. Schorsing en vernietiging
+
+#### Artikel 273a
+
+1. Indien een besluit van de raad of het college naar het oordeel van gedeputeerde staten of indien een besluit van de burgemeester naar het oordeel van de commissaris van de Koning voor vernietiging in aanmerking komt, doen zij daarvan binnen tien dagen nadat het te hunner kennis is gekomen, mededeling aan Onze Minister wie het aangaat. Zij geven hiervan tegelijkertijd kennis aan het orgaan dat het besluit nam, en zo nodig aan het orgaan dat met de uitvoering van het besluit is belast en aan de geadresseerde van het besluit.
+
+2. Het besluit ten aanzien waarvan het eerste lid toepassing heeft gevonden, wordt niet of niet verder uitgevoerd, voordat van Onze Minister wie het aangaat de mededeling is ontvangen, dat voor schorsing of vernietiging geen redenen bestaan. Indien het besluit niet binnen vier weken na de dagtekening van de mededeling van gedeputeerde staten of de commissaris van de Koning is geschorst of vernietigd, wordt het uitgevoerd.
+
+3. In geval de bevoegdheid tot het nemen van een besluit aan de raad, het college of de burgemeester is verleend bij andere wet dan deze en het besluit in aanmerking komt voor vernietiging wegens strijd met het recht, kunnen gedeputeerde staten onderscheidenlijk de commissaris van de Koning mededeling doen dat zij overwegen toepassing te geven aan het eerste lid. De mededeling wordt gedaan aan het orgaan dat het besluit heeft genomen, het orgaan dat met de uitvoering van het besluit is belast en de geadresseerde van het besluit. Nadat gedeputeerde staten onderscheidenlijk de commissaris van de Koning, mededeling hebben gedaan, wordt het besluit niet of niet verder uitgevoerd. Indien niet binnen tien dagen toepassing is gegeven aan het eerste lid, dan wel indien gedeputeerde staten onderscheidenlijk de commissaris van de Koning mededelen dat geen toepassing wordt gegeven aan het eerste lid, wordt het besluit uitgevoerd.
+
+#### Artikel 278a
+
+1. In het koninklijk besluit kan een voorziening worden getroffen voor de periode tussen de inwerkingtreding en het tijdstip dat het op grond van [artikel 281](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=V&hoofdstuk=XVII&artikel=281&z=2026-03-21&g=2026-03-21) genomen besluit in werking is getreden.
+
+2. Indien, gelet op het koninklijk besluit, het gemeentebestuur bij de toepassing van artikel 281 niet over beleidsvrijheid beschikt, kan het koninklijk besluit bepalen dat het in de plaats treedt van het vernietigde besluit.
+
+3. In het koninklijk besluit kan worden bepaald dat ter zake van het vernietigde besluit geen nieuw besluit wordt genomen.
+
+4. In het koninklijk besluit kan het gemeentebestuur een aanwijzing worden gegeven over de uitvoering van het koninklijk besluit. De [artikelen 124 tot en met 124h](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=3&artikel=124&z=2026-03-21&g=2026-03-21) zijn van overeenkomstige toepassing ingeval de aanwijzing niet wordt opgevolgd.
+
+5. Indien het koninklijk besluit betrekking heeft op de vernietiging van een algemeen verbindend voorschrift of een ander besluit van algemene strekking, kan worden bepaald dat de vernietiging tevens betrekking heeft op besluiten die zijn genomen op grond van of ter uitvoering van het algemeen verbindend voorschrift of het andere besluit van algemene strekking.
+
+## Titel VI
+
+## Titel VII. Overgangs- en slotbepalingen
+
+## Bijlage I. , bedoeld in [artikel 124b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=3&artikel=124b&z=2017-01-01&g=2017-01-01), van de Gemeentewet
+
+### A. **Ministerie van Binnenlandse Zaken en Koninkrijksrelaties**
+
+### A. **Ministerie van Binnenlandse Zaken en Koninkrijksrelaties**
+
+### B. **Ministerie van Sociale Zaken en Werkgelegenheid**
+
+### C. **Ministerie van Infrastructuur en Milieu**
+
+### D. **Ministerie van Volksgezondheid, Welzijn en Sport**
+
+### E. **Ministerie van Onderwijs, Cultuur en Wetenschap**
+
+### F. **Ministerie van Financiën**
+
+## Bijlage. bedoeld in artikel 299, tweede lid, van de Gemeentewet
+
+Vervallen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### § 4. Bestuursdwang
+
+#### § 6. Termijnen
+
+### Hoofdstuk IX. De bevoegdheid van de raad
+
+### Hoofdstuk X. De bevoegdheid van het college van burgemeester en wethouders
+
+## Titel IV. De financiën van de gemeente
+
+### Hoofdstuk XII. Algemene bepalingen
+
+### Hoofdstuk XIII. De begroting en de jaarrekening
+
+### Hoofdstuk XIV. De administratie en de controle
+
+### Hoofdstuk XV. De gemeentelijke belastingen
+
+#### § 3. Bijzondere bepalingen omtrent de andere belastingen dan de onroerende-zaakbelastingen
+
+#### § 3. Bijzondere bepalingen omtrent de andere belastingen dan de onroerende-zaakbelastingen
+
+## Titel V. Aanvullende bepalingen inzake het toezicht op het gemeentebestuur
+
+### Hoofdstuk XVI. Goedkeuring
+
+### Hoofdstuk XVII. Schorsing en vernietiging
+
+## Titel VII. Overgangs- en slotbepalingen
+
+## Bijlage I. , bedoeld in [artikel 124b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=3&artikel=124b&z=2014-03-19&g=2014-03-19), van de Gemeentewet
+
+### A. **Ministerie van Binnenlandse Zaken en Koninkrijksrelaties**
+
+### A. **Ministerie van Binnenlandse Zaken en Koninkrijksrelaties**
+
+## Bijlage. bedoeld in artikel 299, tweede lid, van de Gemeentewet
+
+Vervallen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### Artikel 174b
+
+1. Bij verstoring van de openbare orde door de aanwezigheid van wapens, dan wel bij ernstige vrees voor het ontstaan daarvan, kan de burgemeester in een onvoorziene, spoedeisende situatie een gebied, met inbegrip van de daarin gelegen voor het publiek openstaande gebouwen en daarbij behorende erven, voor ten hoogste twaalf uur aanwijzen als veiligheidsrisicogebied. In een veiligheidsrisicogebied kan de officier van justitie de bevoegdheden, bedoeld in de [artikelen 50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=50), [51, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=51), en [52, derde lid, van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=52) toepassen.
+
+2. Voordat de burgemeester het gebied aanwijst, overlegt hij met de officier van justitie.
+
+3. De aanwijzing kan mondeling worden gegeven. In dat geval wordt de aanwijzing zo spoedig mogelijk op schrift gesteld en bekendgemaakt.
+
+4. De burgemeester brengt de gebiedsaanwijzing zo spoedig mogelijk ter kennis van de raad.
+
+5. [Artikel 151b, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=151b&z=2026-03-21&g=2026-03-21), zijn van overeenkomstige toepassing.
+
+### Hoofdstuk XIa. De bevoegdheid van de rekenkamer
+
+## Titel IV. De financiën van de gemeente
+
+### Hoofdstuk XII. Algemene bepalingen
+
+### Hoofdstuk XIII. De begroting en de jaarrekening
+
+#### § 1. De begroting
+
+#### Paragraaf 2. De jaarrekening
+
+#### § 3. Goedkeuring van de begroting
+
+### Hoofdstuk XIV. De administratie en de controle
+
+### Hoofdstuk XV. De gemeentelijke belastingen
+
+#### § 1. Algemene bepalingen
+
+#### § 3. Bijzondere bepalingen omtrent de andere belastingen dan de onroerende-zaakbelastingen
+
+#### § 4. Heffing en invordering
+
+### Hoofdstuk XVII. Schorsing en vernietiging
+
+## Titel VI
+
+## Titel VII. Overgangs- en slotbepalingen
+
+## Bijlage I. , bedoeld in [artikel 124b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=3&artikel=124b&z=2015-11-01&g=2015-11-01), van de Gemeentewet
+
+## Bijlage. bedoeld in artikel 299, tweede lid, van de Gemeentewet
+
+Vervallen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### Artikel 81bis
+
+De commissaris verricht de werkzaamheden, genoemd in de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=61&z=2026-03-21&g=2026-03-21), [61a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=61a&z=2026-03-21&g=2026-03-21), [61b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=61b&z=2026-03-21&g=2026-03-21), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=65&z=2026-03-21&g=2026-03-21), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=69&z=2026-03-21&g=2026-03-21), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=71&z=2026-03-21&g=2026-03-21), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=72&z=2026-03-21&g=2026-03-21) en [78](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=IV&artikel=78&z=2026-03-21&g=2026-03-21), volgens een door de regering gegeven ambtsinstructie.
+
+### Hoofdstuk IVa. De rekenkamer
+
+#### Paragraaf 1. De gemeentelijke rekenkamer
+
+#### Paragraaf 2. De gemeenschappelijke rekenkamer
+
+### Hoofdstuk IVc. De ombudsman
+
+#### Paragraaf 2. De gemeentelijke ombudsman
+
+### Hoofdstuk Va. Geheimhouding
+
+### Hoofdstuk VII. De secretaris en de griffier
+
+#### Paragraaf 1. Algemene bepalingen
+
+#### Paragraaf 1. Algemene bepalingen
+
+## Titel III. De bevoegdheid van het gemeentebestuur
+
+### Hoofdstuk VIII. Algemene bepalingen
+
+#### § 2. Verhouding tot de provincie en het Rijk
+
+#### § 3. Bijzondere voorzieningen
+
+#### § 4. Bestuursdwang
+
+#### § 5. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
+
+#### § 6. Termijnen
+
+### Hoofdstuk IX. De bevoegdheid van de raad
+
+### Hoofdstuk X. De bevoegdheid van het college van burgemeester en wethouders
+
+### Hoofdstuk X. De bevoegdheid van het college van burgemeester en wethouders
+
+#### Artikel 151d
+
+1. De raad kan bij verordening bepalen dat degene die een woning of een bij die woning behorend erf gebruikt of tegen betaling in gebruik geeft, er zorg voor draagt dat door gedragingen in of vanuit die woning of dat erf of in de onmiddellijke nabijheid van die woning of dat erf geen ernstige en herhaaldelijke hinder voor omwonenden wordt veroorzaakt.
+
+2. De in [artikel 125, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=4&artikel=125&z=2026-03-21&g=2026-03-21), bedoelde bevoegdheid tot oplegging van een last onder bestuursdwang wegens overtreding van het in het eerste lid bedoelde voorschrift wordt uitgeoefend door de burgemeester. De burgemeester oefent de bevoegdheid uit met inachtneming van hetgeen daaromtrent door de raad in de verordening is bepaald en slechts indien de ernstige en herhaaldelijke hinder redelijkerwijs niet op een andere geschikte wijze kan worden tegengegaan.
+
+3. Onverminderd de laatste volzin van het tweede lid kan de last, bedoeld in de eerste volzin van dat lid, een verbod inhouden om aanwezig te zijn in of bij de woning of op of bij het erf. Het verbod geldt voor een periode van tien dagen. De [artikelen 2, tweede lid, en vierde lid, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=2), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=6), [8, eerste lid, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=9) en [13 van de Wet tijdelijk huisverbod](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=13) zijn van overeenkomstige toepassing, met dien verstande dat de burgemeester bij ernstige vrees voor verdere overtreding de looptijd van het verbod kan verlengen tot ten hoogste vier weken.
+
+### Hoofdstuk XIa. De bevoegdheid van de rekenkamer
+
+## Titel IV. De financiën van de gemeente
+
+### Hoofdstuk XII. Algemene bepalingen
+
+#### § 1. De begroting
+
+#### Paragraaf 2. De jaarrekening
+
+#### § 3. Goedkeuring van de begroting
+
+### Hoofdstuk XV. De gemeentelijke belastingen
+
+#### § 1. Algemene bepalingen
+
+#### § 3. Bijzondere bepalingen omtrent de andere belastingen dan de onroerende-zaakbelastingen
+
+#### § 4. Heffing en invordering
+
+### Hoofdstuk XVI. Goedkeuring
+
+## Titel VI
+
+## Titel VII. Overgangs- en slotbepalingen
+
+## Bijlage I. bedoeld in [artikel 124b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=3&artikel=124b&z=2019-01-01&g=2019-01-01), van de Gemeentewet
+
+### G. **Ministerie van Veiligheid en Justitie**
+
+## Bijlage. bedoeld in artikel 299, tweede lid, van de Gemeentewet
+
+Vervallen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### Artikel 44a
+
+1. Op de bezoldiging is, voor zover in deze wet niet anders is bepaald, beslag mogelijk overeenkomstig de voorschriften van het gemene recht.
+
+2. Kostenvergoedingen krachtens [artikel 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=44&z=2026-03-21&g=2026-03-21), zijn niet vatbaar voor beslag.
+
+#### Artikel 44b
+
+Onverschuldigd betaalde bezoldiging kan worden teruggevorderd.
+
+#### Artikel 44c
+
+1. Met de bezoldiging kan worden verrekend hetgeen de wethouder zelf als zodanig aan de gemeente verschuldigd is.
+
+2. Verrekening als bedoeld in het eerste lid kan plaatshebben ondanks gelegd beslag of toegepaste korting als bedoeld in [artikel 44d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=44d&z=2026-03-21&g=2026-03-21).
+
+3. Verrekening als bedoeld in het eerste lid is slechts in zoverre geldig als een beslag op die bezoldiging geldig zou zijn, met dien verstande dat verrekening van hetgeen wegens genoten huisvesting of voeding is verschuldigd eveneens kan plaatsvinden met dat deel van de bezoldiging dat de beslagvrije voet, bedoeld in de [artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c) vormt.
+
+#### Artikel 44d
+
+1. Op de bezoldiging kan ten behoeve van een schuldeiser van de wethouder een korting worden toegepast, mits de wethouder de vordering van de schuldeiser erkent dan wel het bestaan van de vordering blijkt uit een in kracht van gewijsde gegane rechterlijke uitspraak dan wel uit een authentieke akte.
+
+2. Korting is slechts in zoverre geldig als een beslag op die bezoldiging geldig zou zijn.
+
+3. Beslag, faillissement, surseance van betaling en toepassing ten aanzien van de wethouder van de schuldsaneringsregeling natuurlijke personen sluiten korting uit.
+
+#### Artikel 44e
+
+Voor de toepassing van [artikel 475b, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475b) worden, onverminderd [artikel 44c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=44c&z=2026-03-21&g=2026-03-21), en [artikel 44d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=44d&z=2026-03-21&g=2026-03-21), verrekening en korting gelijkgesteld met beslag.
+
+#### Artikel 44f
+
+Indien verscheidene schuldeisers uit hoofde van beslag of korting aanspraak hebben op een deel van de bezoldiging geschiedt de verdeling naar evenredigheid der inschulden, voor zover niet de ene schuldeiser voorrang heeft boven de anderen.
+
+#### Artikel 44g
+
+1. Overdracht, inpandgeving of elke andere handeling, waardoor de wethouder enig recht op zijn bezoldiging aan een derde toekent, is slechts geldig voor dat deel van de bezoldiging waarop beslag geldig zou zijn.
+
+2. Een volmacht tot voldoening of invordering van de bezoldiging is slechts geldig indien zij schriftelijk is verleend en is steeds herroepelijk.
+
+#### Artikel 44h
+
+Betaling of afgifte aan een gemachtigde, nadat een volmacht tot voldoening of invorderingen van bezoldiging is geëindigd, ontlasten de gemeente, indien een gegeven opdracht tot de betaling of afgifte niet meer tijdig kon worden ingetrokken, toen de gemeente van het eindigen van de volmacht kennis kreeg.
+
+#### Artikel 44i
+
+Beslag omvat in deze wet ook de invordering, bedoeld in [artikel 19 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=19).
+
+#### Artikel 44j
+
+Met bezoldiging worden in de [artikelen 44a tot en met 44h](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=44a&z=2026-03-21&g=2026-03-21) gelijkgesteld de bedragen – onder de benaming van uitkering of welke benaming ook – waarop de wethouder krachtens [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=III&artikel=44&z=2026-03-21&g=2026-03-21), aanspraak heeft of waarop zijn nagelaten betrekkingen uit hoofde van zijn overlijden krachtens artikel 44, eerste lid, aanspraak hebben.
+
+### Hoofdstuk IV. De burgemeester
+
+### Hoofdstuk IVa. De rekenkamer
+
+#### Paragraaf 1. De gemeentelijke rekenkamer
+
+### Hoofdstuk IVc. De ombudsman
+
+#### Paragraaf 1. Algemene bepaling
+
+### Hoofdstuk V. De commissies
+
+### Hoofdstuk VI. Geldelijke voorzieningen ten behoeve van de leden van de raad en de commissies
+
+### Hoofdstuk VII. De secretaris en de griffier
+
+#### Paragraaf 2. De secretaris
+
+## Titel III. De bevoegdheid van het gemeentebestuur
+
+### Hoofdstuk VIII. Algemene bepalingen
+
+#### § 1. Inleidende bepalingen
+
+#### § 3. Bijzondere voorzieningen
+
+#### § 4. Bestuursdwang
+
+#### § 5. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
+
+#### § 6. Termijnen
+
+### Hoofdstuk IX. De bevoegdheid van de raad
+
+### Hoofdstuk XI. De bevoegdheid van de burgemeester
+
+## Titel IV. De financiën van de gemeente
+
+### Hoofdstuk XIII. De begroting en de jaarrekening
+
+#### § 1. De begroting
+
+### Hoofdstuk XV. De gemeentelijke belastingen
+
+#### § 1. Algemene bepalingen
+
+#### § 3. Bijzondere bepalingen omtrent de andere belastingen dan de onroerende-zaakbelastingen
+
+#### § 4. Heffing en invordering
+
+## Titel V. Aanvullende bepalingen inzake het toezicht op het gemeentebestuur
+
+### Hoofdstuk XVII. Schorsing en vernietiging
+
+## Titel VI
+
+## Titel VII. Overgangs- en slotbepalingen
+
+## Bijlage I. bedoeld in [artikel 124b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=3&artikel=124b&z=2021-07-10&g=2021-07-10), van de Gemeentewet
+
+### A. **Ministerie van Binnenlandse Zaken en Koninkrijksrelaties**
+
+### B. **Ministerie van Sociale Zaken en Werkgelegenheid**
+
+### A. **Ministerie van Binnenlandse Zaken en Koninkrijksrelaties**
+
+### A. **Ministerie van Binnenlandse Zaken en Koninkrijksrelaties**
+
+### B. **Ministerie van Sociale Zaken en Werkgelegenheid**
+
+### C. **Ministerie van Infrastructuur en Milieu**
+
+### D. **Ministerie van Volksgezondheid, Welzijn en Sport**
+
+## Bijlage. bedoeld in artikel 299, tweede lid, van de Gemeentewet
+
+Vervallen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### Artikel 155g
+
+1. De raad kan tezamen met de raden van de andere deelnemende gemeenten aan een gemeenschappelijke regeling als bedoeld in [artikel 8, eerste, tweede of derde lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8) of tezamen met de raad of raden van de deelnemende gemeente of gemeenten en provinciale staten van de deelnemende provincie of provincies aan een regeling als bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=51) en [52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=52), juncto artikel 8, eerste, tweede of derde lid, van de Wet gemeenschappelijke regelingen, op voorstel van een van de vertegenwoordigende organen van de deelnemers aan de betreffende regeling een onderzoek instellen naar het door het openbaar lichaam, bedrijfsvoeringsorganisatie onderscheidenlijk gemeenschappelijk orgaan gevoerde bestuur.
+
+2. Het eerste lid is niet van toepassing op een regeling die uitsluitend of mede is getroffen door de raad of raden, of provinciale staten van de deelnemende gemeenten of provincies.
+
+3. Het besluit tot het instellen van een gemeenschappelijke onderzoekscommissie omvat een omschrijving van het onderwerp van onderzoek alsmede een toelichting. Deze omschrijving kan hangende het onderzoek door de vertegenwoordigende organen, bedoeld in het eerste lid, worden gewijzigd.
+
+4. Het onderzoek wordt uitgevoerd door een door de raden gezamenlijk, met toepassing van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=1) en [8, tweede lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8) dan wel de raden en provinciale staten gezamenlijk met toepassing van de [artikelen 51](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=51) en [52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=52), juncto artikel 8, tweede lid, van de Wet gemeenschappelijke regelingen in te stellen gemeenschappelijke onderzoekscommissie. De gemeenschappelijke onderzoekscommissie heeft ten minste drie leden en bestaat uitsluitend uit leden van de vertegenwoordigende organen, bedoeld in het eerste lid.
+
+5. Bij de samenstelling van de gemeenschappelijke onderzoekscommissie wordt gezorgd voor een evenwichtige vertegenwoordiging van de in het openbaar lichaam, bedrijfsvoeringsorganisatie, onderscheidenlijk gemeenschappelijk orgaan deelnemende gemeenten en provincies.
+
+6. De regeling waarbij de gemeenschappelijke onderzoekscommissie wordt ingesteld houdt bepalingen in omtrent het onderzoek, bedoeld in het eerste lid. In elk geval worden bepalingen opgenomen over de wijze waarop ambtelijke bijstand wordt verleend aan de gemeenschappelijke onderzoekscommissie.
+
+7. De [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=II&artikel=22&z=2026-03-21&g=2026-03-21) en [86, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=II&hoofdstuk=V&artikel=86&z=2026-03-21&g=2026-03-21), zijn van overeenkomstige toepassing op de gemeenschappelijke onderzoekscommissie.
+
+8. De gemeenschappelijke onderzoekscommissie kan de bij deze wet verleende bevoegdheden uitsluitend uitoefenen, indien ten minste drie van haar leden aanwezig zijn.
+
+9. De bevoegdheden en werkzaamheden van een gemeenschappelijke onderzoekscommissie worden niet geschorst door het aftreden van een van de raden of provinciale staten, bedoeld in het eerste lid.
+
+10. Op het besluit tot instelling van een onderzoek en tot instelling van een gemeenschappelijke onderzoekscommissie, alsmede het besluit tot wijziging van de omschrijving van het onderwerp van een onderzoek is [artikel 19 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=19) van overeenkomstige toepassing.
+
+11. De [artikelen 10, tweede, derde en vijfde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=10), [10a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=10a), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=11), [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=11a), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=17), [20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=21), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=22), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=23), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=30) en [54 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=54) zijn niet van toepassing. De overige bepalingen uit de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) zijn slechts van toepassing voor zover de aard van de aan de gemeenschappelijke onderzoekscommissie opgedragen taken zich daartegen niet verzet.
+
+#### Artikel 155h
+
+De [artikelen 155b tot en met 155f](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=155b&z=2026-03-21&g=2026-03-21) zijn van overeenkomstige toepassing op de gemeenschappelijke onderzoekscommissie, bedoeld in [artikel 155g](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=155g&z=2026-03-21&g=2026-03-21), met dien verstande dat:
+
+- a. in de [artikelen 155b tot en met 155e](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=155b&z=2026-03-21&g=2026-03-21) voor «onderzoekscommissie» telkens wordt gelezen «gemeenschappelijke onderzoekscommissie»;
+
+- b. de verplichtingen, bedoeld in de [artikelen 155b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=155b&z=2026-03-21&g=2026-03-21), en [155c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=155c&z=2026-03-21&g=2026-03-21), ook van toepassing zijn op de leden en gewezen leden van een door het algemeen bestuur van een openbaar lichaam ingestelde commissie als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=24), [24a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=24a) en [25 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=25) en de ambtenaren en gewezen ambtenaren, onderscheidenlijk ambtenaren van politie en gewezen ambtenaren van politie, in dienst van het openbaar lichaam of de bedrijfsvoeringsorganisatie als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8) of [artikel 51 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=51) of uit anderen hoofde aan het bestuur van het openbaar lichaam of de bedrijfsvoeringsorganisatie ondergeschikt;
+
+- c. de verplichtingen, bedoeld in de [artikelen 155b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=155b&z=2026-03-21&g=2026-03-21), en [155c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=155c&z=2026-03-21&g=2026-03-21), ook van toepassing zijn op de leden en gewezen leden van provinciale staten, de commissaris van de Koning en gewezen commissarissen van de Koning, gedeputeerden en gewezen gedeputeerden, leden en gewezen leden van de door provinciale staten ingestelde rekenkamer, leden en gewezen leden van een door provinciale staten of gedeputeerde staten ingestelde commissie, ambtenaren en gewezen ambtenaren, onderscheidenlijk ambtenaren van politie en gewezen ambtenaren van politie, in dienst van de provincie of uit andere hoofde aan het provinciebestuur ondergeschikt, indien het een regeling als bedoeld in [artikel 51 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=51) betreft;
+
+- d. bij de toepassing van [artikel 155b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=155b&z=2026-03-21&g=2026-03-21), voor «het gemeentebestuur» wordt gelezen «het gemeentebestuur, het provinciebestuur, indien onderzoek gedaan wordt naar de bestuursvoering van een instelling ingesteld bij een regeling als bedoeld in [artikel 51 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=51), en het bestuur van een openbaar lichaam of bedrijfsvoeringsorganisatie ingesteld bij een regeling als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=1) of 51 van de Wet gemeenschappelijke regelingen» en voor «[artikel 155a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=155a&z=2026-03-21&g=2026-03-21)» wordt gelezen «[artikel 155g](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=155g&z=2026-03-21&g=2026-03-21)»;
+
+- e. bij de toepassing van [artikel 155e](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=155e&z=2026-03-21&g=2026-03-21) het derde lid komt te luiden:
+
+- 3. De burgemeester en gewezen burgemeesters, wethouders en gewezen wethouders, leden en gewezen leden van een commissie ingesteld door het college, de burgemeester of het bestuur van het openbaar lichaam, ingesteld bij een regeling als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=1) of [artikel 51 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=51), die uitsluitend of mede is getroffen door colleges van burgemeester en wethouders, burgemeesters, gedeputeerde staten of commissarissen van de Koning, zijn niet verplicht aan [artikel 155b, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=155b&z=2026-03-21&g=2026-03-21), en [artikel 155c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=155c&z=2026-03-21&g=2026-03-21), te voldoen, indien het verstrekken van de inlichtingen in strijd is met het openbaar belang. Dit geldt evenzo voor de ambtenaren en gewezen ambtenaren, onderscheidenlijk ambtenaren van politie en gewezen ambtenaren van politie, in dienst van de gemeente, het openbaar lichaam of de bedrijfsvoeringsorganisatie of uit andere hoofde ondergeschikt aan het gemeentebestuur of het bestuur van een openbaar lichaam of bedrijfsvoeringsorganisatie, ingesteld bij een regeling als bedoeld in artikel 1 of 51 van de Wet gemeenschappelijke regelingen, die uitsluitend of mede is getroffen door colleges van burgemeester en wethouders, burgemeesters, gedeputeerde staten of commissarissen van de Koning.
+
+- f. bij de toepassing van [artikel 155e, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=IX&artikel=155e&z=2026-03-21&g=2026-03-21), voor «de burgemeester gevoerde bestuur, door de burgemeester» wordt gelezen «de burgemeester, gedeputeerde staten, de commissaris van de Koning, of het bestuur van een openbaar lichaam, bedrijfsvoeringsorganisatie of gemeenschappelijk orgaan ingesteld bij een regeling als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8) of [artikel 51 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=51) gevoerde bestuur, door de burgemeester, gedeputeerde staten, de commissaris van de Koning of door het bestuur van een openbaar lichaam, bedrijfsvoeringsorganisatie of gemeenschappelijk orgaan».
+
+### Hoofdstuk XI. De bevoegdheid van de burgemeester
+
+### Hoofdstuk XIa. De bevoegdheid van de rekenkamer
+
+## Titel IV. De financiën van de gemeente
+
+### Hoofdstuk XII. Algemene bepalingen
+
+### Hoofdstuk XIII. De begroting en de jaarrekening
+
+### Hoofdstuk XIV. De administratie en de controle
+
+### Hoofdstuk XV. De gemeentelijke belastingen
+
+#### § 1. Algemene bepalingen
+
+#### § 2. Bijzondere bepalingen omtrent de onroerende-zaakbelastingen
+
+#### § 3. Bijzondere bepalingen omtrent de andere belastingen dan de onroerende-zaakbelastingen
+
+#### § 4. Heffing en invordering
+
+## Titel V. Aanvullende bepalingen inzake het toezicht op het gemeentebestuur
+
+### Hoofdstuk XVI. Goedkeuring
+
+### Hoofdstuk XVII. Schorsing en vernietiging
+
+## Titel VI
+
+## Titel VII. Overgangs- en slotbepalingen
+
+## Bijlage I. bedoeld in [artikel 124b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=3&artikel=124b&z=2025-02-12&g=2025-02-12), van de Gemeentewet
+
+### E. **Ministerie van Onderwijs, Cultuur en Wetenschap**
+
+### F. **Ministerie van Financiën**
+
+## Bijlage. bedoeld in artikel 299, tweede lid, van de Gemeentewet
+
+Vervallen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### Artikel 185a
+
+Het college zendt de raad jaarlijks een overzicht van de aan het college gedane voorstellen van de rekenkamer, vergezeld van zijn standpunt daaromtrent en van de wijze waarop aan de voorstellen vervolg is gegeven.
+
+## Titel IV. De financiën van de gemeente
+
+### Hoofdstuk XII. Algemene bepalingen
+
+#### Paragraaf 2. De jaarrekening
+
+#### § 3. Goedkeuring van de begroting
+
+### Hoofdstuk XIV. De administratie en de controle
+
+### Hoofdstuk XV. De gemeentelijke belastingen
+
+#### § 1. Algemene bepalingen
+
+#### § 4. Heffing en invordering
+
+### Hoofdstuk XVI. Goedkeuring
+
+### Hoofdstuk XVII. Schorsing en vernietiging
+
+## Titel VI
+
+## Titel VII. Overgangs- en slotbepalingen
+
+## Bijlage I. bedoeld in [artikel 124b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&titeldeel=III&hoofdstuk=VIII&paragraaf=3&artikel=124b&z=2026-03-21&g=2026-03-21), van de Gemeentewet
+
+### G. **Ministerie van Veiligheid en Justitie**
+
+## Bijlage. bedoeld in artikel 299, tweede lid, van de Gemeentewet
+
+Vervallen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+### Hoofdstuk VI. Geldelijke voorzieningen ten behoeve van de leden van de raad en de commissies
+
+### Hoofdstuk VII. De secretaris en de griffier
+
+## Titel III. De bevoegdheid van het gemeentebestuur
+
+### Hoofdstuk VIII. Algemene bepalingen
+
+#### § 1. Inleidende bepalingen
+
+#### § 4. Bestuursdwang
+
+#### § 5. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
+
+#### § 6. Termijnen
+
+#### Artikel 221a
+
+1. Ter zake van binnen de gemeente gelegen woningen als bedoeld in [artikel 1, onderdeel a, van de Leegstandwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&artikel=1) die voor een langere periode dan twaalf maanden leegstaan als bedoeld in artikel 1, onderdeel d, van die wet, kan door de gemeente, onder de naam leegstandbelasting, een belasting worden geheven van degenen die bij het begin van het kalenderjaar van deze woningen het genot hebben krachtens eigendom, bezit of beperkt recht.
+
+2. De heffingsmaatstaf voor de leegstandbelasting wordt vastgesteld door de gemeente.

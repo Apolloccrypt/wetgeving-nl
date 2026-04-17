@@ -1,0 +1,19 @@
+---
+title: "Programma van eisen gegevenslevering aan IB-Groep in verband met onderwijsnummer voortgezet onderwijs (vo)"
+identifier: "BWBR0013893"
+categorie: "Onderwijs"
+publicatiedatum: 2002-10-02
+laatste_update: 2002-10-02
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0013893"
+---
+
+# Programma van eisen gegevenslevering aan IB-Groep in verband met onderwijsnummer voortgezet onderwijs (vo)
+
+Op aangeven van de leveranciers van verschillende administratiepakketten binnen het VO is besloten om de technische specificaties op twee punten voor de periode tot 1-22003 aan te passen. Deze aanpassingen zijn opgenomen in het PvE versie 0.2.
+
+Het betreft de volgende twee aanpassingen:
+
+In de aangepaste versie van het PvE (versie 0.2) voor de periode tot 1-2-2003 zijn de aanpassingen gearceerd aangegeven (pagina 10 onder 5.2.2.3 en 18 onder 5.3.2.5).
+
+De aangepaste versie 0.2 ligt ter inzage bij de bibliotheek van het Ministerie van Onderwijs en is tevens te vinden op de site www.onderwijsnummer.nl.

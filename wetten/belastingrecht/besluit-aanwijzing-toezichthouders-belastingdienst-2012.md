@@ -1,0 +1,41 @@
+---
+title: "Besluit aanwijzing toezichthouders Belastingdienst 2012"
+identifier: "BWBR0030763"
+categorie: "Belastingrecht"
+publicatiedatum: 2012-01-01
+laatste_update: 2012-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0030763"
+---
+
+# Besluit van de Minister van Economische Zaken, Landbouw en Innovatie van 5 december 2011, nr. WJZ / 11172898, tot aanwijzing van toezichthouders douane (Besluit aanwijzing toezichthouders Belastingdienst 2012)
+
+Handelende in overeenstemming met de Staatssecretaris van Financiën,
+
+Gelet op[48a van de Wet op het consumentenkrediet](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&artikel=48a), [artikel 1 van de Wet uitvoering antiboycotverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0010176&artikel=1) en [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=17) en [29 van de Wet strategische diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=29);
+
+Besluit:
+
+#### Artikel 1
+
+De ambtenaren, werkzaam bij de Belastingdienst, die daartoe door hun bevoegd gezag zijn aangewezen, zijn belast met het toezicht op de naleving van het bij of krachtens de hierna genoemde wetten bepaalde:
+
+- a. de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&artikel=47) en [48 van de Wet op het consumentenkrediet](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&artikel=48);
+
+- b. de [Wet uitvoering antiboycotverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0010176);
+
+- c. de [Wet strategische diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0030545).
+
+#### Artikel 2
+
+Het [Besluit aanwijzing toezichthouders Belastingdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0028489) (Stcrt. 2010, 14897) wordt ingetrokken.
+
+#### Artikel 3
+
+Dit besluit treedt in werking met ingang van 1 januari 2012.
+
+#### Artikel 4
+
+Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders Belastingdienst 2012.
+
+Dit besluit zal in de Staatscourant worden geplaatst.

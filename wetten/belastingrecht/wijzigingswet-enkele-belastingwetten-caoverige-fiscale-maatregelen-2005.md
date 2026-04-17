@@ -1,0 +1,133 @@
+---
+title: "Wijzigingswet enkele belastingwetten c.a.(Overige fiscale maatregelen 2005)"
+identifier: "BWBR0017749"
+categorie: "Belastingrecht"
+publicatiedatum: 2006-01-01
+laatste_update: 2006-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0017749"
+---
+
+# Wijzigingswet enkele belastingwetten c.a.(Overige fiscale maatregelen 2005)
+
+#### Artikel I
+
+Wijzigt de Wet inkomstenbelasting 2001.
+
+#### Artikel II
+
+Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.
+
+#### Artikel III
+
+Wijzigt de Wet op deloonbelasting 1964.
+
+#### Artikel IV
+
+Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+
+#### Artikel V
+
+Wijzigt de Wet op de vennootschapsbelasting 1969.
+
+#### Artikel VI
+
+Wijzigt de Wet op de dividendbelasting 1965.
+
+#### Artikel VII
+
+Wijzigt de Wet op de omzetbelasting 1968.
+
+#### Artikel VIII
+
+Wijzigt de Wet belastingen op milieugrondslag.
+
+#### Artikel IX
+
+Wijzigt de Algemene wet inzake rijksbelastingen.
+
+#### Artikel X
+
+Wijzigt de Invorderingswet 1990.
+
+#### Artikel XI
+
+Wijzigt de Wet op de internationale bijstndsverlening.
+
+#### Artikel XII
+
+Wijzigt de Wijzigingswet belastingwetten c.a. (Overige fiscale maatregelen 2004).
+
+Dit onderdeel is nog niet inwerking getreden
+
+#### Artikel XIII
+
+Wijzigt de Wet kinderopvang.
+
+#### Artikel XIV
+
+Wijzigt de Aansluitingswet Walvis.
+
+#### Artikel XV
+
+Wijzigt de Coördinatiewet Sociale Verzekering.
+
+#### Artikel XVI
+
+Wijzigt de Kostenwet invordering rijksbelastingen.
+
+#### Artikel XVII
+
+Wijzigt de Wet waardering onroerende zaken.
+
+#### Artikel XVIII
+
+A. **Overgangsrecht** Wet inkomstenbelasting 2001
+
+De in [artikel 3.22, vijfde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22) gestelde voorwaarde van het voeren van de vlag van een van de Lidstaten van de Europese Gemeenschap geldt niet met betrekking tot schepen waarvoor de belastingplichtige reeds vóór de inwerkingtreding van [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=I&z=2006-01-01&g=2006-01-01), van deze wet de winst uit zeescheepvaart bepaalt aan de hand van de tonnage als bedoeld in genoemd [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22)
+
+B. Vervallen.
+
+C. **Overgangsrecht** Algemene wet inzake rijksbelastingen
+
+- 1. Op het beroep tegen een uitspraak op een bezwaarschrift met een dagtekening van vóór het tijdstip van inwerkingtreding van deze wet, inzake een uitnodiging tot betaling ter zake van anti-dumpingheffingen, compenserende heffingen of landbouwheffingen, onderscheidenlijk inzake een in artikel 886, eerste lid, van de toepassingsverordening Communautair douanewetboek bedoelde beschikking tot terugbetaling of kwijtschelding ter zake van deze heffingen, blijft [artikel 30d van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30d) zoals dat luidde ten tijde van die dagtekening, van toepassing.
+
+- 2. Het eerste lid is van overeenkomstige toepassing:
+
+- a. op een verzoek om een voorlopige voorziening, en
+
+- b. indien met toepassing van [artikel 7:1a van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1a) rechtstreeks beroep wordt ingesteld.
+
+- 3. Op een beroep tegen het niet tijdig doen van een uitspraak op een bezwaarschrift als bedoeld in het eerste lid, dat is ingesteld voor het tijdstip van inwerkingtreding van deze wet, blijft [artikel 30d van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30d) zoals dit gold vóór dat tijdstip van toepassing.
+
+#### Artikel XIX
+
+[Artikel 3.52, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.52) is niet van toepassing op een op grond van [artikel 3.52, eerste lid, onderdeel a, onder 3°, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.52) vastgestelde ministeriële regeling die voorziet in wijziging van de willekeurige afschrijving op zeeschepen in verband met communautaire richtsnoeren betreffende staatssteun voor het zeevervoer. In afwijking van [artikel 3.52, eerste lid, onderdeel a, onder 3°, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.52) vindt deze wijziging plaats na overleg met onze Minister van Verkeer en Waterstaat.
+
+#### Artikel XX
+
+1. Onder toepassing van [artikel 16 van de Tijdelijke referendumwe](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16)t treedt deze wet in werking met ingang van 1 januari 2005, met dien verstande dat:
+
+- a. [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=I&z=2006-01-01&g=2006-01-01), en [artikel IV, onderdelen A en C](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=IV&z=2006-01-01&g=2006-01-01), terugwerken tot en met 1 januari 2003;
+
+- b. [artikel I, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=I&z=2006-01-01&g=2006-01-01), en [artikel X, onderdelen A, B, D, en E](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=X&z=2006-01-01&g=2006-01-01), terugwerken tot en met 11 maart 2004;
+
+- c. [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=II&z=2006-01-01&g=2006-01-01) terugwerkt tot en met 1 januari 2004.
+
+2. In afwijking van het eerste lid treedt [artikel VIII, onderdelen A, eerste lid, C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=VIII&z=2006-01-01&g=2006-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip, met dien verstande dat:
+
+- a. indien het Staatsblad waarin dat besluit wordt geplaatst voor 1 januari 2005 wordt uitgegeven en in dat besluit wordt bepaald dat de inwerkingtreding van de genoemde onderdelen plaatsvindt met ingang van 1 januari 2005, [artikel VIII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=VIII&z=2006-01-01&g=2006-01-01) vervalt;
+
+- b. indien het Staatsblad waarin dat besluit wordt geplaatst na 1 januari 2005 wordt uitgegeven, in dat besluit bepaald wordt dat de genoemde onderdelen terugwerken tot en met 1 januari 2005.
+
+3. In afwijking van het eerste lid treden [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=I&z=2006-01-01&g=2006-01-01), [artikel IV, onderdelen B en D](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=IV&z=2006-01-01&g=2006-01-01), [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=XII&z=2006-01-01&g=2006-01-01), en [artikel XVIII onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0017749&artikel=XVIII&z=2006-01-01&g=2006-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale beleid voor het jaar 2005 wenselijk is in een aantal belastingwetten wijzigingen, versoepelingen, bijstellingen, alsmede enkele technische reparaties aan te brengen;
+
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+De datum van inwerkingtreding is vastgesteld onder toepassing van artikel 16 van de Tijdelijke referendumwet.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

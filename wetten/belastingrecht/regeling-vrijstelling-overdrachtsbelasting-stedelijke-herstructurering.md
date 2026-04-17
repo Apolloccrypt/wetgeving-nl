@@ -1,0 +1,73 @@
+---
+title: "Regeling vrijstelling overdrachtsbelasting stedelijke herstructurering"
+identifier: "BWBR0016402"
+categorie: "Belastingrecht"
+publicatiedatum: 2016-01-01
+laatste_update: 2016-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0016402"
+---
+
+# Regeling vrijstelling overdrachtsbelasting stedelijke herstructurering
+
+Handelende in overeenstemming met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+
+Gelet op [artikel 15, eerste lid, onderdeel o, van de Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15);
+
+Besluit:
+
+#### Artikel 1
+
+1. Deze regeling geeft uitvoering aan [artikel 15, eerste lid, onderdeel o, van de Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15).
+
+2. Deze regeling verstaat onder:
+
+- a. wet: [Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740);
+
+- b. herstructureringsplan: een plan dat beoogt uitvoering te geven aan een activiteit in het kader van stedelijke vernieuwing als bedoeld in [artikel 1, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1);
+
+- c. wijkontwikkelingsmaatschappij: een in Nederland gevestigd lichaam dat bevordering van stedelijke herstructurering ten doel heeft en dat is opgericht om uitvoering te geven aan een herstructureringsplan en dat door de Minister voor Wonen en Rijksdienst op voordracht van het college van burgemeester en wethouders als zodanig is aangewezen.
+
+#### Artikel 2
+
+1. Bij de voordracht door het college van burgemeester en wethouders tot aanwijzing van een lichaam als wijkontwikkelingsmaatschappij worden overgelegd:
+
+- a. een door de gemeenteraad vastgesteld herstructureringsplan;
+
+- b. een geografische kaart met de begrenzingen van het te herstructureren gebied;
+
+- c. de oprichtingsakte van de wijkontwikkelingsmaatschappij; en
+
+- d. een verklaring van het college van burgemeester en wethouders dat de wijkontwikkelingsmaatschappij daadwerkelijk is belast met de uitvoering van het herstructureringsplan, bedoeld in onderdeel a.
+
+2. De Minister voor Wonen en Rijksdienst beslist over de aanwijzing bij voor bezwaar vatbare beschikking.
+
+3. Het lichaam wordt als wijkontwikkelingsmaatschappij aangemerkt met ingang van de dag volgende op die waarop zij door de Minister voor Wonen en Rijksdienst als zodanig is aangewezen.
+
+#### Artikel 3
+
+1. De vrijstelling voor de verkrijging van een onroerende zaak door een wijkontwikkelingsmaatschappij, dan wel, indien het lichaam geen rechtspersoonlijkheid heeft, door de vennoten van een wijkontwikkelingsmaatschappij, is van toepassing indien de onroerende zaak wordt verkregen in het kader van het herstructureringsplan.
+
+2. Voor de toepassing van dit artikel worden onder onroerende zaken mede verstaan fictieve onroerende zaken als bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=4), en rechten waaraan onroerende zaken of fictieve onroerende zaken zijn onderworpen.
+
+#### Artikel 4
+
+1. De belasting die door toepassing van deze regeling niet is geheven, is alsnog verschuldigd:
+
+- a. voor zover de onroerende zaken niet meer in het kader van het herstructureringsplan worden of zijn aangewend; of
+
+- b. voor zover het herstructureringsplan is voltooid en de daarin betrokken onroerende zaken niet binnen een redelijke termijn worden toegedeeld aan de vennoten van de wijkontwikkelingsmaatschappij, dan wel aan hen of aan derden worden overgedragen.
+
+2. De wijkontwikkelingsmaatschappij stelt de inspecteur onverwijld in kennis zodra een omstandigheid als bedoeld in het eerste lid zich voordoet.
+
+3. De Minister voor Wonen en Rijksdienst trekt de aanwijzing als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016402&artikel=2&z=2016-01-01&g=2016-01-01), in indien geen uitvoering meer wordt gegeven aan het herstructureringsplan.
+
+#### Artikel 5
+
+1. Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening in de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2003.
+
+2. Deze regeling is van overeenkomstige toepassing ten aanzien van verkrijgingen van onroerende zaken na 1 januari 2003 en voor de datum van inwerkingtreding van deze regeling, indien een aanwijzing als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016402&artikel=2&z=2016-01-01&g=2016-01-01), heeft plaatsgevonden na de datum van inwerkingtreding van deze regeling.
+
+3. Deze regeling wordt aangehaald als: Regeling vrijstelling overdrachtsbelasting stedelijke herstructurering.
+
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

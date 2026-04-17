@@ -1,0 +1,51 @@
+---
+title: "Circulaire uitvoering en handhaving Asbest-verwijderingsbesluit"
+identifier: "BWBR0007918"
+categorie: "Bestuursrecht"
+publicatiedatum: 1996-03-14
+laatste_update: 1996-03-14
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0007918"
+---
+
+# Circulaire uitvoering en handhaving Asbest-verwijderingsbesluit
+
+Aan:
+
+– de colleges van burgemeester en wethouders
+
+– de besturen van de gemeentelijke samenwerkingsverbanden
+
+– de regionale inspecteurs voor de milieuhygiëne
+
+– de regionale inspecteurs voor de volkshuisvesting
+
+– de commandanten van de regionale corpsen van politie
+
+– de regiodirecteuren van de inspectiedienst SZW
+
+– de directeur van het stafbureau openbaar ministerie
+
+Hierbij doe ik u recente informatie over de uitvoering en handhaving van het [Asbest-verwijderingsbesluit](onbekend) en de daarmee in overeenstemming gebrachte voorschriften van de bouwverordening toekomen. Deze informatie betreft de plicht om vanaf 1 maart 1996 het verwijderen van asbest in de meeste gevallen op te dragen aan een asbestverwijderingsbedrijf dat in het bezit is van een KOMO-procescertificaat voor het verwijderen van asbest (paragraaf 1) en overige informatie (paragraaf 2).
+
+Ik verzoek u, voor zover van toepassing, de inhoud van deze circulaire bekend te maken aan een ieder die binnen uw organisatie belast is met een taak op het gebied van de asbestregelgeving zoals medewerkers van de afdelingen of diensten Bouw- en Woningtoezicht, Gemeentewerken, Milieuzaken, Juridische Zaken en Voorlichting.
+
+### 1. Plicht tot opdragen asbestverwijdering aan asbestverwijderingsbedrijf dat beschikt over KOMO-procescertificaat voor verwijderen van asbest
+
+Op grond van het [Asbest-verwijderingsbesluit](onbekend) (Stb. 1993, 290), de daarmee in overeenstemming gebrachte voorschriften van de gemeentelijke bouwverordening en de [Regeling merkteken asbestverwijdering](onbekend)(Stcrt. 1994, 164) geldt vanaf 1 maart 1996 de verplichting de sloop van asbest uit bouwwerken en het uit elkaar nemen van asbesthoudende objecten op te dragen aan een asbestverwijderingsbedrijf dat in het bezit is van een geldig KOMO-procescertificaat voor het verwijderen van asbest. Een object is een apparaat, transportmiddel, constructie of installatie, niet zijnde een bouwwerk in de zin van de [Woningwet](onbekend). Van deze verplichting zijn de volgende werkzaamheden uitgezonderd:
+
+In het [Asbestverwijderingsbesluit](onbekend) is bepaald dat gedurende 18 maanden na de aanwijzing van het merkteken voor gecertificeerde asbestverwijderingsbedrijven bij het slopen van asbest uit bouwwerken of bij het uit elkaar nemen van objecten, waarin asbest zit, in plaats van dat die activiteit door een deskundig bedrijf plaatsvindt, een persoon aanwezig is die in het bezit is van een diploma deskundig toezichthouder asbestsloop (DTA). Een en ander is in artikel 1.1 van de Model-Bouwverordening 1992 (MBV) van de Vereniging van Nederlandse Gemeenten (VNG) verwoord. De formulering van deze begripsbepaling is zodanig dat vanaf 1 maart 1996 een asbestverwijderingsbedrijf alleen deskundig is wanneer het in het bezit is van een KOMO-procescertificaat voor het verwijderen van asbest. Indien deze begripsbepaling in de gemeentelijke bouwverordening is overgenomen, hoeft die verordening op dit punt niet te worden gewijzigd.
+
+Vanwege de noodzakelijke toegankelijkheid tot de markt voor bestaande en nieuwe asbestverwijderingsbedrijven dient de mogelijkheid te bestaan om ook na 1 maart 1996 het bovengenoemde certificaat te verwerven. De laatste stap in de daarvoor geldende procedure is een beoordeling op twee bedrijfslokaties (asbestverwijderingswerken) door de desbetreffende certificatie-instelling. In dat geval wordt echter het Asbest-verwijderingsbesluit en/of worden de daarmee in overeenstemming gebrachte voorschriften van de gemeentelijke bouwverordening overtreden, omdat het asbestverwijderingsbedrijf niet beschikt over het KOMO-procescertificaat voor het verwijderen van asbest. Om deze reden zal het Asbest-verwijderingsbesluit op dit punt zo snel mogelijk worden aangepast. Tot dat tijdstip zal als interimregeling de volgende regeling gelden:
+
+Bovenstaande regeling biedt naar mijn oordeel voldoende waarborg voor het verwijderen van asbest door een bedrijf dat doende is in aanmerking te komen voor het KOMO-procescertificaat voor het verwijderen van asbest overeenkomstig de bedoeling van de daarvoor geldende voorschriften. Bovendien is de regeling in overeenstemming met het gezamenlijk beleidskader inzake het terugdringen van het gedogen van milieu-overtredingen van oktober 1991. Overigens behoudt het Openbaar Ministerie zich het recht voor proces-verbaal op te (laten) maken en vervolging in te stellen ter zake van het niet-gecertificeerd zijn van een asbestverwijderingsbedrijf, ook indien aan de bovenstaande procedure voldaan wordt.
+
+Ik verzoek u, met inachtneming van het bovenstaande, de certificatieplicht vanaf 1 maart 1996 te handhaven. Een overzicht van bedrijven die beschikken over een KOMO-procescertificaat voor het verwijderen van asbest kunt u gratis opvragen bij SBK. Dat overzicht treft u ook aan in onder meer de losbladige VNG-uitgave ’Standaardregelingen in de bouw’, deel 1b, onderdeel d, publiekrechtelijk erkende kwaliteits-verklaringen.
+
+### 2. Overige informatie
+
+Regelmatig wordt de vraag gesteld of voor het verwijderen van asbest ook ontheffingen van het [Asbest-verwijderingsbesluit](onbekend) en/of van de daarmee in overeenstemming gebrachte voorschriften van de gemeentelijke bouwverordening mogelijk zijn. Voor het verwijderen van asbest uit bouwwerken is het verlenen van een ontheffing niet mogelijk. Noch de Woningwet noch het [Asbest-verwijderingsbesluit](onbekend) voorziet in die mogelijkheid.
+
+Voor het verlenen van een ontheffing voor het verwijderen van asbest uit objecten, bestaat wel een mogelijkheid. De bevoegdheid daartoe is in de [Wet milieugevaarlijke stoffen (artikel 33)](onbekend) toegekend aan de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. De procedure die voor een ontheffing geldt is echter zodanig zwaar dat niet snel tot verlening van een ontheffing zal worden overgegaan.
+
+Met vragen over asbest in het milieu kunt u terecht bij het Bureau Persoonlijke Voorlichting van het Ministerie van VROM, telefoon 070-3395050. Personen die zijn belast met de uitvoering en handhaving van de wet- en regelgeving op het gebied van asbest kunnen met vragen eveneens terecht bij Infomil, telefoon 070-3610579. Informatie over asbest en arbeidsomstandigheden kunt u krijgen bij het Ministerie van Sociale Zaken en Werkgelegenheid, afdeling Informatie, telefoon 070-3334455. Publikaties over asbest van het Ministerie van VROM kunt u bestellen bij het Distributiecentrum VROM, tel. 079-3449449.

@@ -1,0 +1,173 @@
+---
+title: "Registratiebesluit BIG"
+identifier: "BWBR0007648"
+categorie: "Bestuursrecht"
+publicatiedatum: 2022-08-27
+laatste_update: 2022-08-27
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0007648"
+---
+
+# Besluit van 13 november 1995, houdende regelen inzake de registratie van beoefenaren van beroepen in de individuele gezondheidszorg
+
+Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 1 maart 1995, PAO/BOG-951921;
+
+Gelet op de artikelen 5, tweede lid, 11, 12, tweede lid, onder **d**, en derde lid, 42, vijfde lid, en 105, derde lid, van de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251);
+
+De Raad van State gehoord (advies van 15 juni 1995, no. W13.95.0099);
+
+Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 1 november 1995, PAO/BOG-9510951;
+
+Hebben goedgevonden en verstaan:
+
+#### Artikel 1
+
+In dit besluit wordt verstaan onder:
+
+- a. wet: de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251);
+
+- b. instelling: een instelling als bedoeld in [artikel 1, onderdeel f, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=1).
+
+#### Artikel 2
+
+1. Bij de indiening van een aanvrage om inschrijving in een register als bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) worden de volgende bescheiden verstrekt:
+
+- a. het desbetreffende door Onze Minister beschikbaar te stellen formulier, dat door de aanvrager is ingevuld;
+
+- b. het desbetreffende in [artikel 105, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=105) bedoelde getuigschrift, de erkenning, bedoeld in [artikel 41, eerste lid, onder a of c](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), dan wel de verklaring van Onze Minister, bedoeld in artikel 41, eerste lid, onder b of [106, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=106);
+
+- c. een document niet ouder dan drie maanden, waaruit blijkt dat, voor zover van toepassing, ten aanzien van de aanvrager geen maatregel berustend op een in het buitenland gegeven rechterlijke, tuchtrechtelijke of bestuursrechtelijke beslissing van kracht is, op grond waarvan de aanvrager zijn of haar rechten tot de uitoefening van het betrokken beroep in het land waar de beslissing is gegeven, geheel of gedeeltelijk, tijdelijk of blijvend heeft verloren;
+
+- d. een bewijs van voldoende beheersing van de Nederlandse taal.
+
+2. Indien het document, bedoeld in het eerste lid, onderdeel c, niet wordt afgegeven door de bevoegde autoriteiten, wordt dit vervangen door een attest, niet ouder dan drie maanden, afgegeven door een bevoegde, gerechtelijke autoriteit, een andere bevoegde overheidsautoriteit, een notaris of een bevoegde beroepsvereniging in het land van herkomst, waaruit blijkt dat de aanvrager tegenover die instantie of functionaris onder ede, dan wel plechtig heeft verklaard, dat ten aanzien van hem geen maatregel van kracht is als bedoeld in het eerste lid, onder c.
+
+3. Het formulier, bedoeld in het eerste lid, bevat in elk geval rubrieken voor de vermelding van de naam, de voornamen, het geslacht, de geboortedatum, de nationaliteit en het adres van de aanvrager, voor de beantwoording van de vragen of hij onder curatele is gesteld wegens geestelijke stoornis en of hij is ontzet van het recht het betrokken beroep uit te oefenen en voor de vermelding van de data waarop hij de opleiding tot het desbetreffende beroep heeft aangevangen en voltooid.
+
+4. Van een getuigschrift als bedoeld in het eerste lid, onder b of d wordt het originele exemplaar verstrekt dan wel een kopie die is gewaarmerkt door de instelling die het desbetreffende getuigschrift heeft afgegeven, of door de daartoe bevoegde autoriteit in een lidstaat van de Europese Unie of andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland. In plaats van een in Nederland afgegeven getuigschrift of een gewaarmerkte kopie daarvan kunnen diplomagegevens worden verstrekt uit het diplomaregister als bedoeld in [artikel 24m van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=24m). Van een verklaring of erkenning als bedoeld in het eerste lid kan een fotokopie worden overgelegd.
+
+5. Van het document, bedoeld in het eerste lid, onder c, wordt het originele exemplaar verstrekt dan wel een kopie die is gewaarmerkt door de instelling die het document heeft afgegeven of door de daartoe bevoegde autoriteit in een lidstaat van de Europese Unie of andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland. Van het attest, bedoeld in het tweede lid, wordt het originele exemplaar verstrekt dan wel een kopie die is gewaarmerkt door de betreffende autoriteit, notaris, bevoegde beroepsvereniging als bedoeld in dat artikellid, dan wel door een in Nederland gevestigde notaris.
+
+6. Van de bewijsmiddelen, bedoeld in het eerste lid, onder d, kan een fotokopie worden overgelegd.
+
+7. Het document, bedoeld in het eerste lid, onder c, en het attest, bedoeld in het tweede lid, zijn gesteld, dan wel door een beëdigd vertaler vertaald, in het Nederlands of Engels.
+
+8. Onze Minister stelt regels omtrent de bescheiden die bij de indiening van een aanvraag om vermelding als bedoeld in [artikel 5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=5) worden verstrekt.
+
+9. Als bewijs van voldoende beheersing van de Nederlandse taal, als bedoeld in het eerste lid, onder d, geldt:
+
+- a. diploma’s van primair plus secundair onderwijs van een Nederlandstalige onderwijsinstelling;
+
+- b. een diploma van een voltooide Nederlandstalige opleiding van het beroep waarvoor inschrijving aangevraagd wordt;
+
+- c. een certificaat voor een examen Nederlandse taal waarbij de mondelinge en schriftelijke vaardigheden in de Nederlandse taal zijn geëxamineerd op ten minste het niveau:
+
+- –. B1 van het Gemeenschappelijk Europees Referentiekader voor Moderne Vreemde Talen voor inschrijving in het register van verpleegkundigen;
+
+- –. B2 van het Gemeenschappelijk Europees Referentiekader voor Moderne Vreemde Talen voor inschrijving in het register van fysiotherapeuten, verloskundigen of physician assistants;
+
+- –. B2+ van het Gemeenschappelijk Europees Referentiekader voor Moderne Vreemde Talen voor inschrijving in het register van artsen, tandartsen, apothekers, psychotherapeuten, gezondheidszorgpsychologen, orthopedagogen-generalist en klinisch technologen;
+
+- d. de verklaring van Onze Minister, bedoeld in [artikel 41, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41).
+
+10. Als een bewijsstuk als bedoeld in het negende lid, onder c of d, op het moment van indiening van de aanvraag ouder is dan twee jaar overlegt de aanvrager schriftelijk aanvullende bewijsstukken om aannemelijk te maken dat hij op het moment van de aanvraag nog steeds mondeling en schriftelijk vaardig is in de Nederlandse taal op het voor het desbetreffende beroep in het negende lid, onder c, genoemde niveau.
+
+11. Van de bewijsmiddelen, bedoeld in het negende lid, kan een door de instelling die het document heeft afgegeven gewaarmerkte kopie worden overgelegd.
+
+12. Indien de aanvrager niet beschikt over een bewijsstuk als bedoeld in het negende lid geldt als bewijs van voldoende beheersing van de Nederlandse taal een ander document of een combinatie van documenten waaruit redelijkerwijs kan worden afgeleid dat de aanvrager mondeling en schriftelijk vaardig is in de Nederlandse taal op het voor het desbetreffende beroep in het negende lid, onder c, genoemde niveau.
+
+#### Artikel 3
+
+In afwijking van [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2&z=2022-08-27&g=2022-08-27), kunnen degenen die de bevoegdheid hadden verkregen of waren toegelaten tot de uitoefening van een in artikel 104, vierde lid, van de wet genoemd beroep, dan wel de bevoegdheid hadden verkregen tot het voeren van de titel van verpleegkundige vóór het tijdstip waarop artikel 3, eerste lid, van de wet ten aanzien van het desbetreffende beroep in werking is getreden, bij de indiening van de aanvrage om inschrijving, behalve het in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2&z=2022-08-27&g=2022-08-27), bedoelde formulier, een fotokopie verstrekken van het getuigschrift of de beschikking waaraan zij de desbetreffende bevoegdheid of toelating ontlenen.
+
+#### Artikel 4
+
+1. Bij het indienen van een aanvrage als bedoeld in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=5), wordt een tarief in rekening gebracht. Het tarief wordt voldaan binnen vier weken na het indienen van de aanvraag. Indien het bedrag niet is voldaan, wordt de aanvraag niet in behandeling genomen.
+
+2. Onze Minister stelt regels omtrent de hoogte van het tarief, bedoeld in het eerste lid.
+
+#### Artikel 5
+
+1. Van de gegevens, bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=11), de gegevens omtrent alle voorwaarden daaronder begrepen, wordt schriftelijk kennis gegeven aan:
+
+- a. de werkgever van de betrokkene;
+
+- b. de instelling waar de betrokkene zijn beroep uitoefent op grond van een andere overeenkomst dan een arbeidsovereenkomst.
+
+2. Van de gegevens, bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=11), de gegevens omtrent alle voorwaarden daaronder begrepen, wordt openbaar kennis gegeven:
+
+- a. door middel van publicatie in een of meer dag- of weekbladen die worden verspreid in het gebied waarin de betrokkene zijn beroep uitoefent, en
+
+- b. door middel van publicatie op daartoe bestemde websites op internet.
+
+3. Voor de openbare kennisgeving, bedoeld in het tweede lid, onder b, en de aantekening in het BIG-register, bedoeld in [artikel 9, eerste, tweede, derde, vierde en achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=9), geldt dat deze raadpleegbaar zijn:
+
+- a. voor de maatregelen berisping en geldboete: voor een termijn van vijf jaar die aanvangt direct na het onherroepelijk worden van de uitspraak waarbij de maatregel is opgelegd;
+
+- b. voor een doorhaling, als bedoeld in [artikel 48, eerste lid, onder f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=48) of een ontzegging van het recht wederom in het register te worden ingeschreven, als bedoeld in artikel 48, derde lid, van de wet: 10 jaar.
+
+- c. voor een verwerking of overname van een maatregel, op grond van [artikel 7, onder c, e of f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=7): voor de duur van de verwerkte of overgenomen maatregel vermeerderd met een termijn van vijf jaar die aanvangt direct na het eindigen van die maatregel, met een maximale duur van tien jaar mits de duur van de maatregel bij de minister is bevestigd door de bevoegde autoriteit. Indien bij de minister niet bekend is wanneer de maatregel eindigt, blijft de doorhaling raadpleegbaar voor maximaal tien jaar. Indien de minister alsnog schriftelijke bevestiging van de bevoegde autoriteit ontvangt dat de maatregel niet langer duurt dan vijf jaar, blijft de maatregel raadpleegbaar voor de duur van de maatregel vermeerderd met een termijn van vijf jaar. Indien de periode dat de maatregel raadpleegbaar moet zijn is verstreken, wordt de aantekening verwijderd.
+
+- d. voor andere maatregelen dan die genoemd in de onderdelen b en c opgelegd voor een bepaalde duur: de duur van de van kracht zijnde maatregel vermeerderd met een termijn van vijf jaar die aanvangt direct na het eindigen van de maatregel mits de duur van de maatregel bij de minister is bevestigd door de bevoegde autoriteit. Indien bij de minister niet bekend is wanneer de maatregel eindigt, blijft de maatregel raadpleegbaar. Indien de minister alsnog schriftelijke bevestiging van de bevoegde autoriteit ontvangt dat de maatregel is geëindigd en indien de periode dat de maatregel raadpleegbaar moet zijn is verstreken, wordt de aantekening verwijderd.
+
+Indien een voorwaardelijke maatregel als bedoeld in [artikel 48, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=48) is opgelegd en daaraan een proeftijd is verbonden, geldt als duur van de maatregel de duur van de opgelegde proeftijd.
+
+4. Voor zover een maatregel nadat die niet meer van kracht is nog openbaar wordt kennisgegeven, wordt in de openbare kennisgeving, als bedoeld in het derde lid, onder b, en de aantekening in het BIG-register, vermeld per wanneer de maatregel van kracht was en per wanneer de maatregel is geëindigd.
+
+5. De openbare kennisgeving, bedoeld in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=11), en de aantekening in het BIG-register, bedoeld in [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=9), vindt plaats nadat de uitspraak, de beslissing of het besluit zodra de maatregel van kracht is. Indien de uitspraak, de beslissing of het besluit niet onherroepelijk is maar wel al van kracht is, wordt in de openbare kennisgeving, bedoeld in artikel 11 van de wet, en de aantekening in het BIG-register vermeld dat een rechtsmiddel is of kan worden ingesteld, nadat de minister een schriftelijke bevestiging daarvan van de bevoegde autoriteit heeft ontvangen.
+
+6. Indien een beroepsbeoefenaar aan wie een doorhaling of ontzegging van het recht wederom in het register te worden ingeschreven is opgelegd, in de hem ontzegde bevoegdheid wordt hersteld, verwijdert de minister de openbare kennisgeving, als bedoeld in het tweede lid, onder b, en maakt daarvan melding bij de aantekening in het BIG-register, nadat de minister een schriftelijke bevestiging van het herstel van de bevoegde autoriteit heeft ontvangen. De vermelding is raadpleegbaar gedurende de resterende periode van openbare kennisgeving en aantekening in het BIG-register ingevolge het derde en vierde lid van dit artikel.
+
+7. In afwijking van het derde, vierde, en zesde lid, eindigt de openbare kennisgeving, als bedoeld in het tweede lid, onder b, en de aantekening in het BIG-register nadat de minister een schriftelijke bevestiging van de bevoegde autoriteit heeft ontvangen dat de maatregel is geëindigd door vernietiging van de Nederlandse of buitenlandse uitspraak of beslissing waarbij de maatregel is opgelegd of door vernietiging van het besluit tot overname van een buitenlandse maatregel op grond van [artikel 7, onder e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=7), of [artikel 9, tweede en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=9). Hetzelfde geldt voor de situatie dat de maatregel eindigt door herziening van de uitspraak of beslissing.
+
+8. In afwijking van het derde, vierde en zesde lid, eindigt de openbare kennisgeving en de aantekening in het BIG-register bij overlijden van betrokkene.
+
+#### Artikel 6
+
+Aan een ieder die dat verlangt, wordt meegedeeld hetgeen in het register staat aangetekend met betrekking tot de voorwaarden die een ingeschrevene zijn opgelegd met toepassing van [artikel 50, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=50), dan wel onderdeel uitmaken van de aan een ingeschrevene opgelegde maatregel van voorwaardelijke schorsing, bedoeld in [artikel 48, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=48), of van de maatregel, bedoeld in [artikel 80, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=80). Hetzelfde geldt met betrekking tot de voorwaarden, bedoeld in [artikel 105, derde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=105).
+
+#### Artikel 7
+
+1. Van de totstandkoming van een inschrijving in een register met toepassing van [artikel 41, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), en van de duur van die inschrijving of van de aard van de andere beperkingen die aan die inschrijving zijn verbonden, wordt kennis gegeven in de **Staatscourant** en, indien deze bekend zijn, aan de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=5&z=2022-08-27&g=2022-08-27), bedoelde instanties.
+
+2. Van de doorhaling van een met toepassing van [artikel 41 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41) tot stand gekomen inschrijving op grond van het intreden of bekend worden van omstandigheden als bedoeld in [artikel 7, onder e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=7), ten aanzien van de betrokkene, wordt kennis gegeven aan de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=5&z=2022-08-27&g=2022-08-27), bedoelde instanties, in een of meer dag- of weekbladen die in het gebied waarin de betrokkene zijn beroep uitoefent, worden verspreid, in de Staatscourant en door middel van publicatie op daartoe bestemde websites op internet.
+
+#### Artikel 8
+
+Voor zover de verstrekking van een mededeling als bedoeld in artikel 12, derde lid, van de wet, of artikel 6, schriftelijk geschiedt, wordt een bedrag van € 5 in rekening gebracht.
+
+#### Artikel 9
+
+Dit besluit treedt in werking met ingang van 1 december 1995.
+
+#### Artikel 10
+
+Dit besluit wordt aangehaald als: Registratiebesluit BIG.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+#### Artikel 8a
+
+Vervallen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+#### Artikel 4a
+
+Een beoefenaar van een beroep als bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) draagt er zorg voor dat zijn BIG-nummer kenbaar wordt gemaakt:
+
+- a. wanneer hem daarom wordt verzocht;
+
+- b. wanneer de beroepsbeoefenaar zijn naam in het kader van de uitoefening van het beroep of van een specialisme daarvan als bedoeld in [artikel 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14), kenbaar maakt, dan wel ermee instemt dat zijn naam in dat kader kenbaar wordt gemaakt:
+
+- 1°. bij het gebruik van zijn naam op de website van de beroepsbeoefenaar of van de organisatie waarvoor hij het beroep of het specialisme daarvan uitoefent;
+
+- 2°. onder door de beroepsbeoefenaar of onder diens naam door zijn werkgever verzonden e-mailberichten.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+#### Artikel 5a
+
+Aan een beoefenaar van een beroep als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) of [36a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=36a) wordt op diens verzoek binnen twee maanden een document verstrekt, waaruit blijkt dat, voor zover van toepassing, ten aanzien van de betrokkene geen maatregel berustend op een in Nederland gegeven rechterlijke, tuchtrechtelijke of bestuursrechtelijke beslissing van kracht is, op grond waarvan de betrokkene zijn rechten tot de uitoefening van het betrokken beroep in Nederland, geheel of gedeeltelijk, tijdelijk of blijvend is verloren.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.

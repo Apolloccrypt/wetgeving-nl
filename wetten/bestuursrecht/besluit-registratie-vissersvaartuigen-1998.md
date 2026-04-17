@@ -1,0 +1,143 @@
+---
+title: "Besluit registratie vissersvaartuigen 1998"
+identifier: "BWBR0009353"
+categorie: "Bestuursrecht"
+publicatiedatum: 2018-01-01
+laatste_update: 2018-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0009353"
+---
+
+# Besluit van 26 januari 1998, houdende vaststelling van het Besluit registratie vissersvaartuigen 1998
+
+Op de voordracht van Onze Minister van Landbouw, Natuurbeheer en Visserij van 4 december 1997, nr. J. 9713365, Directie Juridische Zaken;
+
+Gelet op [artikel 3 van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=3);
+
+De Raad van State gehoord (advies van 17 december 1997, no. W11.97.0777);
+
+Gezien het nader rapport van Onze Minister van Landbouw, Natuurbeheer en Visserij van 19 januari 1998, No. J. 98360, Directie Juridische Zaken;
+
+Hebben goedgevonden en verstaan:
+
+#### Artikel 1
+
+In afwijking in zoverre van [artikel 1, eerste lid, van de Uitvoeringwet Visserijverdrag 1967](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=1) wordt in dit besluit en de daarop berustende bepalingen verstaan onder:
+
+- a. Onze Minister: Onze Minister van Economische Zaken;
+
+- b. vissersvaartuig:
+
+- 1°. vissersvaartuig als bedoeld in artikel 4, eerste lid, punt 4, van Verordening (EU) nr. 1380/2013 van het Europees Parlement en de Raad van 11 december 2013 inzake het gemeenschappelijk visserijbeleid, tot wijziging van [Verordeningen (EG) nr. 1954/2003](32003R1954) en [(EG) nr. 1224/2009](32009R1224) van de Raad en tot intrekking van Verordeningen (EG) nr. [2371/2002](32002R2371) en (EG) nr. [639/2004](32004R0639) van de Raad en Besluit [2004/585/EG](32485R2004) van de Raad (PbEU 2013, L 354), dat geldt als Nederlands op grond van [artikel 1, tweede lid, van de Uitvoeringswet Visserijverdrag 1967](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=1), of
+
+- 2°. vaartuig dat is uitgerust voor de commerciële exploitatie van vis in het IJsselmeer;
+
+- c. eigenaar: natuurlijke of rechtspersoon die de eigendom heeft;
+
+- d. visserijregister: het register, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=4&z=2018-01-01&g=2018-01-01).
+
+#### Artikel 2
+
+Vervallen
+
+#### Artikel 3
+
+1. Bij regeling van Onze Minister worden de gemeenten aangewezen die in aanmerking komen als thuishaven voor vissersvaartuigen en worden de lettertekens vastgesteld waarmee die gemeenten worden aangeduid.
+
+2. In de regeling, bedoeld in het eerste lid, worden regels gesteld omtrent de grootte, de kleur en de plaats van de lettertekens en nummers.
+
+#### Artikel 4
+
+Onze Minister houdt een register bij waarin de vissersvaartuigen worden ingeschreven onder vermelding van hun thuishaven, de overige gegevens, bedoeld in artikel 24 van Verordening (EU) nr. 1380/2013 van het Europees Parlement en de Raad van 11 december 2013 inzake het gemeenschappelijk visserijbeleid, tot wijziging van Verordeningen (EG) nr. 1954/2003 en (EG) nr. 1224/2009 van de Raad en tot intrekking van Verordeningen (EG) nr. 2371/2002 en (EG) nr. 639/2004 van de Raad en Besluit 2004/585/EG van de Raad (PbEU 2013, L 354) en andere gegevens waarvan Onze Minister vermelding noodzakelijk acht op grond van verplichtingen van de Europese Unie.
+
+#### Artikel 5
+
+Het is verboden een vissersvaartuig te gebruiken indien dat vaartuig niet het letterteken voert dat in de regeling, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=3&z=2018-01-01&g=2018-01-01), is bepaald voor de gemeente waar dat vaartuig zijn thuishaven heeft, en het nummer waaronder het vaartuig in het visserijregister is ingeschreven, danwel indien het vaartuig niet is ingeschreven in het visserijregister, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=4&z=2018-01-01&g=2018-01-01).
+
+#### Artikel 6
+
+1. De eigenaar van een vaartuig dient, alvorens het als vissersvaartuig in gebruik te nemen, een aanvraag in voor inschrijving in het visserijregister op een door Onze Minister vast te stellen en beschikbaar te stellen formulier.
+
+2. Onze Minister kan regels stellen omtrent het in het eerste lid bedoelde formulier en de bescheiden die overgelegd worden bij de in het eerste lid bedoelde aanvraag.
+
+3. Inschrijving in het visserijregister vindt slechts plaats indien:
+
+- a. het formulier, bedoeld in het eerste lid, volledig en naar waarheid is ingevuld en is ondertekend;
+
+- b. is voldaan aan het tweede lid, en
+
+- c. Onze Minister geen reden heeft de juistheid van de bij de aanvraag vermelde opgaven of verstrekte gegevens in twijfel te trekken.
+
+4. Onze Minister kan besluiten tot doorhaling van een inschrijving in het visserijregister indien blijkt dat de door de eigenaar van het desbetreffende vissersvaartuig bij zijn aanvraag vermelde opgaven of verstrekte gegevens niet overeenstemmen met de werkelijkheid.
+
+#### Artikel 7
+
+1. Indien een vaartuig:
+
+- a. niet meer gebruikt wordt als vissersvaartuig;
+
+- b. niet meer geldt als Nederlands in de zin van [artikel 1, tweede lid, van de Uitvoeringswet Visserijverdrag 1967](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=1), of
+
+- c. is vergaan of gesloopt,
+
+doet de eigenaar onder wiens naam het betrokken vaartuig in het visserijregister is ingeschreven hiervan mededeling aan Onze Minister op een door Onze Minister vast te stellen en beschikbaar te stellen formulier, zo spoedig mogelijk, doch uiterlijk zes weken nadat de desbetreffende verandering heeft plaatsgevonden.
+
+2. De eigenaar van een vissersvaartuig doet aan Onze Minister op een daarvoor door Onze Minister vast te stellen en beschikbaar te stellen formulier mededeling van elke andere verandering ten aanzien van de gegevens, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=4&z=2018-01-01&g=2018-01-01), uiterlijk zes weken nadat de desbetreffende verandering heeft plaatsgevonden.
+
+3. Van de omstandigheid, bedoeld in het eerste lid, onder a, is in elk geval sprake indien het vaartuig een jaar of langer niet is gebruikt als vissersvaartuig.
+
+#### Artikel 8
+
+1. Na ontvangst van de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=7&z=2018-01-01&g=2018-01-01), hetzij indien anders blijkt dat een verandering heeft plaatsgevonden besluit Onze Minister:
+
+- a. indien het betreft een verandering als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=7&z=2018-01-01&g=2018-01-01), tot doorhaling van de desbetreffende inschrijving in het visserijregister;
+
+- b. indien het betreft een verandering als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=7&z=2018-01-01&g=2018-01-01), tot dienovereenkomstige aanpassing van de betrokken gegevens in het visserijregister.
+
+2. Indien Onze Minister een besluit neemt als bedoeld in het eerste lid, onderdeel b, is [artikel 6a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=6a&z=2018-01-01&g=2018-01-01), van overeenkomstige toepassing.
+
+#### Artikel 9
+
+Onze Minister kan de inschrijving in het visserijregister, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=6&z=2018-01-01&g=2018-01-01), of de aanpassing van de betrokken gegevens in het visserijregister, bedoeld in [artikel 8, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009353&artikel=8&z=2018-01-01&g=2018-01-01), weigeren, indien hij dit noodzakelijk acht ter nakoming van communautaire verplichtingen.
+
+#### Artikel 10
+
+1. Na inwerkingtreding van dit besluit geldt de registratie van een vissersvaartuig in het centraal visserijregister, bedoeld in het Registratiebesluit vissersvaartuigen 1964, als een registratie in het visserijregister.
+
+2. Een bewijs, verkregen op grond van het [Besluit nationaliteitsbewijs vissersvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002930), wordt beschouwd als het document, bedoeld in [artikel 2, eerste lid, van de Uitvoeringswet Visserijverdrag 1967](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=2).
+
+#### Artikel 11
+
+Wijzigt het Besluit nationaliteitsbewijs vissersvaartuigen.
+
+#### Artikel 12
+
+Wijzigt het Reglement zee- en kustvisserij 1977.
+
+#### Artikel 13
+
+Het Registratiebesluit vissersvaartuigen 1964 wordt ingetrokken.
+
+#### Artikel 14
+
+Dit besluit treedt in werking met ingang van 1 maart 1998.
+
+#### Artikel 15
+
+Dit besluit wordt aangehaald als: Besluit registratie vissersvaartuigen 1998.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+#### Artikel 6a
+
+1. Onze Minister doet de eigenaar van een vaartuig een bewijs van inschrijving in het visserijregister toekomen.
+
+2. Een ten behoeve van het vissersvaartuig verleende visvergunning als bedoeld in artikel 6, eerste lid van Verordening (EG) nr. 1224/2009 van de Raad van 20 november 2009 tot vaststelling van een communautaire controleregeling die de naleving van de regels van het gemeenschappelijk visserijbeleid moet garanderen, tot wijziging van Verordeningen (EG) nr. 847/96, (EG) nr. 2371/2002, (EG) nr. 811/2004, (EG) nr. 768/2005, (EG) nr. 2115/2005, (EG) nr. 2166/2005, (EG) nr. 388/2006, (EG) nr. 509/2007, (EG) nr. 676/2007, (EG) nr. 1098/2007, (EG) nr. 1300/2008, (EG) nr. 1342/2008 en tot intrekking van Verordeningen (EEG) nr. 2847/93, (EG) nr. 1627/94 en (EG) nr. 1966/2006 (PbEU 2009, L 343), geldt als bewijs van inschrijving in het visserijregister als bedoeld in het eerste lid.
+
+3. De visvergunning, bedoeld in het tweede lid, geldt tevens als het document, bedoeld in [artikel 2, eerste lid, van de Uitvoeringswet Visserijverdrag 1967](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=2).
+
+#### Artikel 10a
+
+Dit besluit berust mede op [artikel 2, tweede lid, van de Uitvoeringswet Visserijverdrag 1967](https://wetten.overheid.nl/jci1.3:c:BWBR0002897&artikel=2).
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

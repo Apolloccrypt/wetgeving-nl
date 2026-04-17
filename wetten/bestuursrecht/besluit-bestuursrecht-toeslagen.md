@@ -1,0 +1,57 @@
+---
+title: "Besluit bestuursrecht Toeslagen"
+identifier: "BWBR0050124"
+categorie: "Bestuursrecht"
+publicatiedatum: 2024-08-13
+laatste_update: 2024-08-13
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0050124"
+---
+
+# Besluit bestuursrecht Toeslagen
+
+### 1. Inleiding
+
+Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) besluit Dienst Toeslagen het [Besluit bestuursrecht Toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0041450) (2020-246270) zoals laatst gewijzigd op 16 December 2020 in te trekken en te vervangen door dit besluit.
+
+### 1.1. Toepassingsbereik
+
+Deze beleidsregel (hierna: beleidsbesluit) ziet op de formeelrechtelijke aspecten van de uitvoering van inkomensafhankelijke regelingen door de Dienst Toeslagen. Beleidsregels van de Dienst Toeslagen over procesrechtelijke aspecten van de uitvoering van de hersteloperatie toeslagen zijn vastgelegd in [Besluit procesrecht herstel toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0049945).
+
+### 1.2. Begripsbepaling
+
+In dit besluit wordt verstaan onder:
+
+### 2. Beleidsregels
+
+### 3. Procesvertegenwoordiging
+
+### 3.1. Procesvertegenwoordigers
+
+### 3.2. Aanwezigheid ter zitting
+
+### 3.3. Bijstand
+
+### 3.4. Achterwege blijven van de mondelinge behandeling
+
+De procesvertegenwoordiger kan op voorstel van de rechtbank of Afdeling bestuursrechtspraak van de Raad van State instemmen met het achterwege laten van het onderzoek ter zitting. De procesvertegenwoordiger stemt in als de feiten en omstandigheden voldoende vaststaan (er is sprake van een zuivere rechtsvraag) en een mondelinge behandeling geen toegevoegde waarde heeft. De procesvertegenwoordiger stemt zijn besluit af met de vaktechnisch coördinator. In hoger beroepszaken wordt het besluit tevens afgestemd met monitoring hoger beroep.
+
+### 3.5. Monitoring hoger beroep
+
+Monitoring hoger beroep publiceert – als zij daartoe aanleiding ziet – onderschriften in gevallen waarin wordt afgezien van het instellen van hoger beroep tegen een uitspraak van een rechtbank die in het nadeel is van Dienst Toeslagen.
+
+### 4. Vaststellingsovereenkomst
+
+### 5. Herziening buiten de vijfjaren termijn
+
+In het kader van de rechtszekerheid bevat [artikel 5a, eerste lid, onderdeel a, van de Uitvoeringsregeling Awir](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=5a) een beperkende termijn voor het kunnen herzien van een tegemoetkoming in het voordeel van de belanghebbende. Er kunnen zich echter bijzondere situaties voordoen waarbij sprake is van een ernstige schending van een algemeen beginsel van behoorlijk bestuur, waarbij zonder die schending of handeling een tegemoetkoming op een hoger bedrag zou zijn vastgesteld. In lijn met staand beleid wordt met dit besluit verduidelijkt dat een dergelijke schending van de algemene beginselen zwaarder kan wegen dan de bescherming van het rechtszekerheidsbeginsel, zodat de termijn van artikel 5a, eerste lid, onderdeel a, van de Uitvoeringsregeling in dat geval niet geldt.
+
+### 6. Inwerkingtreding
+
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
+
+### 7. Citeertitel
+
+Dit besluit wordt aangehaald als: Besluit bestuursrecht Toeslagen
+
+Dit besluit zal in de Staatscourant worden geplaatst.

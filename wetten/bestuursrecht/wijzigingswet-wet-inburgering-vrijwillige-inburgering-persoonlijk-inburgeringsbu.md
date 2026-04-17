@@ -1,0 +1,51 @@
+---
+title: "Wijzigingswet Wet inburgering (vrijwillige inburgering, persoonlijk inburgeringsbudget en harmoniseren handhavingstermijnen)"
+identifier: "BWBR0026848"
+categorie: "Bestuursrecht"
+publicatiedatum: 2010-01-01
+laatste_update: 2010-01-01
+status: geldig
+bron: "https://wetten.overheid.nl/BWBR0026848"
+---
+
+# Wijzigingswet Wet inburgering (vrijwillige inburgering, persoonlijk inburgeringsbudget en harmoniseren handhavingstermijnen)
+
+#### Artikel I
+
+Wijzigt de Wet inburgering.
+
+#### Artikel II
+
+Wijzigt de Wet participatiebudget.
+
+#### Artikel III
+
+Vervallen
+
+#### Artikel IV
+
+Het bepaalde bij of krachtens de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7), en [31, tweede lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=31) zoals die bepalingen luidden vóór het tijdstip van inwerkingtreding van [artikel I, onderdelen C en Ia](https://wetten.overheid.nl/jci1.3:c:BWBR0026848&artikel=I&z=2010-01-01&g=2010-01-01), van deze wet, blijft van toepassing ten aanzien van de termijnen voor het behalen van het inburgeringsexamen die vóór dat tijdstip zijn aangevangen, respectievelijk ten aanzien van de verlenging van die termijnen.
+
+#### Artikel V
+
+Na de inwerkingtreding van [artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0026848&artikel=I&z=2010-01-01&g=2010-01-01), van deze wet berust het [Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674) mede op [artikel 19, vierde lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=19) en op [artikel 15, tweede lid, van de Wet participatiebudget](https://wetten.overheid.nl/jci1.3:c:BWBR0025039&artikel=15).
+
+#### Artikel VI
+
+1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van de [artikelen I, onderdelen A, onder 1, 2 en 3, D en H](https://wetten.overheid.nl/jci1.3:c:BWBR0026848&artikel=I&z=2010-01-01&g=2010-01-01), [II, onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0026848&artikel=II&z=2010-01-01&g=2010-01-01), en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0026848&artikel=III&z=2010-01-01&g=2010-01-01) die in werking treden op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende genoemde artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+2. [Artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0026848&artikel=I&z=2010-01-01&g=2010-01-01), werkt terug tot en met 27 juni 2008.
+
+3. [Artikel I, onderdelen Ca en Ga](https://wetten.overheid.nl/jci1.3:c:BWBR0026848&artikel=I&z=2010-01-01&g=2010-01-01), werkt terug tot en met 1 september 2008.
+
+4. [Artikel I, onderdelen F en I](https://wetten.overheid.nl/jci1.3:c:BWBR0026848&artikel=I&z=2010-01-01&g=2010-01-01), werkt terug tot en met 31 december 2008.
+
+5. [Artikel I, onderdelen A, onder 2a, en J](https://wetten.overheid.nl/jci1.3:c:BWBR0026848&artikel=I&z=2010-01-01&g=2010-01-01), werkt terug tot en met 1 januari 2009.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de vrijwillige inburgering en het persoonlijk inburgeringsbudget in de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) op te nemen en de handhavingstermijnen te harmoniseren;
+
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
