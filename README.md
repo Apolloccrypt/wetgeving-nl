@@ -2,7 +2,7 @@
 
 > Nederlandse wetgeving in Markdown — elke wet een bestand, elke wijziging een commit, elke burger een potentiele bijdrager.
 
-**Website:** [apolloccrypt.github.io/wetgeving-nl](https://apolloccrypt.github.io/wetgeving-nl)
+**Website:** [vrijewetgeving.nl](https://vrijewetgeving.nl)
 
 Geinspireerd door [legalize-es](https://github.com/legalize-dev/legalize-es) (Spanje), maar met een echte community-laag voor wetsvoorstellen en een betere parser.
 
@@ -16,7 +16,7 @@ Dit project maakt wetgeving:
 
 - **Leesbaar** — schone Markdown met nette YAML-frontmatter
 - **Traceerbaar** — elke wetswijziging is een commit met een leesbare diff
-- **Doorzoekbaar** — zoek op titel en volledige wettekst via de website
+- **Doorzoekbaar** — zoek op titel en volledige wettekst via vrijewetgeving.nl
 - **Participatief** — iedereen kan een wetsvoorstel indienen via een Pull Request
 
 ---
@@ -28,6 +28,7 @@ Dit project maakt wetgeving:
 | Wetten | 21.407 officiele regelingen |
 | Categorieen | 14 (strafrecht, belastingrecht, bestuursrecht, etc.) |
 | Commits | 423.000+ historische wetswijzigingen |
+| Kamerstukken | Gekoppeld per wet via rijksoverheid.nl open data |
 | Update | Dagelijks automatisch via GitHub Actions |
 | Bron | Basis Wetten Bestand (BWB), data.overheid.nl |
 | Licentie wetten | CC0 (publiek domein) |
@@ -57,19 +58,19 @@ wetgeving-nl/
 │   └── overig/
 ├── proposals/                     # Community wetsvoorstellen
 │   └── templates/
-│       └── voorstel-template.md
 ├── scripts/
-│   ├── cleanup_legalize.py        # Hoofdconverter BWB → Markdown
+│   ├── cleanup_legalize.py        # Hoofdconverter BWB naar Markdown
 │   ├── dagelijkse_update.py       # Dagelijkse BWB-sync
-│   ├── genereer_index.py          # Genereert index.json + zoekindex.json
+│   ├── genereer_index.py          # Genereert index.json en zoekindex.json
+│   ├── koppel_kamerstukken.py     # Koppelt Kamerstukken aan wetten
 │   └── hercategoriseer.py         # Verbetert categorisering
 ├── .github/
-│   ├── workflows/
-│   │   └── update-wetten.yml      # Dagelijkse GitHub Actions
-│   └── ISSUE_TEMPLATE/
-├── index.html                     # Web-interface
+│   └── workflows/
+│       └── update-wetten.yml
+├── index.html                     # Web-interface (vrijewetgeving.nl)
 ├── index.json                     # Metadata index (5MB)
 ├── zoekindex.json                 # Volledige tekst zoekindex (8MB)
+├── CNAME                          # Domeinkoppeling
 ├── README.md
 ├── CONTRIBUTING.md
 ├── CODE_OF_CONDUCT.md
@@ -113,7 +114,7 @@ Open een [Issue](../../issues/new?template=fout-in-wet.md)
 Lees de [bijdragegids](CONTRIBUTING.md) en open een PR met jouw voorstel in `proposals/`.
 
 **Technisch bijdragen?**
-Verbeter de parser, voeg wetten toe, of bouw mee aan de web-interface. Zie [CONTRIBUTING.md](CONTRIBUTING.md).
+Verbeter de parser, voeg wetten toe, of bouw mee aan de website. Zie [CONTRIBUTING.md](CONTRIBUTING.md).
 
 **Discussie starten?**
 Ga naar [Discussions](../../discussions).
@@ -127,18 +128,18 @@ Ga naar [Discussions](../../discussions).
 - [x] 21.407 Nederlandse wetten in schone Markdown
 - [x] Gesorteerd in 14 categorieen
 - [x] Automatische dagelijkse updates via GitHub Actions
-- [x] Community proposals-sectie met templates en issue-templates
-- [x] Web-interface op apolloccrypt.github.io/wetgeving-nl
+- [x] Community proposals-sectie met templates
+- [x] Website op vrijewetgeving.nl
 - [x] Volledige wetsgeschiedenis (423.000+ commits)
 - [x] Zoeken op titel en volledige wettekst
 - [x] Sorteren op naam en datum
+- [x] Koppeling met Kamerstukken via rijksoverheid.nl
 - [x] LICENSE, CODE_OF_CONDUCT, SECURITY
 - [x] GitHub Discussions
 
 ### In ontwikkeling
 
 - [ ] Betere web-interface zonder GitHub-kennis vereist
-- [ ] Koppeling met Kamerstukken (debatten bij wetswijzigingen)
 - [ ] Per-bestand git-history correct koppelen
 
 ### Toekomst
