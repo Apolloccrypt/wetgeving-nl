@@ -39,6 +39,24 @@ header::after {
 .logo span { color:var(--oranje); }
 .terug { font-family:'JetBrains Mono',monospace; font-size:0.72rem; color:rgba(255,255,255,0.5); text-decoration:none; }
 .terug:hover { color:var(--wit); }
+.nav-bar {
+  background: var(--donker);
+  border-top: 1px solid rgba(255,255,255,0.06);
+  padding: 0 2rem;
+}
+.nav-inner {
+  max-width:900px; margin:0 auto;
+  display:flex; gap:0; overflow-x:auto;
+}
+.nav-btn {
+  font-family:'JetBrains Mono',monospace; font-size:0.72rem;
+  padding:0.7rem 1.1rem; color:rgba(255,255,255,0.45);
+  text-decoration:none; white-space:nowrap;
+  border-bottom:2px solid transparent;
+  transition:all 0.15s;
+}
+.nav-btn:hover { color:var(--wit); border-bottom-color:rgba(255,255,255,0.2); }
+.nav-btn.actief { color:var(--oranje); border-bottom-color:var(--oranje); }
 
 .hero {
   background:var(--donker); color:var(--wit);
@@ -167,6 +185,15 @@ footer a { color:var(--blauw); text-decoration:none; }
   </div>
 </header>
 
+<nav class="nav-bar">
+  <div class="nav-inner">
+    <a class="nav-btn" href="index.html">Alle wetten</a>
+    <a class="nav-btn actief" href="bevoegdheden.html">Bevoegdhedencheck</a>
+    <a class="nav-btn" href="https://github.com/Apolloccrypt/wetgeving-nl/tree/main/proposals" target="_blank">Wetsvoorstellen</a>
+    <a class="nav-btn" href="https://github.com/Apolloccrypt/wetgeving-nl/discussions" target="_blank">Discussie</a>
+    <a class="nav-btn" href="https://github.com/Apolloccrypt/wetgeving-nl" target="_blank">GitHub</a>
+  </div>
+</nav>
 <div class="hero">
   <h1>Bevoegdheden<span>check</span></h1>
   <p>// zoek wie waartoe bevoegd is — delegatie — mandaat — attributie</p>
