@@ -13,7 +13,6 @@
 }
 * { margin:0; padding:0; box-sizing:border-box; }
 body { font-family:'Syne',sans-serif; background:var(--grijs); color:var(--tekst); min-height:100vh; }
-
 header { background:var(--donker); color:var(--wit); padding:1.5rem 2rem; position:relative; }
 header::before { content:''; position:absolute; top:0; left:0; right:0; height:10px;
   background:linear-gradient(180deg,var(--rood) 33%,var(--wit) 33%,var(--wit) 66%,var(--blauw) 66%); }
@@ -22,7 +21,6 @@ header::after { content:''; position:absolute; bottom:0; left:0; right:0; height
 .header-inner { max-width:1200px; margin:0 auto; display:flex; justify-content:space-between; align-items:center; }
 .logo { font-size:1.4rem; font-weight:800; text-decoration:none; color:var(--wit); }
 .logo span { color:var(--oranje); }
-
 .nav-bar { background:var(--donker); border-top:1px solid rgba(255,255,255,0.06); padding:0 2rem; }
 .nav-inner { max-width:1200px; margin:0 auto; display:flex; gap:0; overflow-x:auto; }
 .nav-btn { font-family:'JetBrains Mono',monospace; font-size:0.72rem; padding:0.7rem 1.1rem;
@@ -30,11 +28,9 @@ header::after { content:''; position:absolute; bottom:0; left:0; right:0; height
   border-bottom:2px solid transparent; transition:all 0.15s; }
 .nav-btn:hover { color:var(--wit); }
 .nav-btn.actief { color:var(--oranje); border-bottom-color:var(--oranje); }
-
 footer { text-align:center; padding:1.5rem; font-family:'JetBrains Mono',monospace;
-  font-size:0.68rem; color:var(--zacht); border-top:1px solid var(--rand); background:var(--wit); margin-top:4rem; }
+  font-size:0.68rem; color:var(--zacht); border-top:1px solid var(--rand); background:var(--wit); margin-top:2rem; }
 footer a { color:var(--blauw); text-decoration:none; }
-
 
 
 
@@ -201,18 +197,13 @@ footer a { color:var(--blauw); text-decoration:none; }
 }
 
 /* ── Footer ── */
-footer {
-  padding:1.5rem 2rem; border-top:1px solid var(--rand);
-  text-align:center;
-  font-family:'JetBrains Mono',monospace; font-size:0.68rem; color:var(--zacht);
-}
-footer a { color:var(--blauw); text-decoration:none; }
+
 footer a:hover { text-decoration:underline; }
 
 /* ── Mobile ── */
 @media (max-width: 640px) {
-  header { padding:1.5rem 1rem 1.5rem; }
-  .logo { font-size:1.7rem; }
+  
+  
   .zoek-sectie {
     position:relative;
     padding:0.8rem 1rem;

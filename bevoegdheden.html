@@ -8,55 +8,34 @@
 <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
 :root {
-  --rood: #AE1C28;
-  --wit: #ffffff;
-  --blauw: #21468B;
-  --oranje: #FF6B00;
-  --donker: #0a0a0f;
-  --grijs: #f5f5f1;
-  --tekst: #1a1a2e;
-  --zacht: #6b7280;
-  --rand: #e8e8e3;
+  --rood:#AE1C28; --wit:#ffffff; --blauw:#21468B; --oranje:#FF6B00;
+  --donker:#0a0a0f; --grijs:#f5f5f1; --tekst:#1a1a2e; --zacht:#6b7280; --rand:#e8e8e3;
 }
 * { margin:0; padding:0; box-sizing:border-box; }
 body { font-family:'Syne',sans-serif; background:var(--grijs); color:var(--tekst); min-height:100vh; }
-
-header {
-  background:var(--donker); color:var(--wit);
-  padding:1.5rem 2rem;
-  position:relative;
-}
-header::before {
-  content:''; position:absolute; top:0; left:0; right:0; height:10px;
-  background:linear-gradient(180deg, var(--rood) 33%, var(--wit) 33%, var(--wit) 66%, var(--blauw) 66%);
-}
-header::after {
-  content:''; position:absolute; bottom:0; left:0; right:0; height:10px;
-  background:linear-gradient(180deg, var(--rood) 33%, var(--wit) 33%, var(--wit) 66%, var(--blauw) 66%);
-}
-.header-inner { max-width:900px; margin:0 auto; display:flex; justify-content:space-between; align-items:center; }
+header { background:var(--donker); color:var(--wit); padding:1.5rem 2rem; position:relative; }
+header::before { content:''; position:absolute; top:0; left:0; right:0; height:10px;
+  background:linear-gradient(180deg,var(--rood) 33%,var(--wit) 33%,var(--wit) 66%,var(--blauw) 66%); }
+header::after { content:''; position:absolute; bottom:0; left:0; right:0; height:10px;
+  background:linear-gradient(180deg,var(--rood) 33%,var(--wit) 33%,var(--wit) 66%,var(--blauw) 66%); }
+.header-inner { max-width:1200px; margin:0 auto; display:flex; justify-content:space-between; align-items:center; }
 .logo { font-size:1.4rem; font-weight:800; text-decoration:none; color:var(--wit); }
 .logo span { color:var(--oranje); }
+.nav-bar { background:var(--donker); border-top:1px solid rgba(255,255,255,0.06); padding:0 2rem; }
+.nav-inner { max-width:1200px; margin:0 auto; display:flex; gap:0; overflow-x:auto; }
+.nav-btn { font-family:'JetBrains Mono',monospace; font-size:0.72rem; padding:0.7rem 1.1rem;
+  color:rgba(255,255,255,0.45); text-decoration:none; white-space:nowrap;
+  border-bottom:2px solid transparent; transition:all 0.15s; }
+.nav-btn:hover { color:var(--wit); }
+.nav-btn.actief { color:var(--oranje); border-bottom-color:var(--oranje); }
+footer { text-align:center; padding:1.5rem; font-family:'JetBrains Mono',monospace;
+  font-size:0.68rem; color:var(--zacht); border-top:1px solid var(--rand); background:var(--wit); margin-top:2rem; }
+footer a { color:var(--blauw); text-decoration:none; }
+
+
+
 .terug { font-family:'JetBrains Mono',monospace; font-size:0.72rem; color:rgba(255,255,255,0.5); text-decoration:none; }
 .terug:hover { color:var(--wit); }
-.nav-bar {
-  background: var(--donker);
-  border-top: 1px solid rgba(255,255,255,0.06);
-  padding: 0 2rem;
-}
-.nav-inner {
-  max-width:900px; margin:0 auto;
-  display:flex; gap:0; overflow-x:auto;
-}
-.nav-btn {
-  font-family:'JetBrains Mono',monospace; font-size:0.72rem;
-  padding:0.7rem 1.1rem; color:rgba(255,255,255,0.45);
-  text-decoration:none; white-space:nowrap;
-  border-bottom:2px solid transparent;
-  transition:all 0.15s;
-}
-.nav-btn:hover { color:var(--wit); border-bottom-color:rgba(255,255,255,0.2); }
-.nav-btn.actief { color:var(--oranje); border-bottom-color:var(--oranje); }
 
 .hero {
   background:var(--donker); color:var(--wit);
@@ -121,10 +100,7 @@ header::after {
   transition:box-shadow 0.15s;
 }
 .wet-resultaat:hover { box-shadow:0 4px 16px rgba(0,0,0,0.08); }
-.wet-header {
-  padding:1rem 1.2rem; display:flex; justify-content:space-between;
-  align-items:flex-start; cursor:pointer; gap:1rem;
-}
+.wet-
 .wet-naam { font-size:0.9rem; font-weight:600; line-height:1.4; }
 .wet-badges { display:flex; gap:0.4rem; flex-shrink:0; flex-wrap:wrap; justify-content:flex-end; }
 .badge {
@@ -136,10 +112,7 @@ header::after {
 .badge-bevoegdheid { background:#dcfce7; color:#166534; border:1px solid #bbf7d0; }
 .badge-categorie { background:var(--grijs); color:var(--zacht); border:1px solid var(--rand); }
 
-.wet-body {
-  padding:0 1.2rem 1rem; display:none;
-  border-top:1px solid var(--rand);
-}
+.wet-
 .wet-body.open { display:block; }
 .wet-fragment {
   font-size:0.82rem; line-height:1.7; color:var(--tekst);
@@ -162,17 +135,10 @@ header::after {
 .laden { text-align:center; padding:3rem; font-family:'JetBrains Mono',monospace; font-size:0.82rem; color:var(--zacht); }
 .leeg { text-align:center; padding:3rem; font-family:'JetBrains Mono',monospace; font-size:0.82rem; color:var(--zacht); }
 
-footer {
-  text-align:center; padding:1.5rem;
-  font-family:'JetBrains Mono',monospace; font-size:0.68rem; color:var(--zacht);
-  border-top:1px solid var(--rand); background:var(--wit);
-}
-footer a { color:var(--blauw); text-decoration:none; }
-
 @media(max-width:640px) {
   .hero h1 { font-size:1.5rem; }
   .zoek-rij { flex-direction:column; }
-  .wet-header { flex-direction:column; }
+  .wet-
 }
 </style>
 </head>
@@ -181,16 +147,14 @@ footer a { color:var(--blauw); text-decoration:none; }
 <header>
   <div class="header-inner">
     <a class="logo" href="index.html">vrije<span>wetgeving.nl</span></a>
-    <a class="terug" href="index.html">← alle wetten</a>
   </div>
 </header>
-
 <nav class="nav-bar">
   <div class="nav-inner">
-    <a class="nav-btn " href="index.html">Alle wetten</a>
+    <a class="nav-btn" href="index.html">Alle wetten</a>
     <a class="nav-btn actief" href="bevoegdheden.html">Bevoegdhedencheck</a>
-    <a class="nav-btn " href="verwijzingen.html">Verwijzingen-graaf</a>
-    <a class="nav-btn " href="rechten.html">Mijn rechten</a>
+    <a class="nav-btn" href="verwijzingen.html">Verwijzingen-graaf</a>
+    <a class="nav-btn" href="rechten.html">Mijn rechten</a>
     <a class="nav-btn" href="https://github.com/Apolloccrypt/wetgeving-nl/tree/main/proposals" target="_blank">Wetsvoorstellen</a>
     <a class="nav-btn" href="https://github.com/Apolloccrypt/wetgeving-nl/discussions" target="_blank">Discussie</a>
     <a class="nav-btn" href="https://github.com/Apolloccrypt/wetgeving-nl" target="_blank">GitHub</a>

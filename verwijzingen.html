@@ -105,15 +105,36 @@ header::after { content:''; position:absolute; bottom:0; left:0; right:0; height
 .info-link.primair { background:var(--oranje); border-color:var(--oranje); color:var(--wit); }
 .info-link.primair:hover { background:#e05500; }
 
-.legenda {
-  position:absolute; left:1.5rem; bottom:1.5rem; z-index:100;
-  background:rgba(10,10,15,0.8); border:1px solid rgba(255,255,255,0.1);
-  border-radius:8px; padding:0.8rem; font-family:'JetBrains Mono',monospace; font-size:0.65rem;
-}
+
 .leg-item { display:flex; align-items:center; gap:0.5rem; margin-bottom:0.4rem; color:rgba(255,255,255,0.5); }
 .leg-item:last-child { margin-bottom:0; }
 .leg-dot { width:10px; height:10px; border-radius:50%; flex-shrink:0; }
 
+.gebruikswijzer {
+  position:absolute; left:1.5rem; bottom:1.5rem; z-index:100;
+  background:rgba(10,10,15,0.85); border:1px solid rgba(255,255,255,0.1);
+  border-radius:8px; padding:0.9rem 1rem; max-width:320px;
+  backdrop-filter:blur(8px);
+}
+.stap {
+  display:flex; gap:0.7rem; align-items:flex-start;
+  font-family:'JetBrains Mono',monospace; font-size:0.65rem;
+  color:rgba(255,255,255,0.45); margin-bottom:0.5rem; line-height:1.5;
+}
+.stap:last-child { margin-bottom:0; }
+.stap-nr {
+  min-width:18px; height:18px; border-radius:50%;
+  background:var(--oranje); color:var(--wit);
+  font-size:0.6rem; font-weight:700;
+  display:flex; align-items:center; justify-content:center; flex-shrink:0;
+  margin-top:1px;
+}
+.stap em { color:rgba(255,255,255,0.7); font-style:normal; }
+.legenda {
+  position:absolute; right:1.5rem; bottom:1.5rem; z-index:100;
+  background:rgba(10,10,15,0.8); border:1px solid rgba(255,255,255,0.1);
+  border-radius:8px; padding:0.8rem; font-family:'JetBrains Mono',monospace; font-size:0.65rem;
+}
 .hint {
   position:absolute; bottom:1.5rem; left:50%; transform:translateX(-50%);
   font-family:'JetBrains Mono',monospace; font-size:0.65rem;
@@ -168,7 +189,13 @@ header::after { content:''; position:absolute; bottom:0; left:0; right:0; height
   <svg id="graaf"></svg>
   <div class="tooltip" id="tooltip"></div>
   <div class="info-paneel" id="info"></div>
-  <div class="legenda">
+  <div class="gebruikswijzer">
+  <div class="stap"><span class="stap-nr">1</span><span>Zoek een wet in de balk bovenin — bijv. <em>huurrecht</em> of <em>strafrecht</em></span></div>
+  <div class="stap"><span class="stap-nr">2</span><span>De oranje knoop is jouw wet. Blauwe knoppen zijn wetten waarnaar verwezen wordt.</span></div>
+  <div class="stap"><span class="stap-nr">3</span><span>Klik op een knoop voor details. Klik <em>Centreer in graaf</em> om die wet centraal te zetten.</span></div>
+  <div class="stap"><span class="stap-nr">4</span><span>Verhoog de diepte (1→2→3) voor meer verbindingen. Sleep knoppen om de graaf te ordenen.</span></div>
+</div>
+<div class="legenda">
     <div class="leg-item"><div class="leg-dot" style="background:var(--oranje)"></div>Geselecteerde wet</div>
     <div class="leg-item"><div class="leg-dot" style="background:#60a5fa"></div>Direct verwezen</div>
     <div class="leg-item"><div class="leg-dot" style="background:#4ade80"></div>Indirect verwezen</div>
